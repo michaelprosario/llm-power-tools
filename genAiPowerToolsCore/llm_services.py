@@ -22,9 +22,9 @@ class ExecutePromptCommand:
         self.context = context
 
 class LLMResult(AppResult):
-    def __init__(self):
-        super().__init__(success=True)
-        self.content = ""        
+    def __init__(self, success=True, message=None, errors=[]):
+        super().__init__(success=success, message=message, errors=errors)
+        self.content = ""
 
 
 class ModelConfig:
@@ -97,7 +97,7 @@ class LLMService():
 
     def execute_prompt(self, command: ExecutePromptCommand) -> LLMResult:
         # ensure prompt is well defined
-        if not command.prompt or not isinstance(command.prompt, str):
+        if command.prompt == None or not command.prompt or not isinstance(command.prompt, str):
             return LLMResult(success=False, message="Invalid prompt.")
 
         # Call the LLM service provider to get a response
