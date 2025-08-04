@@ -68,7 +68,7 @@ class ModelConfig:
 
 class LLMServiceProvider(abc.ABC):
     @abc.abstractmethod
-    def execute_prompt(self, command: ExecutePromptCommand, model_config: ModelConfig) -> LLMResult:
+    def execute_prompt(self, command: ExecutePromptCommand) -> LLMResult:
         """Execute a prompt with the LLM and return the response."""
         pass    
     
