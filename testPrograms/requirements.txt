@@ -1,2 +1,4 @@
-semantic-kernel 
-semantic-kernel[ollama]
+semantic-kernel
+semantic-kernel[gemini]
+google-generativeai
+asyncio

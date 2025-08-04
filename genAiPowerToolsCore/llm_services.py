@@ -67,6 +67,14 @@ class ModelConfig:
                             if k not in self.__dict__}
 
 class LLMServiceProvider(abc.ABC):
+
+    def __init__(self, model_config: ModelConfig):
+        # ensure model_config is an instance of ModelConfig
+        if not isinstance(model_config, ModelConfig):
+            raise ValueError("model_config must be an instance of ModelConfig")
+
+        self.model_config = model_config
+
     @abc.abstractmethod
     def execute_prompt(self, command: ExecutePromptCommand) -> LLMResult:
         """Execute a prompt with the LLM and return the response."""
