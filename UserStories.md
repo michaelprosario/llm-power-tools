@@ -4,20 +4,6 @@
 
 **As a data analyst**, I want to classify text documents from stdin or files so that I can automatically categorize large volumes of unstructured content.
 
-```bash
-# Classify documents by topic
-cat documents/*.txt | llm classify --categories "tech,finance,health,sports"
-
-# Sentiment analysis on customer reviews
-llm classify --type sentiment --input reviews.csv --column "feedback" --output classified_reviews.csv
-```
-
-**As a content moderator**, I want to batch classify social media posts for content policy violations so that I can efficiently review flagged content.
-
-```bash
-# Moderate content with custom categories
-llm classify --config moderation.yml --input posts.jsonl --batch-size 100
-```
 
 ## Entity Recognition and Extraction
 
@@ -26,16 +12,6 @@ llm classify --config moderation.yml --input posts.jsonl --batch-size 100
 ```bash
 # Extract standard entities
 llm extract --entities "person,organization,location,date" --input contracts/*.pdf
-
-# Extract custom business entities
-llm extract --custom-entities "contract_value,liability_clause" --schema legal_schema.json --input *.docx
-```
-
-**As a compliance officer**, I want to extract specific regulatory information from financial reports so that I can track compliance metrics across documents.
-
-```bash
-# Extract with structured output
-llm extract --template compliance_template.json --input quarterly_reports/ --output compliance_data.csv
 ```
 
 ## Data Cleaning and Standardization
@@ -48,13 +24,6 @@ llm clean --fields "address,phone" --input customer_data.csv --rules standardiza
 
 # Fix inconsistent company names
 cat company_list.txt | llm clean --dedupe --similarity-threshold 0.8 --field "company_name"
-```
-
-**As a data engineer**, I want to normalize product descriptions from multiple sources so that I can create a unified product catalog.
-
-```bash
-# Normalize and merge product data
-llm normalize --schema product_schema.json --input suppliers/*.csv --merge-on "sku" --output unified_catalog.csv
 ```
 
 ## Document Analysis and Summarization
@@ -76,24 +45,6 @@ llm analyze --extract "conclusions,recommendations" --input reports/ --format ta
 llm analyze --template quarterly_metrics.json --input "Q*_report.pdf" --time-series --output metrics.csv
 ```
 
-## Survey and Feedback Analysis
-
-**As a product manager**, I want to analyze customer feedback themes so that I can prioritize feature development based on user needs.
-
-```bash
-# Analyze feedback themes
-llm analyze-feedback --input user_feedback.csv --column "comments" --themes --sentiment --output analysis_report.json
-
-# Generate theme clusters
-llm cluster --input reviews.csv --field "review_text" --num-clusters 5 --output theme_clusters.json
-```
-
-**As a UX researcher**, I want to process open-ended survey responses so that I can identify common user pain points and suggestions.
-
-```bash
-# Process survey responses
-llm survey-analysis --input survey_responses.csv --questions questions_config.json --export-insights insights.md
-```
 
 ## Relationship and Pattern Discovery
 
@@ -126,17 +77,6 @@ llm generate --template training_template.json --count 1000 --seed-data examples
 llm augment --input small_dataset.csv --multiplier 3 --preserve-distribution --output augmented_dataset.csv
 ```
 
-## Cross-Modal Data Integration
-
-**As a data scientist**, I want to generate textual descriptions of numerical data patterns so that I can create more interpretable reports.
-
-```bash
-# Generate data descriptions
-llm describe-data --input metrics.csv --charts charts/ --narrative --output data_story.md
-
-# Integrate multi-source data
-llm integrate --sources "db:users,api:events,file:logs.csv" --join-on "user_id" --describe --output integrated_report.json
-```
 
 ## Natural Language Querying
 
@@ -184,29 +124,3 @@ llm batch --input large_dataset.csv --operation classify --batch-size 1000 --par
 cat raw_data.jsonl | llm extract --entities "standard" | llm classify --categories "business_categories.txt" > processed_data.jsonl
 ```
 
-## Configuration and Customization
-
-**As a domain expert**, I want to configure the tool for my specific industry so that I can get more accurate results for specialized content.
-
-```bash
-# Initialize domain-specific configuration
-llm init --domain "healthcare" --create-config medical_config.yml
-
-# Use custom models and prompts
-llm classify --config custom_config.yml --model "domain-specific-model" --prompt-template industry_prompts.json
-```
-
-## Output Formatting and Integration
-
-**As a developer**, I want flexible output formats so that I can integrate the tool with existing data pipelines and visualization tools.
-
-```bash
-# Multiple output formats
-llm summarize --input reports/ --output summary --format "json,csv,md"
-
-# Stream processing
-cat continuous_feed.jsonl | llm process --streaming --output-format "jsonl" | kafka-producer --topic processed-text
-
-# Database integration
-llm extract --input documents/ --output-db "postgresql://user:pass@host/db" --table "extracted_entities"
-```

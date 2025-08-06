@@ -1,4 +1,0 @@
-semantic-kernel 
-google-generativeai
-semantic-kernel[gemini]
-asyncio

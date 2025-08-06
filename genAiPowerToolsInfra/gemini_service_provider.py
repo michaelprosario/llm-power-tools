@@ -5,7 +5,6 @@ from semantic_kernel.connectors.ai.google.google_ai import GoogleAIChatCompletio
 from semantic_kernel.connectors.ai.google.google_ai import GoogleAIChatPromptExecutionSettings
 from semantic_kernel.contents import ChatHistory
 
-
 class GeminiServiceProvider(LLMServiceProvider):
     def __init__(self, model_config: ModelConfig):
         super().__init__(model_config)

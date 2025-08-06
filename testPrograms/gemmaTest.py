@@ -5,7 +5,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # create gemini service provider
 from genAiPowerToolsCore.llm_services import ExecutePromptCommand, LLMResult, LLMServiceProvider, ModelConfig
-from genAiPowerToolsOllama.ollama_service_provider import OllamaServiceProvider
+from genAiPowerToolsInfra.ollama_service_provider import OllamaServiceProvider
 
 # create service provider
 model_config = ModelConfig("gemma3:4b")

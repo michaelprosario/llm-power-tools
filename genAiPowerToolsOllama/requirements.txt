@@ -1,3 +1,0 @@
-semantic-kernel 
-semantic-kernel[ollama]
-asyncio
