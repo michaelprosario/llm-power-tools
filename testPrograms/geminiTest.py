@@ -1,11 +1,15 @@
 # adjust path to include the parent directory
 import sys
 import os
+
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # create gemini service provider
 from genAiPowerToolsCore.llm_services import ExecutePromptCommand, LLMResult, LLMServiceProvider, ModelConfig
 from genAiPowerToolsGemini.gemini_service_provider import GeminiServiceProvider
+from genAiPowerToolsCore.prompts.get_summary_prompt import GetSummaryPrompt
+from genAiPowerToolsCore.prompts.get_content_tags_prompt import GetContentTagsPrompt
+
 
 # create gemini service provider
 model_config = ModelConfig(model_name="gemini-1.5-flash")
@@ -15,10 +19,34 @@ if not model_config.api_key:
 
 gemini_service_provider = GeminiServiceProvider(model_config)
 
-async def main():
-    command = ExecutePromptCommand(prompt="Write a poem about star trek", context={"theme": "science fiction"})
+async def summary_example():
+    # read data from data2.txt
+    text = ""
+    with open('data2.txt', 'r') as file:
+        text = file.read()
+
+    summary_prompt = GetSummaryPrompt(text).getText()
+
+    command = ExecutePromptCommand(prompt=summary_prompt, context={})
     result = await gemini_service_provider.execute_prompt(command)
     print(result.content)
+
+async def get_content_tags_example():
+    # read data from data2.txt
+    text = ""
+    with open('data2.txt', 'r') as file:
+        text = file.read()
+
+    content_tags_prompt = GetContentTagsPrompt(text).getText()
+
+    command = ExecutePromptCommand(prompt=content_tags_prompt, context={})
+    result = await gemini_service_provider.execute_prompt(command)
+    print(result.content)
+
+
+async def main():
+    await summary_example()
+    await get_content_tags_example()
 
 if __name__ == "__main__":
     import asyncio
