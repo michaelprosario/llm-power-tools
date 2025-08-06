@@ -5,5 +5,5 @@ class GetContentTagsPrompt(BasePrompt):
         self.text = text
 
     def getText(self) -> str:
-        return f"Get content tags for the text appropriate to linked-in.  Return as JSON array: {self.text}"
+        return f"Get hash tags for the text appropriate to social media.  Return as list: {self.text}"
     
