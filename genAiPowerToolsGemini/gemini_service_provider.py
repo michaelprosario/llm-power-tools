@@ -28,14 +28,12 @@ class GeminiServiceProvider(LLMServiceProvider):
 
         execution_settings = GoogleAIChatPromptExecutionSettings()
 
-        result = await self.chat_completion_service.get_chat_message_content(
+        chat_output = await self.chat_completion_service.get_chat_message_content(
             chat_history=chat_history,
             settings=execution_settings
         )
 
-        print(f"Assistant > {result.content}")
-
-        result = LLMResult()
-        result.content = result.content        
-        return result
+        response = LLMResult()
+        response.content = chat_output.content
+        return response
     
