@@ -1,0 +1,6 @@
+asyncio
+google-generativeai
+semantic-kernel 
+semantic-kernel[gemini]
+semantic-kernel[ollama]
+tiktoken
