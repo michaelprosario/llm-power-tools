@@ -18,7 +18,7 @@ from semantic_kernel import Kernel
 from semantic_kernel.connectors.ai.open_ai import OpenAIChatCompletion
 from semantic_kernel.functions import kernel_function
 from semantic_kernel.prompt_template import InputVariable, PromptTemplateConfig
-
+from semantic_kernel.functions import kernel_function
 
 # create gemini service provider
 model_config = ModelConfig(model_name="gemini-1.5-flash")
@@ -26,33 +26,32 @@ model_config.api_key = os.getenv('GEMINI_API_KEY')  # Ensure you set your API ke
 if not model_config.api_key:
     raise ValueError("GEMINI_API_KEY environment variable is not set.")
 
-def tokeSizeEstimator():
-    text = ""
-    with open('data2.txt', 'r') as file:
-        text = file.read()
 
-    estimator = TikTokenEstimator()
-    token_count = estimator.estimate_tokens(text)
-    print(f"Estimated token count: {token_count}")
+class WeatherPlugin:
+    def __init__(self):
+        pass
 
-@kernel_function()
-def get_temperature(location: str) -> str:
-    if location == "orlando":
-        return "100"
-    elif location == "miami":
-        return "110"
-    else:
-        return "Unknown"
+    @kernel_function(
+        name = "get_temperature",
+        description="Get current temperature for a place"
+    )
+    def get_temperature(self, city: str) -> str:
+        print(f">>>> Getting temperature for {city} ")
+        if "orlando" in city.lower():
+            return "Temperature is 100"
+        elif "miami" in city.lower():
+            return "Temperature is 90"
+        else:
+            return f"Temperature data for {city} is not available."
 
 async def main():
     gemini_service_provider = GeminiServiceProvider(model_config)
 
-    ## add plugin for tempature
-    gemini_service_provider.getKernel().add_function(
-        "get_temperature",
-        get_temperature, 
-        "get_temperature"
-        )
+    # Add plugin for temperature - fix the function registration
+    kernel = gemini_service_provider.getKernel()
+
+    weatherPlugin = WeatherPlugin()
+    kernel.add_plugin(weatherPlugin, "Weather")
 
     # read data from data2.txt
     while True:

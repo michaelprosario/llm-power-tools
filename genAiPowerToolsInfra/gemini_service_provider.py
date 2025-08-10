@@ -1,9 +1,11 @@
 
-from semantic_kernel import Kernel
 from genAiPowerToolsCore.llm_services import ExecutePromptCommand, LLMResult, LLMServiceProvider, ModelConfig
+from semantic_kernel import Kernel
+from semantic_kernel.connectors.ai.function_choice_behavior import FunctionChoiceBehavior
 from semantic_kernel.connectors.ai.google.google_ai import GoogleAIChatCompletion
 from semantic_kernel.connectors.ai.google.google_ai import GoogleAIChatPromptExecutionSettings
 from semantic_kernel.contents import ChatHistory
+from semantic_kernel.functions.kernel_arguments import KernelArguments
 
 class GeminiServiceProvider(LLMServiceProvider):
     def __init__(self, model_config: ModelConfig):
@@ -29,10 +31,14 @@ class GeminiServiceProvider(LLMServiceProvider):
         chat_history.add_user_message(command.prompt)
 
         execution_settings = GoogleAIChatPromptExecutionSettings()
+        execution_settings.function_choice_behavior = FunctionChoiceBehavior.Auto()
+
 
         chat_output = await self.chat_completion_service.get_chat_message_content(
             chat_history=chat_history,
-            settings=execution_settings
+            settings=execution_settings,
+            kernel=self.kernel,
+            arguments=KernelArguments()
         )
 
         response = LLMResult()
