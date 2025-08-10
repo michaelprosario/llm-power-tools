@@ -19,13 +19,17 @@ from semantic_kernel.connectors.ai.open_ai import OpenAIChatCompletion
 from semantic_kernel.functions import kernel_function
 from semantic_kernel.prompt_template import InputVariable, PromptTemplateConfig
 from semantic_kernel.functions import kernel_function
+from genAiPowerToolsInfra.exa_search_provider import ExaSearchProvider
+
+from dotenv import load_dotenv
+load_dotenv()
+
 
 # create gemini service provider
 model_config = ModelConfig(model_name="gemini-1.5-flash")
 model_config.api_key = os.getenv('GEMINI_API_KEY')  # Ensure you set your API key in the environment
 if not model_config.api_key:
     raise ValueError("GEMINI_API_KEY environment variable is not set.")
-
 
 class WeatherPlugin:
     def __init__(self):
@@ -44,6 +48,22 @@ class WeatherPlugin:
         else:
             return f"Temperature data for {city} is not available."
 
+
+
+
+class WebSearchPlugin:
+    def __init__(self):
+        self.service = ExaSearchProvider()
+
+    @kernel_function(
+        name = "web_search",
+        description="Search the web for a query"
+    )
+    def web_search(self, query: str) -> str:
+        print(f">>>> Searching the web for {query} ")
+        answerResult = self.service.answer(query=query)
+        return answerResult
+
 async def main():
     gemini_service_provider = GeminiServiceProvider(model_config)
 
@@ -52,6 +72,8 @@ async def main():
 
     weatherPlugin = WeatherPlugin()
     kernel.add_plugin(weatherPlugin, "Weather")
+    webSearchPlugin = WebSearchPlugin()
+    kernel.add_plugin(webSearchPlugin, "WebSearch")
 
     # read data from data2.txt
     while True:

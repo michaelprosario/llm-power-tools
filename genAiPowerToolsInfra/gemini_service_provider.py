@@ -28,7 +28,9 @@ class GeminiServiceProvider(LLMServiceProvider):
     async def execute_prompt(self, command: ExecutePromptCommand) -> LLMResult:
 
         chat_history = ChatHistory()
-        chat_history.add_user_message(command.prompt)
+
+        prompt = f"As a helpful agent, please answer questions with high correctness.  If you know not know the answer, please use tools like web search to answer.  If you still do not know, answer I do not know. {command.prompt}"
+        chat_history.add_user_message(prompt)
 
         execution_settings = GoogleAIChatPromptExecutionSettings()
         execution_settings.function_choice_behavior = FunctionChoiceBehavior.Auto()

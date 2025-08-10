@@ -17,4 +17,8 @@ class ExaSearchProvider:
         result = exa.search_and_contents(query)
         return result
 
+    def answer(self, query):
+        exa = Exa(os.getenv('EXA_API_KEY'))
+        result = exa.answer(query)
+        return result
  

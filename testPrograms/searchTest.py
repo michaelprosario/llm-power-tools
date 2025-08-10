@@ -1,14 +1,13 @@
 # adjust path to include the parent directory
 import sys
 import os
-from dotenv import load_dotenv
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from genAiPowerToolsInfra.exa_search_provider import ExaSearchProvider
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-
+from dotenv import load_dotenv
 load_dotenv()
 
 
