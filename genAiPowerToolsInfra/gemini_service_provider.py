@@ -20,6 +20,9 @@ class GeminiServiceProvider(LLMServiceProvider):
 
         self.kernel.add_service(self.chat_completion_service)
 
+    def getKernel(self):
+        return self.kernel
+
     async def execute_prompt(self, command: ExecutePromptCommand) -> LLMResult:
 
         chat_history = ChatHistory()
