@@ -9,17 +9,12 @@ class ExaSearchProvider:
 
     def search(self, query):
         exa = Exa(os.getenv('EXA_API_KEY'))
-        result = exa.search_and_contents(
-        query,
-        type="auto",
-        text=True,
-        
-        )
-
-        
-
-        print(result)
+        result = exa.search(query)
         return result
 
+    def search_and_content(self, query):
+        exa = Exa(os.getenv('EXA_API_KEY'))
+        result = exa.search_and_contents(query)
+        return result
 
  

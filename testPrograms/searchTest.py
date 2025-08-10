@@ -14,8 +14,24 @@ load_dotenv()
 
 service = ExaSearchProvider()
 
-## search for blogs related to practical open source applications
-query = "blog posts related to open source 3d model creation tools"
-results = service.search(query=query)
-print(results)
+### basic search demo
+# print("START basic search")
+
+# query = "blog posts related to open source 3d model creation tools"
+# searchResults = service.search(query=query)
+
+# for result in searchResults.results:
+#     print(result)
+
+# print("END basic search demo")
+
+### search and content
+print("START search and content")
+
+query = "Making a tool/plugin for semantic kernel"
+searchResults = service.search_and_content(query=query)
+
+for result in searchResults.results:
+    print(result)
+print("END search and content demo")
 
