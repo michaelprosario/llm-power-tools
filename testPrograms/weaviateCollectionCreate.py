@@ -1,15 +1,25 @@
 ## Tutorial can be found at https://docs.weaviate.io/weaviate/quickstart/local
 
+import sys
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 import weaviate
+from weaviate.classes.init import Auth
 from weaviate.classes.config import Configure
 import requests, json
 
 # Connect to Weaviate running on Windows host from WSL
 # Use host.docker.internal or the actual Windows IP address
-client = weaviate.connect_to_local(
-    host="localhost",  # Use "localhost" if running on the same machine
-    port=8080,
-    grpc_port=50051,
+# Best practice: store your credentials in environment variables
+weaviate_url = os.environ["WEAVIATE_URL"]
+weaviate_api_key = os.environ["WEAVIATE_API_KEY"]
+
+# Connect to Weaviate Cloud
+client = weaviate.connect_to_weaviate_cloud(
+    cluster_url=weaviate_url,
+    auth_credentials=Auth.api_key(weaviate_api_key),
 )
 
 questions = client.collections.create(

@@ -1,10 +1,20 @@
+import sys
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+from httpx import Auth
 import weaviate
+from weaviate.classes.init import Auth
 import requests, json
 
-client = weaviate.connect_to_local(
-    host="localhost",
-    port=8080,
-    grpc_port=50051,
+weaviate_url = os.environ["WEAVIATE_URL"]
+weaviate_api_key = os.environ["WEAVIATE_API_KEY"]
+
+# Connect to Weaviate Cloud
+client = weaviate.connect_to_weaviate_cloud(
+    cluster_url=weaviate_url,
+    auth_credentials=Auth.api_key(weaviate_api_key),
 )
 
 
