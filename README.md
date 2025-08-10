@@ -1,7 +1,8 @@
 ## todo
-- how do you measure the number of tokens from a string?
-- how do we not overload gemma?
-- create demo of entity extraction?
+- create weaviate stack that does not use ollama
+- create ingestion program
+- create program to grab posts from blog
+
 
 ## What is the context window size for Gemma?
 

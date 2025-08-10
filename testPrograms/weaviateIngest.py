@@ -2,7 +2,7 @@ import weaviate
 import requests, json
 
 client = weaviate.connect_to_local(
-    host="172.30.176.1",
+    host="localhost",
     port=8080,
     grpc_port=50051,
 )

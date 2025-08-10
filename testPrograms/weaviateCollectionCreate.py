@@ -7,7 +7,7 @@ import requests, json
 # Connect to Weaviate running on Windows host from WSL
 # Use host.docker.internal or the actual Windows IP address
 client = weaviate.connect_to_local(
-    host="172.30.176.1",
+    host="localhost",  # Use "localhost" if running on the same machine
     port=8080,
     grpc_port=50051,
 )
