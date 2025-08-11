@@ -1,0 +1,8 @@
+{
+    "Id": "1F-BB-94-51-B2-DE-83-C6-0B-34-94-7C-14-F5-DE-0E-1F-CB-80-D4-2D-8B-4C-67-51-4D-8E-1D-6B-D8-C0-78",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Can networking be simple? with Tailscale's Avery Pennarun",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Double NAT? Triple NAT? Opening Ports, punching holes in firewalls, it's all so complex, right? Does it have to be? Scott talks to Tailscale's Avery Pennarun and asks \"can networking be simple?\" Avery and his team believes it can with a new take on networking. Personal mesh-style VPNs with tech like WireGuard over a faster, leaner, cleaner, and simpler way to share your network with your team.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/d6632ef6-3198-4ddf-9acb-484c24324b54/audio/4a51e8ed-6999-41b0-8bb8-a81b32f3a790/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

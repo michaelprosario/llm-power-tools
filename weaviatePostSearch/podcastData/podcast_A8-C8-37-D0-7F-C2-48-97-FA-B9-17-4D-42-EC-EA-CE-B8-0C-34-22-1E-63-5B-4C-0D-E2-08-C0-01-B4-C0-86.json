@@ -1,0 +1,8 @@
+{
+    "Id": "A8-C8-37-D0-7F-C2-48-97-FA-B9-17-4D-42-EC-EA-CE-B8-0C-34-22-1E-63-5B-4C-0D-E2-08-C0-01-B4-C0-86",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Solving Identity using Azure Active Directory with Joey Snow",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you get identity into the cloud? Richard talks to Joey Snow about his role helping folks with Azure Active Directory. Azure AD is more than just extending your on-premises Active Directory into the cloud, it provides single-sign-on to a variety of SaaS applications, and not just Microsoft ones either! Joey talks about the different techniques available to get and protect identities with the cloud, including multi-factor authentication, Azure Identity Protection and more. There are lots of options to choose from, but there is an identity solution that will work for you - check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/bbe8ad77-1d3a-4509-8e39-87b4c74373d8/audio/d17f3dc4-d8cf-4b5e-805c-93658fd371b2/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

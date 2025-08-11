@@ -1,0 +1,8 @@
+{
+    "Id": "F1-A7-95-1A-5F-86-62-68-63-0C-CF-29-66-75-EB-8F-AD-99-11-DC-B7-8B-DE-E3-FB-83-6D-58-C9-10-90-7E",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Testing PowerShell using PowerShell with Adam Bertram",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you build sustainable PowerShell? By testing it! Richard talks to Adam Bertram about his work with Pester, the testing library for PowerShell. Adam talks about building mature PowerShell scripts, that is, scripts you're willing to share with others. As those scripts become important parts of your application deployment process, they end up in source control and need to be tested before being run. That's where Pester comes in. And Pester does more than just test your scripts, it can test your infrastructure as well!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ca7e8f01-e093-448b-ae9d-276e2ae5c368/audio/b2bb4c13-10df-4a9b-9de7-28b8292d6f40/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

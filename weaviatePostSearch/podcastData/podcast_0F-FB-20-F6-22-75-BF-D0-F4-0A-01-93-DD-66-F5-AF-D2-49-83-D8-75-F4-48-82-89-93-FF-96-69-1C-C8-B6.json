@@ -1,0 +1,8 @@
+{
+    "Id": "0F-FB-20-F6-22-75-BF-D0-F4-0A-01-93-DD-66-F5-AF-D2-49-83-D8-75-F4-48-82-89-93-FF-96-69-1C-C8-B6",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "Building an API is half the battle",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p>If you prefer, you can <a href=\"https://stackoverflow.blog/2023/03/13/building-an-api-is-half-the-battle-qa-with-marco-palladino-from-kong/\">read this as a Q&A article</a> or <a href=\"https://www.youtube.com/watch?v=156r6AkpKbs&ab_channel=StackOverflow\">watch the video</a>.</p><p><a href=\"https://konghq.com/\">Kong</a> is a cloud-native API platform. The first iteration of an API marketplace Marco and his colleagues built was <a href=\"https://www.globenewswire.com/news-release/2017/10/16/1230930/0/en/Mashape-Rebrands-as-Kong-Inc-Declares-Monolithic-Application-Dead.html\">Mashape</a>.</p><p>Developments like <a href=\"https://graphql.org/\">GraphQL</a> and <a href=\"https://grpc.io/\">gRPC</a> have become critical as the number of APIs increases over time.</p><p>Find Marco on <a href=\"https://www.linkedin.com/in/marcopalladino/\">LinkedIn</a> and <a href=\"https://twitter.com/subnetmarco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Twitter</a>.</p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/417e6440-b870-4edb-a851-d808c49b6f3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=417e6440-b870-4edb-a851-d808c49b6f3d&feed=XA_851k3"
+}

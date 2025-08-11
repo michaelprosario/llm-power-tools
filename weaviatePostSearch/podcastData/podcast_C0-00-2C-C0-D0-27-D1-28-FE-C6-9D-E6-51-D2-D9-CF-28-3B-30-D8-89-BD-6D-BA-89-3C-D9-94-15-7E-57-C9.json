@@ -1,0 +1,8 @@
+{
+    "Id": "C0-00-2C-C0-D0-27-D1-28-FE-C6-9D-E6-51-D2-D9-CF-28-3B-30-D8-89-BD-6D-BA-89-3C-D9-94-15-7E-57-C9",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Security Guidance and SysInternals Update with Aaron Margosis",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Are you using SysInternals? Richard chats with Aaron Margosis about the venerable SysInternals tools originally developed by Mark Russinovich. But first, a discussion about Aaron's main job at Microsoft, developing security baseline guidance for operating systems. Aaron talks about the recommended security configurations for operating systems and how you can check the workstations you're responsible for to put those configurations in place. SysInternals also has a role in security, understanding exactly what is running on workstations and more. Aaron talks about a session he did at Ignite on using SysInternal to be better at your job - check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/540c3e09-a99d-491d-b186-e3e146311fff/audio/05c01629-4025-4c71-b3a8-047df4f5c24f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

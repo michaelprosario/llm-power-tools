@@ -1,0 +1,8 @@
+{
+    "Id": "02-7B-05-B3-92-C8-99-A2-28-2C-39-91-6C-5B-51-BA-FA-E4-18-41-93-E9-C2-C4-CD-3F-F6-2B-57-BB-C9-9F",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Web Performance with Scott Forsyth",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Does web performance just mean moving to the cloud today? Richard talks with Scott Forsyth about a variety of web performance strategies. Scott explains that moving to the cloud isn't the panacea that some folks think it is - any more than scaling out a web site ever was. There's still hard work to be done along the way, and it helps to have the tools to actually understand what's going on with your site. At the lowest level, when you have a crashing server, you want DebugDiag. At a higher level, you better have SysInternals in your toolkit too - these are must have tools, and they're free. Gotta talk web for episode 404, and Scott delivers!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/fa31d9db-b70f-4636-bd4b-068301e686d2/audio/3963c811-10d3-4232-bb0d-09106d52eef2/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

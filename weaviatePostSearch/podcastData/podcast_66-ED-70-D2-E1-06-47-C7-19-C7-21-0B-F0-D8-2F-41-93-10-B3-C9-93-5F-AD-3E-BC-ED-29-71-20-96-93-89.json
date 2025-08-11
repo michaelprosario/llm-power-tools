@@ -1,0 +1,8 @@
+{
+    "Id": "66-ED-70-D2-E1-06-47-C7-19-C7-21-0B-F0-D8-2F-41-93-10-B3-C9-93-5F-AD-3E-BC-ED-29-71-20-96-93-89",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Chef, PowerShell and DSC with Steven Murawski",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Are you using Chef for your configuration management? Richard chats with Steven Murawski about the on-going open source project that is Chef. Steven talks about how the community leads and builds the project as much as the folks from Chef themselves do - and its free to use, but Chef offers pay services above and beyond the core product to make your life easier. The conversation also digs into the relationship between Chef, PowerShell and Desired State Configuration - they all work together to keep your servers on the straight-and-narrow of delivering reliable software services. Whether you're on-premise or in the cloud, this is configuration-as-code at it's best!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b6f7c45d-1ed1-4abd-be8e-dc579a88dbcc/audio/40a0558d-167c-49e3-bc47-2dbfeff9aa8f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

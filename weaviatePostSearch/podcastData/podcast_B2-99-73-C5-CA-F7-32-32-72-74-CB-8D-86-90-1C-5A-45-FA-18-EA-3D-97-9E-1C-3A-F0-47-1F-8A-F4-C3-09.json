@@ -1,0 +1,8 @@
+{
+    "Id": "B2-99-73-C5-CA-F7-32-32-72-74-CB-8D-86-90-1C-5A-45-FA-18-EA-3D-97-9E-1C-3A-F0-47-1F-8A-F4-C3-09",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 165: NoSQL and MongoDB with Dwight Merriman",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/QYFFMmYEnbo/",
+    "Description": "Dwight Merriman talks with Robert about the emerging NoSQL movement, the three types of non-relational data stores, Brewer's CAP theorem, the weaker consistency guarantees that can be made in a distributed database, document-oriented data stores, the data storage needs of modern web applications, and the open source MongoDB.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode165-noSqlMongoDb.mp3?dest-id=23379"
+}

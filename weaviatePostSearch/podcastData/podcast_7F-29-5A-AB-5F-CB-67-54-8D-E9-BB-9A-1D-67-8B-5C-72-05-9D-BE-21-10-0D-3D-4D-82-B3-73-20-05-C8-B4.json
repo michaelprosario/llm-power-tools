@@ -1,0 +1,8 @@
+{
+    "Id": "7F-29-5A-AB-5F-CB-67-54-8D-E9-BB-9A-1D-67-8B-5C-72-05-9D-BE-21-10-0D-3D-4D-82-B3-73-20-05-C8-B4",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "MLOps + DevOps + Kubernetes with Annie Talvasto",
+    "SourceUrl": "https://runasradio.com/Shows/Show/932",
+    "Description": "<p>Machine learning models need updating - what's the reliable way to do it? While in Romania, Richard sat down with Annie Talvasto to talk about her work helping to build DevOps practices around machine learning: Building repeatable processes for data ingestions, cleaning, organization, model building, and deployment. The challenges are the arrays of skilled people needed to operate and evaluate the pipeline - it takes domain experts to know if the machine learning results are accurate and valuable. Tooling can help, but it is only in the early days. If your organization is keen to get machine learning into the company, you need to do some careful planning!</p><p><strong>Links</strong></p><ul><li><a href=\"https://jupyter.org/\">Jupyter Notebook</a></li><li><a href=\"https://pypi.org/project/pandas/\">Pandas</a></li><li><a href=\"https://mlflow.org/\">MLFlow</a></li><li><a href=\"https://azure.microsoft.com/products/machine-learning\">Azure Machine Learning</a></li></ul><p>Recorded April 20, 2024</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9105fb26-3e8b-4d9a-9147-625f660aea8b/audio/d277c461-7758-4dd3-9506-af5000d9356b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

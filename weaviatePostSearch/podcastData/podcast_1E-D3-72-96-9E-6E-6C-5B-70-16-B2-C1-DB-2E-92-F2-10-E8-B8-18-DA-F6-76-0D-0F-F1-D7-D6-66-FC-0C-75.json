@@ -1,0 +1,8 @@
+{
+    "Id": "1E-D3-72-96-9E-6E-6C-5B-70-16-B2-C1-DB-2E-92-F2-10-E8-B8-18-DA-F6-76-0D-0F-F1-D7-D6-66-FC-0C-75",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 553: Luca Casonato on Deno",
+    "SourceUrl": "http://se-radio.net/se-radio-553-luca-casonato-on-deno",
+    "Description": "<p>Luca Casonato joins SE Radio's <a href= \"https://www.se-radio.net/team/jeremy-jung/\">Jeremy Jung</a> for a conversation about Deno and Deno Deploy. They start with a look at JavaScript runtimes and their relation to Google\u2019s open source JavaScript and WebAssembly engine V8, and why Deno was created. They discuss the WinterCG W3C group for server-side JavaScript, why it's difficult to ship new features in Node, and the benefits of web standards. From there they consider the benefits of creating an all-inclusive toolset like Rust and Go rather than relying on separate solutions, Deno's node compatibility layer, use cases for WebAssembly, benefits and implementation of Deno Deploy, reasons to deploy on the edge, and what's coming next.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/553-luca-casonato-deno.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "35-E3-64-EB-AE-FC-77-D4-26-CD-F3-0C-DD-A6-14-88-7E-40-30-7A-67-92-46-34-AD-4D-62-C5-44-7A-0D-7F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 252: Christopher Meiklejohn on CRDTs ",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-252-Christopher-Meiklejohn-on-CRDTs.mp3",
+    "Description": "<p>Robert Blumen talks to Christopher Meiklejohn about conflict-free replicated data types. The discussion covers consistency in distributed systems, CRDTs, and their use in NoSQL databases.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-252-Christopher-Meiklejohn-on-CRDTs.mp3"
+}

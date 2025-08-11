@@ -1,0 +1,8 @@
+{
+    "Id": "71-1D-12-89-2E-A5-13-6F-FD-4E-BA-07-5C-2F-56-B3-65-57-F7-58-C1-35-AC-4E-28-6D-BE-3C-D2-E5-C0-66",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Knockout Javascript with Steve Sanderson",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Steve Sanderson has created an interesting MVVM Javascript library for ASP.NET MVC. Yes, you read that right! MVVM on the client, MVC on the server, living together happily may make a more enjoyable development experience. All this plus HTML, data binding, jQuery, text boxes over data, ASP.NET and more.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/334c23b7-fae4-4e7a-bffd-1e106afb17e4/7fc0c78b_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

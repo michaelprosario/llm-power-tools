@@ -1,0 +1,8 @@
+{
+    "Id": "69-16-C0-8D-CB-5E-2B-B9-92-F0-68-D4-75-DA-8E-89-F8-D4-9B-D3-1F-35-6B-E8-04-9F-1B-F6-95-97-B8-B2",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio-Episode-266:-Charles-Nutter-on-the-JVM-as-a-Language-Platform",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-266-Charles-Nutter-on-the-JVM-as-a-Language-Platform.mp3",
+    "Description": "<p>Charles Nutter from the JRuby project talks to Charles Anderson about JRuby and the Java Virtual Machine (JVM) as a platform for implementing programming languages. They begin by discussing the Java platform beyond just the Java language. As a case study in implementing a language other than Java on the JVM, they discuss JRuby - what it is and how it\u2019s implemented on the JVM. They discuss recent additions to the Java platform like the invoke-dynamic byte code and lambdas in Java 8. The conversation concludes by discussing the future of the Java language, platform, and virtual machine.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-266-Charles-Nutter-on-the-JVM-as-a-Language-Platform.mp3"
+}

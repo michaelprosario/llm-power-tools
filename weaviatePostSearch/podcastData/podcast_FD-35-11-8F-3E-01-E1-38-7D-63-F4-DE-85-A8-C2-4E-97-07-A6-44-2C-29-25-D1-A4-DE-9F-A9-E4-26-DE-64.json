@@ -1,0 +1,8 @@
+{
+    "Id": "FD-35-11-8F-3E-01-E1-38-7D-63-F4-DE-85-A8-C2-4E-97-07-A6-44-2C-29-25-D1-A4-DE-9F-A9-E4-26-DE-64",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Just Enough Admin and Windows Server 2016 with Jeffrey Snover",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How much administration do you need? Richard chats with Tech Fellow and Father-of-PowerShell Jeffrey Snover about Just Enough Administration (JEA). The goal of JEA is to get administrators to stop living in admin accounts, to operate day-to-day with regular domain accounts and only escalate up to admin for a specific task, typically written in PowerShell. Jeffrey talks about creating a &quot;break glass in emergency&quot; account that is the superadmin, only to be used when there's no other way to do something. This account should be heavily logged and scrutinized, so that root cause analysis can extract the needs for the event and create more automation and security granularity around it. JEA works on Server 2008R2 and above, and will be built into Server 2016!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/4991c480-4f2d-4025-9777-5be6ca4bb85c/audio/17e8234b-7ed5-4c76-bfd1-4f15507860e7/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "DD-E7-D7-C9-0E-DE-3C-65-94-98-2B-1E-87-95-4B-6B-CC-CB-6A-99-1B-10-46-BB-86-EF-E0-5C-EE-16-EE-F1",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 610: Phillip Carter on Observability for Large Language Models",
+    "SourceUrl": "http://se-radio.net/se-radio-610-phillip-carter-on-observability-for-large-language-models",
+    "Description": "<p>Phillip Carter, Principal Product Manager at Honeycomb and open source software developer, talks with host <a href=\"../../../team/giovanni-asproni/\">Giovanni Asproni</a> about observability for large language models (LLMs). The episode explores similarities and differences for observability with LLMs versus more conventional systems. Key topics include: how observability helps in testing parts of LLMs that aren't amenable to automated unit or integration testing; using observability to develop and refine the functionality provided by the LLM (observability-driven development); using observability to debug LLMs; and the importance of incremental development and delivery for LLMs and how observability facilitates both. Phillip also offers suggestions on how to get started with implementing observability for LLMs, as well as an overview of some of the technology's current limitations. <a href= \"https://workos.com/?utm_source=seradio&utm_medium=podcast&utm_campaign=q12024\" target=\"_blank\" rel=\"noopener\">This episode is sponsored by WorkOS</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/610-phillip_carter_observability_for_large_language_models.mp3?dest-id=23379"
+}

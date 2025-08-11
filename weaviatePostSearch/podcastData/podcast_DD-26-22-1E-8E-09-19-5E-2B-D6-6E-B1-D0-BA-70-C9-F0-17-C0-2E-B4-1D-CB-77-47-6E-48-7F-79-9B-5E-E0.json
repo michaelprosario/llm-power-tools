@@ -1,0 +1,8 @@
+{
+    "Id": "DD-26-22-1E-8E-09-19-5E-2B-D6-6E-B1-D0-BA-70-C9-F0-17-C0-2E-B4-1D-CB-77-47-6E-48-7F-79-9B-5E-E0",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Data Risk Management using Purview with Joanne Klein",
+    "SourceUrl": "https://runasradio.com/Shows/Show/942",
+    "Description": "<p>How are you protecting your organization's data? Richard chats with Joanne Klein about her work with Microsoft Purview to help with data protection, management, and governance. Joanne talks about a spike in data protection concerns from Microsoft Copilot - if you have been securing data through obscurity, you're in for a nasty surprise! Copilot has a knack for finding every nook and cranny of data. Proper data protection also means effective archiving - getting rid of out-of-date or irrelevant data. And then there are the security concerns around data retention - how do you need to keep, and for how long? Microsoft Purview can help with all these problems, but you must work with leadership to get things right!</p><p><strong>Links</strong></p><ul><li><a href=\"https://azure.microsoft.com/products/purview\">Microsoft Purview</a></li><li><a href=\"https://learn.microsoft.com/purview/dlp-adaptive-protection-learn?WT.mc_id=DT-MVP-10953\">Adaptive Prevention in Purview</a></li></ul><p>Recorded June 10, 2024</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/27adb312-37e5-4a64-b2fa-26a1ee3c6297/audio/4f5a14be-ea2a-42b5-8d05-a2cf38bf452c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

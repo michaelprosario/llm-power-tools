@@ -1,0 +1,8 @@
+{
+    "Id": "E0-BE-A5-E9-2D-B0-ED-D3-9B-91-5C-38-9B-5E-F2-77-CD-EC-5B-1F-FF-29-5E-D8-82-08-5A-E5-25-B9-A9-66",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Software Defined Networking on VMWare with Scott Lowe",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Scott Lowe about VMWare's NSX product, which provides network virtualization to the vSphere world. NSX came from VMWare's acquisition of Nicira in July 2012 and their own development efforts to bring Software Defined Networking to life. Scott talks about being able to provision and configure networking the same way that you do with virtual machines, and what that means to networking, applications, security and performance. The conversation also looks to the future where applications and infrastructure are smart enough to move themselves together for speed, a part for reliability and know what hardware to use and how. Great thinking beyond the basics of virtualization!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7289b04a-c7ca-4291-857b-f52274abcd0a/audio/b2b8b3c5-a991-4fcc-a07c-5ee13e3b62ba/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

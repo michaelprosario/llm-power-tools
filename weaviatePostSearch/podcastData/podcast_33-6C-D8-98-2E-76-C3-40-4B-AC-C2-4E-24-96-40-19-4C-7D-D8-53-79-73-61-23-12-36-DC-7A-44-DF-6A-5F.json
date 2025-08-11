@@ -1,0 +1,8 @@
+{
+    "Id": "33-6C-D8-98-2E-76-C3-40-4B-AC-C2-4E-24-96-40-19-4C-7D-D8-53-79-73-61-23-12-36-DC-7A-44-DF-6A-5F",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "How Stack Overflow fends off scraping bots",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p>As Josh explains, <a href=\"https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/\">DDoS attacks</a> aim to take down a website, while <a href=\"https://www.cloudflare.com/learning/bots/what-is-content-scraping/\">bot scrapers</a> try to gather as much data as possible without getting caught.</p><p><a href=\"https://meta.stackexchange.com/users/784098/josh-zhang\">Josh Zhang</a> is a staff site reliability engineer (SRE) at Stack Overflow. Connect with him on <a href=\"https://www.linkedin.com/in/josh-zhang-sre/\">LinkedIn</a>.</p><p>ICYMI: In 2022, Josh wrote <a href=\"https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/\">an article for our blog</a> about how Stack defends itself against DDoS attacks.</p><p>Stack Overflow user <a href=\"https://stackoverflow.com/users/3545273/serge-ballesta\">Serge Ballesta</a> won a <a href=\"https://stackoverflow.com/help/badges/8842/lifeboat\">Lifeboat badge</a> for answering <a href=\"https://stackoverflow.com/questions/31905898/what-does-mean-in-c\">What does |= mean in c++</a>.</p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/f3ef1d96-eacc-407d-a6cc-387ab0ebfbde/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=f3ef1d96-eacc-407d-a6cc-387ab0ebfbde&feed=XA_851k3"
+}

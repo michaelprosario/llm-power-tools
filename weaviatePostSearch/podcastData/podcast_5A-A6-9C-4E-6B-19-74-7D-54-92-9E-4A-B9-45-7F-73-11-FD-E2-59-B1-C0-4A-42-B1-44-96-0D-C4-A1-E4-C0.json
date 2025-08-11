@@ -1,0 +1,8 @@
+{
+    "Id": "5A-A6-9C-4E-6B-19-74-7D-54-92-9E-4A-B9-45-7F-73-11-FD-E2-59-B1-C0-4A-42-B1-44-96-0D-C4-A1-E4-C0",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "SQL Server 2025 with Bob Ward",
+    "SourceUrl": "https://runasradio.com/Shows/Show/989",
+    "Description": "<p>Here comes SQL Server 2025! While at Build, Richard chatted with Bob Ward about releasing a preview version of SQL Server 2025. Bob discusses SQL Server 2025 as an AI-ready enterprise database with numerous capabilities specifically tailored to your organization's AI needs, including a new vector data type.  This includes making REST API calls to Azure OpenAI, Ollama, or OpenAI. This is also the version of SQL Server designed to integrate with Microsoft Fabric through mirroring. There are many more features, even a new icon!</p><p><strong>Links</strong></p><ul><li><a href=\"https://www.linkedin.com/pulse/announcing-sql-server-2025-public-preview-bob-ward-4rz2c/\">SQL Server 2025 Announcement</a></li><li><a href=\"https://learn.microsoft.com/sql/t-sql/data-types/json-data-type?WT.mc_id=DT-MVP-10953\">JSON Data Type</a></li><li><a href=\"https://ollama.com/\">Ollama</a></li></ul><p>Recorded May 20, 2025</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c28eb3c2-e3f2-4e5f-9c9b-9e4dfcc125d2/audio/ceb33a05-66c0-4bfe-9b53-9d10aff5285d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

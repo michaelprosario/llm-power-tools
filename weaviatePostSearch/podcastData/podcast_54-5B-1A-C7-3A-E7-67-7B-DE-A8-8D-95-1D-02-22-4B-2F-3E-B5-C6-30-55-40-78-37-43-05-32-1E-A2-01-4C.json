@@ -1,0 +1,8 @@
+{
+    "Id": "54-5B-1A-C7-3A-E7-67-7B-DE-A8-8D-95-1D-02-22-4B-2F-3E-B5-C6-30-55-40-78-37-43-05-32-1E-A2-01-4C",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Scaling in the Cloud with Corey Sanders",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Of course you can scale in the cloud - but exactly how? Richard chats with Corey Sanders who goes on a whirlwind tour of the many options in Azure to help your applications be reliable and scalable. First up is a discussion on Virtual Machines and Scale Sets - rather than making separate VMs for every instance of your application, you can build them in blocks up to a thousand! After discussing the kind of problems that need a thousand of anything, Corey dives into Service Fabric and Containers, getting more fine-grained and lighter weight so that you can scale faster. And it works with existing applications as well, opening the door to moving what you have today to the cloud!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/8cd046ee-916c-4f94-bf0f-a0795a5d7b4c/audio/998bae33-e984-4394-9c13-957c99ba8766/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

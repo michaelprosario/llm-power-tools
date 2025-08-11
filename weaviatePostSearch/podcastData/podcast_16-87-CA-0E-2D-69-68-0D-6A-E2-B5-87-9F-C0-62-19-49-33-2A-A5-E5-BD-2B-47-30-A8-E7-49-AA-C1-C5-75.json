@@ -1,0 +1,8 @@
+{
+    "Id": "16-87-CA-0E-2D-69-68-0D-6A-E2-B5-87-9F-C0-62-19-49-33-2A-A5-E5-BD-2B-47-30-A8-E7-49-AA-C1-C5-75",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Microsoft Azure Backup Services with Aidan Finn",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Can you use the cloud as backup? Richard chats with Aidan Finn about Microsoft Azure Backup and Site Recovery services. The conversation starts out talking about the challenges of earlier versions of Azure backup, which could really only handle files. If you wanted more comprehensive backup, you needed System Center Data Protection Manager, which was more complex (and expensive) than most SMB businesses wanted. But the latest incarnation of Azure Backup Services covers everything at a much more incremental price. And then there's Site Recovery, which can snap entire VMs from on-premise and keep them in the cloud - lots of options to protect your data and systems!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c3db6f7c-8d0f-48db-b2fd-a0d10c380465/audio/2fba97ab-2729-4d7f-9fa2-c7739e429202/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

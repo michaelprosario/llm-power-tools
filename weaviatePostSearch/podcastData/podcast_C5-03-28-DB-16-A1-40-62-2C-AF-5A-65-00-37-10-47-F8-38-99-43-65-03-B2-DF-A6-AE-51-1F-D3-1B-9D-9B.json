@@ -1,0 +1,8 @@
+{
+    "Id": "C5-03-28-DB-16-A1-40-62-2C-AF-5A-65-00-37-10-47-F8-38-99-43-65-03-B2-DF-A6-AE-51-1F-D3-1B-9D-9B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 316: Nicolai Parlog on Java 9",
+    "SourceUrl": "http://se-radio.net/se-radio-episode-316-nicolai-parlog-on-java-9",
+    "Description": "<p>Nate Black talks with Nicolai Parlog about Java 9. Topics include: a timeline of Java features; new patterns enabled by Java 8 lambdas, default interface implementations and how they enable code evolution; how Java 9 takes this further with private default methods; an introduction to Java modules: the Java Platform Module System (JPMS); \u201claunch time\u201d dependency validation; module \u201crequires\u201d and \u201cexports\u201d: documentation as code and a new topic for code reviews; how to migrate an existing codebase to Java 9 and modules; benefits of Java modules: reliable configuration and a smaller Java runtime; the new Java release schedule.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-316-Nicolai-Parlog-on-Java-9.mp3?dest-id=23379"
+}

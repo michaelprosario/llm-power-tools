@@ -1,0 +1,8 @@
+{
+    "Id": "F0-C8-C1-ED-FE-4A-26-B3-33-07-90-2F-2B-22-29-52-9B-DF-1A-E2-FF-4F-FD-98-83-D0-EA-5C-84-6D-0C-BE",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Bob Roudebush on Disaster Recovery for Virtualization!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Bob Roudebush talks to us about how disaster recovery works when Microsoft Virtual Server and/or VMWare is involved. We dig into the details around backing up within the guest VM and via the host.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9db51c60-40cf-4391-8ee9-0a52657770b4/audio/d7514a6d-124b-4cd8-b61b-8617ab4f1833/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

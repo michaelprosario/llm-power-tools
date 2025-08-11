@@ -1,0 +1,8 @@
+{
+    "Id": "E1-84-78-69-F5-25-93-D5-E5-0C-DB-78-51-F1-34-F4-72-FC-11-4F-DB-3E-BD-4E-1D-F3-66-5E-BB-D1-21-AE",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 204: Anil Madhavapeddy on the Mirage Cloud Operating System and the OCaml Language",
+    "SourceUrl": "http://www.se-radio.net/?p=1462",
+    "Description": "Robert talks to Dr. Anil Madhavapeddy of the Cambridge University (UK) Systems research group about the OCaml language and the Mirage cloud operating system, a microkernel written entirely in OCaml. The outline includes: history of the evolution from dedicated servers running a monolithic operating system to virutalized servers based on the Xen hypervisor to micro-kernels; [\u2026]",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio204-AnilMadhavapeddy.mp3?dest-id=23379"
+}

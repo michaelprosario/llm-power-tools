@@ -1,0 +1,8 @@
+{
+    "Id": "04-44-19-75-D2-FD-A6-27-8A-B6-38-44-5B-1D-4C-BF-A4-E1-FD-14-47-A0-BD-23-0B-66-C9-2A-27-62-8D-0B",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Writing Better PowerShell with Jeff Hicks",
+    "SourceUrl": "https://runasradio.com/Shows/Show/977",
+    "Description": "<p>How do you write better PowerShell? Richard talks to Jeff Hicks about his latest book, Behind the PowerShell Pipeline, and his efforts to promote writing PowerShell scripts that are easy to understand, use, and maintain! Jeff talks about how making a script work is not enough anymore - you can use GitHub Copilot. The goal is to make the output as usable as possible, whether that is consistent output that is pipe-able or using color coding and column controls to make the results as actionable as possible. This is especially true as your team grows and more than one person works on scripts. Now, you'll want testing and source control, too!</p><p><strong>Links</strong></p><ul><li><a href=\"https://learn.microsoft.com/powershell/scripting/whats-new/what-s-new-in-powershell-75?WT.mc_id=DT-MVP-10953\">PowerShell 7.5</a></li><li><a href=\"https://leanpub.com/behind-the-pspipeline\">Behind the PowerShell Pipeline</a></li><li><a href=\"https://github.com/features/copilot\">GitHub Copilot</a></li><li><a href=\"https://pester.dev/\">Pester</a></li><li><a href=\"https://www.powershellsummit.org/\">PowerShell Summit</a></li></ul><p>Recorded February 20, 2025</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/31ee1d5d-1561-4f0c-b19d-cbe64e323305/audio/a76ce3cb-ee04-46da-abb0-36d44a837659/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

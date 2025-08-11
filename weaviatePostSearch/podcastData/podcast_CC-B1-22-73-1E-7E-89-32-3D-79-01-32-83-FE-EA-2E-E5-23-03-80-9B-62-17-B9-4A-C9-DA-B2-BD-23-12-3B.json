@@ -1,0 +1,8 @@
+{
+    "Id": "CC-B1-22-73-1E-7E-89-32-3D-79-01-32-83-FE-EA-2E-E5-23-03-80-9B-62-17-B9-4A-C9-DA-B2-BD-23-12-3B",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "A database built for a firehose",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p>HarperDB is a startup that focuses on highly scalable databases that handle real-time data.\u00a0</p><p>Harper is built on Node.js and Express with a little help from <a href=\"https://www.fastify.io/\">Fastify</a>.\u00a0</p><p>They know where they excel and where they don't. High data throughput like \u00a0gaming and vision, great! High data resolution and transactional software like financial applications, not so great. It's speed over accuracy.\u00a0</p><p>Instead of a Lifeboat badge today, we shared a relevant question: <a href=\"https://stackoverflow.com/questions/68128646/how-to-create-harperdb-table-with-lambda?r=SearchResults&s=1|75.7602\">Q: How to create HarperDB table with lambda.</a></p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/335cf193-ebcc-46fc-941d-2c181d8fa6ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=335cf193-ebcc-46fc-941d-2c181d8fa6ba&feed=XA_851k3"
+}

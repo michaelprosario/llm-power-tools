@@ -1,0 +1,8 @@
+{
+    "Id": "78-58-44-C3-26-90-CE-E6-5C-C5-99-48-81-6C-47-DE-5A-BF-7F-BF-CB-2F-77-33-88-F8-1A-02-62-F1-A0-45",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 590: Andy Suderman on Standing Up Kubernetes",
+    "SourceUrl": "http://se-radio.net/se-radio-590-andy-suderman-on-standing-up-kubernetes",
+    "Description": "<p>Andy Suderman, CTO of Fairwinds, joins host <a href=\"../../../team/robert-blumen/\">Robert Blumen</a> to talk about standing up a kubernetes cluster. Their discussion covers build-your-own versus managed clusters provided by cloud services, and how to determine the number of kubernetes clusters an organization needs. Andy describes best practices for automating cluster provisioning, and offers recommendations about customizations and opinionation of cloud service providers, choice of container registry, and whether you should run complementary services such as CI and monitoring on the same cluster. The episode also examines the day 0/day 1/day 2 lifecycle, cluster auto-scaling at the cloud service level, integrating stateful services and other cloud services into your cluster, and kubernetes secrets and alternatives. Finally, they consider the container-network interface (CNI), ingress and load balancers, and provisioning external DNS and TLS certificates for cluster services.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/590_andy_suderman_standing_up_kubernetes.mp3?dest-id=23379"
+}

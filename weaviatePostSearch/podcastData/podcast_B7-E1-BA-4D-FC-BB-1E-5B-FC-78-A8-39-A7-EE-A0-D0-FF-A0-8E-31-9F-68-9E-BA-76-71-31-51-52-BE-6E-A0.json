@@ -1,0 +1,8 @@
+{
+    "Id": "B7-E1-BA-4D-FC-BB-1E-5B-FC-78-A8-39-A7-EE-A0-D0-FF-A0-8E-31-9F-68-9E-BA-76-71-31-51-52-BE-6E-A0",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 570: Stanis\u0142aw Barzowski on the jsonnet Language",
+    "SourceUrl": "http://se-radio.net/se-radio-570-stanisaw-barzowski-on-the-jsonnet-language",
+    "Description": "<p>Stanis\u0142aw Barzowski of XTX Markets and a committer on the jsonnet project joins SE Radio's <a href= \"https://www.se-radio.net/team/robert-blumen/\">Robert Blumen</a> for a conversation about the jsonnet programming language. A superset of JSON, jsonnet adds programming language capabilities, particularly to address the need to handle large but mostly repetitive JSON configurations. They discuss the project\u2019s history, use cases for Grafana and Kubernetes config, and interoperability with YAML. They examine jsonnet details, including the command line, constrained capabilities of the language, and objects and inheritance, and then consider the toolchain: compiler, formatter, and linter, as well as test frameworks and testing, package management, and the language\u2019s performance. Barzowski describes four implementations -- go, C++, Rust, and Scala -- as well as popular libraries and the standard library.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/570_stanislaw_barzowski_jsonnet_language.mp3?dest-id=23379"
+}

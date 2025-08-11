@@ -1,0 +1,8 @@
+{
+    "Id": "4D-18-13-17-67-57-EE-56-D8-3B-9A-03-56-0D-F7-A2-93-FB-98-C0-0D-BA-D3-BE-D7-A2-33-6F-36-D2-90-1C",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "VMWare and PowerShell with Chris Wahl",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>VMWare and PowerShell together? Of course! Regardless of the recent excitement around PowerShell going open source, third party companies have been supporting PowerShell for years, and VMWare is no exception. Chris tells his story of building out a set of PowerShell scripts for automating configuration of the company demo and operations VMWare environments. The conversation also digs into the logical line between automation and control, as well as better source management and testing for PowerShell scripts. Check out Chris' open source project called Vester that can help you manage your VMWare environment with PowerShell!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/5d0771e9-8c1c-4bf4-9882-5abd5b6ca251/audio/ec85662e-7a7b-4844-9071-9c8cfe239c70/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

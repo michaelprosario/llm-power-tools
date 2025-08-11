@@ -1,0 +1,8 @@
+{
+    "Id": "9A-42-68-F8-6A-E1-B1-9F-A7-D8-FC-7F-6D-6D-1A-F4-68-3C-1C-1F-E4-83-0F-06-B6-EE-48-7D-FF-72-76-FC",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Multifactor Authentication with Dana Epp",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Dana Epp about multi-factor authentication. The conversation starts out with some definition around multi-factor authentication - something you know and something you have. Most of the time, the thing you know is your user name and password. Dana digs into authenticating using the most common thing you have, the smartphone. Tools like Twilio can help you bring text messaging to your system. Beyond the phone, there are dedicated devices like YubiKey that provide a different thing you have. The battle of better identity has been going on for some time, Dana mentions Dick Hart's amazing identity keynote from Oscon  2005.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a9eab4a1-10dc-4a98-b87e-ccf06755392f/audio/3f132170-27ae-4706-9a8c-1a6bb4932321/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

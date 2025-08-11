@@ -1,0 +1,8 @@
+{
+    "Id": "52-3D-CC-BD-68-6B-65-80-D0-62-2B-FA-8F-58-B4-38-9F-FE-32-2D-4F-A1-11-28-79-D2-25-1A-A2-EF-3C-AA",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Key Vault Tooling with Andrew Cheung and Paul Yuknewicz",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Where do you keep your secrets? While at Build in Seattle, Richard chatted with Andrew Cheung and Paul Yuknewicz about the latest features for Azure Key Vault. The conversation dives into what should go into the Key Vault beyond the obvious TLS certificate private keys. Any username/password combinations for services accessed by other applications can live there - really, anything with secrets. And as Andrew says, containers have secrets too - they can live in Key Vault!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/082c62de-9c97-4882-9e44-e300d166c286/audio/f0e7b77d-104d-451b-babb-35be8715b23e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

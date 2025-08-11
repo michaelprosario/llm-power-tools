@@ -1,0 +1,8 @@
+{
+    "Id": "38-B4-37-39-4E-A1-47-7B-A9-DC-4D-AB-D0-48-A7-22-12-F9-CC-83-0F-B9-2E-BB-B4-FF-AD-18-71-36-0E-FC",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Jeff Woolsey Implements Hyper-V for SMBs!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>While at TechDays Toronto, Richard talks to Jeff Woolsey about virtualization in the SMB space. Jeff walks through a scenario where a branch office with three servers in different roles sets up Hyper-V, uses P2V migration to virtualize the existing roles into the hardware and then repurposes the hardware to create failover and redundancy. The conversation continues into the role of Cloud and even a sneak peek of how Server 8 will make Hyper-V even more important to the equation!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/020e71f0-09bf-4e3c-a66d-1468ad253c51/audio/936ff96c-c471-4b70-a772-6017014f760f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

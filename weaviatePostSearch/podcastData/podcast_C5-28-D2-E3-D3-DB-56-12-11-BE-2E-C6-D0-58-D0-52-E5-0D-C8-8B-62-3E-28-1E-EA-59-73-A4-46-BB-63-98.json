@@ -1,0 +1,8 @@
+{
+    "Id": "C5-28-D2-E3-D3-DB-56-12-11-BE-2E-C6-D0-58-D0-52-E5-0D-C8-8B-62-3E-28-1E-EA-59-73-A4-46-BB-63-98",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 516: Brian Okken on Testing in Python with pytest",
+    "SourceUrl": "http://se-radio.net/episode-516-brian-okken-on-testing-in-python-with-pytest",
+    "Description": "<p>In this episode, we explore the popular pytest python testing tool with author Brian Okken, author of <em>Python Testing with pytest</em>. We start by discussing why pytest is so popular in the Python community: its focus on simplicity, readability, and developer ease-of-use; what makes pytest unique; the setup and teardown of tests using fixtures, parameterization, and the plugin ecosystem; mocking; why we should design for testing, and how to reduce the need for mocking; how to set up a project for testability; test-driven development, and designing your tests so that they support refactoring. Finally, we consider some complementary tools that can improve the python testing experience.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/516-brian-okken-testing-python-with-pytest.mp3?dest-id=23379"
+}

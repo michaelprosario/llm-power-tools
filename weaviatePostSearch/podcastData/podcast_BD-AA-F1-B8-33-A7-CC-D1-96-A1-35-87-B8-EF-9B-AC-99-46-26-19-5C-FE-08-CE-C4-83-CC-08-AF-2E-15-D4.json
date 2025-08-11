@@ -1,0 +1,8 @@
+{
+    "Id": "BD-AA-F1-B8-33-A7-CC-D1-96-A1-35-87-B8-EF-9B-AC-99-46-26-19-5C-FE-08-CE-C4-83-CC-08-AF-2E-15-D4",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 589: Zac Hatfield-Dodds on Property-Based Testing in Python",
+    "SourceUrl": "http://se-radio.net/se-radio-589-zac-hatfield-dodds-on-property-based-testing-in-python",
+    "Description": "<p>Zac Hatfield-Dodds, the Assurance Team Lead at Anthropic, speaks with host <a href= \"https://www.se-radio.net/team/gregory-kapfhammer/\">Gregory M. Kapfhammer</a> about property-based testing techniques and how to use them in an open-source tool called Hypothesis. They discuss how to define properties for a Python function and implement a test case in Hypothesis. They also explore some of the advanced features in Hypothesis that can automatically generate a test case and perform fuzzing campaigns.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/589_Zac_Hatfield-Dodds_Property-Based_Testing_in_Python.mp3?dest-id=23379"
+}

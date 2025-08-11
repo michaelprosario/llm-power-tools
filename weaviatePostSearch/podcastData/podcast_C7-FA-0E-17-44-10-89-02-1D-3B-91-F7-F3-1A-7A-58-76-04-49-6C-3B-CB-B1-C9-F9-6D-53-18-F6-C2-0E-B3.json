@@ -1,0 +1,8 @@
+{
+    "Id": "C7-FA-0E-17-44-10-89-02-1D-3B-91-F7-F3-1A-7A-58-76-04-49-6C-3B-CB-B1-C9-F9-6D-53-18-F6-C2-0E-B3",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 643: Ganesh Datta on Production Readiness",
+    "SourceUrl": "http://se-radio.net/se-radio-643-ganesh-datta-on-production-readiness",
+    "Description": "<p>Ganesh Datta, co-founder of Cortex.io, joins host Robert Blumen for a conversation about production readiness. The conversation covers the history of production readiness; its relationship to microservice architecture; the Google SRE model's impact on production readiness; production readiness checklists; the process; and production readiness transparency.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/643-ganesh-datta-production-readiness.mp3?dest-id=23379"
+}

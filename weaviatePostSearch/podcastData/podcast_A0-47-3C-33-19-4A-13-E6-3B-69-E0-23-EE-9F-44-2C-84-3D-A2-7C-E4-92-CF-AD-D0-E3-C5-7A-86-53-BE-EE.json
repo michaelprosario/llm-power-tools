@@ -1,0 +1,8 @@
+{
+    "Id": "A0-47-3C-33-19-4A-13-E6-3B-69-E0-23-EE-9F-44-2C-84-3D-A2-7C-E4-92-CF-AD-D0-E3-C5-7A-86-53-BE-EE",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Service Fabric with Mikkel Mork Hegnhoj",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Service Fabric is not just for Azure! While at Connect in New York, Richard sat down with Mikkel Mork Hegnhoj to talk about what Service Fabric can do for your applications. Mikkel talks about the ability to host both Windows and Ubuntu VMs in Service Fabric, on Azure and on-premises. Think of Service Fabric as software to facilitate the architecture of cloud as much as the product - you can configure failover rules, scaling settings and more. And it will run on pretty much anything!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b0ae9eed-dbef-4ad1-9724-08a5b522fa26/audio/6655af18-c00f-4c4c-a3d9-a27a21d10d30/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

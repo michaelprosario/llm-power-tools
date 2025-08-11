@@ -1,0 +1,8 @@
+{
+    "Id": "5E-0F-DE-5E-1D-9D-91-29-74-03-44-A7-3C-EE-4D-9B-A4-B3-84-AA-43-7B-6E-C7-16-36-40-A7-5D-B3-39-20",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Performance as a Feature with Jeremy Boyd",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Raygun promises to give a window into how users are really experiencing your software applications with diagnostics and error logging and more. What's really interesting however, is how they scaled to billions of events. In moving to .NET Core from Node they increased throughput by 2000 percent. How do you build systems that scale to these heights while still dealing with Moore's Law? How do you load test a system this big? What does it mean to &quot;monitor what matters&quot;? Is .NET Core ready for production? All this plus perf as a feature on this episode.</p>\n<ul>\n<li>https://raygun.com/blog/dotnet-vs-nodejs/</li>\n<li>https://customers.microsoft.com/de-de/story/raygun</li>\n<li>https://raygun.com</li>\n</ul>\n<p>Disclaimer - In the past Raygun has sponsored episodes of this podcast. This episode is not sponsored by Raygun and and this guest is unrelated to previous sponsorships.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/f37c4531-8e1b-459f-b12f-01f401002f1d/64115a70_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

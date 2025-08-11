@@ -1,0 +1,8 @@
+{
+    "Id": "AE-C0-AB-CB-E1-49-81-C8-38-B1-E9-58-73-2F-FF-26-06-19-57-D2-5A-38-B2-2C-DB-7E-BC-C1-02-6B-F0-04",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "DevSecOps in 2022 with Jess Dodson",
+    "SourceUrl": "https://runasradio.com/Shows/Show/809",
+    "Description": "<p>2021 was a tough year for security - how can we do better in 2022? Richard chats with Jess Dodson about working to get better at information security in your organization. Jess talks about the log4j exploit as a great example of \"what don't we know\" - and the need for a software bill of materials as part of your configuration management database. Having a list of the libraries that internal applications depend on helps you respond in a time of crisis, being able to answer the question \"where are we vulnerable?\" This leads to a conversation about better DevSecOps - where development, security, and operations all take security seriously and help each other to help the organization succeed!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://powerapps.microsoft.com/\">Power Apps</a></li><li><a href=\"https://azure.microsoft.com/en-ca/services/microsoft-sentinel/\">Azure Sentinel</a></li><li><a href=\"https://en.wikipedia.org/wiki/Software_bill_of_materials\">Software Bill of Materials</a></li><li><a href=\"https://en.wikipedia.org/wiki/Configuration_management_database\">Configuration Management Database</a></li></ul><p>Recorded December 20, 2021</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/27fa41d9-6a7c-40ba-8cbc-3e8c95c41cc2/audio/186141c9-9b77-433a-8458-64acac29d2ce/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

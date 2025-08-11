@@ -1,0 +1,8 @@
+{
+    "Id": "6C-4F-06-7C-16-0F-0C-26-85-19-46-76-73-F7-00-21-56-2C-00-27-45-BF-88-FF-52-1E-BB-44-89-25-28-FF",
+    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
+    "Title": "Managing Cloud Security Risk Posture Through a Full Stack Approach",
+    "SourceUrl": "https://thenewstack.simplecast.com/episodes/managing-cloud-security-risk-posture-through-a-full-stack-approach-9k4lqkyg",
+    "Description": "<p>Kubernetes, containers, and cloud-native technologies\u00a0offer organizations the benefits of portability, flexibility and increased developer productivity but the security risks associated with adopting them continue to be a top concern for companies. In the recent <a href=\"https://www.redhat.com/en/engage/state-kubernetes-security-s-202106210910\">State of Kubernetes Security report</a>, 94% of respondents experienced at least one security incident in their Kubernetes environment in the last 12 months.\u00a0</p><p>In this episode of The New Stack Makers podcast, <a href=\"https://www.linkedin.com/in/avishua/\">Avi Shua</a>, CEO and Co-Founder of <a href=\"https://orca.security/\">Orca Security</a> talks about how organizations can enhance the security of their cloud environment by acting on the critical risks such as vulnerabilities, malware and misconfigurations\u00a0by taking a snapshot of Kubernetes clusters and analyzing them, without the need for an agent.\u00a0</p><p>\u00a0</p>\n",
+    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/a6731779-6cb6-4984-8f6e-4c45fdc78ebb/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=a6731779-6cb6-4984-8f6e-4c45fdc78ebb&feed=IgzWks06"
+}

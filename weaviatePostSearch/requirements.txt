@@ -1,0 +1,8 @@
+semantic-kernel
+semantic-kernel[gemini]
+google-generativeai
+asyncio
+weaviate-client>=3.26.7
+python-dotenv
+exa-py
+sentence_transformers

@@ -1,0 +1,8 @@
+{
+    "Id": "5D-AD-A4-C3-1F-8B-C3-12-ED-C2-11-FD-E7-1A-01-25-E9-22-C6-BF-65-A1-A8-87-0A-AE-5C-92-25-E8-2A-70",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Adam Machanic Does SQL in Parallel",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Adam Machanic about parallelism in SQL Server. Executing queries in parallel has been in SQL Server since version 7, but with the number of cores in servers rising dramatically, parallelism is more and more important. Adam digs into the details of how to make parallelism in SQL Server work effectively. Check out Adam's blog at http://sqlblog.com/blogs/adam_machanic/.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a697ae00-5c6e-45ef-a7ab-ae2312d646e8/audio/4eca7d3d-3634-40a9-beb8-f001594708b2/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

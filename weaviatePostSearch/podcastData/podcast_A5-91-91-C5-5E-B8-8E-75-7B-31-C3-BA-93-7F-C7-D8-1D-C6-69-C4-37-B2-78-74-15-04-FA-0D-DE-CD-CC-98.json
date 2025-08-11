@@ -1,0 +1,8 @@
+{
+    "Id": "A5-91-91-C5-5E-B8-8E-75-7B-31-C3-BA-93-7F-C7-D8-1D-C6-69-C4-37-B2-78-74-15-04-FA-0D-DE-CD-CC-98",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Bill Graziano Tunes Up Our SQL Server Queries!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard and Greg talk to Bill Graziano about performance tuning in SQL Server. Bill digs into using SQL Profiler to focus on where the problems lie. The discussion digs into the procedure cache and how you can optimize your queries for caching. He also talks about ClearTrace, a free tool he distributes to help understand trace data. Check it out at http://www.cleardata.biz.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ba7cfb6f-01ac-422f-9617-2ce23d5d5abc/audio/da2c173d-f943-47aa-b865-29c3fda33d33/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

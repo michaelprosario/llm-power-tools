@@ -1,0 +1,8 @@
+{
+    "Id": "45-71-0E-F8-21-51-80-6A-3A-A2-DF-AA-EE-35-A0-F1-25-1C-F3-DA-6A-A4-65-00-CB-59-F4-06-85-DD-CB-B1",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Windows Server 2016 Features Inspired by Azure with John Savill",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Windows Server 2016 is coming soon - but is it all about on-premise, or all about the cloud? Richard talks to John Savill about his favorite features of Server 2016, which is, as he says, &quot;inspired by Azure.&quot; Of course, folks are excited about the new containers service that has been in Linux for years, now in Windows in a couple of flavors, based on security level. This also means there's a need for nested virtualization, although typically only one level deep. The idea of limited administrator privilege factors largely with shielded VMs and Just Enough Administration. Bring more cloud thinking to your on-premise infrastructure!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/64e80de5-93fe-4db0-9537-a620b9b9e793/audio/18006daa-6cb4-4fc0-a58e-9804ed5b3116/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

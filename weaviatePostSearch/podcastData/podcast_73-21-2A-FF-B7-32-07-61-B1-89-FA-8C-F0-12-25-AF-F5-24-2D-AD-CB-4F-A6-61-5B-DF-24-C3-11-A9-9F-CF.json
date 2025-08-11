@@ -1,0 +1,8 @@
+{
+    "Id": "73-21-2A-FF-B7-32-07-61-B1-89-FA-8C-F0-12-25-AF-F5-24-2D-AD-CB-4F-A6-61-5B-DF-24-C3-11-A9-9F-CF",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Hyper-V in Server 2016 with Aidan Finn",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>A whole other area of Windows Server 2016 to dive into - Hyper-V! Richard chats with Aidan Finn about the coming features for Hyper-V in Server 2016, starting with the ability to host older VM version in 2016: You're no longer forced to upgrade immediately! But you'll want to upgrade, because there are some awesome new features, including being able to map GPUs into specific VMs. Aidan also talks about rolling cluster upgrades, where you're able to take your 2012R2 clusters and upgrade them instance-by-instance to 2016, and only after they're all done, upgrade to new functionality. The feature list continues with the role of Nano Server and new security features - have a listen!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/4a97b956-ca74-41db-a004-ac2b0f5cc536/audio/9561f7d5-2a78-491b-8f9c-057123d714f9/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "FF-4E-0C-11-19-83-F6-03-BB-7E-9E-18-08-74-C6-D8-4D-00-FA-E4-B1-81-BA-B4-64-B5-56-4A-10-1F-6E-3A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 144: The Maxine Research Virtual Machine with Doug Simon",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/dpEQLMAsEXM/",
+    "Description": "In this episode we talk with Doug Simon from Sun Microsystems Laboratories about the Maxine Research VM, a so-called meta-circular virtual machine. Maxine is a JVM that is written itself in Java, but aims at taking JVM development to the next level while using highly integrated Java IDEs as development environments and running and debugging the VM itself directly from the Inspector, an IDE-like tool specialized for the Maxine VM. During the episode we talk about the basic ideas behind Maxine, what exactly \"meta-circular\" means and what makes it interesting and promising to build a Java VM in Java. We talk about the relationship to Sun's current production JVM (HotSpot) and about ideas and directions for the future of Maxine.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode144-theMaxineResearchVirtualMachine.mp3?dest-id=23379"
+}

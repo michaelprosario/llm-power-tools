@@ -1,0 +1,8 @@
+{
+    "Id": "1C-13-C7-1C-54-8A-E3-6D-52-C1-FB-6C-F8-5A-8E-4A-04-AC-98-0B-73-5F-E9-46-A3-BF-3F-18-89-B8-41-F5",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 109: eBay\u2019s Architecture Principles with Randy Shoup",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/VXCB01ZYLCU/",
+    "Description": "In this episode we discuss with Randy Shoup, Distinguished Architect at eBay, about architectural pinciples and patterns used for building the highly scalable eBay infrastructure. The discussion is structured into four main ideas: partition everything, use asynchrony everywhere, automate everything, and design the system keeping in mind that everything fails at some point in a large distributed system.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode109-randyShoupOnEbayArchitecturePrinciples.mp3?dest-id=23379"
+}

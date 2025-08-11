@@ -1,0 +1,8 @@
+{
+    "Id": "83-C0-7B-1A-DD-C0-F6-62-1C-A4-63-73-D7-F4-99-0B-93-25-B5-AA-BD-17-DA-AD-7D-1A-4B-B4-6A-E1-39-5E",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Exchange 2019 with Gareth Gudger",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What's happening with Exchange 2019? Richard chats with Gareth Gudger about the announcements around Exchange 2019 back at Ignite, and what has happened since. A number of interesting performance improvements including the MetaCache Database and Dynamic Database Cache let you take advantage of high-speed storage like SSDs without committing to moving your entire Exchange storage over. New security features also factor strongly. More challenging is the removal of unified messaging and the shortened support cycle for Exchange 2019. This leads to some speculation from Gareth about Microsoft's plans for the future of Exchange!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a8619d83-9627-4e78-a4eb-c92401a3c165/audio/85678bb3-2483-44af-80e5-757dda76832f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

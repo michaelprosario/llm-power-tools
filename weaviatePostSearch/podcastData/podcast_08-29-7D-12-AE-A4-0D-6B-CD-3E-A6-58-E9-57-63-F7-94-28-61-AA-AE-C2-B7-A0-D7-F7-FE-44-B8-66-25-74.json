@@ -1,0 +1,8 @@
+{
+    "Id": "08-29-7D-12-AE-A4-0D-6B-CD-3E-A6-58-E9-57-63-F7-94-28-61-AA-AE-C2-B7-A0-D7-F7-FE-44-B8-66-25-74",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Cloud Security Thoughts with Corey Quinn",
+    "SourceUrl": "https://runasradio.com/Shows/Show/802",
+    "Description": "<p>Is the cloud secure? Richard chats with Screaming in the Cloud's Corey Quinn about the latest spate of security issues in AWS and Azure - and the responses to those issues. Corey talks about the risks the cloud providers are creating, not being clear when an exploit is found, to let people know how much visibility they have into the problem. Mitigating an exploit is not enough - you have to be able to answer the question about whether or not the cloud is secure. The alternatives are worse!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://msrc-blog.microsoft.com/2021/08/27/update-on-vulnerability-in-the-azure-cosmos-db-jupyter-notebook-feature/\">CosmosDB Exploit</a></li><li><a href=\"https://www.auscert.org.au/blog/2018-07-23-insecure-aws-s3-buckets-ongoing-target\">Insecure AWS Buckets</a></li><li><a href=\"https://www.theregister.com/2021/09/09/azure_container_flaw/\">Azure Container Services Exploit</a></li><li><a href=\"https://www.microsoft.com/security/business/zero-trust\">Microsoft Zero Trust</a></li><li><a href=\"https://aws.amazon.com/security/zero-trust/\">Amazon Zero Trust</a></li></ul><p>Recorded September 9, 2021</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9faca8ba-34f4-4493-8757-ea42f30e55e0/audio/9b0c0123-2639-4165-abce-dba72bf53584/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

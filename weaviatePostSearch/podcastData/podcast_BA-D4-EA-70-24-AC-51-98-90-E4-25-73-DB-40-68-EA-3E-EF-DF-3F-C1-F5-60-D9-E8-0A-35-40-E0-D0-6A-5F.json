@@ -1,0 +1,8 @@
+{
+    "Id": "BA-D4-EA-70-24-AC-51-98-90-E4-25-73-DB-40-68-EA-3E-EF-DF-3F-C1-F5-60-D9-E8-0A-35-40-E0-D0-6A-5F",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Protecting Your Organization using Azure Sentinel with Paul Keely",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What is Azure Sentinel, and how can it help protect your organization? Richard chats with Paul Keely about Azure Sentinel, a set of tools that provide Security Information Event Management (SIEM) and Security Orchestration Automated Response (SOAR). Paul talks about going beyond the firewall, into the analysis of behavior within your systems, including Office 365, Azure and more - and using machine learning, being able to detect what unusual behavior looks like and automatically respond to it.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/67a2106e-539e-4432-8a0c-d6db058265da/audio/4e5e3d74-fa1e-4665-bc48-6960872cf23e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "A2-94-BE-53-5F-D1-3D-40-02-B1-3A-12-11-E5-41-21-9E-F5-3F-2A-C7-85-6C-FE-73-56-A5-04-A2-7E-6F-A2",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 324: Marc Hoffmann on Code Test Coverage Analysis and Tools",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-324-Marc-Hoffmann-on-Code-Test-Coverage-Analysis-and-Tools.mp3",
+    "Description": "<p>What is code coverage, how can you measure it, and what are the pitfalls of this metric? Diomidis Spinellis talks with Marc Hoffmann, a key developer of the JaCoCo code coverage library for Java, on how code test coverage can improve software reliability</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-324-Marc-Hoffmann-on-Code-Test-Coverage-Analysis-and-Tools.mp3"
+}

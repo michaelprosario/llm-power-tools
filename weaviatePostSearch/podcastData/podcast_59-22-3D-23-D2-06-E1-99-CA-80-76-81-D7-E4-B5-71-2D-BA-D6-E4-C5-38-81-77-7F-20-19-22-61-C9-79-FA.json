@@ -1,0 +1,8 @@
+{
+    "Id": "59-22-3D-23-D2-06-E1-99-CA-80-76-81-D7-E4-B5-71-2D-BA-D6-E4-C5-38-81-77-7F-20-19-22-61-C9-79-FA",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 634: Jim Bugwadia on Kubernetes Policy as Code",
+    "SourceUrl": "http://se-radio.net/se-radio-634-jim-bugwadia-on-kubernetes-policy-as-code",
+    "Description": "<p data-pm-slice=\"1 1 []\">Jim Bugwadia, CEO of Nirmata and a committer to the Kyverno projects, joins host <a href=\"../../../team/robert-blumen\">Robert Blumen</a> for a discussion of policy-as-code and the open source Kyverno project. The discussion covers the nature of policies; policies and security; policies and compliance to standards; security scans that generate reports compared to tools that allow or deny operations at run time; Kyverno as a kubernetes service; the Kyverno helm charts; the components of Kyverno; bootstrapping a kubernetes cluster with Kyverno; installing policies; implementing policies; customizing policies; packaging and installing policies; kubernetes dynamic admission controllers; the Kyverno admission controller; securing Kyverno itself; observability of Kyverno; types of reports and messages available to cluster users.</p> <p style=\"text-align: center;\" data-pm-slice=\"1 1 []\"><a href= \"https://www.qawolf.com/?utm_source=seradio&utm_medium=podcast&utm_campaign=sept2024\" target=\"_blank\" rel=\"noopener\">This episode is sponsored by QA Wolf.</a></p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/634-jim-bugwadia-kubernetes-policy.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "BA-96-3D-DF-73-1E-ED-8F-E4-7C-3B-A3-6E-FB-8B-DA-6A-41-CF-1A-37-50-31-06-85-2E-59-58-8C-8A-63-FE",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 16: MDSD Pt. 3, Hands-On",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/MbIHohzgWNM/",
+    "Description": "This episode provides a hands-on guided tour through a simple model-driven software project. It is based on an actual code sample (see link below) and takes a look at the typical steps of real-life code generation: prototypical implementation, defining the metamodel, reading a model into a metamodel instance, writing templates and validating the model. The example for the episode uses openArchitectureWare as a generator environment, but the overall approach is tool independent. This episode is the first in a new category \"code/technology\" that discusses technical concepts based on actual code. Please give feedback whether you find this format useful or not.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode16-mdsd_pt3.mp3?dest-id=23379"
+}

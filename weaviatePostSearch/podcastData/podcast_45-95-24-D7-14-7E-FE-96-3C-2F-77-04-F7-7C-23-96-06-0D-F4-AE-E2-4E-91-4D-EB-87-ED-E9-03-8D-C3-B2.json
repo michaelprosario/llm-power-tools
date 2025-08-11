@@ -1,0 +1,8 @@
+{
+    "Id": "45-95-24-D7-14-7E-FE-96-3C-2F-77-04-F7-7C-23-96-06-0D-F4-AE-E2-4E-91-4D-EB-87-ED-E9-03-8D-C3-B2",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Database for MySQL and Postgres with Jason Anderson and Sunil Kamath",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>More database services in Azure! While at the Build conference, Richard sat down with Jason Anderson and Sunil Kamath to discuss both MySQL and Postgres coming to Azure Database services. Sure, you've been able to run MySQL and Postgres in virtual machines on Azure, but why would you want to maintain an operating system and patching yourself? Jason and Sunil talk about all the cloud aspects of a database service - update policies, resiliency, backup and extension options. There's more coming, but the first versions of MySQL and Postgres available as an Azure Database Service look great!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ae18419d-ccac-4263-9467-529e6ebf55be/audio/5aa757e3-cd32-4f9a-9502-36dda3303428/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "F7-B1-CA-5A-28-5E-CA-D3-28-35-A9-BA-74-E8-FC-70-89-EE-0B-6D-F5-98-CC-4C-96-F8-AF-C9-5F-E7-07-F1",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 79: Small Memory Software with Weir and Noble",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/QYEFoBT_HDY/",
+    "Description": "In this Episode we're discussing patterns for small memory software with the authors of the like-named book <a href=\"http://www.charlesweir.com/\">Charles Weir</a> and <a href=\"http://www.mcs.vuw.ac.nz/people/James-Noble.shtml\">James Noble</a>. We look at various aspects of the small memory problem: How can you manage memory use across a whole system? What can you do when you have run out of primary storage? How can you fit a quart of data into a pint pot of memory? How can you reduce the memory needed for your data? How do you allocate memory to store your data structures? Answers to all those questions are provided in this Episode, and of course in their <a href=\"http://www.smallmemory.com/\">book</a>.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode79-smallMemoryWithWeirAndNoble.mp3?dest-id=23379"
+}

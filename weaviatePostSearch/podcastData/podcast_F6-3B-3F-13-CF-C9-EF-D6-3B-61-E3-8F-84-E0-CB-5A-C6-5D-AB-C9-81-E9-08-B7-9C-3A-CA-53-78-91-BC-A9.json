@@ -1,0 +1,8 @@
+{
+    "Id": "F6-3B-3F-13-CF-C9-EF-D6-3B-61-E3-8F-84-E0-CB-5A-C6-5D-AB-C9-81-E9-08-B7-9C-3A-CA-53-78-91-BC-A9",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Saving State while Still Growing with Temporal's Preeti Somal",
+    "SourceUrl": "https://www.hanselminutes.com",
+    "Description": "<p>In this episode, Scott chats with Preeti Somal, Senior Vice President of Engineering at Temporal, to explore how teams at OpenAI, Stripe, Netflix, and beyond are building long-running, crash-proof applications using Temporal's open\u2011source durable execution engine. Drawing on her leadership roles at HashiCorp, Yahoo!, and VMware, Preeti breaks down the orchestration challenges in today\u2019s AI\u2011powered agentic architectures, shares how platform engineering, culture, and developer experience interact, and explains the feedback loops that drive platform improvement. She also offers a dive into resilience patterns like retries, state management, and sagas, and shares lessons on scaling engineering organizations through rapid growth.\u00a0</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/95185a4c-4e93-400b-b289-92ac9fbb0e35/audio/42fd46cb-81d0-4b38-bf01-1e5e9f101e47/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "DD-D1-47-69-17-88-B3-7D-AE-1B-C3-50-C5-60-6A-D1-A7-F8-68-4E-24-98-BA-4C-DE-59-F9-1F-CF-68-96-1E",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Encryption, Compression, and Sharing in Server 2022 with Ned Pyle",
+    "SourceUrl": "https://runasradio.com/Shows/Show/784",
+    "Description": "<p>Ned Pyle is back and he's got cool news! Richard chats with Ned about some of the features coming down the pipe for file storage in Windows Server 2022. First up is encryption - Server 2022 will have direct support for AES-256. Sure, it's overkill for many scenarios, but some organizations are demanding it, so here it is. Ned also talks about SMB Compression - while it has existed for xcopy et al for a while, now you'll be able to enable compression across any mapped drive. Finally, there is SMB over QUIC - file sharing over the internet that is secure by default, and much more efficient than VPNs. File sharing is never going away - how can you do it better!</p><p><strong>Links:</strong></p><ul><li><a href=\"http://aka.ms/ws2022azurepreview\">Windows Server 2022 Preview</a></li><li><a href=\"https://techcommunity.microsoft.com/t5/itops-talk-blog/smb-compression-deflate-your-io/ba-p/1183552\">SMB Compression</a></li><li><a href=\"https://techcommunity.microsoft.com/t5/itops-talk-blog/windows-server-2019-datacenter-azure-edition-with-hotpatching/ba-p/2201746\">Server 2019 Hot Patching</a></li><li><a href=\"https://azure.microsoft.com/services/storage/files/\">Azure Files</a></li></ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b578e8bb-7ca8-4754-8fb8-683cc2562cb2/audio/b7a16c3c-9221-4d04-9f1e-81c8dcd48ab8/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

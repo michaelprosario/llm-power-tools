@@ -1,0 +1,8 @@
+{
+    "Id": "A6-76-19-11-9A-16-F1-02-EF-22-49-D6-AF-38-05-46-25-81-B3-00-64-06-2C-B5-8E-A0-6C-F2-18-CB-A5-B2",
+    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
+    "Title": "136: Kotlin Extension Functions",
+    "SourceUrl": "https://fragmentedpodcast.com/",
+    "Description": "<p>In this fragment episode, Donn talks about Kotlin extension functions. He discusses what they are, how to build them, why they're useful, how to organize them, visibility and how to call them Java and much more.</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"https://kotlinlang.org/docs/reference/extensions.html\">Kotlin Extension Functions Docs</a></li>\n<li><a href=\"https://stackoverflow.com/a/28364983\">Calling Extension Functions from Java</a></li>\n<li><a href=\"https://android.github.io/android-ktx/core-ktx/androidx.view/android.view.-view/index.html\">Kotlin KTX View Functions</a></li>\n</ul>\n<pre><code>\nimport android.view.View\n\nfun View.gone() {\n\n    this.visibility = View.GONE\n}\n\nfun View.visible() {\n\n    this.visibility = View.VISIBLE\n}\n\n</code></pre>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"https://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"https://twitter.com/donnfelker\">@donnfelker</a> and <a href=\"https://plus.google.com/+DonnFelker\">+DonnFelker</a></li>\n<li><a href=\"https://twitter.com/kaushikgopal/\">@kaushikgopal</a> and <a href=\"https://plus.google.com/+KaushikGopalIsMe\">+KaushikGopalIsMe</a></li>\n</ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/7e70e6ce-d01f-4223-8c0c-e3c9b297eb31/project-extension-functions_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
+}

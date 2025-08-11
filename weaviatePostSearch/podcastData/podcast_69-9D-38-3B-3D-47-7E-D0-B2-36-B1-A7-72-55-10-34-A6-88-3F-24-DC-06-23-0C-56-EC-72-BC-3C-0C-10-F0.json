@@ -1,0 +1,8 @@
+{
+    "Id": "69-9D-38-3B-3D-47-7E-D0-B2-36-B1-A7-72-55-10-34-A6-88-3F-24-DC-06-23-0C-56-EC-72-BC-3C-0C-10-F0",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Microsoft Operations Management Suite with Cameron Fuller",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Have you looked at Microsoft Operations Management Suite (OMS)? Richard chats with Cameron Fuller about OMS and its relationship with System Center Operations Manager - other than caring about operations, they aren't the same thing at all. Cameron discusses the cloud-centric nature of OMS, but not necessarily an Azure-centric view: OMS can help with instrumentation and management of Amazon's cloud as well as other platforms as a whole. While OMS will integrate with Operations Manager, it will also take data from Nagios, which is a great instrumentation system from the open source world. The conversation also digs into different approaches to automation and backup - OMS covers a ton of important functionality!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/85e8e87a-ee31-4512-b398-2aac8743f169/audio/7004655c-2cd9-4ec8-a170-d4b2285e4b77/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

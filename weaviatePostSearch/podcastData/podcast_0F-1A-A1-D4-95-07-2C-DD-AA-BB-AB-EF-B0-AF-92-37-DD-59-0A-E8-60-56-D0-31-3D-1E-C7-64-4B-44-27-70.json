@@ -1,0 +1,8 @@
+{
+    "Id": "0F-1A-A1-D4-95-07-2C-DD-AA-BB-AB-EF-B0-AF-92-37-DD-59-0A-E8-60-56-D0-31-3D-1E-C7-64-4B-44-27-70",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Getting Ready for Nano Server with Jason Helmick",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Are you thinking about Microsoft Nano Server yet? Richard chats with Jason Helmick about what we can do today to get ready for Nano Server. As announced by freshly minted Tech Fellow Jeffrey Snover, Nano Server represents an ultra-light version of Windows Server and the new foundation of the server side of the operating system. So what can you do to get ready? Jason talks about working with the Core edition of Windows Server, preferably 2012, as a great starting point. This gets you started on a path of using PowerShell and scripting to configure and operate your servers, rather than GUIs and RDP. The conversation then turns to Desired State Configuration as the ultimate goal - getting every aspect of a server described in code so that you can create it, consistently, on demand. That's how you get to Nano!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6e0468a9-d7fd-4538-b9be-e7ebea342ba8/audio/dbe7296f-7cf4-430f-aac3-cbfcef9ebc99/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

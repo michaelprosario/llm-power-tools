@@ -1,0 +1,8 @@
+{
+    "Id": "2C-47-25-48-1D-49-0B-07-34-C0-7D-F4-B1-2E-2A-B5-4E-3A-6E-19-FF-DE-7D-96-42-69-67-F4-67-68-7D-54",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Michael Steineke Clusters Windows 2012!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Michael Steineke about the new clustering features of Windows 2012. Michael starts with the latest version of Network Load Balancing for clustering and goes from there - looking at how all the major products Microsoft makes, like SQL Server and Exchange, work with clustering. The conversation focuses in on the importance of the new file share clustering capabilities, combined with SMB3 to create awesome high performance shared storage with commodity equipment. Server 2012 changes everything!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a12e2c70-a7c4-4078-8aae-8080af578aba/audio/952695f0-f4d2-4bc0-b549-635339ad9f8b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

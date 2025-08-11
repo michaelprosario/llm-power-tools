@@ -1,0 +1,8 @@
+{
+    "Id": "76-BD-DA-1D-78-77-8F-D6-D4-14-A4-86-E3-39-D2-7E-24-86-F7-02-9F-B0-87-FC-66-28-E0-A2-4A-FF-7D-9F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 337: Ben Sigelman on Distributed Tracing",
+    "SourceUrl": "http://se-radio.net/se-radio-episode-337-ben-sigelman-on-distributed-tracing",
+    "Description": "<p>Ben Sigelman CEO of LightStep and co-author of the OpenTracing standard discusses distributed tracing, a form of event-driven observability for debugging distributed systems, understanding latency outlyers, and delivering \"white box\" analytics.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-337-Ben-Sigelman-on-Distributed-Tracing.mp3?dest-id=23379"
+}

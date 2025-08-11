@@ -1,0 +1,8 @@
+{
+    "Id": "94-AB-92-B0-89-04-BC-BD-0F-79-AA-74-97-98-D3-6F-4E-C7-BE-48-26-7D-A4-DF-C5-7E-3A-96-CD-23-5F-1F",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "Composable architecture",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p>At Netlify Compose 2023, Biilmann announced their new <a href=\"https://www.netlify.com/blog/introducing-the-netlify-composable-web-platform/?utm_content=eyebrow\">composable web platform</a>.\u00a0</p><p>This isn\u2019t Netlify\u2019s first rodeo\u2014we talked to them for episodes <a href=\"https://stackoverflow.blog/2023/07/11/jamstack-is-evolving-toward-a-composable-web-ep-588/\">588</a> and <a href=\"https://stackoverflow.blog/2022/06/24/living-on-the-edge-with-netlify-ep-456/\">456</a>.</p><p>You can find Matt Biilmann on <a href=\"https://twitter.com/biilmann\">X</a> or <a href=\"https://www.linkedin.com/in/mathias-biilmann-christensen-a5a3805/\">LinkedIn</a> (and perhaps elsewhere).\u00a0</p><p>Today\u2019s shoutout goes to <a href=\"https://stackoverflow.com/users/1839500/dick-lucas\">Dick Lucas</a> who asked a topical question, <a href=\"https://stackoverflow.com/questions/62415804/how-to-prevent-netlify-from-treating-warnings-as-errors-because-process-env-ci\">How to prevent Netlify from treating warnings as errors because process.env.CI = true?</a>, viewed by over 84,000 people.</p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/5b3aaba9-ad9a-4f5e-949a-6722e2761ed8/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=5b3aaba9-ad9a-4f5e-949a-6722e2761ed8&feed=XA_851k3"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "1B-8E-95-56-5B-84-75-DB-32-9D-0F-85-82-BB-33-95-F4-87-04-2D-C6-A4-04-06-7F-68-3D-A1-C6-46-48-48",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 12: Concurrency Pt. 1",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/lJLihLsyf0M/",
+    "Description": "This is the first part of a series of Concurrency episodes. In this part Alex and Michael motivate and introduce the topic. We explain fundamental terms, such as thread, process, or mutex and dicuss typical challenges, such as deadlocks and race conditions.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode12-concurrency_pt1.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "C2-31-87-A5-2D-F0-D6-2A-40-3B-ED-63-92-1B-A1-A7-4F-31-02-B6-35-7C-68-DC-34-72-8E-0C-4E-7E-EF-43",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Steve Evans Virtualizes Networks with Hyper-V",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>While at TechDays in San Francisco, Richard sat down with Steve Evans to talk about the new virtual networking features in Server 2012 Hyper-V. The conversation starts with a focus on the challenges of networking in a virtualized world - problems around assigning NICs to individual VMs, dealing with failover, etc. But as Steve describes, once you get to 2012, physical NICs are entirely about bandwidth - teaming as necessary. And the virtual side creates a separate NIC for each role, assigned to VLANs and moving across the collective physical hardware. It takes a lot of planning, but networking has never been more flexible!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6dcebc11-8ff7-4776-ba9c-bc13f24aa5b0/audio/4870c94b-48fc-45d0-abe6-bd6bdb757c5a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

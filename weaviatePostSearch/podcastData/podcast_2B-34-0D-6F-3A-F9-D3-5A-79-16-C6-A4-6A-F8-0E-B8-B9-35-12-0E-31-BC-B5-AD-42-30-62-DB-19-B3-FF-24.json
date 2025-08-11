@@ -1,0 +1,8 @@
+{
+    "Id": "2B-34-0D-6F-3A-F9-D3-5A-79-16-C6-A4-6A-F8-0E-B8-B9-35-12-0E-31-BC-B5-AD-42-30-62-DB-19-B3-FF-24",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 277: Gil Tene on Tail Latency",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-277-Gil-Tene-on-Tail-Latency.mp3",
+    "Description": "<p>Gil Tene joins Robert Blumen for a discussion of tail latency. What is latency? What is \"tail latency\"? Why are the upper percentiles of latency more relevant to humans? How is human interaction with an application influenced by tail latency? What are the economics of tail latency? What are the origins of tail latency within a system? What is the difference between response time and service time? How does queuing within a system contribute to response time? Java garbage collection and its contribution to latency outliers. How can we build systems with bounded tail latency out of components with variable latency? What type of observability to do we need to build systems with bounded latency? How is latency a driver of capacity planning?</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-277-Gil-Tene-on-Tail-Latency.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "07-C3-DB-BD-B9-C6-BF-56-0A-9A-EC-F1-59-EC-BE-AD-C9-EF-C3-F0-99-F1-39-95-C9-2B-55-0B-63-BA-51-74",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Policy-Based SQL Server Management with Boris Hristov",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you manage your SQL Servers? Richard talks to Boris Hristov about using Policy-Based Management tools in SQL Server. These tools have been in the box since SQL Server 2008, but it's amazing how many folks still don't use them - are you really RDPing into every SQL Server? Hristov talks about using the Policy-Based Management tools to sweep across all of your SQL Servers and check what various settings are at - and change them if you need to! The conversation also digs into creating a Central Management Server to have a repository of all SQL Server instances and make it easy to propagate changes. Finally, if you're ready to step up your SQL management game, take a look at the Enterprise Policy Management Framework, a CodePlex project to do detailed analysis and reporting on your entire SQL Server landscape.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/5a358e5d-fa37-4165-aa83-17516f5bf899/audio/c6975bc5-ba3f-4e20-8dc5-3cffc27e6313/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

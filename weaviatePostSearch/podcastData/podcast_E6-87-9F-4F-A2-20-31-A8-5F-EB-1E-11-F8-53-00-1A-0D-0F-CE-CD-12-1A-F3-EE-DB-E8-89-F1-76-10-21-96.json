@@ -1,0 +1,8 @@
+{
+    "Id": "E6-87-9F-4F-A2-20-31-A8-5F-EB-1E-11-F8-53-00-1A-0D-0F-CE-CD-12-1A-F3-EE-DB-E8-89-F1-76-10-21-96",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Becoming Ansible with Josh Duffney",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Are you ready to become Ansible? Richard chats with Josh Duffney about his book on Ansible - using a play on the term &quot;become,&quot; which is the privilege elevation command in Ansible. The conversation turns to how you evolve as an infrastructure-as-code person, doing basic automation tasks first, but ultimately turning into a source-code-controlled library-building-team that makes deployment of applications and resources easy, reliable, and powerful. If you're coming from the Windows world and trying to learn Ansible, this is the book for you!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/bb75f4c3-6592-43da-aba0-d3a38079df52/audio/abeb5d6e-e709-4a4b-8689-83ced2283e3c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "6B-2A-0A-20-ED-C2-FD-9A-C2-7E-09-89-81-B1-7D-C6-C8-17-08-4F-01-E6-22-FE-3D-11-86-08-5D-F6-93-C5",
+    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
+    "Title": "The Pragmatic Programmer \u2013 The Evils of Duplication",
+    "SourceUrl": "https://www.codingblocks.net/podcast/the-pragmatic-programmer-the-evils-of-duplication/",
+    "Description": "<img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2019/05/Episode106.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2019/05/Episode106.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />We take a deep dive into the various forms of duplication and jump aboard the complain train as Allen complains about Confluent's documentation, Michael complains about Docker's documentation, and Joe complains about curl.",
+    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-106.mp3"
+}

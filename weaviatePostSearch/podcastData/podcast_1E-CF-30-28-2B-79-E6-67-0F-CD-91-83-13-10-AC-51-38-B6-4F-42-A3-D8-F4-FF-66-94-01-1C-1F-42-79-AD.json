@@ -1,0 +1,8 @@
+{
+    "Id": "1E-CF-30-28-2B-79-E6-67-0F-CD-91-83-13-10-AC-51-38-B6-4F-42-A3-D8-F4-FF-66-94-01-1C-1F-42-79-AD",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 600: William Morgan on Kubernetes Sidecars and Service Mesh",
+    "SourceUrl": "http://se-radio.net/se-radio-600-william-morgan-on-kubernetes-sidecars-and-service-mesh",
+    "Description": "<p>William Morgan, founder of the Linkerd service mesh and CEO of Bouyant, joins SE Radio\u2019s <a href= \"../../team/robert-blumen/\">Robert Blumen</a> for a discussion of sidecars, service mesh, and a forthcoming enhancement to kubernetes to support sidecars natively. The conversation explores the origin of sidecars, sidecars and service mesh, and migrating service mesh to kubernetes. They take a deep dive into some aspects of running service mesh on kubernetes, the difficulties in running a sidecar container in a pod, and Kubernetes Enhancement Proposal (KEP) 753, which is intended to provide better native support for sidecar containers. William also gives some thoughts on the continuing relevance of service mesh.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/600_william_morgan_kubernetes_sidecars_and_service_mesh.mp3?dest-id=23379"
+}

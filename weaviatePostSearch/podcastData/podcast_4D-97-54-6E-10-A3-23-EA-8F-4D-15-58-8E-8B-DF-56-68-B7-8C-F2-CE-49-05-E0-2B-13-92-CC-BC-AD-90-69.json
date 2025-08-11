@@ -1,0 +1,8 @@
+{
+    "Id": "4D-97-54-6E-10-A3-23-EA-8F-4D-15-58-8E-8B-DF-56-68-B7-8C-F2-CE-49-05-E0-2B-13-92-CC-BC-AD-90-69",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 56: Sensor Networks",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/cnhrzgb_ejw/",
+    "Description": "In this episode we discuss sensor networks with our guest Steffen Schaefer, who is the Technical Thought Leader for Sensors & Actuator\nSolutions at IBM. The discussion resolves around the TREC device, which can be mounted on containers to track them on their journey over seas, railway tracks and roads. The TREC is a small embedded device developed by Steffen's employer, IBM, that has various sensors and communications channels.\n\nIn the episode we first talked about container transport in general, and then looked at how the TREC device works - specifically, it's hardware, software and power management. We then looked at the necessary backend infrastructure. The main part of the discussion covered the communication between the device and the backend, using technologies such as Zigby, GSM and satellite communications. We also looked at the middleware infrastructures used, such as the MQtt messaging tool.\n\nWe closed the episode with a little discussion of the \"Internet of Things\" and some discussion about embedded software devleopment in general. Note that SE Radio will feature more embedded topics in the future - an introduction to embedded development will be put online soon.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode56-sensorNetworksWithSteffenSchaefer.mp3?dest-id=23379"
+}

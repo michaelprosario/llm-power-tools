@@ -1,0 +1,8 @@
+{
+    "Id": "D9-8B-21-4D-93-D3-24-64-5B-7E-64-50-53-9A-55-AC-FE-8B-85-25-1C-23-79-A5-D6-AF-CD-99-D3-AE-63-86",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio-Episode-255:-Monica-Beckwith-on-Java-Garbage-Collection",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-255-Monica-Beckwith-on-Java-Garbage-Collection.mp3",
+    "Description": "<p style=\"padding-left: 30px;\">Monica Beckwith joins Robert Blumen\nfor a discussion of java garbage collection. What is garbage\ncollection? GC algorithms; history of GC in the java language;\nfragmentation and compaction; generational strategies; causes of\npauses; impact of pauses on application performance; tuning GC; GC\non multi-core and large memory machines; should production servers\nbe implemented in non-GC languages?; going off heap and other\nprogramming techniques to avoid garbage; the future of java GC.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-255-Monica-Beckwith-on-Java-Garbage-Collection.mp3"
+}

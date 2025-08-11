@@ -1,0 +1,8 @@
+{
+    "Id": "58-6E-2D-42-92-78-D1-DF-A1-D3-EA-5C-61-A5-0E-AE-8B-4A-96-D6-E7-9F-51-91-55-4A-8E-28-8B-EF-6B-4A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 633: Itamar Friedman on Automated Testing with Generative AI",
+    "SourceUrl": "http://se-radio.net/se-radio-633-itamar-friedman-on-automated-testing-with-generative-ai",
+    "Description": "<p data-pm-slice=\"1 1 []\">Itamar Friedman, the CEO and co-founder of CodiumAI, speaks with host Gregory M. Kapfhammer about how to use generative AI techniques to support automated software testing. Their discussion centers around the design and use of Cover-Agent, an open-source implementation of the automated test augmentation tool described in the Foundations of Software Engineering (FSE) paper entitled \u201cAutomated Unit Test Improvement using Large Language Models at Meta\u201c by Alshahwan et al. The episode explores how large-language models (LLMs) can aid testers by automatically generating test cases that increase the code coverage of an existing testing suite. They also investigate other automated testing topics, including how Cover-Agent compares to different LLM-based tools and the strengths and weaknesses of using LLM-based approaches in software testing.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/633-itamar-friedman-testing-generative-ai.mp3?dest-id=23379"
+}

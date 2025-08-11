@@ -1,0 +1,8 @@
+{
+    "Id": "DE-61-AE-2E-FF-70-98-3A-DD-3F-EF-B5-4F-30-D2-BC-45-0D-27-C4-EC-FC-38-E1-4B-94-0C-7A-20-3C-97-C3",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "Web programming with nothing but Python",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p>Lots of people who work outside of programming learn Python as part of their job. When folks from telecom, academia, or medical science want to build a web app to help with their job or share their findings with the world, they may feel they need to learn Javascript, CSS, HTML, and half a dozen frameworks to get started.\u00a0</p><p>Anvil is a platform that hopes to enable the creation of great web apps with nothing but Python code. You can drag and drop your user elements and rely on Anvil to handle your server and database.\u00a0</p><p>He also created Skulpt, which you can check out here. It's decscribed as follows, \"Python. Client Side. Skulpt is an <i>entirely in-browser</i> implementation of Python. No preprocessing, plugins, or server-side support required, just write Python and reload.\u00a0</p><p>Want to go deeper? Check out his talk on Full Stack Web Development with nothing but Python here.\u00a0</p><p>You can follow him on Twitter here and Github <a href=\"https://github.com/meredydd\">here</a>.</p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/f5a12f6f-cf15-4a24-baa2-b2d70f137c23/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=f5a12f6f-cf15-4a24-baa2-b2d70f137c23&feed=XA_851k3"
+}

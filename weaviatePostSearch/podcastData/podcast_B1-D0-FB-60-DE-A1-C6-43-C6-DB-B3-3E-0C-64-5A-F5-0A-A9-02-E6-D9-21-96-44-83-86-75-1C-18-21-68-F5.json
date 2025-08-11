@@ -1,0 +1,8 @@
+{
+    "Id": "B1-D0-FB-60-DE-A1-C6-43-C6-DB-B3-3E-0C-64-5A-F5-0A-A9-02-E6-D9-21-96-44-83-86-75-1C-18-21-68-F5",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 444: Tug Grall on Redis",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-444-Tug-Grall-on-Redis.mp3",
+    "Description": "<p>Tug Grall of Redis Labs discusses Redis, its evolution over the years and emerging use cases today,its module based ecosystem and Redis\u2019 applicability in a wide range of applications beyond being a layer for caching data such as search, machine learning</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-444-Tug-Grall-on-Redis.mp3"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "4C-CC-4E-8F-E9-65-D4-0B-C0-38-18-55-36-BE-8B-8B-EE-AA-1A-C7-59-B8-B3-6F-9B-3D-7E-E7-28-0D-4D-DB",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 115: Architecture Analysis",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/LXQnrB8K6eg/",
+    "Description": "During Evolution of a software system, it becomes more and more difficult to understand the originally planned software architecture. Often an architectural degeneration happens because of various reasons during the development phases. In this session we will be looking how to avoid such architectural decay and degeneration and how continuous monitoring can improve the situation (and avoid architectural violations). In addition we will look at \"refactoring in the large\" and how refactoring can be simulated. A new family of \"lint like tools for software architectures\" is currently emerging in the marketplace I will show some examples and how they scale and support you in real world projects.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode115-architectureAnalysis.mp3?dest-id=23379"
+}

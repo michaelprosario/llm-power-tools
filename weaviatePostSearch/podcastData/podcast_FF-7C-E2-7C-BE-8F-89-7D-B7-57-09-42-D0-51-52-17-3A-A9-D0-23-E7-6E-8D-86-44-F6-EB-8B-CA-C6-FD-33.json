@@ -1,0 +1,8 @@
+{
+    "Id": "FF-7C-E2-7C-BE-8F-89-7D-B7-57-09-42-D0-51-52-17-3A-A9-D0-23-E7-6E-8D-86-44-F6-EB-8B-CA-C6-FD-33",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 179: Cassandra with Jonathan Ellis",
+    "SourceUrl": "http://www.se-radio.net/?p=1102",
+    "Description": "Cassandra is a distributed, scalable non-relational data store influenced by the Google BigTable project and many of the distributed systems techniques pioneered by the Amazon Dynamo paper.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode179-cassandra.mp3?dest-id=23379"
+}

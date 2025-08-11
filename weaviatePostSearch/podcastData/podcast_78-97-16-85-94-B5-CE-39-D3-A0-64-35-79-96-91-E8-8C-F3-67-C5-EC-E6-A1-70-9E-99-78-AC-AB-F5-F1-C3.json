@@ -1,0 +1,8 @@
+{
+    "Id": "78-97-16-85-94-B5-CE-39-D3-A0-64-35-79-96-91-E8-8C-F3-67-C5-EC-E6-A1-70-9E-99-78-AC-AB-F5-F1-C3",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 572: Gregory Kapfhammer on Flaky Tests",
+    "SourceUrl": "http://se-radio.net/se-radio-572-gregory-kapfhammer-on-flaky-tests",
+    "Description": "<p class=\"p1\">Gregory Kapfhammer, associate professor at Allegheny College, discusses the common problem of \u2018flaky tests\u2019 with SE Radio\u2019s <a href= \"https://www.se-radio.net/team/nikhil-krishna/\">Nikhil Krishna</a>. Flaky tests are test cases that unreliably pass or fail even when no changes are made to the source code under test or to the test suite itself, which means that developers can\u2019t tell whether the failures indicate bugs that needs to be resolved.\u00a0 Flaky tests can hinder continuous integration and continuous development by undermining trust in the CI/CD environment. This episode examines sources of flaky tests, including physical factors such as CPU or memory changes, as well as program-related factors such as performance issues. Gregory also describes some common areas that are prone to flaky tests and ways to detect them. They discuss tooling to detect and automatically mark flaky tests, as well as how to tackle these issues to make tests more reliable and even ways to write code so that it's less susceptible to flaky tests.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/572_gregory_kapfhammer_flaky_tests.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "62-67-18-EF-44-ED-BD-92-BF-D8-74-71-D6-11-C6-EA-D5-46-AA-A4-14-FB-BD-3F-A5-6C-51-33-88-15-A1-8A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 659: Brenden Matthews on Idiomatic Rust",
+    "SourceUrl": "http://se-radio.net/se-radio-659-brenden-matthews-on-idiomatic-rust",
+    "Description": "<p>Brenden Matthews, a seasoned software engineer, entrepreneur, and author of the <em>Idiomatic Rust</em> and <em>Code Like a Pro in Rust</em> books (both from Manning), speaks with SE Radio host <a class= \"css-1rn59kg\" title=\"https://www.se-radio.net/team/gavin-henry/\" href=\"https://trello.com/team/gavin-henry/\" data-testid= \"link-with-safety\" data-renderer-mark=\"true\">Gavin Henry</a> about Idiomatic Rust. They start with a look at what \"idiomatic\" means, and then discuss Generics, Traits, common design patterns you'll see in well written Rust code, and anti-patterns to avoid. Matthews suggests some tools that can help you immediately write idiomatic Rust, as well as what building blocks can also help. This episode examines what Generics are and how they compare to other languages, as well as what Traits are, how macros help, what a Fluent Interface is, and why unwrap() is bad. They also discuss what code smells to look out for, Clone, Copy, and a really nice place to go read real-world Idiomatic Rust code.</p> <p>Brought to you by\u00a0<a href=\"https://www.computer.org/\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/659-brenden-matthews-idiomatic-rust.mp3?dest-id=23379"
+}

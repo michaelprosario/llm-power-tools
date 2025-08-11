@@ -1,0 +1,8 @@
+{
+    "Id": "76-FE-4D-3B-20-7A-82-AD-7A-E2-D7-1B-A7-61-69-4A-6C-44-86-4A-A3-3A-47-58-D0-FB-E6-B9-6E-A7-65-F9",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 567: Dave Cross on GitHub Actions",
+    "SourceUrl": "http://se-radio.net/se-radio-567-dave-cross-on-github-actions",
+    "Description": "<p>Dave Cross, owner of Magnum Solutions and author of <em>GitHub Actions Essentials</em> (Clapham Technical Press), speaks with SE Radio host <a href= \"https://www.se-radio.net/team/gavin-henry/\" target=\"_blank\" rel= \"noopener\">Gavin Henry</a> about GitHub actions, the value they provide, and the best practices for using them in your projects. Cross describes the vast range of things that developers can do with GitHub Actions, including some use cases you might never have thought about. They start with some general discussion of CI/CD and then consider the three main types of events that drive GitHub actions before digging in to details about fine-grained action events, Action Marketplace, contexts, yaml, docker base images, self-hosted runners, and more. They further explore identity management, permissions, dependency management, saving money, and how to keep your secrets secret.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/567_dave_cross_github_actions.mp3?dest-id=23379"
+}

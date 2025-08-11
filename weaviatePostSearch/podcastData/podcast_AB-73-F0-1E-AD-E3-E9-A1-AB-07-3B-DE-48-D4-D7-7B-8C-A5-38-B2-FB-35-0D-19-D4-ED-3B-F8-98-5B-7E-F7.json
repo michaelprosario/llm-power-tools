@@ -1,0 +1,8 @@
+{
+    "Id": "AB-73-F0-1E-AD-E3-E9-A1-AB-07-3B-DE-48-D4-D7-7B-8C-A5-38-B2-FB-35-0D-19-D4-ED-3B-F8-98-5B-7E-F7",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Understanding How Apps are Used with Andreas Grabner",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>There are lots of reasons to instrument your apps in production - but one of the most powerful is to understand how your users actually <em>use</em> your apps. Richard talks to Andreas Grabner of DynaTrace about the variety of instrumentation approaches possible for applications - some driven by operations, and some by development. But everyone in the organization can benefit from a deeper understanding of how applications are used. Andreas talks about the diversity of metrics that can be taken, from your typical ecommerce financial metrics, to performance metrics, to reliability and scalability. There's a lot to measure!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/68620b6a-0100-4573-bfe0-687f3c025e67/audio/1dca354f-5128-434a-a1ed-f27430a975c6/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

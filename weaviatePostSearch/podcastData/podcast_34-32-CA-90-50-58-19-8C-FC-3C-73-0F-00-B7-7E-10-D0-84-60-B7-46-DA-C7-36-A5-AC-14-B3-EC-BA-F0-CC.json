@@ -1,0 +1,8 @@
+{
+    "Id": "34-32-CA-90-50-58-19-8C-FC-3C-73-0F-00-B7-7E-10-D0-84-60-B7-46-DA-C7-36-A5-AC-14-B3-EC-BA-F0-CC",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 596: Maxim Fateev on Durable Execution with Temporal",
+    "SourceUrl": "http://se-radio.net/se-radio-596-maxim-fateev-on-durable-execution-with-temporal",
+    "Description": "<p>Maxim Fateev, the CEO of Temporal, speaks with SE Radio's Philip Winston about how Temporal implements durable execution. They explore concepts including workflows, activities, timers, event histories, signals, and queries. Maxim also compares deployment using self-hosted clusters or the Temporal Cloud.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/596_Maxim_Fateev_on_Durable_Execution_with_Temporal.mp3?dest-id=23379"
+}

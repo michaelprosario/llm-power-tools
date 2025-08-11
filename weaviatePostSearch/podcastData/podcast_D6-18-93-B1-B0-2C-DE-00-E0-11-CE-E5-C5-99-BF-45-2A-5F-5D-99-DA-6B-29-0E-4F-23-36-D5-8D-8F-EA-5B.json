@@ -1,0 +1,8 @@
+{
+    "Id": "D6-18-93-B1-B0-2C-DE-00-E0-11-CE-E5-C5-99-BF-45-2A-5F-5D-99-DA-6B-29-0E-4F-23-36-D5-8D-8F-EA-5B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 85: Web Services with Olaf Zimmermann",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/rJXku3jPSz0/",
+    "Description": "In this Episode we're talking about Web Services with IBM's <a href=\"http://www.zurich.ibm.com/~olz\">Olaf Zimmermann</a>. We mainly focus on the WS-* stack. We also discuss a couple of SOA foundations and architectural decisions that need to be taken when building an SOA using Web Serivces. We also briefly mention the REST vs. WS-* debate.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode85-olafZimmermannOnWebServices.mp3?dest-id=23379"
+}

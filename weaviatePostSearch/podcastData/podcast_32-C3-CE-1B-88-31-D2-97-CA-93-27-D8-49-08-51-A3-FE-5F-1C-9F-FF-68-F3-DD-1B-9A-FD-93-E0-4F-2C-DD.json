@@ -1,0 +1,8 @@
+{
+    "Id": "32-C3-CE-1B-88-31-D2-97-CA-93-27-D8-49-08-51-A3-FE-5F-1C-9F-FF-68-F3-DD-1B-9A-FD-93-E0-4F-2C-DD",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 554: Adam Tornhill on Behavioral Code Analysis",
+    "SourceUrl": "http://se-radio.net/se-radio-554-adam-tornhill-on-behavioral-code-analysis",
+    "Description": "<p>Adam Tornhill, founder and CTO of CodeScene, joins host <a href= \"https://www.se-radio.net/team/giovanni-asproni/\">Giovanni Asproni</a> to speak about behavioral code analysis. Behavioral code analysis is a set of practical techniques aimed at identifying patterns in how a development organization interacts with the codebase they're building. It can be used to prioritize technical debt to maximize return on investment; to identify communication and team-coordination bottlenecks in code; to drive refactorings guided by data from how the system evolves; and to detect code quality problems before they become maintenance issues. The episode starts with a broad description of the techniques, providing some examples from real projects, and ends with suggestions on how to get started with applying them. During the conversation, Adam and Giovanni touch on a set of related topics, including the applicability of the techniques to legacy, green-, and brown-field projects; ethical and privacy implications; and the importance of context when judging code quality.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/554_adam_tornhill_behavioral_code_analysis.mp3?dest-id=23379"
+}

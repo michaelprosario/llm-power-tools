@@ -1,0 +1,8 @@
+{
+    "Id": "93-D8-E7-F3-FC-CF-98-A0-12-6F-27-A7-A4-E8-94-DF-B4-34-37-DA-71-35-43-B7-1E-D0-51-90-61-1A-91-6B",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Protecting PCs with EMET with Kurt Falde",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Microsoft PFE Kurt Falde about the Enhanced Mitigation Experience Toolkit (EMET). It might be a weak name, but it's an amazing set of tools - a whole different way of defending a workstation from malware exploits. Kurt dives into how EMET can lock down PCs in a standardized way, including controlling specific SSL certificates for key web sites. But the bulk of the focus of EMET is on protecting software from changes by malware. Rather than using fingerprint matching the way typical anti-virus software works, EMET tracks known-good states of common software and stops changes to them from happening - an effective strategy for zero-day exploits!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/fedb0c73-1bd5-4da4-8d7b-6ea6abb426b1/audio/f497763f-f2b7-4676-ba78-6330afadfcde/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "D8-65-BB-94-FB-46-52-BE-7C-3B-D4-FD-4C-4B-D3-2F-D7-81-8B-6F-8E-CA-B1-2A-CE-6F-D5-13-2C-22-DC-A9",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Allan Hirt Does Failover with SQL 2012 and Server 8!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Allan Hirt about the new failover clustering features in SQL Server 2012. SQL Server 2012 has added a number of new features to make clustering more flexible and less wasteful of hardware. Allan talks about how Windows Server 8 will also amp-up the clustering offerings when it ships. The conversation also digs into the controversy around Microsoft deprecating database mirroring in SQL 2012 - it's not the end of the world, the technology won't explode when you upgrade!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/45313401-c032-4bcd-9943-66682e9bd923/audio/6408a9bf-e63e-49eb-bde3-c66430281702/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

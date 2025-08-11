@@ -1,0 +1,8 @@
+{
+    "Id": "48-BD-49-51-DA-AA-1A-D4-DF-6B-6F-FE-1D-75-03-85-68-E1-14-F1-C4-6A-FF-54-96-39-EE-36-D9-AC-E3-62",
+    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
+    "Title": "Things to Know when Considering Multi-Tenant or Multi-Threaded Applications",
+    "SourceUrl": "https://www.codingblocks.net/podcast/things-to-know-when-considering-multi-tenant-or-multi-threaded-applications/",
+    "Description": "<img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2024/09/coding-blocks-episode-241-artwork.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2024/09/coding-blocks-episode-241-artwork.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />It\u2019s time to talk about the types of things you should consider when diving into multi-tenant applications and things to be especially aware of if you attempt to make things faster by going multi-threaded at the same time. Join us as Allen continues is non-winning / non-losing streak, JZ is taken out by a storm, [\u2026]",
+    "EnclosureUrl": "https://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/241_Things_to_Know_when_Considering_Multi-Tenant_or_Multi-Threaded_Applications_1.mp3"
+}

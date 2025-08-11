@@ -1,0 +1,8 @@
+{
+    "Id": "61-32-D4-13-D8-D6-C1-17-0C-2C-B4-F5-A6-77-DC-E9-1F-F9-BF-9D-33-07-5C-47-49-59-68-E2-86-26-29-BF",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Brent Ozar Updates Us On SQL Server 2012",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Brent Ozar about his experiences deploying SQL Server 2012. The conversation digs into the challenges of running SQL 2012 on Windows 2008R2 - and why you'd want to upgrade to SQL 2012 in the first place. For Brent's projects, it came down to utilizing Always On technology, which depends on advanced clustering features that 2008R2 struggles with - so SQL 2012 is best on Server 2012! From there, Brent talks about the impact of the cloud on on-premise servers, the need for better instrumentation and understanding of your data when talking to business. It's a fun time to be a DBA!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/0cb5d47f-c3cc-440f-a9e0-62c2b96316c8/audio/61d73325-2d00-4a63-8f48-49982a929bb9/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "04-4A-B3-40-74-56-02-B2-67-4B-3D-73-39-48-D7-AF-E7-B1-BE-19-34-58-D4-FB-3F-5B-B5-92-67-61-89-6B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 635: Stevie Caldwell on Zero-Trust Architecture",
+    "SourceUrl": "http://se-radio.net/se-radio-635-stevie-caldwell-on-zero-trust-architecture",
+    "Description": "<p data-pm-slice=\"1 1 []\">Stevie Caldwell, Senior Engineering Technical Lead at Fairwinds, joins host Priyanka Raghavan to discuss zero-trust network reference architecture. The episode begins with high-level definitions of zero-trust architecture, zero-trust reference architecture, and the pillars of Zero Trust. Stevie describes four open-source implementations of the Zero Trust Reference Architecture: Emissary Ingress, Cert Manager, LinkerD, and the Policy Engine Polaris. Each component is explored to help clarify their roles in the Zero Trust journey. The episode concludes with a look at the future direction of Zero Trust Network Architecture.</p> <p style=\"text-align: center;\" data-pm-slice=\"1 1 []\"><a href= \"https://www.qawolf.com/?utm_source=seradio&utm_medium=podcast&utm_campaign=sept2024\" target=\"_blank\" rel=\"noopener\">This episode is sponsored by QA Wolf.</a></p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/635-stevie-caldwell-zero-trust-architecture.mp3?dest-id=23379"
+}

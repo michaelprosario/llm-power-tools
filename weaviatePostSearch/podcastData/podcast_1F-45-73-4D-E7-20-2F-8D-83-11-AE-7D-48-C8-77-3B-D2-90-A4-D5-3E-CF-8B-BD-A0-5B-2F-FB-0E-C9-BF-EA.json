@@ -1,0 +1,8 @@
+{
+    "Id": "1F-45-73-4D-E7-20-2F-8D-83-11-AE-7D-48-C8-77-3B-D2-90-A4-D5-3E-CF-8B-BD-A0-5B-2F-FB-0E-C9-BF-EA",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "PAL Update and More with Clint Huffman",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>PAL is growing up! After a few months of rest from publishing his book Windows Performance Analysis Field Guide, Richard talks to creator Clint Huffman about the latest update to PAL - Performance Analysis of Logs. PAL helps you sort out PerfMon to understand your performance problems in all sorts of Microsoft products. Clint has added a new auto-detect feature to check through your perfmon log file and know what profiles from PAL to pull in. And the latest features is the PAL Collector tool, which will analyze your machine and auto-configure PAL for data collection - and you can set it up to start on boot!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a14ded92-c49a-48c4-a61b-7291624568bb/audio/d10b430b-be77-4295-a679-87c54ab6f055/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

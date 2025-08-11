@@ -1,8 +1,8 @@
 # adjust path to include the parent directory
 import sys
 import os
-
-
+from dotenv import load_dotenv
+load_dotenv()
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -21,8 +21,6 @@ from semantic_kernel.prompt_template import InputVariable, PromptTemplateConfig
 from semantic_kernel.functions import kernel_function
 from genAiPowerToolsInfra.exa_search_provider import ExaSearchProvider
 
-from dotenv import load_dotenv
-load_dotenv()
 
 
 # create gemini service provider

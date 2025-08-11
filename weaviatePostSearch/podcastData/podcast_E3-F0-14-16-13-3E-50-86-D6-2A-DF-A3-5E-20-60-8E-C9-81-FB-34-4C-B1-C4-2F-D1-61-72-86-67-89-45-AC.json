@@ -1,0 +1,8 @@
+{
+    "Id": "E3-F0-14-16-13-3E-50-86-D6-2A-DF-A3-5E-20-60-8E-C9-81-FB-34-4C-B1-C4-2F-D1-61-72-86-67-89-45-AC",
+    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
+    "Title": "Boxing and Unboxing in .NET",
+    "SourceUrl": "https://www.codingblocks.net/podcast/episode2/",
+    "Description": "<img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2013/09/pre-amp-150x150.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2013/09/pre-amp-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />This episode is all about boxing and unboxing. We discuss memory management, the pros (yes, there are a few!) and cons of boxing/unboxing, some of the weird side effects and how to you can avoid it with generics and ToString methods. Download the episode on iTunes or Stitcher and make sure to drop your feedback [\u2026]",
+    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-002.mp3"
+}

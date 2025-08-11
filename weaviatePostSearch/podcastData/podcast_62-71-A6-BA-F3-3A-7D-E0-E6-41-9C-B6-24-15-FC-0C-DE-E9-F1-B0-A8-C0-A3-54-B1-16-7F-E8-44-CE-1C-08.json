@@ -1,0 +1,8 @@
+{
+    "Id": "62-71-A6-BA-F3-3A-7D-E0-E6-41-9C-B6-24-15-FC-0C-DE-E9-F1-B0-A8-C0-A3-54-B1-16-7F-E8-44-CE-1C-08",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Python and SQL Server with Julie Smith",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Python and SQL Server together? Julie Smith says yes! Richard chats with Julie about the strengths of Python in various tasks around databases including ETL. Julie talks about the tooling available for doing data extraction, transformation and loading - you can find existing Python implementations on most tasks you need to do! And as of SQL Server 2017, Python is directly supported, so you can call Python code from within T-SQL. And that's just the beginning - wait til you see Python in data analytics and visualization!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/1b78b679-013d-4251-95e6-394a8e2bebad/audio/1422732b-661a-4cd5-9d8c-44cb430a2bd3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

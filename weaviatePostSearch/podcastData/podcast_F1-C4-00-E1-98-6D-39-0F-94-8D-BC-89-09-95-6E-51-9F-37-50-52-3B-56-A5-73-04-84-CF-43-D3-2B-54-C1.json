@@ -1,0 +1,8 @@
+{
+    "Id": "F1-C4-00-E1-98-6D-39-0F-94-8D-BC-89-09-95-6E-51-9F-37-50-52-3B-56-A5-73-04-84-CF-43-D3-2B-54-C1",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 225 - Brendan Gregg on Systems Performance",
+    "SourceUrl": "https://www.se-radio.net/2015/04/se-radio-episode-225-brendan-gregg-on-systems-performance/",
+    "Description": "<p>Senior performance architect and author of *Systems Performance*\u00a0<a href=\"http://www.brendangregg.com/\" target= \"_blank\" rel=\"noopener\">Brendan Gregg</a>\u00a0talks with\u00a0<a href=\"https://www.se-radio.net/team/#Blumen\" target= \"_blank\" rel=\"noopener\">Robert Blumen</a>\u00a0about systems performance: how the hardware and OS layers affect application behavior. The discussion covers the scope of systems performance, systems performance in the software life cycle, the role of performance analysis in architecture, methodologies for solving performance problems, dynamic tracing and tracing tools such as DTrace, the disk and file subsystems, the CPU and memory subsystems, and the challenges virtualization poses for performance analysts.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-225-Brendan-Gregg-on-Systems-Performance.mp3?dest-id=23379"
+}

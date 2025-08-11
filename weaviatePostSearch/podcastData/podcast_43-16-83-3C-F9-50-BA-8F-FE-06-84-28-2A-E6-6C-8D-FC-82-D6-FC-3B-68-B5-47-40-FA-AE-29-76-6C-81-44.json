@@ -1,0 +1,8 @@
+{
+    "Id": "43-16-83-3C-F9-50-BA-8F-FE-06-84-28-2A-E6-6C-8D-FC-82-D6-FC-3B-68-B5-47-40-FA-AE-29-76-6C-81-44",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Robert Smith Optimize for VDI",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Robert Smith about his experiences tuning Windows to operate with Virtualized Desktops. Robert starts out with dealing with boot times with Windows 7 - some customers were waiting up to ten minutes to boot! Careful boot log analysis finds answers. The conversation also digs into the whole cycle of patching, WSUS, service packs, hot fixes - every time a base image has to change, it impacts users. If you're even thinking about VDI, there's some great tips here!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c4024314-f5f8-42b4-89ab-a997bdb95def/audio/2ee0799b-9c5d-434d-8835-8ca4292709c9/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

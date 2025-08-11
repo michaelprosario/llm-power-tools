@@ -1,0 +1,8 @@
+{
+    "Id": "C2-76-F3-14-85-B1-51-6F-A6-BC-A4-08-8B-F4-AF-9C-BD-12-C3-63-0A-54-3D-20-6F-13-DF-AB-E0-B9-45-B3",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "A new life for old software - DasBlog Core with Mark Downie",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott and Mark Downie have been blogging for nearly 15 years using a blogging system called &quot;DasBlog.&quot; It started with .NET 1.1 and now Mark is forking DasBlog and taking it into an open source future with .NET Core. Scott talks to Mark about his first open source project, community response, .NET Standard, and moving a legacy app forward while still maintaining stability.</p>\n<ul>\n<li>http://twitter.com/poppastring</li>\n<li>https://github.com/poppastring/dasblog-core</li>\n</ul>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/f6fa9546-f23e-4c30-8d5d-f5406033f678/6a1077fa_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

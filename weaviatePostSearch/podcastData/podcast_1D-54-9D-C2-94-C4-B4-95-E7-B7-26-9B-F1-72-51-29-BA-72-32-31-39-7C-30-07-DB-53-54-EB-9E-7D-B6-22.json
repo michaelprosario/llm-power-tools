@@ -1,0 +1,8 @@
+{
+    "Id": "1D-54-9D-C2-94-C4-B4-95-E7-B7-26-9B-F1-72-51-29-BA-72-32-31-39-7C-30-07-DB-53-54-EB-9E-7D-B6-22",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "Our stack is HTML and CSS",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p>The title of this week's episode comes from a <a href=\"https://news.ycombinator.com/item?id=25673495\">Hacker News thread</a> where Guillermo argued that the complexity of front end performance goes beyond simplifying your stack to bare web primitives.</p><p>You can find out more about <a href=\"https://vercel.com/\">Vercel</a>, which \u00a0recently raised <a href=\"https://vercel.com/blog/series-b-40m-to-build-the-next-web\">a $40 million round</a>, on Guillermo's blog, where he details what the company has <a href=\"https://rauchg.com/2020/next-for-vercel\">planned for the future</a>.</p><p>You can find more info on Next.JS <a href=\"https://nextjs.org/\">here</a>. It's a very active <a href=\"https://stackoverflow.com/questions/tagged/next.js\">tag</a> on Stack Overflow with dozens of new questions a day.</p><p>Our lifeboat badge for this episode goes to <a href=\"https://stackoverflow.com/users/14860/paxdiablo\">paxdiablo</a> for answering the question: <a href=\"https://stackoverflow.com/questions/27688120/what-does-split-return-if-the-string-has-no-match/27688226#27688226\">What does .split() return if the string has no match?</a></p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/12daef67-3beb-4e30-9fbf-3b9cf4fbd846/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=12daef67-3beb-4e30-9fbf-3b9cf4fbd846&feed=XA_851k3"
+}

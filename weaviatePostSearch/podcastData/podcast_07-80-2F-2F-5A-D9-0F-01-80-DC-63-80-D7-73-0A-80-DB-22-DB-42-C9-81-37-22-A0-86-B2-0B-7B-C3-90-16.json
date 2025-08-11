@@ -1,0 +1,8 @@
+{
+    "Id": "07-80-2F-2F-5A-D9-0F-01-80-DC-63-80-D7-73-0A-80-DB-22-DB-42-C9-81-37-22-A0-86-B2-0B-7B-C3-90-16",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 70: Gerard Meszaros on XUnit Test Patterns",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/0BCCe-k0ueU/",
+    "Description": "In this episode we talk with Gerard Meszaros about problems and challenges doing unit testing in real-world projects. Starting from a short discussion about the importance of automated unit testing we spend most of this episode to talk about every day problems doing unit testing and how those problems can be solved. Based on this book on xunit testing patterns, Gerard talks about his experiences with unit test smells as an analogy to code smells. He describes an impressive set of unit testing patterns to overcome those difficult testing situations and illustrates them with nice examples everybody doing unit testing will feel familiar with.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode70-gerardMeszarosOnXUnitTestPatterns.mp3?dest-id=23379"
+}

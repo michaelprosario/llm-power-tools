@@ -1,0 +1,8 @@
+{
+    "Id": "7F-B8-DC-58-EA-7A-BA-7F-2D-28-7A-EC-82-59-B1-7D-C2-7E-DA-82-7D-17-F5-0C-98-03-66-82-BD-45-B5-61",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "vSphere and Hyper-V with Greg Shields",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Does it matter what virtualization technology you use? Richard chats with Greg Shields, one of the few folks out there with certifications in Microsoft's Hyper-V, VMWare's vSphere and Citrix Xen about the relatively merits of the stacks. Turns out, they're pretty close together, at least when it comes to virtualization. But the conversation goes deeper into the instrumentation - how do you know that you have the right loads on the right hardware? Can you make your own cloud effectively - it's got more to do with architecture than operating systems, as it turns out. Greg focuses in on the way you understand your systems as the true differentiator today!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/bac08eb8-9e0d-4d18-bc32-ee0b84accb07/audio/efff6663-126f-436f-81e8-6d58bc8010ce/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

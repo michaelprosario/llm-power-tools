@@ -1,0 +1,8 @@
+{
+    "Id": "CD-CA-8A-5F-EC-0B-46-D9-8C-7E-15-DA-86-95-65-48-E4-52-51-E5-4F-51-E6-84-3D-5D-7D-41-1C-CA-5B-B7",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 260: Haoyuan Li on Alluxio",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-260-Haoyuan-Li-on-Alluxio.mp3",
+    "Description": "<p>Jeff Meyerson talks to Haoyuan Li about Alluxio, a memory-centric distributed storage system. The cost of memory and disk capacity are both decreasing every year\u2013but only the throughput of memory is increasing exponentially. This trend is driving opportunity in the space of big data processing. Alluxio is an open source, memory-centric, distributed, and reliable storage system enabling data sharing across clusters at memory speed. Alluxio was formerly known as Tachyon. Haoyuan is the creator of Alluxio. Haoyuan was a member of the Berkeley AMPLab, which is the same research facility from which Apache Mesos and Apache Spark were born. In this episode, we discuss Alluxio, Spark, Hadoop, and the evolution of the data center software architecture.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-260-Haoyuan-Li-on-Alluxio.mp3?dest-id=23379"
+}

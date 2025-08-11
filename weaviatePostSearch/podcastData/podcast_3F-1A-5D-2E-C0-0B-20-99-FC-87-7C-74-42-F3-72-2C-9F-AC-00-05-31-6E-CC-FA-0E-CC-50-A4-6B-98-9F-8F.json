@@ -1,0 +1,8 @@
+{
+    "Id": "3F-1A-5D-2E-C0-0B-20-99-FC-87-7C-74-42-F3-72-2C-9F-AC-00-05-31-6E-CC-FA-0E-CC-50-A4-6B-98-9F-8F",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "The Future of SDN with Tom Hollingsworth",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Tom Hollingsworth about the Software Defined Network (SDN) landscape and how it's evolving into a more open set of standards that interoperate well together. Of course, it's never that easy, but one aspect that has really grabbed ahold is whitebox networking - standard hardware with custom software. Normally the two are supplied by the same vendor, but that is starting to change. Remarkably, Hewlett Packard has some leading edge aspects of this, including their own SDN App Store, so that you can choose what networking software you want to run on their hardware. And other hardware vendors while still supplying their own software are supporting OpenFlow, using the OpenFlow protocol to make highly interoperable switches. The future of SDN is very cool!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f89a04a6-5457-4f4b-a49b-3abff5f79ec9/audio/c10caa94-c96a-45b4-b336-2d2541aeebac/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

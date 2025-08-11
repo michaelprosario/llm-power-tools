@@ -1,0 +1,8 @@
+{
+    "Id": "7E-05-E8-42-F5-D6-C3-FF-A7-DA-54-21-C5-DA-32-81-2A-DB-7C-9C-88-0E-D7-68-81-E1-75-FB-AD-A3-B8-06",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 52: DSL Development in Ruby",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/7LSnexozREE/",
+    "Description": "In this episode, we're talking to <a href=\"http://obiefernandez.com/\">Obie Fernandez</a> about agile DSL development in Ruby. We started our discussion by defining what a DSL is, the difference between internal and external DSLs as well as the importance of the flexibly syntax of the host language in order to make DSLs worthwhile. We then looked at a couple of real world examples for DSLs, specifically, at Business Natural Languages. We then progressed to the main part of the discussions, which centered around the features of Ruby that are important for building DSLs. These include the flexible handling of parentheses, symbols, blocks as well as literal arrays and hashes. We then discussed Ruby's meta programming feautures and how they are important for building DSLs: instantiation, method_missing callback, class macros, top level \nfunctions and sandboxing. Features like eval, class_eval, instance_eval and define_method are also important for DSLs in \nRuby, as well as using alias_method for simple AOP.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode52-DSLsInRuby.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "11-28-11-9F-3D-F6-BE-93-D9-3D-1C-57-60-16-B3-33-8A-73-23-D4-F0-3E-62-93-9B-3F-3B-4D-72-6E-D2-26",
+    "ContentSourceId": "d63839fa-145c-4b98-b0bf-278d40a3236d",
+    "Title": "S6:E4 - Why do I need to test my code? (Jonas Nicklas)",
+    "SourceUrl": "https://www.codenewbie.org/podcast/why-do-i-need-to-test-my-code",
+    "Description": "If you're new to testing, the idea of writing tests for code that you wrote might sound strange. You just wrote it, so, theoretically, you should know what it does, right? But with a growing codebase and lots of people touching the code, implementing your piece of software might come with some unexpected side effects! Jonas explains why testing is so important, how to get started, and what it was like to write Capybara, the very popular testing framework. Show Links Partner with Dev &amp; CodeNewbie! (sponsor)  Capybara Webrat Test Driven Development Codeland Conf Codeland 2019 ",
+    "EnclosureUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/FOR9032807245.mp3?updated=1628260527"
+}

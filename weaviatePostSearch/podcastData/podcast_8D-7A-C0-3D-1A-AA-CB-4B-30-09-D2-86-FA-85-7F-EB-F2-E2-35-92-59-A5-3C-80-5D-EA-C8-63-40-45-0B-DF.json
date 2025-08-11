@@ -1,0 +1,8 @@
+{
+    "Id": "8D-7A-C0-3D-1A-AA-CB-4B-30-09-D2-86-FA-85-7F-EB-F2-E2-35-92-59-A5-3C-80-5D-EA-C8-63-40-45-0B-DF",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Clint Huffman Announces PAL 2.0!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard and Greg talk to Clint Huffman about Performance Analysis of Logs (PAL) 2.0. PAL makes the performance counters in perfmon far more manageable - by providing a breakdown of important counters and reasonable values. With PAL you turn on perfmon, collect a log and use the tool to find important numbers. Check out PAL at http://pal.codeplex.com. You can find Clint's blog at http://blogs.technet.com/b/clinth/.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/0e7c7c47-9e93-4649-8e1b-b58e2c24b727/audio/eed04adf-7e36-4e23-b846-69dcf2271c16/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

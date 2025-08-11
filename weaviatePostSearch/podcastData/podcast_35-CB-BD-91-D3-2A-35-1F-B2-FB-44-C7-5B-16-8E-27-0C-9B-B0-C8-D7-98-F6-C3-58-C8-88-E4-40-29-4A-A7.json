@@ -1,0 +1,8 @@
+{
+    "Id": "35-CB-BD-91-D3-2A-35-1F-B2-FB-44-C7-5B-16-8E-27-0C-9B-B0-C8-D7-98-F6-C3-58-C8-88-E4-40-29-4A-A7",
+    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
+    "Title": "087: Effective Java - Item #16: Favor Composition over Inheritance",
+    "SourceUrl": "https://fragmentedpodcast.com/",
+    "Description": "<p>In this mini-Fragment episode, Donn talks about Item #16 of the Effective Java series - Favor Composition over Inheritance. You'll learn why using inheritance is not always a great idea and how you can use composition in place of it to make your code more anti-fragile, resilient and clean.</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"http://amzn.to/1RUCko3\">Effective Java Book</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"http://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/donnfelker\">@donnfelker</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/kaushikgopal\">@kaushikgopal</a> [twitter.com]</li>\n</ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/bed74da6-b2bb-4b58-8cc0-1654eb613573/087-item16-of-the-effective-java_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
+}

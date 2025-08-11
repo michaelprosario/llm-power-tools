@@ -1,0 +1,8 @@
+{
+    "Id": "70-BA-E4-ED-E3-BC-93-29-C5-EC-49-99-19-8E-2B-8C-6A-DB-0A-37-E2-5A-FF-0D-43-EA-24-FA-A3-9C-C0-2B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 218: Udi Dahan on CQRS (Command Query Responsibility Segregation)",
+    "SourceUrl": "http://www.se-radio.net/?p=1608",
+    "Description": "Guest Udi Dahan talks with host Robert Blumen about the CQRS (command query responsibility segregation) architectural pattern. The discussion begins with a review of the command pattern. Then a high-level overview of CQRS, which consists of a separation of a command processing subsystem that updates a write model from one or more distinct and separate, [\u2026]",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio218-UdiDahan-CQRS.mp3?dest-id=23379"
+}
