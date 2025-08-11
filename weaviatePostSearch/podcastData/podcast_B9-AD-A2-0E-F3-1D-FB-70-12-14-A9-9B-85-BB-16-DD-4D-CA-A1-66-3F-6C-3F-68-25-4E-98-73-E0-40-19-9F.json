@@ -1,0 +1,8 @@
+{
+    "Id": "B9-AD-A2-0E-F3-1D-FB-70-12-14-A9-9B-85-BB-16-DD-4D-CA-A1-66-3F-6C-3F-68-25-4E-98-73-E0-40-19-9F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 556: Alex Boten on Open Telemetry",
+    "SourceUrl": "http://se-radio.net/se-radio-556-alex-boten-on-open-telemetry",
+    "Description": "<p>Software engineer Alex Boten, author of <em>Cloud Native Observability with Open Telemetry,</em> joins SE Radio host\u00a0<a href= \"https://www.se-radio.net/team/robert-blumen/\">Robert Blumen</a> for a conversation about software telemetry and the OpenTelemetry project. After a brief review of the topic and the OpenTelemetry project's origins rooted in the need for interoperability between telemetry sources and back ends, they discuss the open telemetry server and its features, including transforms, filtering, sampling, and rate limiting. They consider a range of topics, starting with alternative topologies with and without the telemetry server, server pipelines, and scaling out the server, as well as a detailed look at extension points and extensions; authentication; adoption; and migration.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/556_alex_boten_open_telemetry.mp3?dest-id=23379"
+}

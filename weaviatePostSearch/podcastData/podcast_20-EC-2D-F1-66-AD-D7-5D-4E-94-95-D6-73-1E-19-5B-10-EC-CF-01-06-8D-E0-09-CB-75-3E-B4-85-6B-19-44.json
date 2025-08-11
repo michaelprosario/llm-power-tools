@@ -1,0 +1,8 @@
+{
+    "Id": "20-EC-2D-F1-66-AD-D7-5D-4E-94-95-D6-73-1E-19-5B-10-EC-CF-01-06-8D-E0-09-CB-75-3E-B4-85-6B-19-44",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 525: Randy Shoup on Evolving Architecture and Organization at eBay",
+    "SourceUrl": "http://se-radio.net/episode-525-randy-shoup-on-evolving-architecture-and-organization-at-ebay",
+    "Description": "<p>Randy Shoup of eBay discusses the evolution of eBay's tech stack. SE Radio host Jeremy Jung speaks with Shoup about eBay's origins as a single C++ class with an Oracle database, a five-year migration to multiple Java services, sharing a database...</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/525-randy-shoup-evolving-architecture-organization-at-ebay.mp3?dest-id=23379"
+}

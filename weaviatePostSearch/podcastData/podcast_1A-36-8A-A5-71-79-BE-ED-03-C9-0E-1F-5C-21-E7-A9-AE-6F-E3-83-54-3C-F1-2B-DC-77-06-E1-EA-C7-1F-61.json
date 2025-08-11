@@ -1,0 +1,8 @@
+{
+    "Id": "1A-36-8A-A5-71-79-BE-ED-03-C9-0E-1F-5C-21-E7-A9-AE-6F-E3-83-54-3C-F1-2B-DC-77-06-E1-EA-C7-1F-61",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Using Query Store to Help Developers Understand Query Performance with Erin Stellato",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you make your SQL queries go faster? Richard chats with Erin Stellato about how Query Store in SQL Server 2017 and its ability to provide detailed information on query performance, including where SQL Server is compiling new query plans for repeated calls. Erin talks about how ORMs can cause repeated ad-hoc queries and how Query Store can be used to help educate developers and explore options for tuning those queries with stored procedures or parameterization. But you can't blame code by default - Query Store can be used for a variety of performance tuning options, on-premises and in the cloud!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d4cf7e65-91b2-49e3-84d5-cab7e90017b3/audio/11061791-bdda-48dc-bc20-1f920520033d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

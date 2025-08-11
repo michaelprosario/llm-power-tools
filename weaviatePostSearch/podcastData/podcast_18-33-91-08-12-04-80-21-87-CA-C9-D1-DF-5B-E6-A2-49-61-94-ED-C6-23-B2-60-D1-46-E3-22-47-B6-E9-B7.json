@@ -1,0 +1,8 @@
+{
+    "Id": "18-33-91-08-12-04-80-21-87-CA-C9-D1-DF-5B-E6-A2-49-61-94-ED-C6-23-B2-60-D1-46-E3-22-47-B6-E9-B7",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 295: Michael Feathers on Legacy Code",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-295-Michael-Feathers-on-Legacy-Code.mp3",
+    "Description": "<p>Felienne talks with Michael Feathers about Legacy Code. When is something legacy? Is working on legacy different from working on greenfield code? Do developers need different skills and techniques? Testing legacy code. How to test a legacy system? When do we have enough tests to feel safe to start coding? Techniques to make legacy systems more testable.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-295-Michael-Feathers-on-Legacy-Code.mp3?dest-id=23379"
+}

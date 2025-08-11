@@ -1,0 +1,8 @@
+{
+    "Id": "D8-9D-ED-4A-CC-2A-E5-4C-AC-48-1F-4B-53-9E-9F-E9-06-02-5E-2C-9C-97-21-04-47-79-51-4F-F8-9C-0E-CF",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "AppX and AppV with Steve Thomas",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Steve Thomas about AppV and AppX. AppV is short for Application Virtualization, a huge growth area of virtualization, providing tools to allow you to encapsulate applications to simplify deployment and configuration - or to not deploy them at all and allow them to run remotely. Steve talks about AppX, based on the Open Packaging Conventions (OPC) that helps to define application configuration and deployment requirements which at this point is focused on Windows 8.1 Store Apps. Beyond AppV is User Experience Virtualization, on the way to full Desktop Virtualization. How far will you go?</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e8df5d7a-5ca1-4e92-bd89-d9fc33201d11/audio/a45119ed-a05b-4ecb-8e34-d90f8ed9a28e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

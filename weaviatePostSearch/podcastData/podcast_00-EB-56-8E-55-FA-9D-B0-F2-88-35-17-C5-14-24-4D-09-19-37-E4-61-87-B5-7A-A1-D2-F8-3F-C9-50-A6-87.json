@@ -1,0 +1,8 @@
+{
+    "Id": "00-EB-56-8E-55-FA-9D-B0-F2-88-35-17-C5-14-24-4D-09-19-37-E4-61-87-B5-7A-A1-D2-F8-3F-C9-50-A6-87",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 42: Interview Gregor Hohpe",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/y-D4R3BN3_c/",
+    "Description": "In this episode, Gregor Hohpe gives us a great introduction to enterprise messaging based on his EAI Patterns book. Before we started discusssing the patterns in his book, we characterized messaging and talked about the various interaction styles. We also contrasted the messaging architectural style with an RPC based approach. We then took a look at the relationship to SOA, the role of contracts and the orchestration-vs-choreography discussion. We briefly discussed the nature of pattern languages before we then went through the different section in the book. There are six main sections: channel, message, routing, transfomation, endpoint as well as management and monitoring. We discussed the core patterns for each of these sections. This should give listeners a good high-level view of message-based systems. We concluded the discussion by looking at the critical importance of systems management and monitoring.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode42-gregorHohpe.mp3?dest-id=23379"
+}

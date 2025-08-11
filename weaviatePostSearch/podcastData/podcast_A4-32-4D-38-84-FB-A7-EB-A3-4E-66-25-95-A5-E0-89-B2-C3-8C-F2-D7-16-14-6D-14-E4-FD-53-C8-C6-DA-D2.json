@@ -1,0 +1,8 @@
+{
+    "Id": "A4-32-4D-38-84-FB-A7-EB-A3-4E-66-25-95-A5-E0-89-B2-C3-8C-F2-D7-16-14-6D-14-E4-FD-53-C8-C6-DA-D2",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 632: Goran Petrovic on Mutation Testing at Google",
+    "SourceUrl": "http://se-radio.net/se-radio-632-goran-petrovic-on-mutation-testing-at-google",
+    "Description": "<p>Goran Petrovic, a Staff Software Engineer at Google, speaks with host Gregory M. Kapfhammer about how to perform mutation testing on large software systems. They explore the design and implementation of the mutation testing infrastructure at Google, discussing the strategies for ensuring that it enhances both developer productivity and software quality. They also investigate the findings from experiments that quantify how mutation testing enables software engineers at Google to write better tests that can detect defects and increase confidence in software correctness. Brought to you by <a href= \"https://www.computer.org\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a> and <a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/632-goran-petrovic-mutation-testing-at-google.mp3?dest-id=23379"
+}

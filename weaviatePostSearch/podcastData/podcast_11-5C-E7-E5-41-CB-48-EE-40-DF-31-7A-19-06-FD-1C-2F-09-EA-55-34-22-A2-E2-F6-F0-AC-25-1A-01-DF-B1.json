@@ -1,0 +1,8 @@
+{
+    "Id": "11-5C-E7-E5-41-CB-48-EE-40-DF-31-7A-19-06-FD-1C-2F-09-EA-55-34-22-A2-E2-F6-F0-AC-25-1A-01-DF-B1",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Microsoft Analytics Stack with Andrew Brust",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Data analytics has evolved - have you kept up? Richard chats with Andrew Brust about the revolution taking place in data analytics in general and Microsoft efforts in the space specifically. Andrew talks about how tools like SQL Server OLAP Services renamed to become Analytics Services, and then moved into the cloud. Not that you need to be in the cloud to do analytics - there are plenty of on-premises tools as well, but it sure does help to be in the cloud. Data analytics workloads are very bursty and well suited to the utility computing offered by the cloud. Lots of links in the show notes, check them out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/fdbc6f8a-63a3-4d98-b70b-87c1f91ce940/audio/da619358-410e-4913-9be2-211af3a669ef/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "B4-93-46-33-E9-26-17-B5-6A-94-2E-CB-03-E3-07-F9-E9-C9-F8-88-15-A4-1F-97-5E-9E-6A-F2-8B-E7-DE-A2",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Cloud Security with Paul Keely",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Modern security is complex - how can the cloud help? Richard chats with Paul Keely about his work with organizations helping to secure workstations and using the cloud to get insight into the kind of attacks going on and how to mitigate them. Paul talks about security starting with administrators, who are now the key vector to exploits in the modern cybersecurity age. Just Enough Administration, where there are individual accounts for each service that an admin uses and the accounts are logged, emailed and meant for short-term use only. There is a large array of tools provided by Microsoft both on-premises and in Azure - it takes awhile to sort them out, but they are powerful!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/801b00e6-0c76-467f-8f55-eb02d4e0f280/audio/097dd7c2-5379-4878-9b9d-ab9b3cf352c9/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

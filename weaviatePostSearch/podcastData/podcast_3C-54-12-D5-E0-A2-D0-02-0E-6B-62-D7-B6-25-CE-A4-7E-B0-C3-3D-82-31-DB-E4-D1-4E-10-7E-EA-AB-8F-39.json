@@ -1,0 +1,8 @@
+{
+    "Id": "3C-54-12-D5-E0-A2-D0-02-0E-6B-62-D7-B6-25-CE-A4-7E-B0-C3-3D-82-31-DB-E4-D1-4E-10-7E-EA-AB-8F-39",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 562: Bastian Gruber on Rust Web Development",
+    "SourceUrl": "http://se-radio.net/se-radio-562-bastian-gruber-on-rust-web-development",
+    "Description": "<p>Bastian Gruber, author of the book <em>Rust Web Development</em>, speaks with host <a href= \"https://www.se-radio.net/team/philip-winston/\">Philip Winston</a> about creating server-based web applications with Rust. They explore Rust language features, tooling, and web frameworks such as Warp and Tokio. From there, they examine the steps to build a simple web server and a RESTful API, as well as modules, logging and tracing, and other aspects of web development with Rust.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/562_bastian_gruber_rust_web_development.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "F7-1C-9B-67-B5-FE-65-27-EB-21-FD-51-9E-CF-9C-00-94-D4-D1-1C-3E-80-F7-9F-FC-64-73-E6-E1-67-97-A3",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "WSUS Maintenance with Adam Marshall",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you maintain Windows Server Update Services? Richard chats with Adam Marshall about all the maintenance that WSUS needs over time - and the toolset he has built to automate it. This leads to a conversation about Windows Update in general... which hasn't been great lately. Can you really count on Windows as a Service? What about InTune? Adam also talks about Windows Update for Business which is a free option for managing updates without having an on-premises update server. Lots of choices!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/582150b9-626f-4a64-a9cd-546dea78e367/audio/5887e2dd-2f9d-4d43-bc76-9ab3581051a7/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

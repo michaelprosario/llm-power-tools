@@ -1,0 +1,8 @@
+{
+    "Id": "DE-B8-B4-85-B3-66-5F-10-DA-25-E9-2C-58-5B-94-FD-92-5A-8B-D3-ED-D9-80-7A-F4-47-6F-44-3B-60-9F-B8",
+    "ContentSourceId": "93e20d47-d987-49da-93b1-8fa3d96a518b",
+    "Title": "When vibe coding goes viral",
+    "SourceUrl": "https://changelog.com/podcast/647",
+    "Description": "Chris Anderson joins the show. You may recognize Chris from the early days of CouchDB and Couchbase. Back when the world was just waking up to NoSQL, Chris was at the center of it all, shaping how developers think about data distribution and offline-first architecture.\n\nThese days, Chris is working on Vibes.diy and Fireproof \u2014 tools that make one-shot app generation not only possible, but shareable within minutes. We talk about the origins of CouchDB, the fork that led to Membase and Couchbase, and how that long journey led to this new paradigm: Vibe Coding.",
+    "EnclosureUrl": "https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/647/the-changelog-647.mp3"
+}

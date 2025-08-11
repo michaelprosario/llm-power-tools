@@ -1,0 +1,8 @@
+{
+    "Id": "9D-D5-0F-7A-FF-16-32-7B-3C-7A-79-64-B8-51-E1-41-51-EF-5A-54-A7-8E-C6-3B-F8-28-4C-D1-70-5F-13-1C",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 675: Brian Demers on Observability into the Toolchain",
+    "SourceUrl": "http://se-radio.net/se-radio-675-brian-demers-on-observability-into-the-toolchain",
+    "Description": "<p data-renderer-start-pos=\"48\"><strong>Brian Demers</strong>, Developer Advocate at Gradle, speaks with host <a href= \"https://se-radio.net/team/giovanni-asproni/\" target=\"_blank\" rel= \"noopener\">Giovanni Asproni</a> about the importance of having observability in the toolchain. Such information about build times, compiler warnings, test executions, and any other system used to build the production code can help to reduce defects, increase productivity, and improve the developer experience. During the conversation they touch upon what is possible with today\u2019s tools; the impact on productivity and developer experience; and the impact, both in terms of risks and opportunities, introduced by the use of artificial intelligence.</p> <p data-renderer-start-pos=\"48\">Brought to you by\u00a0<a href= \"https://www.computer.org/\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/675-brian-demers-observability-into-toolchain.mp3?dest-id=23379"
+}

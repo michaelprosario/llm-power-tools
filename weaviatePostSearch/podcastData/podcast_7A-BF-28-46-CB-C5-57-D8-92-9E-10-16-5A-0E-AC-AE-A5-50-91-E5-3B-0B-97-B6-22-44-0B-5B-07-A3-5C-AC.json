@@ -1,0 +1,8 @@
+{
+    "Id": "7A-BF-28-46-CB-C5-57-D8-92-9E-10-16-5A-0E-AC-AE-A5-50-91-E5-3B-0B-97-B6-22-44-0B-5B-07-A3-5C-AC",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Stack with Jeffrey Snover",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Have you heard about Azure Stack? While at Ignite in Atlanta, Richard sat down with Jeffrey Snover to discuss the Azure Stack announcements. Azure Stack is all about bringing Azure architecture to your data center, or the data center of your preferred service provider. The concept is more about architecture than implementation, although as Jeffrey explains, you won't be running Azure Stack on your existing hardware. The hardware and configuration requirements for Azure Stack are very specific, look at this as more of a partnership with Microsoft doing a fair bit to maintain your new Azure Stack infrastructure - perhaps even more than you do! This is a new kind of on-premises solution and bears careful study!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f30425b2-cd42-4771-bd63-649377e764d4/audio/74285ce8-7b44-410c-8c1f-feb3e90847d6/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "63-6D-65-33-99-86-0B-BE-8B-42-1C-CB-12-23-06-87-79-86-5C-C6-A4-E8-88-5F-9C-91-BF-EB-8A-46-31-6E",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 509: Matt Butcher and Matt Farina on Helm Charts",
+    "SourceUrl": "http://se-radio.net/episode-509-matt-butcher-and-matt-farina-on-helm-charts",
+    "Description": "<p>Matt Butcher and Matt Farina, authors of the book Learning Helm join SE Radio host Robert Blumen to discuss Helm, the package manager for kubernetes. Beginning with a review of kubernetes and Helm, this episode explores the history of helm;...</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/509-matt-butcher-matt-farina-helm-charts.mp3?dest-id=23379"
+}

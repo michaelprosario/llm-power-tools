@@ -1,0 +1,8 @@
+{
+    "Id": "3C-88-1B-7A-F6-C6-9F-31-1F-FC-B1-BA-1D-FB-3A-4A-DE-CC-68-FA-03-0E-72-03-69-6F-CC-2A-F8-10-98-E6",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Paul Randal Talks File Streams in SQL Server 2008!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard and Greg talk to Paul Randal about the new file stream technology in SQL Server 2008. File streams provide a solution to very large files being connected with SQL Server transactionally while still storing the files themselves in the file system, rather than the database. Check out Paul's blog at http://www.sqlskills.com/blogs/paul</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9fa527f5-fdc5-49fb-ad6b-87a5c5104e1f/audio/bebfb817-6f88-4e53-8e83-2cbd42bc5867/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

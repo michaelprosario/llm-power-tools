@@ -1,0 +1,8 @@
+{
+    "Id": "CE-59-C4-03-4E-B6-B6-DA-B8-CD-FE-DD-C2-A5-F5-C2-75-0D-67-A3-6A-87-FB-02-83-EB-6C-DC-72-A1-FD-5D",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Internet Explorer Enterprise Mode with Fred Pullen",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Still have applications that depend on Internet Explorer? Richard talks to Fred Pullen from the Edge team about IE Enterprise Mode, allowing IT folks to strictly control what sites run in IE11, and what sites can run in Edge. The Edge browser breaks with the legacy of Internet Explorer, making it smaller, faster and more secure. But IE has a 20+ year history and there are plenty of apps, especially internal apps, that still depend on it. Fred talks about using Enterprise Mode to specify exactly what apps run in IE11 and what ones can run in Edge - and automating the switching between browsers so that users don't have to think about it at all.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/45e08292-3963-4d78-9651-0dc348697fa7/audio/a1695c81-6f93-4b45-b0b2-24bc8de89a0f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

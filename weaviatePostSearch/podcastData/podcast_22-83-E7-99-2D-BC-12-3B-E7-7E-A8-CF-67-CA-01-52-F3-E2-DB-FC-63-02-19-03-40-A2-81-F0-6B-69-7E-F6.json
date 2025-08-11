@@ -1,0 +1,8 @@
+{
+    "Id": "22-83-E7-99-2D-BC-12-3B-E7-7E-A8-CF-67-CA-01-52-F3-E2-DB-FC-63-02-19-03-40-A2-81-F0-6B-69-7E-F6",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Database Reliability in 2017 with Allan Hirt",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Databases still need to be reliable, but what does that look like in 2017? Richard chats with Allan Hirt about how he makes databases reliable today. The conversation also turns to how reliability works with the Linux version of SQL Server - clustering is definitely different when you change operating systems! Alan also digs into what the cloud brings to the table - on-premises databases are never going away, and have certain advantages in some scenarios, but you better have a plan for how the cloud fits in, even if only for disaster recovery. The importance of data in an organization isn't going away any time soon!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6f75f1d9-7fa5-4e6f-ac60-10dc5bbb96c6/audio/6b8ae963-6bd6-4bbe-9dbf-9e4ba7150d54/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

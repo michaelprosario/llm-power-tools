@@ -1,0 +1,8 @@
+{
+    "Id": "D0-AE-D9-EB-A7-31-6A-8C-82-66-67-20-96-FB-9D-80-59-B2-99-7A-E2-14-59-86-93-EF-0C-50-F2-1C-DF-E1",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Getting Up to Speed with IIS8 and 8.5 with Scott Forsyth",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Scott Forsyth about IIS 8 and 8.5. IIS 8 shipped with Server 2012, and IIS 8.5 with Server 2012 R2 (which at publication was still in preview). Scott talks about the new features of IIS 8, many of which are focused on large scale web hosting, where hundreds of web sites are hosted together. The conversation also digs into the back porting of features, including dynamic IP restriction and FTP Login restrictions, while being released with IIS 8, are also now available for IIS 7. Scott also talks about specific features new to IIS 8.5, including dynamic web site activation and next generation logging. Lots of cool new features in the latest IIS!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/3567a3ac-867a-4b97-9ecf-ad7bfaa70876/audio/b6c90560-4bbb-4428-bd80-60655dea270a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "AC-0C-AC-8F-EC-D8-99-CB-60-E5-35-4B-41-6E-F5-28-30-8C-6B-80-5A-D9-E7-0E-32-69-C7-39-62-E8-9A-51",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 46: Refactoring Pt. 1",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/MLtehd-rdqU/",
+    "Description": "Changeable software has been a goal of several technique in software engineering. Probably the most important is Refactoring, changing the code without changing the behaviour (or at least without breaking the tests). In this episode Eberhard talks with Martin Lippert about this technique. The episode covers a history of refactoring, a definition of code smells and how to actually do refactorings in your everyday work. Also some advanced topics - like the ROI of Refactoring or Refactoring in dynamic languages - are covered.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode46-refactoring_pt1.mp3?dest-id=23379"
+}

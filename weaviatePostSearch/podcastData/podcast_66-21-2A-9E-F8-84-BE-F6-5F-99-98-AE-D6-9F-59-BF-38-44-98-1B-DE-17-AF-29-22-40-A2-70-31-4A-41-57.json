@@ -1,0 +1,8 @@
+{
+    "Id": "66-21-2A-9E-F8-84-BE-F6-5F-99-98-AE-D6-9F-59-BF-38-44-98-1B-DE-17-AF-29-22-40-A2-70-31-4A-41-57",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 11: Interview Gregor Kiczales",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/br-LZ73FOCk/",
+    "Description": "In this Episode we have the pleasure of talking with Gregor Kiczales. Gregor is one of the fathers of aspect-oriented programming (AOP). Today he is a professor of computer science at the University of British Columbia. Back in his days at Xerox Parc, he and a number of other people worked on the early forms of AOP as well as on some of its forerunners, such as meta object protocols. In this interview, we talk about a number of interesting topics, such as the history of AOP, the relationship of AO to interceptors, the industry acceptance of AOP, early aspects (i.e. using AO in development phased before implementation) as well as adoption strategies for AOP.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode11-gregorKiczales.mp3?dest-id=23379"
+}

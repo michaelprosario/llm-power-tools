@@ -1,0 +1,8 @@
+{
+    "Id": "B3-EF-9C-31-5A-F0-CF-6C-FE-ED-9B-6E-58-E1-96-B7-23-A6-A2-A3-BD-81-4B-CF-0E-1E-65-3D-BF-DF-F9-48",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 641: Catherine Nelson on Machine Learning in Data Science",
+    "SourceUrl": "http://se-radio.net/se-radio-641-catherine-nelson-on-machine-learning-in-data-science",
+    "Description": "<p>Catherine Nelson, author of the new O\u2019Reilly book, <em data-renderer-mark=\"true\">Software Engineering for Data Scientists</em>, discusses the collaboration between data scientists and software engineers -- an increasingly common pairing on machine learning and AI projects. Host <a href= \"https://se-radio.net/team/philip-winston/\">Philip Winston</a> speaks with Nelson about the role of a data scientist, the difference between running experiments in notebooks and building an automated pipeline for production, machine learning vs. AI, the typical pipeline steps for machine learning, and the role of software engineering in data science. Brought to you by <a href= \"https://www.computer.org\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a> and <a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software</a> magazine.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/641-catherine-nelson-machine-learning-data-science.mp3?dest-id=23379"
+}

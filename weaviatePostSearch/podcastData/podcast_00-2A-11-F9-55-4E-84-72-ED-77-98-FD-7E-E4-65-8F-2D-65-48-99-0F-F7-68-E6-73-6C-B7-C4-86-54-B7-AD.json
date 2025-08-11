@@ -1,0 +1,8 @@
+{
+    "Id": "00-2A-11-F9-55-4E-84-72-ED-77-98-FD-7E-E4-65-8F-2D-65-48-99-0F-F7-68-E6-73-6C-B7-C4-86-54-B7-AD",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Mitch Garvis Manages Virtual Machines with SCVMM!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard and Greg talk to Mitch Garvis about System Center Virtual Machine Manager (SCVMM). SCVMM handles Physical-to-Virtual (P2V) migration of computers into virtual machines. It also does Virtual-to-Virtual (V2V) migration from VMWare VMDK to VHD. Besides migration, SCVMM allows operators to understand the load across different VM host machines and move VMs from one machine to another, to handle failover clustering and to provision new VMs as needed.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a684f2e6-ee25-420e-bede-1b144a75c7cf/audio/64064675-8787-41d4-8a90-54c934fb4977/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

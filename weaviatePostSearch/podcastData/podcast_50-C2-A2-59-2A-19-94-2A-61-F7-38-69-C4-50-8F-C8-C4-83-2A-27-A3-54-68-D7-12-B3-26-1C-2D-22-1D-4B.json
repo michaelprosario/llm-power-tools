@@ -1,0 +1,8 @@
+{
+    "Id": "50-C2-A2-59-2A-19-94-2A-61-F7-38-69-C4-50-8F-C8-C4-83-2A-27-A3-54-68-D7-12-B3-26-1C-2D-22-1D-4B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 612: Eyal Solomon on API Consumption Management",
+    "SourceUrl": "http://se-radio.net/se-radio-612-eyal-solomon-on-api-consumption-management",
+    "Description": "<p>Eyal Solomon, CEO and co-founder of <a href= \"https://www.lunar.dev/\">Lunar.dev</a>, joins SE Radio\u2019s <a href= \"https://se-radio.net/team/kanchan-shringi/\">Kanchan Shringi</a> for a discussion on tooling for API consumption management. The episode starts by examining why API consumption management is an increasingly important topic, and how existing tooling on the provider side can be inadequate for client-side issues. Eyal talks in detail about issues that are unique to API consumers, before taking a deep dive into the evolution of middleware built by teams and companies to address these issues and the gaps. Finally they consider how Lunar.dev seeks to solve these issues, as well as Eyal's vision of lunar.dev as a open source platform. This episode is sponsored by <a href= \"https://workos.com/?utm_source=seradio&utm_medium=podcast&utm_campaign=q12024\" target=\"_blank\" rel=\"noopener\">WorkOS</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/612_eyal_solomon_api_consumption_management.mp3?dest-id=23379"
+}

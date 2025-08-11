@@ -1,0 +1,8 @@
+{
+    "Id": "22-11-CF-9F-F1-B0-DF-75-5A-5E-37-9F-40-77-D2-06-17-A7-63-4B-4B-43-0C-F4-4B-A0-53-5D-AA-F1-57-65",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure App Service with Jeremy Thake",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What can App Service do for you? While at Ignite in Atlanta, Richard sat down with Jeremy Thake to talk about his new role with the Azure team, working with App Service. The conversation starts out focused on the truth that App Service is for operations folks, not developers. App Service is a set of tools for managing applications in the cloud effectively, being able to measure their health, scale instances, restart, reconfigure, and so on. Jeremy also talks about the role App Service takes in deploying your cloud applications at scale for testing and pre-production reasons, as well as out in the production space. No matter how you use Azure, App Service can help!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2fc3228b-b80b-4c40-b94d-de8ca35fa644/audio/f9103b63-c9bd-4cce-98a2-92856857c268/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

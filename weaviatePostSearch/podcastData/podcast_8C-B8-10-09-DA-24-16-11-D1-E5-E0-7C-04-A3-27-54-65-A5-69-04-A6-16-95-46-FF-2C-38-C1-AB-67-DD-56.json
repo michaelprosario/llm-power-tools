@@ -1,0 +1,8 @@
+{
+    "Id": "8C-B8-10-09-DA-24-16-11-D1-E5-E0-7C-04-A3-27-54-65-A5-69-04-A6-16-95-46-FF-2C-38-C1-AB-67-DD-56",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Microsoft Azure Networking with Albert Greenberg",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What does it take to make Azure networking actually work? Richard chats with Microsoft VP Albert Greenberg about the whole of Azure networking. The conversation starts out talking about the complexity of building massive virtual networks for Azure so that every customer has their own private space to work in, while not impacting or being impacting by any of the other customers. Albert talks about the need for no central point of focus when scaling to public cloud sizes when it comes to network - there's no hardware available at this size!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/523574e1-2eb9-42fa-acae-dd5131ee059a/audio/e3f599c3-b1a5-42da-9a09-bed572dcf05d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

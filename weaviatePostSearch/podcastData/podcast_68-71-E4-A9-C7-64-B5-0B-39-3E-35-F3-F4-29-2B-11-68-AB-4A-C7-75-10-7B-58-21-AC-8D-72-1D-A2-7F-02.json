@@ -1,0 +1,8 @@
+{
+    "Id": "68-71-E4-A9-C7-64-B5-0B-39-3E-35-F3-F4-29-2B-11-68-AB-4A-C7-75-10-7B-58-21-AC-8D-72-1D-A2-7F-02",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Unified Remote Access with Richard Hicks",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>So where is remote access going these days? Richard talks to Richard Hicks about Microsoft DirectAccess and more. Recognizing that VPNs don't make people happy, Richard Hicks talks about how DirectAccess did a good job of making remote connectivity seamless and invisible - at the price of being a challenge to set up in the first place. Having your remote access roles as isolated VMs in your network has distinct advantages! However, the domain join requirement is a significant limitation, and one that Microsoft is working to overcome with Microsoft inTune and the cloud. Remote access continues to evolve!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ea2177cb-8074-49aa-8171-e2e598578ff0/audio/855657e2-bc99-40b2-829f-6f48e56b1b20/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

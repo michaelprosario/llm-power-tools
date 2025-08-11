@@ -1,0 +1,8 @@
+{
+    "Id": "AE-C3-39-BE-D8-C6-F7-2F-54-F1-52-20-7A-89-54-AE-F1-34-9F-88-ED-69-20-C4-6F-A7-A4-93-83-C7-05-2F",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Patching Windows Clusters with Luke Swords",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Patching is hard, but patching clusters is worse! Richard chats with Luke Sword about the challenges of getting patches done right when systems are mission critical and complex. Luke runs down the range of options for managing patch, including Windows Update Services, the Microsoft Deployment Toolkit and System Center Configuration Manager (which depends on the previous two). But that only works when the patches are all independent - what happens if you have to patch one server before another? The conversation digs into System Center Orchestrator in the role of coordination and all the PowerShell scripts you need to write and manage to make it all work. Check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a9c639db-eac0-4487-8624-b609921fd468/audio/90c9e890-6ce7-4544-a9e4-fe5a532b01e6/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

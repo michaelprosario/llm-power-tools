@@ -1,0 +1,8 @@
+{
+    "Id": "18-A9-D5-14-01-BB-30-82-05-89-6C-49-8C-DA-D0-03-F8-32-C1-EE-5B-F8-9A-E2-7D-63-FB-35-00-6F-59-B5",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 141: Second Life and Mono with Jim Purbrick",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/jHE3TDJNbqM/",
+    "Description": "In the first part of this episode we discuss a couple of basics about SecondLife (scaling, partitioning, etc). The second part specifically looks at how the dev team tackled a number of interesting problems in the context of executing their own LSL scripting language on top of Mono.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode141-secondLifeJimPurbrick.mp3?dest-id=23379"
+}

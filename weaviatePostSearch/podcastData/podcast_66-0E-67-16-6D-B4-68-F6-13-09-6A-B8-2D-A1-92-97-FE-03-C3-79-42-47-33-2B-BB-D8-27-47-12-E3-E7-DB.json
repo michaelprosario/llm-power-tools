@@ -1,0 +1,8 @@
+{
+    "Id": "66-0E-67-16-6D-B4-68-F6-13-09-6A-B8-2D-A1-92-97-FE-03-C3-79-42-47-33-2B-BB-D8-27-47-12-E3-E7-DB",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 185: Dwight Merriman on Replication",
+    "SourceUrl": "http://www.se-radio.net/?p=1203",
+    "Description": "Recording Venue: MongoSF, San Francisco Guest: Dwight Merriman As application data size and throughput have outgrown the processing and storage needs of commodity servers, replication has become an increasingly important strategy. In this episode, Robert talks with Dwight Merriman about database replication. Topics covered include replication basics, master-slave versus master-master, failure and recovery, replication versus [\u2026]",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE185-merriman.fin.mp3?dest-id=23379"
+}

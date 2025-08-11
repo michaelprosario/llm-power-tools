@@ -1,0 +1,8 @@
+{
+    "Id": "76-AA-BB-7A-1B-9C-47-39-A7-FD-7B-27-46-D3-20-9F-F6-C9-B0-6E-96-75-66-0A-DE-47-2F-63-FB-C2-77-30",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Running a Private Cloud with Alan Sugano",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Alan Sugano about his experience building out a private cloud for his customers. The conversation starts out focused on why you would want to build a private cloud, especially for someone else to use - Alan talks about his customers not wanting to go to the public cloud, but also not wanting to upgrade their own hardware. Once committed, Alan got to do the fun part (for a hardware geek) of building a private cloud - finding a great data center provider. From there he implemented VMWare's vCloud Director with some expensive hardware and difficult 10Gb networking to get up and running. From there things getting really challenging - what does it take to run a cloud properly? It's more complex than you think!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/52cadffd-b9e7-4474-a8bb-1050b0baf6da/audio/62114bca-440b-400d-9100-73fc04d5a7ca/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

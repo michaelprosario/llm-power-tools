@@ -1,0 +1,8 @@
+{
+    "Id": "4D-23-16-7B-66-9E-9A-93-78-36-29-20-3B-FB-AD-F1-0B-2B-CA-C3-29-1E-E6-C0-48-3A-0F-3E-34-A7-D6-A8",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 118: Eelco Visser on Parsers",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/jXfdjqO6fEE/",
+    "Description": "In this episode we're talking to Eelco Visser about parsing text. We start at the basics - what is parsing? - covering classic tools such as Yacc and classic parsing approaches such as LALR before examining how more recent approaches such as scannerless parsing can make parsing easier and enable previously impractical use cases.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode118-eelcoVisserOnParsers.mp3?dest-id=23379"
+}

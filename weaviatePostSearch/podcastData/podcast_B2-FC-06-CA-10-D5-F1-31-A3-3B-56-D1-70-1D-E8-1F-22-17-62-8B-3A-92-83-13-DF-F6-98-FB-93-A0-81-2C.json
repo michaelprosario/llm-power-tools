@@ -1,0 +1,8 @@
+{
+    "Id": "B2-FC-06-CA-10-D5-F1-31-A3-3B-56-D1-70-1D-E8-1F-22-17-62-8B-3A-92-83-13-DF-F6-98-FB-93-A0-81-2C",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 334: David Calavera on Zero-downtime Migrations and Rollbacks with Kubernetes",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-334-David-Calavera-on-Zero-Downtime-Migrations-and-Rollbacks-with-Kubernetes.mp3",
+    "Description": "<p>Jeremy Jung talks with David Calavera about zero-downtime migrations and rollbacks with Kubernetes. In this episode we define migrations, rollbacks, and discuss how Netlify was able to migrate to Kubernetes and roll back off of it multiple times without impacting their users. David explains how developers can run old and new systems simultaneously, the importance of defining errors in your system, and when to apply fixes vs rolling back. We also discuss their decision to move to Kubernetes, and the benefits they received.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-334-David-Calavera-on-Zero-Downtime-Migrations-and-Rollbacks-with-Kubernetes.mp3"
+}

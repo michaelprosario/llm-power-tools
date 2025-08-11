@@ -1,0 +1,8 @@
+{
+    "Id": "BA-E7-B9-FD-84-BC-45-BE-F8-BC-E6-26-D2-61-06-50-99-4E-31-6C-94-40-3D-9B-75-00-E3-4B-4B-D0-F2-E3",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Source Control and The Cloud: How did CodePlex start supporting Git?",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott sits down with infrastructure engineer Matt Hawley to find out how the CodePlex team implemented the Git distributed source control system. CodePlex now supports TFS, Mercurial and Git as choices for source.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/c0d0832a-1a10-40b2-afe7-f627d496f2f5/3295dba2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

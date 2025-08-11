@@ -1,0 +1,8 @@
+{
+    "Id": "7A-68-76-F9-41-46-E6-1B-40-A7-9F-02-24-40-B9-10-5F-CD-F0-FD-09-BD-0C-63-D1-CB-D2-A7-67-12-3C-A6",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Hyperconvergence using Simplivity with Alan Sugano",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>If you could make storage super fast, how much better would things be? Richard chats with Alan Sugano about his discovery of Simplivity, a card added on to certain Dell, Lenovo and Cisco storage arrays to do inline de-duplication so fast that the iOPs load drops massively. And how many problems does that solve? Alan talks about how improving storage performance changed the way he thinks about hyperconvergence. Different kinds of VMs and roles living together on these high-performance devices makes your private cloud solution so much simpler!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/5c4c1c31-71d2-4ac8-927c-28f773d5cc2e/audio/02664ef5-a13e-4542-a32b-6e7af95c6880/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

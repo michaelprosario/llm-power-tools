@@ -1,0 +1,8 @@
+{
+    "Id": "BF-C2-EE-FD-C5-89-53-A5-66-2B-A0-E0-CA-44-5B-E2-37-F4-3E-F5-4B-5D-EF-76-E4-27-3A-17-AF-58-5E-FA",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Stream Analytics with Scott Klein",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How fast can you analyze incoming data? Richard talks to Scott Klein about Azure Stream Analytics. Scott discusses how stream analytics is different from data warehousing, being an additional &quot;near real time&quot; service you can add to your application infrastructure to let you react faster to business opportunities. The conversation digs into gradual adoption of stream analytics, taking small bites into the new technology to give your applications and services new capabilities without having to go &quot;all-in&quot; at once. Check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/5e4ae7b4-c46e-4674-ad76-d0bf21fe2032/audio/038df9d3-199c-49a0-a343-07f890f12fce/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "90-43-BF-67-1B-6E-89-D8-38-8C-C1-60-68-90-17-1E-4A-27-F1-7C-5D-F6-B9-0D-E5-71-D6-1F-24-58-32-70",
+    "ContentSourceId": "5cc3684f-3247-4149-a369-b48dc14d3734",
+    "Title": "#98: Adding concurrency to Django with Django Channels",
+    "SourceUrl": "https://talkpython.fm/episodes/show/98/adding-concurrency-to-django-with-django-channels",
+    "Description": "",
+    "EnclosureUrl": "https://talkpython.fm/episodes/download/98/adding-concurrency-to-django-with-django-channels.mp3"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "72-81-4F-E4-0E-66-38-B5-6C-9D-58-A5-25-49-47-C1-96-25-C7-81-34-8E-98-48-D6-22-2A-B1-04-1F-78-4D",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 160: AspectJ and Spring AOP with Ramnivas Laddad",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/z1GlYJ_AAnA/",
+    "Description": "This episode is a conversation with Ramnivas Laddad about aspect-oriented programming (AOP), Aspect J, and Spring AOP. We review the fundamental concepts of AOP, discuss AspectJ (an open source compiler that extends java with support for AOP),  and cover the Spring Framework's proxy-based AOP system.  Laddad also gives his thoughts on the use cases for AOP and where we are in the technology adoption curve, and updates on the state of the AspectJ project itself.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode160-aspectJ.mp3?dest-id=23379"
+}

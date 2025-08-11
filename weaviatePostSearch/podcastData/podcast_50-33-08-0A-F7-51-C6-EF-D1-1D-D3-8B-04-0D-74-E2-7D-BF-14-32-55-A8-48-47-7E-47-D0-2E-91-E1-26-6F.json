@@ -1,0 +1,8 @@
+{
+    "Id": "50-33-08-0A-F7-51-C6-EF-D1-1D-D3-8B-04-0D-74-E2-7D-BF-14-32-55-A8-48-47-7E-47-D0-2E-91-E1-26-6F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 158: Rich Hickey on Clojure",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/SIvxVfkAQLk/",
+    "Description": "This episode is a coversation with Rich Hickey about his programming language Clojure. Clojure is a Lisp dialect that runs on top of the JVM that comes with - among other things - persistent data structures and transactional memory, both very useful for writing concurrent applications.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode158-clojure.mp3?dest-id=23379"
+}

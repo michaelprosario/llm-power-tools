@@ -1,0 +1,8 @@
+{
+    "Id": "EA-06-07-F0-92-1A-97-89-1A-E4-4C-57-C9-F4-A3-55-0A-D3-9E-AA-E8-8A-8B-56-07-D7-6F-A2-FB-9D-ED-29",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio-Episode-282-Donny-Nadolny-on-Debugging-Distributed-Systems",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-282-Donny-Nadolny-on-Debugging-Distributed-Systems.mp3",
+    "Description": "<p>Donny Nadolny of PagerDuty joins Robert Blumen to tell the story of debugging an issue that PagerDuty encountered when they set up a Zookeeper cluster that spanned across two geographically separated datacenters in different regions.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-282-Donny-Nadolny-on-Debugging-Distributed-Systems.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "DF-99-B9-BA-04-FA-5A-E0-E9-B8-49-1F-5A-60-51-A9-7E-2F-F0-D1-1E-5C-8F-C9-AF-E4-9B-B8-9F-CB-7D-84",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 29: Concurrency Pt.3",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/WZ7h3kzRARY/",
+    "Description": "The third part of our concurrency series by Michael and Alexander discusses how to build highly scalable servers. The discussion focusses especially on event-driven servers. As possible solution patterns a reactor-based design is suggested along-side several patterns for multi-threading issues: Reader/Writers Locks, Thread Pools, and Leader/Followers.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode29-concurrency_pt3.mp3?dest-id=23379"
+}

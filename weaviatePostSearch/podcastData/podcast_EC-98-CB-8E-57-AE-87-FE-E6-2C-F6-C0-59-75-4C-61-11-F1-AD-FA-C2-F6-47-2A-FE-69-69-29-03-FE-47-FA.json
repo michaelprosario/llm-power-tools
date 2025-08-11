@@ -1,0 +1,8 @@
+{
+    "Id": "EC-98-CB-8E-57-AE-87-FE-E6-2C-F6-C0-59-75-4C-61-11-F1-AD-FA-C2-F6-47-2A-FE-69-69-29-03-FE-47-FA",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio-Episode-235:-Ben-Hindman-on-Apache-Mesos",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-235-Ben-Hindman-on-Apache-Mesos.mp3",
+    "Description": "<p>    </p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;\nline-height:normal\">Ben Hindman talks to Jeff Meyerson\u00a0about Apache Mesos, a distributed systems kernel. Mesos abstracts away many of the hassles of managing a distributed system. Hindman starts with a high-level explanation of Mesos, explaining the problems he encountered trying to run multiple instances of Hadoop against a single data set. He then discusses how Twitter uses Mesos for cluster management. The conversation evolves into a more granular discussion of the abstractions Mesos provides and different ways to leverage those abstractions.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-235-Ben-Hindman-on-Apache-Mesos.mp3"
+}

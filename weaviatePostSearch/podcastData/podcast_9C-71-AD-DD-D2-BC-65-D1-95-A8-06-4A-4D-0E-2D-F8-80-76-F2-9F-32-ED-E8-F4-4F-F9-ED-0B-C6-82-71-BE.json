@@ -1,0 +1,8 @@
+{
+    "Id": "9C-71-AD-DD-D2-BC-65-D1-95-A8-06-4A-4D-0E-2D-F8-80-76-F2-9F-32-ED-E8-F4-4F-F9-ED-0B-C6-82-71-BE",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 296: Type Driven Development with Edwin Brady",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-296-Type-Driven-Development-with-Edwin-Brady.mp3",
+    "Description": "<p>Edwin Brady speaks to Matthew Farwell about Type Driven Development and the Idris Programming language. The show covers: what a type is; static vs dynamic types in programming languages; dependent types; the Idris programming language; why Idris was created. Type safe printf modelling state in Idris modelling protocols in Idris modelling concurrency in Idris type driven development and how it changes the development process.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-296-Type-Driven-Development-with-Edwin-Brady.mp3?dest-id=23379"
+}

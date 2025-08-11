@@ -1,0 +1,8 @@
+{
+    "Id": "F9-E6-96-15-32-FB-72-1B-1C-0E-1A-8D-AA-13-36-AD-95-A7-54-B2-77-74-FC-74-C3-7F-06-3D-8C-3C-CA-84",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 344: Pat Helland on Web Scale",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-344-Pat-Helland-on-Web-Scale.mp3",
+    "Description": "<p>Edaena Salinas talks with Pat Helland about Web Scale. Pat is a Principal Software Architect at Salesforce where he works on a cloud based multi-tenant database technology. The discussion covers: Datacenters and hardware, DevOps, developing at scale, stateless vs stateful services, preparing a system for failures and sql vs nosql databases.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-344-Pat-Helland-on-Web-Scale.mp3"
+}

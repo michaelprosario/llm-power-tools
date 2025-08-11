@@ -1,0 +1,8 @@
+{
+    "Id": "6F-09-24-86-E8-FA-2A-E4-0B-A1-34-05-AC-A8-6A-E0-68-1B-55-2C-CB-45-8E-B6-F5-7A-3F-AA-A4-C6-4A-14",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Disaster Recovery Strategies to Fight Ransomware with Dave Kawula",
+    "SourceUrl": "https://runasradio.com/Shows/Show/758",
+    "Description": "<p>Ransomware attacks are a disaster! Can your disaster recovery strategy cope? Richard talks to Dave Kawula about his experiences battling ransomware attacks - and how failed backup strategies facilitate the bad guys getting paid. Dave talks about securing your backups with separate credentials - the ransomware folks count on getting all-powerful administrator accounts! When you granularize your security (call it Just Enough Admin) you make it harder for ransomware to succeed. Get smarter about protecting your backups!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://azure.microsoft.com/services/storage/blobs/\">Azure Storage Blobs</a></li><li><a href=\"https://azure.microsoft.com/services/key-vault/\">Azure Key Vault</a></li><li><a href=\"https://azure.microsoft.com/solutions/backup-and-disaster-recovery/\">Azure Backup and Disaster Recovery</a></li><li><a href=\"https://azure.microsoft.com/services/site-recovery/\">Azure Site Recovery</a></li><li><a href=\"https://www.cisa.gov/cybersecurity-insurance\">Cybersecurity Insurance</a></li></ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9210cd1a-673f-42ac-832e-2da01c1d1263/audio/8dd50423-a266-459c-8a1f-3c3c95ce2961/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

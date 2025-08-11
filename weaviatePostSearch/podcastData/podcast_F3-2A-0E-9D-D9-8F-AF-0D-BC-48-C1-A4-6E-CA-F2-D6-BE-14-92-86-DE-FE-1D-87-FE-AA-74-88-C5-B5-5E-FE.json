@@ -1,0 +1,8 @@
+{
+    "Id": "F3-2A-0E-9D-D9-8F-AF-0D-BC-48-C1-A4-6E-CA-F2-D6-BE-14-92-86-DE-FE-1D-87-FE-AA-74-88-C5-B5-5E-FE",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Sphere with Galen Hunt",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you make the Internet of Things (IoT) secure and reliable? Richard chats with Microsoft Distinguished Engineer Galen Hunt about Azure Sphere, a comprehensive approach to IoT that provides security and the hardware, operating system and cloud services layers. The discussion digs into how microcontrollers (MCUs) permeate all technology in our lives, and that they will soon be a part of the Internet of Things, but only if they can be made safe. Azure Sphere starts with MCU hardware that has a hardware root of trust, along with the Azure Sphere OS, a custom Linux kernel developed by Microsoft for MCUs. And finally, the Azure Sphere aspect provides the mechanisms for on-going security, authenticity and response to threats. The first MCUs are available today for experimentation, check them out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e7c05d62-2ac6-4db7-9f6c-6c0e566a7200/audio/60e4aa7c-2959-4e39-89ac-ccf400d6e8cf/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

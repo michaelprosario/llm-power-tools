@@ -1,0 +1,8 @@
+{
+    "Id": "67-83-91-4D-82-F6-33-DA-AD-22-BD-7F-39-E7-83-F2-51-F3-35-3D-F9-A8-69-56-48-56-53-25-0A-42-1F-63",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "SQL Server 2016 SP1 with Bob Ward",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>SQL Server 2016 SP1 has shipped - what's new? Richard chats with Bob Ward about the latest in SQL Server, some of which was announced at the Connect event in New York. Huge on the list was the addition of many more of what was once enterprise-only features on the Standard and Express editions of the database. Bob discusses architectural changes that have come to SQL Server 2016 to better reflect the latest hardware, which has resulted in the same workloads on the same hardware actually running faster just by upgrading the database to the latest version. Finally, there's a discussion of migration and the tools available today to help you test your workloads to see any variation in behaviour for your application from one version to the next. Check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/eb4a79ca-b493-4cb1-8afa-0a2c29d73ec7/audio/b7b7e43d-4ee8-4200-8962-7350c893093e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

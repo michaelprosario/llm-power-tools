@@ -1,0 +1,8 @@
+{
+    "Id": "B8-D8-E1-55-2E-EA-E8-E4-D7-60-56-39-AB-94-DA-5C-03-6F-8B-67-DF-77-88-67-7E-9B-04-1D-8E-A8-DC-9F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 619: James Strong on Kubernetes Networking",
+    "SourceUrl": "http://se-radio.net/se-radio-619-james-strong-on-kubernetes-networking",
+    "Description": "<p>Infrastructure engineer and Kubernetes ingress-Nginx maintainer James Strong joins host Robert Blumen to discuss the Kubernetes networking layer. The discussion draws on content from Strong\u2019s book on the topic and covers a lot of ground, including: the Kubernetes network's use of different IP ranges than the host network; overlay network with its own IP ranges compared to using expanded portions of the host network ranges; adding routes with kernel extension points; programming kernel extension points with IP tables compared to eBPF; how routes are updated as the host network gains or loses nodes, the use of the Linux network namespace to isolate each pod; routing between pods on the same host; routing between pods across the host network; the container-network interface (CNI); the CNI ecosystem; differences between CNIs; choosing a CNI when running on a public cloud service; the Kubernetes service abstraction with a cluster-wide IP address; monitoring and telemetry of the Kubernetes network; and troubleshooting the Kubernetes network.</p> <p>Brought to you by\u00a0<em>IEEE Software</em> magazine and IEEE Computer Society.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/619_james_strong_kubernetes_networking.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "C9-3F-2A-33-31-F3-90-C1-4A-91-8C-F0-13-9A-28-1C-E3-BB-97-DE-6C-11-BB-DF-84-E7-96-32-A6-B6-12-0F",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Site Recovery with Nicolas Blank",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What can Azure Site Recovery do for you? Richard chats with Nicolas Blank about his experiences backing up on-premise systems with Azure Site Recovery, including tricky products like Exchange and SQL Server. You may not be ready to move your on-premise systems into the cloud, but often disaster recovery is more acceptable, if for no other reason than it is far less expensive than maintaining a separate data center. The question is, can you test it properly? Just because you've taken backups doesn't mean you can restore them. Nicolas talks through the fine details about being able to organize and test disaster recovery with Azure Site Migration.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b6a0d98c-4a21-42c2-95a6-321f678aaa3b/audio/238b983a-6749-4485-ae45-e63dbb310dc0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

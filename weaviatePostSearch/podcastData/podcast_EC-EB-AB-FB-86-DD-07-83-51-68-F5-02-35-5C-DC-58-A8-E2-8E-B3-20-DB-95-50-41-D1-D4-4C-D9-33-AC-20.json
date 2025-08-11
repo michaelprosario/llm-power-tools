@@ -1,0 +1,8 @@
+{
+    "Id": "EC-EB-AB-FB-86-DD-07-83-51-68-F5-02-35-5C-DC-58-A8-E2-8E-B3-20-DB-95-50-41-D1-D4-4C-D9-33-AC-20",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Identity Security with David Jones",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with David Jones about identity security. The conversation starts out talking about the wonders of Single Sign On, followed by the horrors - the security exploits that can and do occur. David sites the Mandiant Security Report for more info on the exploits taking place. From there, David talks about using multi-factor authentication and the potential risks, as per the xckd on security. As we get more serious about managing identity, the idea of outsourcing to companies like PingIdentity is discussed. What's the best way to get identity right?</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e88d6692-29f1-4d87-bab5-638bbb1abbdc/audio/b1320a32-9ccc-423f-960a-a734b083ddb0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "6D-EF-F5-24-B0-81-AD-DD-4E-8F-1E-CB-B6-FC-E2-02-EC-71-F6-39-B1-2F-A0-7C-E5-00-3F-71-97-5D-99-D4",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Tuning SQL Server Stored Procedures with Kim Tripp",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you tune your stored procedures? While visiting Kim Tripp at her home, Richard chats with her about her approach to turning stored procedures. The conversation starts out focused on query plans, which applies to all sorts of things, but stored procedures have some special foibles around parameter sets and recompilation - there are good techniques and bad! Kim also digs into session parameters. If you've ever had a stored procedure that performed great in Management Studio but sucked out in the world, there's a good chance the session configurations are different. Also listen for a quick discussion on stored procedure techniques that can help fight SQL Injection attacks!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c187e0e6-d44a-4783-96f8-92a54ad99cf3/audio/dbca8d79-162a-4a38-a4bf-74956069351c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

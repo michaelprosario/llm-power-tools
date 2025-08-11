@@ -1,0 +1,8 @@
+{
+    "Id": "0A-16-78-F5-6B-52-26-3F-40-0C-3C-AF-5E-DF-FB-1C-8A-05-F7-9A-77-29-AA-63-24-16-C0-73-2F-B8-46-4C",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "The New Cybersecurity with Troy Hunt",
+    "SourceUrl": "https://runasradio.com/Shows/Show/778",
+    "Description": "<p>What does cybersecurity look like today? Richard talks with Troy Hunt about the recent news around the Hafnium exploits. The FBI utilized the vulnerability created in Exchange servers to patch the servers and remove the exploit. Is this a good idea? Is it legal? The actions of the FBI lead to a broader conversation about modern cybersecurity - when time is of the essence, should the so-called white hats be able to get legal authority to act to protect people, companies, and property? What's the alternative?</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/\">The HAFNIUM Exploits</a></li><li><a href=\"https://www.fbi.gov/news/testimony/taking-down-botnets\">FBI BotNet Testimony</a></li><li><a href=\"http://runasradio.com/Shows/Show/764\">Vastaamo Ransomware Podcast</a></li><li><a href=\"http://runasradio.com/Shows/Show/770\">The Hafnium Podcast Episode</a></li><li><a href=\"https://haveibeenpwned.com/PwnedWebsites#Apollo\">Apollo Breach on HIBP</a></li></ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/972bdf20-5ee9-418a-a009-479f584db738/audio/87917cf1-8e75-4160-8365-d24b5b25849a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

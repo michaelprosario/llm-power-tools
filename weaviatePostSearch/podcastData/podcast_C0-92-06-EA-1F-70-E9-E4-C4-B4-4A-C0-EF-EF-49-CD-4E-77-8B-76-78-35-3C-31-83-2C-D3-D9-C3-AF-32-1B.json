@@ -1,0 +1,8 @@
+{
+    "Id": "C0-92-06-EA-1F-70-E9-E4-C4-B4-4A-C0-EF-EF-49-CD-4E-77-8B-76-78-35-3C-31-83-2C-D3-D9-C3-AF-32-1B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 272: Frances Perry on Apache Beam",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-272-Frances-Perry-on-Apache-Beam.mp3",
+    "Description": "<p>Jeff Meyerson talks with Frances Perry about Apache Beam, a unified batch and stream processing model. Topics include a history of batch and stream processing, from MapReduce to the Lambda Architecture to the more recent Dataflow model, originally defined in a Google paper. Dataflow overcomes the problem of event time skew by using watermarks and other methods discussed between Jeff and Frances. Apache Beam defines a way for users to define their pipelines in a way that is agnostic of the underlying execution engine, similar to how SQL provides a unified language for databases. This seeks to solve the churn and repeated work that has occurred in the rapidly evolving stream processing ecosystem.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-272-Frances-Perry-on-Apache-Beam.mp3"
+}

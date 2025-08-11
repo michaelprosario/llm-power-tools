@@ -1,0 +1,8 @@
+{
+    "Id": "0C-5A-40-72-E5-DF-56-E7-99-AF-74-40-C5-15-54-DD-7E-93-7C-84-25-25-AA-58-E7-E4-56-61-D6-45-82-87",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "User Experience Virtualization with Steve Thomas",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Steve Thomas about Microsoft User Experience Virtualization (UE-V). The conversation starts out with a focus on Application and Desktop Virtualization - while server virtualization has become the norm, App-V is catching on more slowly. Steve talks about how the back end of desktop virtualization has become more like the cloud, being very elastic and flexible to better utilize resources. On the front end, things are even more interesting. UE-V provides portability to the relatively light-weight things that are important on the desktop, such as configuration settings, favorites, printers and so on. Like Active Directory Profile Roaming, but without all the baggage. You should check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7c4d0afa-4314-42e4-b46e-030b5a1dfb37/audio/6ad4c3b3-dd76-4d96-902c-cef32680f618/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

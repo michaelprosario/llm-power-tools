@@ -1,0 +1,8 @@
+{
+    "Id": "A9-07-2F-FA-39-43-FF-18-52-31-60-6B-78-D1-0E-09-40-F2-39-03-56-57-6B-18-F5-3B-2F-28-7C-6B-5C-B5",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "How to Not Hate PowerShell with Barbara Forbes",
+    "SourceUrl": "https://runasradio.com/Shows/Show/980",
+    "Description": "<p>Are some of your team members starting to hate PowerShell? Richard talks to Barbara Forbes about her experiences with teams frustrated by PowerShell. Barbara talks about overcomplicating PowerShell scripts\u2014the kind the most senior folks can create but no one else can maintain. Eventually, nobody will want to touch those scripts. Then there is the question of business value\u2014does everything need to be automated? And by how much? Often, the appropriate solution solves 80% of the cases; the other 20% are best done by hand because the cost and complexity of the last 20% are too high. Focus on the return on investment for the business, and you'll keep the love of PowerShell alive! </p><p><strong>Links</strong></p><ul><li><a href=\"https://learn.microsoft.com/powershell?WT.mc_id=DT-MVP-10953\">PowerShell</a></li><li><a href=\"https://pester.dev/\">Pester Testing</a></li><li><a href=\"https://github.com/features/copilot\">GitHub Copilot</a></li><li><a href=\"https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?WT.mc_id=DT-MVP-10953\">Bicep</a></li></ul><p>Recorded February 24, 2025</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b0981fd4-50cf-4524-a4dd-3181be65e676/audio/4faa5462-6b5e-4b35-8f99-56d12231ef86/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

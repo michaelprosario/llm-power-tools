@@ -1,0 +1,8 @@
+{
+    "Id": "3B-AC-29-F3-C0-D4-4E-C8-99-BC-54-2D-1E-0D-EA-5D-FD-ED-DE-74-9B-42-10-E0-5E-16-C0-6D-76-D9-7B-98",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Your Private Cloud Platform with Jennelle Crothers",
+    "SourceUrl": "https://runasradio.com/Shows/Show/785",
+    "Description": "<p>Can you have a private platform on the public cloud? Richard chats with Jennelle Crothers about her work with organizations setting up private Platform-as-a-Service infrastructure in Azure. Jennelle talks about using private DNS Zones, private container registries, and other services to provide a public-like platform experience for a company while not exposing it to the open internet at all.\u00a0</p><p><strong>Links:</strong></p><ul><li><a href=\"https://azure.microsoft.com/services/expressroute/\">Azure ExpressRoute</a></li><li><a href=\"https://azure.microsoft.com/services/container-registry/\">Azure Container Registry</a></li><li><a href=\"https://azure.microsoft.com/services/kubernetes-service/\">Azure Kubernetes Service</a></li><li><a href=\"https://azure.microsoft.com/services/private-link/\">Azure Private Link</a></li><li><a href=\"https://docs.microsoft.com/azure/dns/private-dns-overview\">Azure Private DNS</a></li><li><a href=\"https://docs.microsoft.com/azure/azure-resource-manager/templates/\">Azure ARM Templates</a></li></ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/1e1c6d5b-5ce4-4e0c-b536-d6529d55c5d8/audio/0699bc6f-45ec-47f2-86a3-ae1e340ff29c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

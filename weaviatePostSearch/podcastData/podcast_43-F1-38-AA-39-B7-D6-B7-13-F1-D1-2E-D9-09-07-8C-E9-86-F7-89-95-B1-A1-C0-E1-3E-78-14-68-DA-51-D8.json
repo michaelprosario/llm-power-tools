@@ -1,0 +1,8 @@
+{
+    "Id": "43-F1-38-AA-39-B7-D6-B7-13-F1-D1-2E-D9-09-07-8C-E9-86-F7-89-95-B1-A1-C0-E1-3E-78-14-68-DA-51-D8",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "OpenAI for PowerShell with Doug Finke",
+    "SourceUrl": "https://runasradio.com/Shows/Show/953",
+    "Description": "<p>How can OpenAI help you with PowerShell? Richard talks to Doug Finke about his experiences with ChatGPT and GitHub Copilot to help him write PowerShell and how he incorporated the OpenAI API into a PowerShell library to create a conversational interface in his PowerShell scripts! Doug talks about his productivity gains using OpenAI to write better quality PowerShell faster - helping him understand the code, automate test writing, and explore aspects of PowerShell he had never dug into. But beyond writing code for him, adding the conversational interface to a PowerShell script opens a whole new interactive opportunity to make it easier for folks to use scripts and do more with them!</p><p><strong>Links</strong></p><ul><li><a href=\"https://github.com/features/copilot\">GitHub Copilot</a></li><li><a href=\"https://github.com/dfinke/PSAI\">PSAI</a></li><li><a href=\"https://platform.openai.com/docs/models/gpt-4o\">GPT-4o</a></li><li><a href=\"https://dfinke.github.io/\">Doug's Blog</a></li><li><a href=\"https://www.youtube.com/@DougFinke\">Doug's YouTube Channel</a></li></ul><p>Recorded August 7, 2024</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/017c166c-816e-4c71-8f4f-e761bc56f70c/audio/00b0c69e-4f9d-4c3e-8d0d-b5d77a2421b7/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

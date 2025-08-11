@@ -1,0 +1,8 @@
+{
+    "Id": "52-0A-79-17-BE-F0-C1-F7-8B-64-FD-D4-C8-D8-A1-8D-F7-59-3D-85-7D-A4-25-A5-D0-3B-13-D6-1B-23-8D-EF",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 108: Simon Peyton Jones on Functional Programming and Haskell",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/gaZOB7nLdrQ/",
+    "Description": "We start our discussion with a brief look at what Haskell is and how a pure functional language is different from non-pure languages. We then look at the basic building blocks and the philosophy of the language, discussing concepts such as the lambda calculus, closures, currying, immutability, lazy evaluation, memoization, and the role of data types in functional languages. A significant part of the discussion is then spent on the management of side effects in a pure language - in other words, the importance of monads. We conclude the episode with a look at Haskell's importance and community today.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode108-simonPeytonJonesOnFunctionalProgramming.mp3?dest-id=23379"
+}

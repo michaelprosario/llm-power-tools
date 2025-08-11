@@ -1,0 +1,8 @@
+{
+    "Id": "17-A8-B1-E4-78-2F-0B-9A-0E-46-0F-45-8E-64-8F-BB-EE-B3-5C-B6-AE-68-19-E8-CC-CE-F9-80-95-41-DA-26",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 61: Internals of GCC",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/GZ4EfyfWJbo/",
+    "Description": "This show takes a behind-the-scenes look at compilers and their inner workings, using the Gnu compiler collection (GCC) as an example. Arno interview Morgan Deters, covering all steps from the parsing of different programming languages to machine independenet optimizations and generating processor specific binary code.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode61-internalsOfGCC.mp3?dest-id=23379"
+}

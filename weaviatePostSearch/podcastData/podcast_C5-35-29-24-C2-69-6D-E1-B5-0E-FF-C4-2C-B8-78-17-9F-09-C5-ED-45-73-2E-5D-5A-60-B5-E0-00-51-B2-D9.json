@@ -1,0 +1,8 @@
+{
+    "Id": "C5-35-29-24-C2-69-6D-E1-B5-0E-FF-C4-2C-B8-78-17-9F-09-C5-ED-45-73-2E-5D-5A-60-B5-E0-00-51-B2-D9",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "An Update on Updating Windows with Robert Smith",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>An update on Windows update? Richard talks to PFE Robert Smith about the announcements coming out of build around how Windows will be updated going forward. No more rollups! Well, almost. The conversation digs into the on-going evolution of updating Windows, the lack of Service Packs (and their meaning), rollups, hotfixes, and so on. As Terry Myerson said on stage at Ignite, for unmanaged environments, updating is going to be far more automatic. If you run a strict update environment with WSUS, nothing needs to change, expect that hotfixes will now appear in the Windows Update Catalog. So things are getting better!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d2689446-aab6-49ca-9d18-7e3d876b8316/audio/fc2064fb-cd05-4cb1-a1b2-07c963fcebbf/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

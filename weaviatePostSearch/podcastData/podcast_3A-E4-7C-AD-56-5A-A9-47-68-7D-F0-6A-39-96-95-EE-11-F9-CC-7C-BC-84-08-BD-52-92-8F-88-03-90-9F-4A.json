@@ -1,0 +1,8 @@
+{
+    "Id": "3A-E4-7C-AD-56-5A-A9-47-68-7D-F0-6A-39-96-95-EE-11-F9-CC-7C-BC-84-08-BD-52-92-8F-88-03-90-9F-4A",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "AaronLocker with Aaron Margosis",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Whitelisting is a good idea - but not easy to make happen! Richard talks to Aaron Margosis about his work making it easier to use AppLocker to implement whitelisting on Windows, a set of scripts and tools named by Chris Jackson as AaronLocker. Aaron talks about implementing the whitelisting strategies outlined in the NSA whitepaper on the subject, making it easier to maintain the whitelist when apps need to be updated. Admins can choose how locked down to make a machine, providing flexibility around updates while still blocking the primary malware vectors - check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c2fb9f13-6604-406b-88db-df61f2ad7625/audio/4b022daf-4537-437d-8bdc-346ac83d8685/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

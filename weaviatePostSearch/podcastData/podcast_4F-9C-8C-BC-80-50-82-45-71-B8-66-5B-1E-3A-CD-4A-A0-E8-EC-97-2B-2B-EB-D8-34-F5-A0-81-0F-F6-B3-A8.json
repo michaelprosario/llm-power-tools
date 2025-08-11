@@ -1,0 +1,8 @@
+{
+    "Id": "4F-9C-8C-BC-80-50-82-45-71-B8-66-5B-1E-3A-CD-4A-A0-E8-EC-97-2B-2B-EB-D8-34-F5-A0-81-0F-F6-B3-A8",
+    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
+    "Title": "K3s Gets its Due and its Own Day at KubeCon EU",
+    "SourceUrl": "https://thenewstack.simplecast.com/episodes/k3s-gets-its-due-and-its-own-day-at-kubecon-eu-ozN7C3ts",
+    "Description": "<p>In 2018, Kubernetes had become too big to run on Raspberry Pi. For a while, it meant that kubeadmin could not run on the micro-device. K3s changed that and represents a new take on Kubernetes: stripped of code, K3s is a lightweight version of Kubernetes meant to run on edge devices.</p>\n<p>Today, K3s is seeing a rise in popularity as are a host of other new services that focus on the edge for Kubernetes architectures.</p>\n<p>It\u2019s now at the point that the Cloud Native Computing Foundation (CNCF) is planning Kubernetes on Edge Day at KubeCon, said Bill Mulligan, marketing manager for CNCF in a podcast recording with Alex Ellis, founder at OpenFaaS and the author of a new course on K3s that will be available for KubeCon, scheduled for May 4-7.</p>\n",
+    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/51944aed-ea3a-4b80-b12d-7c7ef5af0080/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=51944aed-ea3a-4b80-b12d-7c7ef5af0080&feed=IgzWks06"
+}

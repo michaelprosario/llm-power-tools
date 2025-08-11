@@ -1,0 +1,8 @@
+{
+    "Id": "4B-9F-E6-34-9E-5E-55-34-27-03-F6-96-33-6D-64-68-25-FE-CB-7E-7F-34-51-6A-16-59-CA-B2-1C-84-F3-45",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Chris Avis on Windows Deployment Services!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>While at the Connections conference in Las Vegas, Richard and Greg talked to Chris Avis about Windows Deployment Services (WDS). WDS replaces Remote Installation Services (RIS) to provide automated installation of operating systems onto bare-install machines using network boot (PXE).</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/90815015-05fd-4374-ae20-687f7909d52a/audio/ae83b87c-72b1-49af-9a12-241e6df7ebad/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

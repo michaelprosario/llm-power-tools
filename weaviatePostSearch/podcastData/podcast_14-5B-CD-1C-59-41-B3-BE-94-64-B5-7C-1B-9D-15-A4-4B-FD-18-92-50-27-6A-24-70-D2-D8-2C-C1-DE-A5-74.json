@@ -1,0 +1,8 @@
+{
+    "Id": "14-5B-CD-1C-59-41-B3-BE-94-64-B5-7C-1B-9D-15-A4-4B-FD-18-92-50-27-6A-24-70-D2-D8-2C-C1-DE-A5-74",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Inside IronJS - A complete JavaScript/ECMAScript open source implementation on the .NET DLR",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott talks to open source developer Fredrik Holmstr\u00f6m about IronJS. It's a very complete implementation of JavaScript written in F# on top of the DLR. It's even faster than IE8 now and getting faster every day. How does something like this get built? What can you use it for? What are the Iron* languages used for and how can you get involved?</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/0580a275-324e-4e6c-80e4-e6cdaeaa60ed/6d6eed26_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

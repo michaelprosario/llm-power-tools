@@ -1,0 +1,8 @@
+{
+    "Id": "2F-BF-E9-E8-42-A4-69-79-ED-CB-50-7B-51-1C-09-3D-BB-51-BC-E9-E8-62-1D-25-25-50-4C-54-2D-9A-0D-04",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 595: Llewelyn Falco on Approval Testing",
+    "SourceUrl": "http://se-radio.net/se-radio-595-llewelyn-falco-on-approval-testing",
+    "Description": "<p>Llewelyn Falco, creator approval tests, talks with SE Radio host Sam Taggart about testing code in general and the various types of testing that developers perform. Llewelyn elaborates on how approval tests can help test code at a higher level than traditional unit tests. They also discuss using approval tests to help get legacy code under test. <a href= \"https://www.dataannotation.tech/programmers?projects=PROG_SA&worker_src=P&utm_medium=podcast&utm_source=seradio&utm_campaign=softwaredeveloper\" target=\"_blank\" rel=\"noopener\">This episode sponsored by Data Annotation</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/595_Llewelyn_Falco_on_Approval_Testing.mp3?dest-id=23379"
+}

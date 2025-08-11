@@ -1,0 +1,8 @@
+{
+    "Id": "FF-AA-0F-7D-E4-F8-CC-31-64-52-4F-66-20-78-B1-3D-1A-02-0B-32-75-A0-07-11-8D-2D-9A-B9-4F-CE-CB-80",
+    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
+    "Title": "Why CI/CD Continues to Evolve",
+    "SourceUrl": "https://thenewstack.simplecast.com/episodes/why-ci-cd-continues-to-evolve-kDWwjZ1T",
+    "Description": "<p>Continuous integration and delivery (CI/CD) has seen some radical changes during the past few years, especially for continuous delivery. While not so long ago, application development and delivery was exclusively for monolithic stacks but delivering software for microservices and container environments is a very different animal.</p><p>In this The New Stack Maker podcast, recorded at <a href=\"https://www.cncf.io/kubecon-cloudnativecon-events/?utm_content=inline-mention\" target=\"_blank\">KubeCon+CloudNativeCon</a> in October, guest <a href=\"https://www.linkedin.com/in/robzuber/\">Rob Zuber,</a> chief technology officer at <a href=\"https://circleci.com/?utm_content=inline-mention\" target=\"_blank\">CircleCI</a>, discusses the evolution of CI/CD from the perspective of CircleCI\u2019s experience for over a decade.</p><p><a href=\"https://thenewstack.io/author/alex/\">Alex Williams</a>, founder and publisher of The New Stack, hosted this podcast.</p>\n",
+    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/1ae89a99-4757-41b9-a692-24b875cf3b14/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=1ae89a99-4757-41b9-a692-24b875cf3b14&feed=IgzWks06"
+}

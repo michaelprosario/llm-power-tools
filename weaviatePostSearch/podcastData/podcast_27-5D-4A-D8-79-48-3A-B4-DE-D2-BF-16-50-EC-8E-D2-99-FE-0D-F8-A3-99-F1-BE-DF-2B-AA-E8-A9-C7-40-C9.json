@@ -1,0 +1,8 @@
+{
+    "Id": "27-5D-4A-D8-79-48-3A-B4-DE-D2-BF-16-50-EC-8E-D2-99-FE-0D-F8-A3-99-F1-BE-DF-2B-AA-E8-A9-C7-40-C9",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 502: Omer Katz on Distributed Task Queues Using Celery",
+    "SourceUrl": "http://se-radio.net/episode-502-omer-katz-on-distributed-task-queues-using-celery",
+    "Description": "<p>Omer Katz, a software consultant and core contributor to the Celery discusses the Celery task processing framework with host Nikhil Krishna. We discuss in depth, the Celery task processing framework, it's architecture and the underlying messaging...</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/502-katz-distributed-task-queues-using-celery.mp3?dest-id=23379"
+}

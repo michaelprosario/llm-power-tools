@@ -1,0 +1,8 @@
+{
+    "Id": "52-65-BB-FF-2B-D8-96-81-F6-6E-B0-0C-C5-45-84-A9-A4-BF-26-9F-AA-CB-0D-69-DA-7E-AC-39-88-C0-74-90",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Implementing Desired State Configuration with Steven Murawski",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Steven Murawski about implementing Microsoft's Desired State Configuration (DSC) in the Stack Exchange infrastructure. DSC is part of the Windows Management Framework 4.0 that comes with Windows Server 2012 R2 but is also backward compatible for Server 2012 and 2008 R2. Steven talks about being able to create detailed configuration documentation as part of DSC that then actually works with tools to generated pre-configured virtual machines in detail. The conversation also dives into the magic of using source control to handle these files and how it helps connect Ops folks to developers to support self-service configuration, reduce problems between the teams and generally spread the DevOps goodness.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/25b878c4-4f0d-4ada-8865-d7d41e748bce/audio/d379407f-dd59-4b4c-afd4-2f29b4aed804/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

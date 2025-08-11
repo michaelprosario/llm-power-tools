@@ -1,0 +1,8 @@
+{
+    "Id": "CB-D7-F8-7A-52-E3-FA-2C-FD-BE-31-31-08-26-76-87-57-86-1D-3B-3B-DE-54-A2-5F-83-0A-35-06-16-F3-95",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 22: Feedback",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/LGOZZaFALj8/",
+    "Description": "This is an episode with some more of your feedback. Specifically, the episode also contains a 5 minute section from <a href=\"http://rifers.org/blogs/gbevin\">Geert Bevin</a> where he explains how Continuations are used an implemented in the <a href=\"http://rifers.org/\">Rife Framework</a>. This is in response to a discussion about continuations and Rife in <a href=\"http://se-radio.net/index.php?post_id=90043\">Episode 15, Future of Enterprise Java</a>. We also have some feedback from <a href=\"http://www.cs.umd.edu/~pugh/\">Bill Pugh</a> about flaws in our description about the problems of double-checked locking in Java.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode22-feedback.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "2C-43-52-13-A1-E0-54-26-E4-06-CC-C2-C2-D8-8F-69-67-78-EE-0B-F7-C3-46-D5-A7-CD-E0-5D-76-20-2E-43",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 113: Building Platforms with Jeff McAffer",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/a_NgM8za7x4/",
+    "Description": "In this episode we talk with Jeff McAffer about building platforms. We start with a brief discussion about what a platform is in contrast to a framework or an application. Drawing from his experiences working on the Eclipse platform for years, Jeff talks with us about how to develop platforms, why developing a platform is different from developing an application, what makes a good platform great, and why API design becomes so extremely important for platforms. He provides us with some insights on how the development process and the client collaboration for platform development could look like and what has and has not worked in the past.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode113-jeffMcAfferOnBuildingPlatforms.mp3?dest-id=23379"
+}

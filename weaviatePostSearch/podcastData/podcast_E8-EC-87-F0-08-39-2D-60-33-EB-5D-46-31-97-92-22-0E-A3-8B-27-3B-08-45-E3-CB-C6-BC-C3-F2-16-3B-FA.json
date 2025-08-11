@@ -1,0 +1,8 @@
+{
+    "Id": "E8-EC-87-F0-08-39-2D-60-33-EB-5D-46-31-97-92-22-0E-A3-8B-27-3B-08-45-E3-CB-C6-BC-C3-F2-16-3B-FA",
+    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
+    "Title": "Clean Code \u2013 Integrating with Third Party Libraries the Right Way",
+    "SourceUrl": "https://www.codingblocks.net/podcast/clean-code-programming-around-boundaries/",
+    "Description": "<img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2017/01/coding-blocks-episode-053-cover-150x150.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2017/01/coding-blocks-episode-053-cover-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />In this episode we talk about how to insulate your application at it\u2019s boundaries? \u00a0What in the world does that even mean?! \u00a0We\u2019re not talking about those boundaries where others aren\u2019t allowed to touch your keyboard (although that\u2019s a real thing). \u00a0No, we\u2019re talking about making sure you make your code easier to maintain over [\u2026]",
+    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-053.mp3"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "4E-0C-8D-09-52-55-81-A1-48-45-58-64-2D-2B-36-1C-68-3D-8F-B2-A5-89-C7-6A-8C-1F-79-A8-24-F4-25-7C",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Debugging PowerShell with Josh Duffney",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>If you're writing PowerShell, you're writing code - now debug it! Richard chats with Josh Duffney about tools and techniques for debugging your PowerShell code. The conversation starts out with the admission that as PowerShell coders, you really are doing development work, just for sysadmin tasks. That means you need source control, testing, coding practices and hopefully, a continuous integration pipeline - DevOps all the things! Josh talks about how VSCode has made his life of debugging PowerShell easier with color coding, breakpoints, code formatting and more. It's all code in the end!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/64561423-f44f-49d2-97a0-a8098d5ed135/audio/7b0ebfb5-5dd6-43a3-a90e-9058a440a524/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

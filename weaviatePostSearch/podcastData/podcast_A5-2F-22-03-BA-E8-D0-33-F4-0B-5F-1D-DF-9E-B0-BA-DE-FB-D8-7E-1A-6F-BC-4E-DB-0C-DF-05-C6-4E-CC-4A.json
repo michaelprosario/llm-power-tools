@@ -1,0 +1,8 @@
+{
+    "Id": "A5-2F-22-03-BA-E8-D0-33-F4-0B-5F-1D-DF-9E-B0-BA-DE-FB-D8-7E-1A-6F-BC-4E-DB-0C-DF-05-C6-4E-CC-4A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 625: Jonathan Schneider on Automated Refactoring with OpenRewrite",
+    "SourceUrl": "http://se-radio.net/se-radio-625-jonathan-schneider-on-automated-refactoring-with-openrewrite",
+    "Description": "<p>Jonathan Schneider, the cofounder of Moderne and the creator of OpenRewrite, talks with SE Radio's Gregory Kapfhammer about automated software maintenance. In addition to exploring the design and implementation of OpenRewrite, Schneider explains how the tool can automatically support software maintenance tasks such as framework migration and security fixes for programs implemented in languages like Java. The episode also explores how OpenRewrite uses the lossless semantic tree to support automated refactoring though the use of recipes. Brought to you by IEEE Computer Society\u00a0and\u00a0IEEE Software magazine.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/625-jonathan-schneider-automated-refactoring.mp3?dest-id=23379"
+}

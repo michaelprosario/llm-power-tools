@@ -1,0 +1,8 @@
+{
+    "Id": "01-02-24-5D-75-AC-CD-5B-14-D6-D3-46-3A-40-FA-94-07-A9-44-46-59-1C-D1-E9-AC-5E-CE-5A-B3-47-CC-98",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Managing Azure using Powershell with Brian Lewis",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Ready to manage Azure from the command line? While at That Conference in Wisconsin Dells, Richard chatted with Brian Lewis about the PowerShell support available for Azure. Every command and more available in the Azure GUI Dashboard works from PowerShell. Brian talks about the advantages of using scripting to control Azure, creating repeatable, consistent execution plans through scripts for all sorts of configuration changes, including creating new VMs, configuring networking and activating services. Don't use a Word doc to set up your Azure apps - use PowerShell!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/598d8fd4-f066-4e41-b1fa-6ea6cde8dc8b/audio/3b596e9e-5f24-4e46-b46a-00a0cbf13678/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

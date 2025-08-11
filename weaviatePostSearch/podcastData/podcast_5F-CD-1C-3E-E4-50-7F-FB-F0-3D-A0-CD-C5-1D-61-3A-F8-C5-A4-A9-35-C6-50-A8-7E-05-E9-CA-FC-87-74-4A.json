@@ -1,0 +1,8 @@
+{
+    "Id": "5F-CD-1C-3E-E4-50-7F-FB-F0-3D-A0-CD-C5-1D-61-3A-F8-C5-A4-A9-35-C6-50-A8-7E-05-E9-CA-FC-87-74-4A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 81: Interview Erich Gamma",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/mdS9Qq0jzBc/",
+    "Description": "This episode is a conversation with <a href=\"http://en.wikipedia.org/wiki/Erich_Gamma\">Erich Gamma</a>. We covered the four things he is known for in chronological order. We started with design patterns and the Gang-of-Four book of which he is the lead author. We then looked at JUnit, the testing framework he coauthored with Kent Beck and how it introduced unit testing to the masses. The next topic is obviously Eclipse, where Erich and his lab in Z\u00fcrich is responsible for the Java Development Tooling. We also briefly discussed The Eclipse Way, the (obviously) successful process the Eclipse team uses for developing Eclipse itself. Finally, we're looking at Erich's current endeavour, the Jazz project. Jazz is a technology for collaborative software development.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode81-erichGamma.mp3?dest-id=23379"
+}

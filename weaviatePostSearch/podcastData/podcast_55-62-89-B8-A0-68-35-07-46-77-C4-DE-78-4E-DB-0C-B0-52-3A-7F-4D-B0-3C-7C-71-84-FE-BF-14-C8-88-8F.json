@@ -1,0 +1,8 @@
+{
+    "Id": "55-62-89-B8-A0-68-35-07-46-77-C4-DE-78-4E-DB-0C-B0-52-3A-7F-4D-B0-3C-7C-71-84-FE-BF-14-C8-88-8F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 72: Erik Meijer on LINQ",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/ZdCZo0d22S8/",
+    "Description": "This episode is a discussion with Erik Meijer on LINQ. This is a relatively technical discussion about the following topics: what is LINQ, what are the common abstractions between the different data structures one can access with LINQ, what is the relationship to established languages for querying, how does the integration into the type system of the host language work, how to specify the mapping between the language level classes and the data, and how optimizations are implemented (lazy loading, prefetching, etc.).",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode72-ericMeijerOnLINQ.mp3?dest-id=23379"
+}

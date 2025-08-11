@@ -1,0 +1,8 @@
+{
+    "Id": "6C-6E-65-6B-CD-C9-A6-A7-A7-E0-EE-E0-B9-24-EE-64-62-93-10-07-3D-3E-37-36-67-C5-52-91-28-60-C8-8D",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio-Show-246:-John-Wilkes-on-Borg-and-Kubernetes",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Show-246-John-Wilkes-on-Borg-and-Kubernetes.mp3",
+    "Description": "<p>John Wilkes from Google talks with Charles Anderson about managing large clusters of machines. The discussion starts with Borg, Google\u2019s internal cluster management program. John discusses what Borg does and what it provides to programmers and system administrators. He also describes Kubernetes, an open-source cluster management system recently developed by Google using lessons learned from Borg, Mesos, and Omega</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Show-246-John-Wilkes-on-Borg-and-Kubernetes.mp3"
+}

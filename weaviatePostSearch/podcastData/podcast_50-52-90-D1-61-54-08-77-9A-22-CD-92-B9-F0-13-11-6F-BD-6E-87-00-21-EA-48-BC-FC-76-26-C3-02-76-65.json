@@ -1,0 +1,8 @@
+{
+    "Id": "50-52-90-D1-61-54-08-77-9A-22-CD-92-B9-F0-13-11-6F-BD-6E-87-00-21-EA-48-BC-FC-76-26-C3-02-76-65",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Update Management using IBM BigFix with Andrew Laurence",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How are you managing desktop updates? Richard chats with Andrew Laurence about his work using IBM BigFix to manage updates for Windows and OSX desktop machines. Most update technologies are platform specific, which means in an environment with Windows PC and Macs, you're doing many things twice. Andrew talks about using IBM BigFix to provide a comprehensive update solution, but only if you work with its strengths, rather than insist that it works the way you've always done things. Living in a cross-platform world has its challenges, but it's not optional, and there are tools to make your life easier. Check 'em out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/67bc83fa-a120-428c-adcc-141225ad7dc6/audio/1335d2fd-c47c-4821-9d92-8d6b0a8380a2/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

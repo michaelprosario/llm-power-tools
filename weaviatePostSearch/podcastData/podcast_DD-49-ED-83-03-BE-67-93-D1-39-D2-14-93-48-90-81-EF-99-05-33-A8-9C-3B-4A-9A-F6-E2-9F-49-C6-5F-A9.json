@@ -1,0 +1,8 @@
+{
+    "Id": "DD-49-ED-83-03-BE-67-93-D1-39-D2-14-93-48-90-81-EF-99-05-33-A8-9C-3B-4A-9A-F6-E2-9F-49-C6-5F-A9",
+    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
+    "Title": "Design Patterns \u2013 Iterators, Observers, and Chains, Oh My",
+    "SourceUrl": "https://www.codingblocks.net/podcast/design-patterns-iterators-observers-and-chains-oh-my/",
+    "Description": "<img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2014/11/episode19-feature-150x150.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2014/11/episode19-feature-150x150.png\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />We\u2019re back to the gang of four, continuing with another segment of design patterns. This time we\u2019re talking about some of our favorite Behavioral Design Patterns: Observer, Chain of Responsibilities, Iterator patterns. Also, why the visitor pattern is weird and what it\u2019s like to be raked over hot coals. News Atlanta Code Camp was amazing [\u2026]",
+    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-19.mp3"
+}

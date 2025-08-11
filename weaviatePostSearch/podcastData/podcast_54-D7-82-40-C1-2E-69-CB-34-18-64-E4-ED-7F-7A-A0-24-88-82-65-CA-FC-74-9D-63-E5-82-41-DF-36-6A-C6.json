@@ -1,0 +1,8 @@
+{
+    "Id": "54-D7-82-40-C1-2E-69-CB-34-18-64-E4-ED-7F-7A-A0-24-88-82-65-CA-FC-74-9D-63-E5-82-41-DF-36-6A-C6",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 21: Error Handling Pt. 2",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/bg8ZM4qkbsc/",
+    "Description": "In this Episode, Arno and Michael take a closer look at Exceptions and Error conditions, how to categorize them and how to deal with them. We look at the different levels of guarantee that a piece of code can provide with regard to exceptional condition and finish with a discussion of a number of best practices and their respective trade-offs.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode21-errorHandling_pt2.mp3?dest-id=23379"
+}

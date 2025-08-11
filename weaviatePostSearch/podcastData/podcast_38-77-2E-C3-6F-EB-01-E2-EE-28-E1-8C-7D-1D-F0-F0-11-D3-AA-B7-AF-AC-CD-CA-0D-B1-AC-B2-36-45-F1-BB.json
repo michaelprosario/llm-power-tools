@@ -1,0 +1,8 @@
+{
+    "Id": "38-77-2E-C3-6F-EB-01-E2-EE-28-E1-8C-7D-1D-F0-F0-11-D3-AA-B7-AF-AC-CD-CA-0D-B1-AC-B2-36-45-F1-BB",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 539: Adam Dymitruk on Event Modeling",
+    "SourceUrl": "https://www.se-radio.net/2022/11/episode-539-adam-dymitruk-on-event-modeling",
+    "Description": "<p>Adam Dymitruk, CEO and founder of Adaptech Group, joins host Jeff Doolittle for an exploration of the event modeling approach to discovering requirements and designing software systems. Adam explains how the structured approach eliminates the specifics of implementation details and technology decisions, enabling clearer communication for all stakeholders while keeping conversations focused on the business opportunity. Using concrete examples of event modeling in practice, they examine event modeling in the context of other related approaches and methodologies, including event sourcing, event storming, CQRS, and domain-driven design.</p> \u00a0",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/539-adam-dymitruk-event-modeling.mp3?dest-id=23379"
+}

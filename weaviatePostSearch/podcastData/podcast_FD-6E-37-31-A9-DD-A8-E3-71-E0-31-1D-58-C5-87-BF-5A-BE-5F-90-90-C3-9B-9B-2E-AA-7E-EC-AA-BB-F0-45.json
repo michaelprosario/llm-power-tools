@@ -1,0 +1,8 @@
+{
+    "Id": "FD-6E-37-31-A9-DD-A8-E3-71-E0-31-1D-58-C5-87-BF-5A-BE-5F-90-90-C3-9B-9B-2E-AA-7E-EC-AA-BB-F0-45",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "SQL Server Service Packs with Aaron Bertrand",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with fellow Canadian Aaron Bertrand about his work with SQL Server. Aaron starts out the conversation with a mention around SQL Server 2008 and 2008 R2 coming out of primary tech support and the push to get one last service pack out for both versions. You can contribute to that discussion at the Microsoft Connect site. Aaron also discusses some of the nasty bad practices he's found in supposedly 'good' databases - like dates in strings! We all know better, but are we actually doing better? Time to poke around your database for the truth!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/442fae13-ac0f-464d-a345-aef3c169687a/audio/37fd6735-646c-4aa9-b9c0-c89e72544ee7/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

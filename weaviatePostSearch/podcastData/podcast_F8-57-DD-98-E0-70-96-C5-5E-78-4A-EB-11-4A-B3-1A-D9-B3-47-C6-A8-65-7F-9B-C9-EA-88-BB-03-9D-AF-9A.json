@@ -1,0 +1,8 @@
+{
+    "Id": "F8-57-DD-98-E0-70-96-C5-5E-78-4A-EB-11-4A-B3-1A-D9-B3-47-C6-A8-65-7F-9B-C9-EA-88-BB-03-9D-AF-9A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 210: Stefan Tilkov on Architecture and Micro Services",
+    "SourceUrl": "http://www.se-radio.net/?p=1534",
+    "Description": "Micro services is an emerging trend in software architecture that focuses on small, lightweight applications as a means to avoid large, unmaintainable, monolithic systems. This approach allows for individual technology stacks for each component and more resilient systems. Micro services uses well-known communication schemes such as REST but also require new technologies for the implementation. [\u2026]",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio210-StefanTilkov-MicroServices.mp3?dest-id=23379"
+}

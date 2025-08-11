@@ -1,0 +1,8 @@
+{
+    "Id": "5D-DB-4C-2C-10-6C-EF-8D-87-F4-39-40-2B-D7-EB-6D-85-5A-65-73-BD-A0-F8-9E-A5-B9-1E-BA-4D-63-90-2E",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Protecting Hard Drives using BitLocker and MBAM with Julie Andreacola",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>You sent machines home during the pandemic - are the drives encrypted? Richard talks to Microsoft Premier Field Engineer Julie Andreacola about BitLocker and the various management tools needed to make BitLocker work for you and your organization. Julie talks about the need for PCs that have modern TPM chips - BitLocker will work without them, but life is much better with, especially in recovery. The conversation then turns to management, including Azure AD, InTune, and MBAM. Any combination of those tools can help you provide keys when BitLocker goes into Recovery mode. Keep your drives safe, even when they are remote!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/793c5e96-a272-4198-9023-75135f5b0889/audio/4910304c-703e-4cf7-a09d-621a9a92ec45/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

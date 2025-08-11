@@ -1,0 +1,8 @@
+{
+    "Id": "7D-6A-C9-CC-59-BD-8F-FF-5F-48-F2-CA-FC-53-1A-CC-92-BB-21-2A-2D-E4-6E-63-01-9D-39-0F-A1-76-6A-98",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 429: Rob Skillington on High Cardinality Alerting and Monitoring",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-429-Rob-Skillington-on-High-Cardinality-Alerting-and-Monitoring.mp3",
+    "Description": "<p>Rob Skillington discusses the architecture, data management, and operational issues around monitoring and alerting systems with a large number of metrics and resources.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-429-Rob-Skillington-on-High-Cardinality-Alerting-and-Monitoring.mp3"
+}

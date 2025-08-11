@@ -1,0 +1,8 @@
+{
+    "Id": "23-1F-48-88-FF-3B-06-17-58-49-35-4E-97-27-64-58-F9-1A-84-74-0F-A9-BB-D5-DD-34-A8-7E-71-56-36-02",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 591: Yechezkel Rabinovich on Kubernetes Observability",
+    "SourceUrl": "http://se-radio.net/se-radio-591-yechezkel-rabinovich-on-kubernetes-observability",
+    "Description": "<p>Yeckezkel Rabinovich, CTO of Groundcover, speaks with host <a href=\"../../team/philip-winston/\">Philip Winston</a> about observability and eBPF as it applies to Kubernetes. Rabinovich was previously the chief architect at the healthcare security company CyberMDX and spent eight years in the cyber security division of the Israeli Prime Minister\u2019s Office. This episode explores the three pillars of observability, extending the Linux Kernel with eBPF, the basics of Kubernetes, and how Groundcover uses eBPF as the basis for its observability platform.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/591_Yechezkel_Rabinovich_Kubernetes_Observability.mp3?dest-id=23379"
+}

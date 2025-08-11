@@ -1,0 +1,8 @@
+{
+    "Id": "24-5B-6E-7A-32-2C-B2-90-94-3B-E8-E9-A6-12-87-3F-33-BA-79-1C-2D-EC-A3-2D-64-34-54-C0-60-76-CB-8B",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Glenn Berry Saves Money on SQL Server Hardware!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Glenn Berry about SQL Server hardware. Microsoft changed the licensing of SQL Server in 2012 to per-core rather than per-socket, suddenly making SQL Server much more expensive if you've gone to lots of cores. Glenn talks about how to assess your workload to know if you need as many cores as you currently have, why you shouldn't upgrade in place and use old hardware for SQL Server 2012 and the differences between Intel and AMD CPUs in this new world. Lots of geeky hardware speak, but if you do it right, you can make your SQL hardware almost free! Glenn mentions a couple of important web sites related to SQL performance in relation to hardware, including the TPC-E stats and Geekbench to understand how your hardware performs.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a08af54c-ded3-4d09-a19d-3022d1e4609e/audio/39d27339-460d-493e-945b-4249a8c08aa3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

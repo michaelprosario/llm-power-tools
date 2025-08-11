@@ -1,0 +1,8 @@
+{
+    "Id": "64-85-34-9C-69-FA-93-EC-60-FE-00-ED-B1-23-C6-8B-E7-DE-81-9A-BC-16-8D-91-CD-3C-CA-D8-41-92-A2-C7",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 77: Fault Tolerance with Bob Hanmer Pt. 1",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/lOTyXC9xREE/",
+    "Description": "In this Episode we discuss fault tolerance based on the new book by Bob Hanmer. This is the actually the first part of the discussion, the remainder will be published in the next episode of SE Radio. \n\nWe start by discussing some of the context for fault tolerant systems and the imperfect world assumption. We then discuss a number of terms we will need when discussing the fault tolerance patterns. We then discuss the fault tolerance mindset and connect fault tolerance to a number of related subject areas, such as software quality. We then discuss the shared context for the patterns that follow, among them the important observation that fault tolerance does not come for free!   \n\nFinally we provide an overview over the different sections covered in the book and start the detailed discussion of the patterns by looking at the Architectural Patterns section.\n\nThe next episode will discuss the remaining patterns in the book.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode77-faultToleranceWithBobHanmer_pt1.mp3?dest-id=23379"
+}

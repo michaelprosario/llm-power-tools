@@ -1,0 +1,8 @@
+{
+    "Id": "16-4C-35-92-1E-2F-D9-E2-96-6F-E9-11-89-1F-15-46-12-96-8B-EC-84-1D-9C-11-84-3A-E0-47-2C-05-2C-C8",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 98: Stefan Tilkov on REST",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/R2SQXK4MTkU/",
+    "Description": "In this episode we discuss REST (Representational State Transfer) with <a href=\"http://www.innoq.com/blog/st/\">Stefan Tilkov</a>. We started out by discussing the 5 steps to REST: IDs, links, Standard Methods, multiple representations and stateless communication. We then looked at how to use HTTP for REST, and discussed about how to use it for Web Services. We then we discussed whether and how to use REST for enterprise applications, and not just for apps on the internet. We concluded the discussion with a couple of recommendations.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode98-stefanTilkovOnRest-fixed.mp3?dest-id=23379"
+}

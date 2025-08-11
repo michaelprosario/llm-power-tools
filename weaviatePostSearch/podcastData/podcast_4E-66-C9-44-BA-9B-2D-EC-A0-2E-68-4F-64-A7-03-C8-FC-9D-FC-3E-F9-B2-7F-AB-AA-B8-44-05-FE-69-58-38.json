@@ -1,0 +1,8 @@
+{
+    "Id": "4E-66-C9-44-BA-9B-2D-EC-A0-2E-68-4F-64-A7-03-C8-FC-9D-FC-3E-F9-B2-7F-AB-AA-B8-44-05-FE-69-58-38",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "The MongoDB Exploit with Niall Merrigan",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Are your noSQL stores safe? While at NDC London, Richard chatted with Niall Merrigan about the latest wave of exploits targeting MongoDB, ElasticSearch and others. As Niall explains, the challenge is that the default security models for many of these products leaves them vulnerable to outside attack. As these attacks have progressed, they have presented themselves as ransomware - data is removed and a bitcoin account offered up to restore the data. However, to date, even when the ransoms are paid, no data is restored. Apparently there is no honor among thieves. Now is a great time to review your security vulnerabilities, and Niall suggests looking at your systems the same way hackers do, through tools like Shodan. Give yourself a security checkup!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c2840c37-945e-43a5-b821-44ccdd3d9e82/audio/1ac3b19a-578a-4ec6-86fb-e4e78de0eced/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

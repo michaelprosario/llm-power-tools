@@ -1,0 +1,8 @@
+{
+    "Id": "7C-AD-24-D5-8B-CE-A5-D6-12-6B-8C-E4-1F-D9-15-41-12-63-9D-A2-D0-86-42-B6-A4-7C-B4-02-0B-E7-1F-EA",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Streaming Large Scale Live Events with Ian Philpot",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>So what does it take to live stream the largest sporting events in the world? Richard chats with Ian Philpot, Premier Field Engineer at Microsoft, about his work troubleshooting streaming issues for events like the Winter Olympics in Sochi, 2014 FIFA World Cup and Super Bowl XLIX. Of course it takes a team to make a project like this happen, and Phil talks about the entire service chain, from NBC's broadcast to iStreamPlanet to Azure Media Serviecs, Akamai and Adobe's Primetime Player. The conversation also turns to the Azure Media Services Explorer, a GitHub project to make it easier to integrate your software into Azure Media Services. If AMS can handle the Super Bowl, they can handle your streaming project too!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d29952c0-9a85-49b5-802b-ca53e3bb5f9b/audio/10fc2f30-3c16-44c4-b99b-39ec7b9b14b3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}
