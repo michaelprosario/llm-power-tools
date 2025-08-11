@@ -17,7 +17,7 @@ client = weaviate.connect_to_weaviate_cloud(
     auth_credentials=Auth.api_key(weaviate_api_key),
 )
 
-questions = client.collections.get("Question")
+questions = client.collections.get("QuestionSimple")
 
 response = questions.query.near_text(
     query="animals",
