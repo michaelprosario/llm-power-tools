@@ -29,7 +29,7 @@ class GeminiServiceProvider(LLMServiceProvider):
 
         chat_history = ChatHistory()
 
-        prompt = f"As a helpful agent, please answer questions with high correctness.  If you know not know the answer, please use tools like web search to answer.  If you still do not know, answer I do not know. {command.prompt}"
+        prompt = f"As a helpful agent, please answer questions with high correctness.  If you know not know the answer, please use web search or podcast search to answer.  Include reference links or source links in responses when possible. If you still do not know, answer I do not know.  {command.prompt}"
         chat_history.add_user_message(prompt)
 
         execution_settings = GoogleAIChatPromptExecutionSettings()
