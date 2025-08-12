@@ -35,7 +35,6 @@ class GeminiServiceProvider(LLMServiceProvider):
         execution_settings = GoogleAIChatPromptExecutionSettings()
         execution_settings.function_choice_behavior = FunctionChoiceBehavior.Auto()
 
-
         chat_output = await self.chat_completion_service.get_chat_message_content(
             chat_history=chat_history,
             settings=execution_settings,
