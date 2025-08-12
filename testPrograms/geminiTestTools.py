@@ -64,8 +64,7 @@ class WebSearchPlugin:
 
 async def main():
     gemini_service_provider = GeminiServiceProvider(model_config)
-
-    # Add plugin for temperature - fix the function registration
+    
     kernel = gemini_service_provider.getKernel()
 
     weatherPlugin = WeatherPlugin()

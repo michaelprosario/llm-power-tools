@@ -16,7 +16,7 @@ model_config.base_url = "http://localhost:11434"
 ollama_service_provider = OllamaServiceProvider(model_config)
 
 async def main():
-    command = ExecutePromptCommand(prompt="Write a song about star trek", context={"theme": "science fiction"})
+    command = ExecutePromptCommand(prompt="Write a song about star trek", context={})
     result = await ollama_service_provider.execute_prompt(command)
     print(result.content)
 

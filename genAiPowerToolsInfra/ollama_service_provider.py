@@ -34,14 +34,11 @@ class OllamaServiceProvider(LLMServiceProvider):
                 },
             )
 
-
         result = await self.chat_completion_service.get_chat_message_content(
             history, settings
         )
 
         # Print the AI's response
-        print(f"Assistant > {result.content}")
-
         result = LLMResult()
         result.content = result.content        
         return result
