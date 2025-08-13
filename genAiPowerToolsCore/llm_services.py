@@ -19,7 +19,7 @@ class AppResult:
 class ExecutePromptCommand:
     def __init__(self, prompt, context):
         self.prompt = prompt        
-        self.context = context
+        self.context = context        
 
 class LLMResult(AppResult):
     def __init__(self, success=True, message=None, errors=[]):

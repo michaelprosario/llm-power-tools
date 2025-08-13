@@ -19,7 +19,6 @@ from weaviateInfra.weaviate_search_service import WeaviateSearchService
 
 from semantic_kernel import Kernel
 from semantic_kernel.connectors.ai.open_ai import OpenAIChatCompletion
-from semantic_kernel.functions import kernel_function
 from semantic_kernel.prompt_template import InputVariable, PromptTemplateConfig
 from semantic_kernel.functions import kernel_function
 from genAiPowerToolsInfra.exa_search_provider import ExaSearchProvider
