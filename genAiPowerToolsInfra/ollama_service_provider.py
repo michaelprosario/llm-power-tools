@@ -40,9 +40,9 @@ class OllamaServiceProvider(LLMServiceProvider):
                 service_id=service_id,
                 options={
                     "temperature": 0.8,
-                },
-                function_choice_behavior = FunctionChoiceBehavior.Auto()
+                }
             )
+        #settings.function_choice_behavior = FunctionChoiceBehavior.Auto()
 
         result = await self.chat_completion_service.get_chat_message_content(
             chat_history=history,
