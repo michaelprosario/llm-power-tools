@@ -5,7 +5,7 @@
 
 
 ### tool ideas for marketers
-- get posts from rss feed
+[x]- get posts from rss feed
 - Creating Timelines and Schedules: Building a detailed timeline for the entire event—from the initial planning stages to the day of the event—is crucial. This involves outlining every task, deadline, and responsibility, and it must be constantly updated and communicated to all parties.
 - audience research
 - marketing plan

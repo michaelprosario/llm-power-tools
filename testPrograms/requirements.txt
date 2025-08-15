@@ -5,3 +5,4 @@ asyncio
 weaviate-client>=3.26.7
 python-dotenv
 exa-py
+chromadb
