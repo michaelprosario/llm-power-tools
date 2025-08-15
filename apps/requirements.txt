@@ -1,0 +1,9 @@
+asyncio
+exa-py
+feedparser
+google-generativeai
+python-dotenv
+requests
+semantic-kernel
+semantic-kernel[gemini]
+weaviate-client>=3.26.7
