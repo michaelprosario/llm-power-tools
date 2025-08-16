@@ -1,0 +1,8 @@
+{
+    "Id": "F2-4F-D9-63-6F-1B-21-AB-9F-7C-08-F9-6F-BA-DD-CE-96-74-EA-9F-35-78-02-8E-51-91-75-AE-F6-EA-BD-A7",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 669: Will McGugan on Text-Based User Interfaces",
+    "SourceUrl": "http://se-radio.net/se-radio-669-will-mcgugan-on-text-based-user-interfaces",
+    "Description": "<p data-prosemirror-content-type=\"node\" data-prosemirror-node-name= \"paragraph\" data-prosemirror-node-block=\"true\" data-pm-slice= \"1 1 []\">Will McGugan, the CEO and founder of Textualize, speaks with host <a href= \"https://se-radio.net/team/gregory-kapfhammer/\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name= \"link\">Gregory M. Kapfhammer</a> about how to use packages such as Rich and Textual to build text-based user interfaces (TUIs) and command-line interfaces (CLIs) in Python. Along with discussing the design idioms that enable developers to create TUIs in Python, they consider practical strategies for efficiently rendering the components of a TUI. They also explore the subtle idiosyncrasies of implementing performant TUI frameworks like Textual and Rich and introduce the steps that developers would take to create their own CLI or TUI.</p> <p>This episode is sponsored by <a href= \"https://www.fly.io?utm=seradio\" target=\"_blank\" rel= \"noopener\">Fly.io.</a></p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/669-will-mcgugan-text-based-ui.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "E1-D7-B3-C7-0D-E3-AE-13-B2-68-2A-82-5E-1F-E3-DC-DF-6E-44-67-DB-DE-BA-2C-D2-54-DC-4A-CC-D9-7B-34",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 68: Dan Grossman on Garbage Collection and Transactional Memory",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/nTG55TQwQYM/",
+    "Description": "This episode features a discussion with <a href=\"http://www.cs.washington.edu/homes/djg/\">Dan Grossman</a> about an essay paper he wrote for this year's <a href=\"http://www.oopsla.org/oopsla2007/\">OOPSLA</a> conference. The paper is about an analogy between garbage collection and transactional memory. In addition to seeing the beauty of the analogy, the discussion also serves as a good introduction to transactional memory (which was mentioned in the <a href=\"http://www.se-radio.net/index.php?post_id=168233\">Goetz/Holmes episode</a>) and - to some extent - to garbage collection.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode68-GCandTMwithDanGrossman.mp3?dest-id=23379"
+}

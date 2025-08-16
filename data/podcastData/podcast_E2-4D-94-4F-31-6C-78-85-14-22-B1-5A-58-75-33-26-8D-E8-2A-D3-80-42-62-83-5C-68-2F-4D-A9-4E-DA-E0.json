@@ -1,0 +1,8 @@
+{
+    "Id": "E2-4D-94-4F-31-6C-78-85-14-22-B1-5A-58-75-33-26-8D-E8-2A-D3-80-42-62-83-5C-68-2F-4D-A9-4E-DA-E0",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 293: Yakov Fain on Angular",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-293-Yakov-Fain-on-Angular.mp3",
+    "Description": "<p>Yakov Fain talks with SE Radio\u2019s Matthew Farwell about the Angular web development framework. The show covers the philosophy behind Angular; who would want to use the framework; how an Angular application is composed, including how to handle form submission and validation; why Typescript was chosen for Angular; how Angular uses reactive programming (RxJS, in particular); how to test an Angular application; security concerns of web applications; who developed Angular and how it is supported, and performance considerations of an Angular application.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-293-Yakov-Fain-on-Angular.mp3"
+}

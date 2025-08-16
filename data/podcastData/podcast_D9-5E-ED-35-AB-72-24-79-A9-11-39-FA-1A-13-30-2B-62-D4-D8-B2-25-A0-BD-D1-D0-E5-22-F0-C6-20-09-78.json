@@ -1,0 +1,8 @@
+{
+    "Id": "D9-5E-ED-35-AB-72-24-79-A9-11-39-FA-1A-13-30-2B-62-D4-D8-B2-25-A0-BD-D1-D0-E5-22-F0-C6-20-09-78",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 648: Matthew Adams on AI Threat Modeling and Stride GPT",
+    "SourceUrl": "http://se-radio.net/se-radio-648-matthew-adams-on-ai-threat-modeling-and-stride-gpt",
+    "Description": "<p>Matthew Adams, Head of Security Enablement at Citi, joins SE Radio host Priyanka Raghavan to explore the use of large language models in threat modeling, with a special focus on Matthew's work, Stride GPT. The episode kicks off with an overview of threat modeling, its applications, and the stages of the development life cycle where it fits in. They then discuss the STRIDE methodology and strideGPT, highlighting practical examples, the technology stack behind the application, and the tool's inputs and outputs. The show concludes with tips and tricks for optimizing tool outputs and advice on other open source projects that utilize generative AI to bolster cybersecurity defenses. Brought to you by <a href=\"https://www.computer.org\" target=\"_blank\" rel= \"noopener\">IEEE Computer Society</a> and <a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/648-matt-adams-threat-modeling-stride-gpt.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "D4-A2-10-E4-51-B7-0A-F0-7C-08-45-EF-BC-F3-72-46-41-37-83-A3-A6-36-06-84-BC-6B-F1-71-0F-AD-75-BC",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "David Lowe Guides Us to the Windows Server 2008 Core!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>David Lowe of the Windows Server Team talks to us about Windows Server 2008 Core installation. The Core installation removes most of the GUI, Windows Explorer, Internet Explorer and other overhead of the operating system that you don't need for a remote access server. The result is a server with an 80% smaller footprint in diskspace and substantially less memory consumed.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a1d1384c-af42-4a08-a899-7a49e6f6ca20/audio/700b5fb6-baea-4495-9696-720a197b3c56/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

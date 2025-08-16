@@ -1,0 +1,8 @@
+{
+    "Id": "E9-4A-88-8B-6B-79-BD-FB-DF-81-CF-55-75-23-16-EC-DB-75-D1-65-41-47-8B-F8-06-97-17-42-C1-6E-59-6B",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Physical and Virtual Machine Security with Ned Pyle",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Firewalls and MFA are awesome, but how's your physical security? Richard chats with Ned Pyle about a story surrounding a consultant able to walk into a data center, take a VM host server and walk out - and then was able to exploit it to pull all sorts of information out of the Active Directory service on it! Ned talks about taking both physical security and policies seriously, and then moves to the next phase: How do you protect a virtual machine even when its stolen? Enter Guarded Fabric and Shielded Virtual Machines, first introduced in Server 2016 and improved in Server 2019 - go beyond BitLocker protections and really digitally secure your VMs!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/cb32e840-d4d0-4379-9e37-2019e7b17884/audio/bddaed9d-3b44-4fdd-8e11-e4b9c6ddc79f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

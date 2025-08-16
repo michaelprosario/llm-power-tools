@@ -1,0 +1,8 @@
+{
+    "Id": "D5-60-96-FC-D5-DA-1C-E6-FB-6D-B2-D2-E7-E7-D3-68-6D-16-22-F4-74-8D-F5-AE-69-6C-E5-B4-B3-3D-68-86",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 40: Interview Werner Vogels",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/sJ__Tl4LnkU/",
+    "Description": "This episode is an interview with Werner Vogels, the CTO of amazon.com. We first talked about what scalability is, and which aspects there are to scalability. We then took a brief look at the technologies used at amazon, specifically, the middleware systems and the issue of vendor lock-in. Web services, and the role of SOA was the next topic. Then we covered what a service actually is add Werner explained the term \"pizza teams\". Testing and Deployment was the next topic followed by a look at architectural characteristics of scalable systems, the value of simplicity and the CAP theorem. We concluded the discussion with a brief look at the future of distributed systems",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode40-wernerVogels.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "ED-09-76-9A-09-DE-1B-18-5F-27-E5-5F-56-B0-17-D5-B4-79-E0-8B-C9-D2-77-05-1F-AB-67-A4-54-C6-E5-2C",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "SQL Server 2016 with Brent Ozar",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What is coming in SQL Server 2016? Richard chats with Brent Ozar about his thoughts on the upcoming version of SQL Server. The conversation digs into how the cloud is impacting SQL Server - features like Query Store were available first in the cloud are now showing up in this new on-premise edition! Speaking of Query Store, who wouldn't want a record of query plans so you can find out exactly why a query in production took a long time? Brent discusses other features including the stretch table to azure, always encrypted, row level security... the list goes on! The question is, when do we get this great version?</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/077aba4e-2bed-4a6c-bd56-a912a5f1046e/audio/d79e1007-a81f-42fd-8b98-75834d69c153/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

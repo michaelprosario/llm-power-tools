@@ -1,0 +1,8 @@
+{
+    "Id": "FE-5F-10-7A-B2-6C-45-8B-89-DE-39-68-44-87-5A-C0-57-A7-B1-C7-97-E8-C5-C6-BF-F3-B7-33-8A-F2-25-8E",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 95: The New Guardian.co.uk website with Matt Wall and Erik DoernenBurg",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/-LVE6tt-y5k/",
+    "Description": "In this episode we talk to Matthew Wall (Guardian News and Media) and <a href=\"http://www.doernenburg.com/\">Erik Doernenburg</a> (<a href=\"www.thoughtworks.com\">Thoughtworks</a>) about their work on the new <a href=\"http://www.guardian.co.uk/\">guardian.co.uk</a> website. We discuss the challenge of scalability and interactivity, their use of <a href=\"http://www.domaindrivendesign.org/\">Domain Driven Design</a>, some of the technical building blocks as well as the approaches they use for performance measuring and scalability tuning.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode95-theNewGuardianWithWallAndDoernenburg.mp3?dest-id=23379"
+}

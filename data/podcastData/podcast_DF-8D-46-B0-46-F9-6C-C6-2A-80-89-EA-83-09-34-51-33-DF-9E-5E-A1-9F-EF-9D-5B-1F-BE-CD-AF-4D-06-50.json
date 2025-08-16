@@ -1,0 +1,8 @@
+{
+    "Id": "DF-8D-46-B0-46-F9-6C-C6-2A-80-89-EA-83-09-34-51-33-DF-9E-5E-A1-9F-EF-9D-5B-1F-BE-CD-AF-4D-06-50",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "ReactiveUI extensions to the Reactive Framework (Rx) with Paul Betts",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott sits down with Paul Betts and talks about extensing the Reactive Framework. We currently manage our UI events as they are pushed to us. How does programming - and asynchronous programming - change if we change the way UI events are consumed? The ReactiveFramework extends .NET, and Paul's extended that with his Open Source Reactive UI framework. Let's see if Paul can teach Scott a new trick.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/fe330ec9-d26f-408c-895c-6b4fb3bb3787/413ed8e7_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

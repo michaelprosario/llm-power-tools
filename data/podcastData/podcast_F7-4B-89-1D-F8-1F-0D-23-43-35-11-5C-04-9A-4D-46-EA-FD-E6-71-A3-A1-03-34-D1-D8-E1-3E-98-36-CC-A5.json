@@ -1,0 +1,8 @@
+{
+    "Id": "F7-4B-89-1D-F8-1F-0D-23-43-35-11-5C-04-9A-4D-46-EA-FD-E6-71-A3-A1-03-34-D1-D8-E1-3E-98-36-CC-A5",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "JSON for Azure with Aidan Finn",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>JSON for IT folks? Yes! Richard talks to Aidan Finn about his experiences actually getting into configuration-as-code. Aidan talks about discovering the Azure Quickstart Templates as a starting point to automating setting up test and training labs. JSON is a simple file format but takes a little getting used to, and with Azure you can specify virtually every aspect of a virtual machine so that it can be created on-demand. And there are great tools available to make it easier to build and maintain these configuration files. Ultimately, if you are creating anything in Azure more than once, you need to get up to speed on this kind of automation - it's the future!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/803e1d69-40ac-4a75-9a05-a844b80ebd8e/audio/3b6b99d2-b27c-4ab3-aa47-e72c84a522b3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

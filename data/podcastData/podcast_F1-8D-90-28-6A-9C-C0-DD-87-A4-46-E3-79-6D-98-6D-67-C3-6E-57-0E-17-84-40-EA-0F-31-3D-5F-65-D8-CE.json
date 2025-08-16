@@ -1,0 +1,8 @@
+{
+    "Id": "F1-8D-90-28-6A-9C-C0-DD-87-A4-46-E3-79-6D-98-6D-67-C3-6E-57-0E-17-84-40-EA-0F-31-3D-5F-65-D8-CE",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "FIDO2 and Passwordless with Kyle Kotowick",
+    "SourceUrl": "https://runasradio.com/Shows/Show/870",
+    "Description": "<p>Ready to go passwordless? While at NDC in London, Richard chatted with Kyle Kotowick about the FIDO2 specification and how it is being implemented to provide more passwordless options for authentication. Kyle talks about how FIDO2 does not necessarily mean physical keys like the Yubikey - there are more options! The TPM chip in your PC or smartphone can act as the token generator when combined with a second authenticator, like fingerprint or facial recognition in Windows Hello. Ideally, this superior level of authentication is effortless - you use multifactor without even realizing you are!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://fidoalliance.org/\">Fido Alliance</a></li><li><a href=\"https://www.yubico.com/\">YubiKeys</a></li><li><a href=\"https://learn.microsoft.com/windows/security/identity-protection/hello-for-business/hello-overview?WT.mc_id=DT-MVP-10953\">Windows Hello for Business</a></li><li><a href=\"https://webauthn.io/\">WebAuthn</a></li><li><a href=\"https://fidoalliance.org/specs/fido-v2.0-ps-20190130/fido-client-to-authenticator-protocol-v2.0-ps-20190130.html\">CTAP2</a></li></ul><p>Recorded January 25, 2023</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/0814ea9f-9aba-4cd4-bee8-eba386147f13/audio/c74f0bb8-bae1-466c-9eff-5ec4518bba2d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

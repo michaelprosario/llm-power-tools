@@ -1,0 +1,8 @@
+{
+    "Id": "EB-30-0E-12-A6-AE-E4-9B-2E-B5-34-0B-99-CD-7C-DA-C8-17-7F-A4-3F-F9-6E-A3-0F-C5-68-42-EC-33-95-4D",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Just Enough Administration with Mark Minasi",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you provide granular administrative privileges to junior administrators? Richard talks to Mark Minasi about the idea of Just Enough Administration (JEA). And it's not just for junior administration - the conversation dives into this idea that administrators should be domain users most of the time, and only elevate their privileges for specific tasks. JEA helps you organize privilege sets for those tasks so that you have no more capability than necessary. Administrator accounts are the hot new exploit vector, it's time to lock them down! Check out Just Enough Administration on TechNet.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9e9de71d-c10f-4eec-bf66-9c8bad9b9f75/audio/81fa3743-f79d-40b7-a003-6d65b4745363/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

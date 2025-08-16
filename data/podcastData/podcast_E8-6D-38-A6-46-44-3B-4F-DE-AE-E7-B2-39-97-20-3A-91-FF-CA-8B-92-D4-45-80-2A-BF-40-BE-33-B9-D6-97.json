@@ -1,0 +1,8 @@
+{
+    "Id": "E8-6D-38-A6-46-44-3B-4F-DE-AE-E7-B2-39-97-20-3A-91-FF-CA-8B-92-D4-45-80-2A-BF-40-BE-33-B9-D6-97",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "The MVVM Pattern with Laurent Bugnion",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott talks to Laurent Bugnion about the often misunderstood Model-View-ViewModel (MVVM) pattern. What's the different between this pattern and MVC? Can I use this pattern for Silverlight, WPF and Windows Phone 7, and what Open Source projects can support this pattern?</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/87b3ac11-928c-4051-b780-004b4df4d60f/6daa1598_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

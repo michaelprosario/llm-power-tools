@@ -1,0 +1,8 @@
+{
+    "Id": "F9-06-62-C0-69-B7-12-6F-C5-2F-5D-29-BE-CF-1F-5C-D8-79-9E-47-B2-BD-F6-87-52-87-3B-A7-1F-FF-94-51",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "PowerBI Reporting with Jason Himmelstein",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you do your business intelligence? While at DevIntersection in Las Vegas, Richard sat down with Jason Himmelstein to talk about PowerBI, the latest reporting and analytics tool from Microsoft. Jason talks about how PowerBI fits into Azure and Office365, but today there is also the PowerBI Reporting Server, which is an advanced version of SQL Server Reporting Services that runs on-premises. This leads to a discussion about how you build a hybrid reporting solution between the cloud and your own data services. Lots of good thinking around business intelligence!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/831f7dcc-e590-4556-88ab-cc5451493140/audio/4309dee8-9e11-49a7-be00-d828441e280a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

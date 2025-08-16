@@ -1,0 +1,8 @@
+{
+    "Id": "F6-6B-18-98-86-24-A8-63-8B-2B-79-10-57-C6-58-B9-07-50-8A-47-A6-F8-82-E7-4E-E0-7A-63-28-9A-63-7D",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 55: Refactoring Pt. 2",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/Xf8azTKAh30/",
+    "Description": "In the first episode on Refactoring we talked about the basic ideas behind refactoring and some base principles why refactoring is a key part of software engineering. Now we move on to more complicated refactorings and discuss three major situations, their problems and possible solutions: advanced refactorings in large projects that can hardly be finished in a few minutes or hours and refactoring in larger teams. Also covered are the refactoring of published APIs and how merciless refactoring could be aligned with backward compatibility of published APIs, and refactorings that affect more than just code like for example database schemas.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode55-refactoring_pt2.mp3?dest-id=23379"
+}

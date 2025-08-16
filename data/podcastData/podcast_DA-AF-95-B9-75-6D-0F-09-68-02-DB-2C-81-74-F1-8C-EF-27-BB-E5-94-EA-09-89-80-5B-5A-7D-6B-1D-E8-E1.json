@@ -1,0 +1,8 @@
+{
+    "Id": "DA-AF-95-B9-75-6D-0F-09-68-02-DB-2C-81-74-F1-8C-EF-27-BB-E5-94-EA-09-89-80-5B-5A-7D-6B-1D-E8-E1",
+    "ContentSourceId": "93e20d47-d987-49da-93b1-8fa3d96a518b",
+    "Title": "Bringing Vitess to Postgres",
+    "SourceUrl": "https://changelog.com/podcast/651",
+    "Description": "Sugu Sougoumarane, creator of Vitess, comes off sabbatical to bring Vitess to Postgres. We discuss what motivated Sugu to come off sabbatical, why now is the time, the technical challenges of doing so, the implementation details of Multigres (Vitess for Postgres). We also discuss the state of Postgres at scale.",
+    "EnclosureUrl": "https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/651/the-changelog-651.mp3"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "FE-D0-CE-AB-29-AD-08-C8-5E-F3-46-A2-0D-75-E0-C4-DE-1C-6B-D8-C3-8D-62-9E-EE-A9-8F-0E-43-7E-35-DC",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Steve Evans Uses Hyper-V in Production!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>While on the break week of the .NET Rocks Visual Studio 2012 Launch Road Trip, Richard talked to Steve Evans about his experiences with Hyper-V in the field. Steve talks about a company he's working with that uses Windows 2008 R2 Hyper-V (effectively version two) and runs down a number of specific tuning elements around networking, VM sizing, CPU allocation, hardware and software redundancy.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f84084c8-7677-49c5-9132-cc272a17c40a/audio/4b79a560-5642-416a-8044-a7b06b55de4c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

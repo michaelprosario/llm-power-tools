@@ -1,0 +1,8 @@
+{
+    "Id": "FE-FF-F6-7D-43-C9-08-E5-16-56-28-41-D8-E4-63-72-57-18-42-96-73-B5-17-52-17-3F-5B-8D-F1-E6-FD-9E",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 494: Robert Seacord on Avoiding Defects in C Programming",
+    "SourceUrl": "http://se-radio.net/episode-494-robert-seacord-on-avoiding-defects-in-c-programming",
+    "Description": "<p>Robert Seacord, author of Effective C, The CERT C Coding Standard and Secure Coding in C and C++, discusses why the C programming language can be insecure, the top 5 security issues and the tools and techniques you can employ to write secure code in C.</p>",
+    "EnclosureUrl": "http://se-radio.net/episode-494-robert-seacord-on-avoiding-defects-in-c-programming"
+}

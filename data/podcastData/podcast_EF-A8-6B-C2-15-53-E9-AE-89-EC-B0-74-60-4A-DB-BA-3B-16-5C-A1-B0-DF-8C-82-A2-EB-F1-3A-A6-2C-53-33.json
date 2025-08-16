@@ -1,0 +1,8 @@
+{
+    "Id": "EF-A8-6B-C2-15-53-E9-AE-89-EC-B0-74-60-4A-DB-BA-3B-16-5C-A1-B0-DF-8C-82-A2-EB-F1-3A-A6-2C-53-33",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 89: Joe Armstrong on Erlang",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/US128SRwaI4/",
+    "Description": "In this Episode we're talking about <a href=\"http://www.erlang.org/\">Erlang</a> with its creator <a href=\"http://armstrongonsoftware.blogspot.com/\">Joe Armstrong</a>. We started by looking at the history of the Erlang language and why it is so relevant today.\n\nWe then looked at Joe's approach to Concurrency Oriented Programming and its main ingredients: share nothing, lightweight concurrency and pure message passing. We also compared this to the classic shared memory approach to concurrency. We then looked at other interesting aspects of Erlang, such as its functional nature (and why this is important to concurrency) and pattern matching.  Next we discussed how to implement distribution and fault tolerance, and we took a look at OTP, the \"application server\" for Erlang.\n\nWe concluded the conversation with a littel discussion about how Erlang was designed, it's current community as well as its future.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode89-JoeArmstrongOnErlang.mp3?dest-id=23379"
+}

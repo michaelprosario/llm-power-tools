@@ -1,0 +1,8 @@
+{
+    "Id": "E6-53-0B-25-2F-2A-DA-47-63-6E-54-2B-60-43-54-BB-6D-AD-CC-B4-39-A7-0B-2A-09-E4-B6-49-B6-00-31-B3",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 652: Christian Mesh on OpenTofu",
+    "SourceUrl": "http://se-radio.net/se-radio-652-christian-mesh-on-opentofu",
+    "Description": "<p data-pm-slice=\"1 3 []\">Christian Mesh, tech lead of the <a href=\"https://opentofu.org/\">OpenTofu</a> project, speaks with host <a href= \"https://se-radio.net/team/robert-blumen/\">Robert Blumen</a> about OpenTofu. They start with the history of terraform, terraform providers, license changes to open source projects, the origin of OpenTofu as a fork of terraform, and the structure of the OpenTofu organization. They further explore compatibility issues for HCL, providers, and modules, performance issues, and adoption, as well as significant features in the OpenTofu-included dynamic-provider iteration, and the roadmap for the project going forward.</p> <p data-pm-slice=\"1 3 []\">Brought to you by\u00a0<a href= \"https://www.computer.org/\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\">IEEE Software magazine.</a></p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/652-christian-mesh-opentofu.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "D8-57-62-D7-B1-24-44-97-98-66-A2-4A-FD-6A-43-A3-0F-62-0E-C0-BF-0F-BC-E6-5D-EF-4C-E2-7F-6B-AF-6A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 623: Michael J. Freedman on TimescaleDB",
+    "SourceUrl": "http://se-radio.net/se-radio-623-mike-freedman-on-timescaledb",
+    "Description": "<p>Michael J. Freedman, the Robert E. Kahn Professor in the Computer Science Department at Princeton University, as well as the co-founder and CTO of Timescale, spoke with SE Radio host\u00a0<a title=\"\u200c\" href= \"https://se-radio.net/team/gavin-henry/\" target=\"_blank\" rel= \"nofollow noopener noreferrer ugc\">Gavin Henry</a> about TimescaleDB. They revisit what time series data means in 2024, the history of TimescaleDB, how it integrates with PostgreSQL, and they take the listeners through a complete setup. Freedman discusses the types of data well-suited for a timeseries database, the types of sectors that have these requirements, why PostgreSQL is the best, Pg callbacks, Pg hooks, C programming, Rust, their open source contributions and projects, data volumes, column-data, indexes, backups, why it is common to have one table for your timeseries data, when not to use timescaledb, IoT data formats, Pg indexes, how Pg works without timescaledb, sharding, and how to manage your upgrades if not using Timescale Cloud. Brought to you by <a href= \"https://www.computer.org\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a> and <a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\"><em>IEEE Software</em></a> magazine.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/623-mike_freedman_timescaleDB.mp3?dest-id=23379"
+}

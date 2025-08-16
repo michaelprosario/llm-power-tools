@@ -1,0 +1,8 @@
+{
+    "Id": "F3-A1-09-DF-37-8A-FC-4B-FA-AF-05-90-BE-5B-A1-3F-95-D9-68-14-AF-D2-5F-25-9A-F8-91-D4-AB-36-C4-C2",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "The Hafnium Exchange Exploits with Tony Redmond",
+    "SourceUrl": "https://runasradio.com/Shows/Show/770",
+    "Description": "<p>A severe set of exploits have hit the on-premises Exchange server world. Richard talks to Tony Redmond about the so-called Hafnium exploits, a collection of four zero-day exploits that can allow an attacker to run arbitrary code on Exchange servers visible to the internet. Exchange Online is not affected, and it appears that on-premises Exchange servers only accessible by VPN are also safe. The patches are available for Exchange 2010 on upward, but it is likely too late for tens of thousands of Exchange servers. What happens now?</p><p><strong>Links:</strong></p><ul><li><a href=\"https://office365itpros.com/\">Office 365 IT Pros</a></li><li><a href=\"https://www.youtube.com/watch?v=rn-6t7OygGk\">John Hammond Hafnium Analysis</a></li><li><a href=\"https://practical365.com/blog/attack-exchange-impetus-move-cloud/\">Tony's Blog Post on Hafnium</a></li><li><a href=\"https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/\">Microsoft Post on Hafnium Exploit</a></li></ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/194218ae-ec99-4525-bf41-5db4b34be7ee/audio/da50afb9-dc05-4870-b5ed-a5748dd0ae3b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

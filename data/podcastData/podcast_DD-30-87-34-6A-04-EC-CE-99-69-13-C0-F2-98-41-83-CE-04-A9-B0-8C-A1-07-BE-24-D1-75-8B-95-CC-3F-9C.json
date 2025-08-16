@@ -1,0 +1,8 @@
+{
+    "Id": "DD-30-87-34-6A-04-EC-CE-99-69-13-C0-F2-98-41-83-CE-04-A9-B0-8C-A1-07-BE-24-D1-75-8B-95-CC-3F-9C",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Polyglot Persistence for .NET with PostgresSQL and Marten with Jeremy Miller",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>There's so many great open source projects and stacks to choose from in the .NET ecosystem. Scott talks to Jeremy Miller about &quot;Marten&quot; - it offers Polyglot Persistence for .NET Systems using the Postgresql Database as the backend. You get both a Document Database with JSON support as an Event Store! Jeremy talks about all the great options you have for persisting your objects.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/97a2df22-6e11-41b8-afa5-b30ced9e6a12/7b06d913_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "DF-EC-9C-56-05-B2-3C-E7-D8-3E-1A-E5-40-B2-B8-B5-BE-4F-10-56-C8-1B-33-31-B3-72-79-8F-72-18-C5-6B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 678: Chris Love on Kubernetes Security",
+    "SourceUrl": "http://se-radio.net/se-radio-678-chris-love-on-kubernetes-security",
+    "Description": "<p><strong>Chris Love</strong>, co-author of the book <em><a href= \"https://www.manning.com/books/core-kubernetes\" target=\"_blank\" rel=\"noopener\" data-testid=\"link-with-safety\">Core Kubernetes</a></em>, joins host <a href= \"https://se-radio.net/team/robert-blumen/\">Robert Blumen</a> for a conversation about kubernetes security. Chris identifies the node layer, secrets management, the network layer, contains, and pods as the most critical areas to be addressed.</p> <p>The conversation explores a range of topics, including when to accept defaults and when to override; differences between self-managed clusters and cloud-service provider-managed clusters; and what can go wrong at each layer -- and how to address these issues. They further discuss managing the node layer; network security best practices; kubernetes secrets and integration with cloud-service provider secrets; container security; pod security, and Chris offers his views on policy-as-code frameworks and scanners.</p> <p>Brought to you by\u00a0<a href=\"https://www.computer.org/\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/678-chris-love-kubernetes-security.mp3?dest-id=23379"
+}

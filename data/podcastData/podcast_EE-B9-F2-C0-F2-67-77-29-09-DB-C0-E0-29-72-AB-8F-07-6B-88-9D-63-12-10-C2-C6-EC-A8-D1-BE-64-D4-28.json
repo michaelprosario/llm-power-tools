@@ -1,0 +1,8 @@
+{
+    "Id": "EE-B9-F2-C0-F2-67-77-29-09-DB-C0-E0-29-72-AB-8F-07-6B-88-9D-63-12-10-C2-C6-EC-A8-D1-BE-64-D4-28",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Desired State Configuration with Jeffrey Snover",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Jeffrey Snover about Desired State Configuration (DSC). DSC is part of the Windows Server 2012 R2 Preview, although it is also available as the Windows Management Framework 4.0 Preview that can run on Windows 7 SP1 and Server 2008 R2 SP1. Jeffrey explains that DSC is all about building configuration information that can be applied to a server to install and configure services exactly to specification and resist 'drifting' of the configuration over time. DSC takes Powershell to the next level!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7781b01a-1b20-41dc-9f00-7c8f179f5715/audio/eece9187-03ad-44d3-bc84-75907245af45/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}
