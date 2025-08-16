@@ -2,7 +2,22 @@
 import os
 from podcastPost import PodcastPost
 
-# Updated PodcastDataReader class
+import sys
+import os
+import uuid
+from dotenv import load_dotenv
+from rpds import List
+from sentence_transformers import SentenceTransformer
+
+load_dotenv()
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+# import lib for guids
+import uuid
+
+from genAiPowerToolsInfra.chroma_data_repository import ChromaDataRepository
+
 class PodcastDataReader:
     def __init__(self):
         pass
@@ -53,10 +68,24 @@ class PodcastDataReader:
         
         return podcast_episodes
 
+class ChromaRepository:
+    def __init__(self):
+        pass
+
 
     
 
 podcastDataReader = PodcastDataReader()
 posts = podcastDataReader.get_podcasts_from_directory("../data/podcastData")
-for post in posts:
-    print(post)
+
+chromaRepo = ChromaDataRepository()
+chromaRepo.create_collection("podcasts")
+
+collection = chromaRepo.get_collection("podcasts")
+for post in posts:    
+    podcast_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, post.enclosure_url))
+    text_content = f"{post.title}|{post.description}"
+    metadata = post.to_dict()  # Convert PodcastPost to dict for metadata
+    chromaRepo.add_document(collection, podcast_id, text_content, metadata)
+    print(f"Added podcast: {post.title} with ID: {podcast_id}")
+
