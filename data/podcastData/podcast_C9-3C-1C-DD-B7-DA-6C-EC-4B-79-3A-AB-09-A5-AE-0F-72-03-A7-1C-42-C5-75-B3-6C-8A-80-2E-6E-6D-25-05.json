@@ -1,0 +1,8 @@
+{
+    "Id": "C9-3C-1C-DD-B7-DA-6C-EC-4B-79-3A-AB-09-A5-AE-0F-72-03-A7-1C-42-C5-75-B3-6C-8A-80-2E-6E-6D-25-05",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Manageable Infrastructure as Code using Pulumi with Joe Duffy",
+    "SourceUrl": "https://runasradio.com/Shows/Show/848",
+    "Description": "<p>How do you make manageable Infrastructure-as-Code? Richard talks to Joe Duffy about his open-source project called Pulumi, helping you build Infrastructure-as-Code solutions in almost any language for virtually any cloud platform or service. Joe talks about how infrastructure folks are headed down a similar path to developers from a few years ago, needing better source control, testing, and tooling for their infrastructure. And these are solved problems in the development space. By taking advantage of developer tooling, you can make Infrastructure-as-Code that is reusable and modular so that you can solve complicated problems like security implementations once. Then, when changes need to happen, they're made in one place and easy to propagate to all your projects.</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.pulumi.com/\">Pulumi</a></li><li><a href=\"https://code.visualstudio.com/\">VSCode</a></li></ul><p>Recorded September 6, 2022</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f6f1a6a5-be79-4f92-8fab-5e0c61feee2c/audio/ded3794a-78e9-43ba-9906-4d06279db4f0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

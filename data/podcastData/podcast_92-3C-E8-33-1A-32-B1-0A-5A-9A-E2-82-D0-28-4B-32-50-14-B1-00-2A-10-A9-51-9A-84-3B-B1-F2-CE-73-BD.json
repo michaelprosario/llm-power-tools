@@ -1,0 +1,8 @@
+{
+    "Id": "92-3C-E8-33-1A-32-B1-0A-5A-9A-E2-82-D0-28-4B-32-50-14-B1-00-2A-10-A9-51-9A-84-3B-B1-F2-CE-73-BD",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 511: Ant Wilson on Supabase (Postgres as a Service)",
+    "SourceUrl": "http://se-radio.net/episode-511-ant-wilson-on-supabase-postgres-as-a-service",
+    "Description": "<p>Ant Wilson of Supabase discusses building an open source alternative to Firebase with PostgreSQL. SE Radio host Jeremy Jung spoke with Wilson about how Supabase compares to Firebase, building an API layer with postgREST, authentication using GoTrue...</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/511-ant-wilson-supabase.mp3?dest-id=23379"
+}

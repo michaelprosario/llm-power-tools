@@ -1,0 +1,8 @@
+{
+    "Id": "A1-D6-EE-45-18-D1-36-58-86-6B-D8-FC-E3-F3-7B-4C-35-E8-34-B3-69-39-CD-C7-D7-A1-2B-E7-76-03-0A-B4",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "NGINX as a Service with Buu Lam",
+    "SourceUrl": "https://runasradio.com/Shows/Show/939",
+    "Description": "<p>More application platform pieces make your life better! While at Build in Seattle, Richard sat down with Buu Lam of F5 to discuss F5's latest offering, NGINX as a Service in Azure. Buu discussed how F5's products have evolved to run in the cloud, not just on their hardware. While you could run them as virtual machines or containers, providing them as services in Azure is better. You purchase the service in the marketplace and as part of your Azure billing. The conversation digs into the advantages of the services model in terms of updating and instrumentation, as well as reducing the complexity of your infrastructure as code. </p><p><strong>Links</strong></p><ul><li><a href=\"https://nginx.org/en/\">NGINX</a></li><li><a href=\"https://kubernetes.io/\">Kubernetes</a></li><li><a href=\"https://www.f5.com/products/big-ip-services/big-ip-next\">BIG-IP Next</a></li><li><a href=\"https://www.f5.com/cloud\">F5 Distributed Cloud</a></li><li><a href=\"https://learn.microsoft.com/azure/partner-solutions/nginx/nginx-overview?WT.mc_id=DT-MVP-10953\">NGINX as a Service on Azure</a></li><li><a href=\"https://community.f5.com/\">DevCentral at F5</a></li></ul><p>Recorded May 21, 2024</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/90d46760-e9d4-40c5-b119-ab3a80ac72f5/audio/f25347c9-953f-4297-a420-0846fa137d81/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

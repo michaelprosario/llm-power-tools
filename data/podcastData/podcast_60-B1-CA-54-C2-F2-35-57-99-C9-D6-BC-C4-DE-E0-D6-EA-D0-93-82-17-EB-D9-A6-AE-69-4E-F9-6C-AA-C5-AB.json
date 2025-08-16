@@ -1,0 +1,8 @@
+{
+    "Id": "60-B1-CA-54-C2-F2-35-57-99-C9-D6-BC-C4-DE-E0-D6-EA-D0-93-82-17-EB-D9-A6-AE-69-4E-F9-6C-AA-C5-AB",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 211: Continuous Delivery on Windows with Rachel Laycock and Max Lincoln",
+    "SourceUrl": "http://www.se-radio.net/?p=1538",
+    "Description": "Johannes talks with Rachel Laycock and Max Lincoln from ThoughtWorks about continuous delivery on Windows. The outline includes: introduction to continuous delivery; continuous integration; DevOps and ChatOps; decisions to be taken when implementing continuous delivery on windows; build tools on windows; packaging and deploy on windows; infrastructure automation and infrastructure as code with chef, puppet [\u2026]",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio211-Laycock-Lincoln-ContinuousDeliveryOnWindows.mp3?dest-id=23379"
+}

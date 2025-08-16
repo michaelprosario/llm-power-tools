@@ -1,0 +1,8 @@
+{
+    "Id": "58-BF-29-79-E8-0C-20-6B-33-90-D3-74-4D-2D-EC-FF-D6-4A-25-65-BB-40-D7-1B-34-CC-C9-B1-E6-D2-D7-99",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 328: Bruce Momjian on the Postgres Query Planner",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-328-Bruce-Momjian-on-the-Postgres-Query-Planner.mp3",
+    "Description": "<p>Postgres developer Bruce Momjian joins Robert Blumen for a discussion of the SQL query optimizer in the Postgres RDBMS. They delve into the internals of query planning and look at how developers can make it work for their apps.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-328-Bruce-Momjian-on-the-Postgres-Query-Planner.mp3"
+}

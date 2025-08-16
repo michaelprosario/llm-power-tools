@@ -1,0 +1,8 @@
+{
+    "Id": "43-9A-BF-23-D7-5D-4E-E7-07-09-7B-7B-A7-8C-E4-97-E3-E3-53-CF-EB-91-E3-80-33-00-21-0B-B6-10-26-1E",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 290: Diogo M\u00f3nica on Docker Security",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio_Episode_290_Diogo_Monica_on_Docker_Security.mp3",
+    "Description": "<p>Docker Security Team lead Diogo M\u00f3nica talks with SE Radio\u2019s Kim Carter about Docker Security aspects. Simple Application Security, which hasn\u2019t changed much over the past 15 years, is still considered the most effective way to improve security around Docker containers and infrastructure. The discussion explores characteristics such as Immutability, the copy-on-write filesystem, as well as orchestration principles that are baked into Docker Swarm, such as mutual TLS/PKI by default, secrets distribution, least privilege, content scanning, image signatures, and secure/trusted build pipelines. Diogo also shares his thoughts around the attack surface of the Linux kernel; networking, USB, and driver APIs; and the fact that application security remains more important to focus our attention on and get right.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio_Episode_290_Diogo_Monica_on_Docker_Security.mp3?dest-id=23379"
+}

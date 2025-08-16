@@ -1,0 +1,8 @@
+{
+    "Id": "81-50-6E-72-6B-E2-8F-D1-3F-F2-7A-7B-AE-E4-6C-FC-60-EA-3D-E6-66-CC-02-A8-2F-89-89-CF-28-48-EE-B7",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Active Directory in Server 2012 R2 with Brian Desmond",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Brian Desmond about some of the new features coming to Active Directory in Server 2012 R2. The conversation starts off talking about the focus on Federation Services in Server 2012 R2, including support for non-Windows devices connecting to a domain via Workspace Join. Brian also digs into features that were added in Server 2012 like multi-factor authetication and refers to the Active Directory Team Blog post on Multi-Factor Security. Is Active Directory getting old? Perhaps, but it's getting regular work done to keep it relevant in the modern IT space.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d7381f6f-4564-4161-b264-110f158fccd2/audio/e80f1ea0-79f7-4e7e-bbcb-f3b8f5783cb8/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

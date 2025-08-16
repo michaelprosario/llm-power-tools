@@ -1,0 +1,8 @@
+{
+    "Id": "84-FB-42-1C-5B-F9-4D-48-44-5B-C6-D1-44-B6-EC-E3-78-7B-75-E3-C7-E1-D6-7F-48-52-A0-69-59-67-0E-09",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Securing Data using Azure Virtual Desktop with Jim Duffy",
+    "SourceUrl": "https://runasradio.com/Shows/Show/955",
+    "Description": "<p>How can you secure your company information with Azure Virtual Desktop? Richard talks to Jim Duffy about his work helping companies comply with NIST SP 800-171 security standards. These are the new standards required for Department of Defense contracting - including all subcontractors and suppliers. The security standard is thorough, with over 100 requirements. And you have to be audited to show that you comply! Even if you don't work with the government, the NIST security standard is excellent, and Jim talks about how you can use AVD to create a secure enclave for protecting data. And if you need help complying with NIST 800-171, Island Systems can help!</p><p><strong>Links</strong></p><ul><li><a href=\"https://azure.microsoft.com/products/virtual-desktop\">Azure Virtual Desktop</a></li><li><a href=\"https://csrc.nist.gov/pubs/sp/800/171/r3/final\">NIST SP 800-171 Rev 3</a></li><li><a href=\"https://www.microsoft.com/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/\">Secure Future Initiative</a></li><li><a href=\"https://islandsystems.net/\">Island Systems</a></li></ul><p>Recorded August 12, 2024</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/dd42cf82-28b6-4db9-be45-ed0e001b69b2/audio/9eb4eec0-58bd-49ca-a39b-dc16a8503810/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

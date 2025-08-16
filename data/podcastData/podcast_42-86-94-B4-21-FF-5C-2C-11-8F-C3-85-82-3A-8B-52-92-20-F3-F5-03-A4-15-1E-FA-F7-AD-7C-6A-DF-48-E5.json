@@ -1,0 +1,8 @@
+{
+    "Id": "42-86-94-B4-21-FF-5C-2C-11-8F-C3-85-82-3A-8B-52-92-20-F3-F5-03-A4-15-1E-FA-F7-AD-7C-6A-DF-48-E5",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 209: Josiah Carlson on Redis",
+    "SourceUrl": "http://www.se-radio.net/?p=1528",
+    "Description": "Josiah Carlson discusses Redis, an in-memory single-threaded data structure server. A Redis mailing list contributor and author, Josiah talks with Robert about the differences between Redis and a key-value store, client-side versus server-side data structures, consistency models, embedding Lua scripts within the server, what you can do with Redis from an application standpoint, native locking [\u2026]",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio209-JosiahCarlson-Redis.mp3?dest-id=23379"
+}

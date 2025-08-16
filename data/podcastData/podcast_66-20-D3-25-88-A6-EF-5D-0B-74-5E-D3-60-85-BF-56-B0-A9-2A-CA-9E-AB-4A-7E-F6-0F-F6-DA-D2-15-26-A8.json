@@ -1,0 +1,8 @@
+{
+    "Id": "66-20-D3-25-88-A6-EF-5D-0B-74-5E-D3-60-85-BF-56-B0-A9-2A-CA-9E-AB-4A-7E-F6-0F-F6-DA-D2-15-26-A8",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Testing Infrastructure with Steven Murawski",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Infrastructure deserves tests too! While at ChefConf in Austin, Richard sat down with Steven Murawski to talk about Test Kitchen. Test Kitchen allows you to execute code to validate the operation and performance of specific features in your infrastructure. As Steven explains, you can used Desired State Configuration (DSC) to determine whether or not your configuration is correct, but when it isn't, how do you determine what's wrong? Test Kitchen is all about actually exercising the relevant elements of your infrastructure so you know what's working and what isn't, and how well it all runs. Since it's open source, you can download it and take it out for a spin for free!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/07f6fe85-ee44-41d5-be3c-3e3c49d8abb7/audio/5b1cc760-f534-4183-af07-3207067ccc31/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

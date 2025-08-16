@@ -1,0 +1,8 @@
+{
+    "Id": "52-50-E6-AD-C9-3F-D5-FC-8A-94-87-FD-EF-80-58-F5-9C-B4-D4-1D-9D-3E-36-60-0E-C4-9E-C3-17-58-3D-34",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Looking at the Windows Server 2022 Preview with Robert Smit",
+    "SourceUrl": "https://runasradio.com/Shows/Show/774",
+    "Description": "<p>Windows Server 2022 is in preview - have you checked it out? Richard chats with Robert Smit about the early stage preview of Server 2022 released to Windows Insiders. Anyone can be an insider if you want to check it out! Robert mentions a minor problem with the early build that broke sysprep. Check out his blog post in the links below for the workaround. The focus of Server 2022 seems to be on security, although not all the features are in place for the preview. But this is the version of Windows Server that will be in long-term support - and worth checking out!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver\">Windows Server 2022 Insider Preview</a></li><li><a href=\"https://robertsmit.wordpress.com/2021/03/01/first-impressions-windows-server-2022-bug-found-unable-to-sysprep-windows-server-2022-windowsserver-windowsserver2022-windowsinsiders-winserv/\">Robert's Blog Post on Installing Server 2022 Preview</a></li><li><a href=\"https://azure.microsoft.com/services/active-directory/\">Azure Active Directory</a></li></ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/1fa3a438-fc56-4514-bc06-c04279e48098/audio/437e33e5-02d0-4426-8e5e-bbc6a6505777/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

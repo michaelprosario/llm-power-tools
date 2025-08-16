@@ -1,0 +1,8 @@
+{
+    "Id": "49-8F-94-93-97-03-94-3C-53-8F-DA-FB-DE-D4-80-12-B0-65-EF-FA-F6-8B-B0-36-54-E1-44-28-1B-D2-31-5B",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Halo 4 - Services in Azure with Caitie McCaffrey",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott talks to 343 Studios engineer Caitie McCaffrey about how they use the cloud to run services for Halo 4. All the backend services sit on Azure Compute, Azure Storage, Azure Service Bus more. How do they scale? How do they deploy? How does this change how they write software?</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8c835d8e-3487-4c3c-b865-f08062b125f5/f239e3a2_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

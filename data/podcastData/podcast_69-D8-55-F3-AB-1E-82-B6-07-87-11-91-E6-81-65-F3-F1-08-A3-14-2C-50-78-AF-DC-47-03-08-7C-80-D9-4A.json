@@ -1,0 +1,8 @@
+{
+    "Id": "69-D8-55-F3-AB-1E-82-B6-07-87-11-91-E6-81-65-F3-F1-08-A3-14-2C-50-78-AF-DC-47-03-08-7C-80-D9-4A",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio-Episode-294-Asaf-Yigal-on-Machine-Learning-in-Log-Analysis",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-294-Asaf-Yigal-on-Machine-Learning-in-Log-Analysis.mp3",
+    "Description": "<p>Asaf Yigal talks with SE Radio\u2019s Edaena Salinas about machine learning in log analysis. The discussion starts with an overview of the structure of logs and what information they can contain. Asaf discusses what the log analysis process looks like without machine learning -- and the role of humans in this \u2013 before moving on to how the process is improved by incorporating external resources using machine learning. Topics include: log analysis, machine learning, operations.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-294-Asaf-Yigal-on-Machine-Learning-in-Log-Analysis.mp3"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "A7-2D-42-E0-8A-B9-D4-47-15-48-C0-22-D1-64-F3-7C-8B-DE-40-54-5F-44-F9-D9-39-38-E3-87-A4-1B-DC-52",
+    "ContentSourceId": "08ddc66c-88c1-4fd9-9d0f-06779ee4a5cb",
+    "Title": "#51 Francois Chollet - Intelligence and Generalisation",
+    "SourceUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/51-Francois-Chollet---Intelligence-and-Generalisation-ev1i79",
+    "Description": "<p>In today's show we are joined by Francois Chollet, I have been inspired by Francois ever since I read his Deep Learning with Python book and started using the Keras library which he invented many, many years ago. Francois has a clarity of thought that I've never seen in any other human being! He has extremely interesting views on intelligence as generalisation, abstraction and an information conversation ratio. He wrote on the measure of intelligence at the end of 2019 and it had a huge impact on my thinking. He thinks that NNs can only model continuous problems, which have a smooth learnable manifold and that many \"type 2\" problems which involve reasoning and/or planning are not suitable for NNs. He thinks that many problems have type 1 and type 2 enmeshed together. He thinks that the future of AI must include program synthesis to allow us to generalise broadly from a few examples, but the search could be guided by neural networks because the search space is interpolative to some extent.</p>\n<p>https://youtu.be/J0p_thJJnoo</p>\n<p>Tim's Whimsical notes; https://whimsical.com/chollet-show-QQ2atZUoRR3yFDsxKVzCbj</p>\n",
+    "EnclosureUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/31557289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-16%2F61075915-627b-3084-1f75-f74708a6f28e.mp3"
+}

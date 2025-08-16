@@ -1,0 +1,8 @@
+{
+    "Id": "88-B4-D6-76-6E-E9-4D-9A-06-27-77-64-E3-7A-7F-15-64-0F-F5-61-03-C5-D1-41-40-80-00-45-1A-53-10-FE",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Rob Gillen Secures WiFi!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Rob Gillen about the myths and realities around WiFi security. Rob talks about how the release of passwords in the wild has weakened WPA2-PSK. You need to use an original SSID and long passwords to have a chance to keep your WiFi secure. The conversation also digs into the challenges of open WiFi access as places like coffee shops. Rob also talks about how WiFi Protected Setup has exploits like reaver-wps that can break into a home WiFi network in a matter of hours. He also debunks non-secure security features like hidden SSIDs and MAC address filtering. Finally, Rob rolls out the big guns to talk about WiFi Pineapple, a tool capable of exploiting the preferred wireless network features of smartphones to get them to connect to a man-in-the-middle attack system. Frightening and enlightening!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d07a564a-a50c-4983-93ed-c7dfb23f9e63/audio/202cb607-7146-45ef-9ffd-38976e53d735/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

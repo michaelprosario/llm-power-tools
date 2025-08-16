@@ -1,0 +1,8 @@
+{
+    "Id": "83-DA-29-69-C3-5C-F9-51-C4-F5-8B-59-7F-DF-60-2F-FC-EF-7E-23-9E-9C-1A-9C-A3-2F-D8-B3-F9-1A-E4-AF",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 128: Web App Security with Bruce Sams",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/HWbvLjq_cNY/",
+    "Description": "The majority of hacker attacks (70 %) are directed at weaknesses that are the result of problems in the implementation and/or architecture of the application. This session shows how you can protect your web applications (J2EE or .NET) against these attacks. The session covers lots of practical examples and techniques for attack. Furthermore, it shows strategies for defense, including a \"Secure Software Development Lifecycle\". A \"Live Hacking\" demo rounds it out.\n\n<b>This is a session recorded live at <a href=\"http://oop2009.com\">OOP 2009</a>. SE Radio thanks Bruce, <a href=\"http://sigs-datacom.de\">SIGS Datacom</a> and the programme chair, Frances Paulisch, for their great support!</b>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode128-bruceSamsWebAppSecurity.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "38-D0-31-34-8B-80-A9-62-C4-92-21-26-A0-2D-BF-81-75-AE-D7-8D-C5-FB-F4-B2-40-62-51-CC-F7-8E-8C-60",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 658: Tanya Janca on Secure Coding",
+    "SourceUrl": "http://se-radio.net/se-radio-658-tanya-janca-on-secure-coding",
+    "Description": "<p>Tanya Janca, author of <em>Alice and Bob Learn Secure Coding</em>, discusses secure coding and secure software development life cycle with SE Radio host\u00a0<a href= \"https://se-radio.net/team/brijesh-ammanath/\">Brijesh Ammanath</a>. This session explores how integrating security into every phase of the SDLC helps prevent vulnerabilities from slipping into production. Tanya strongly recommends defining security requirements early, and discusses the importance of threat modeling during design, secure coding practices, testing strategies such as static, dynamic, and interactive application security testing (SAST, DAST and IAST), and the need for continuous monitoring and improvement after deployment.</p> <p style=\"padding-left: 40px; text-align: center;\" data-pm-slice= \"1 1 []\">This episode is sponsored by <a href= \"https://www.codegate.ai?utm=seradio\" target=\"_blank\" rel= \"noopener\" data-wplink-url-error=\"true\">Codegate.ai</a></p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/658-tanya-janca-secure-coding.mp3?dest-id=23379"
+}

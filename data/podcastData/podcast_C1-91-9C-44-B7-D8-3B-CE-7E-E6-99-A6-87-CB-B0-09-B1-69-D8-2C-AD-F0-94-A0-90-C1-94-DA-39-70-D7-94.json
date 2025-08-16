@@ -1,0 +1,8 @@
+{
+    "Id": "C1-91-9C-44-B7-D8-3B-CE-7E-E6-99-A6-87-CB-B0-09-B1-69-D8-2C-AD-F0-94-A0-90-C1-94-DA-39-70-D7-94",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Building Boxstarter with Matt Wrock",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Matt Wrock about the power of boxstarter.org for building and configuring PCs quickly. The conversation starts out talking about what Boxstarter can do for you - automate the installation of software and patches. Boxstarter depends on Chocolatey and PowerShell 2. Everything is public, if you'd like a private version, you should check out MyGet for a private configuration. Check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/3657580d-9876-432f-80b1-e0aea11e9d68/audio/b8ba517f-02db-4b41-be47-c76803096c16/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

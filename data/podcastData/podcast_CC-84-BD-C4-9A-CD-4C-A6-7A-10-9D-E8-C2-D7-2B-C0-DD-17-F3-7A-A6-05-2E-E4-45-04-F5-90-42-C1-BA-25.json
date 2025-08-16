@@ -1,0 +1,8 @@
+{
+    "Id": "CC-84-BD-C4-9A-CD-4C-A6-7A-10-9D-E8-C2-D7-2B-C0-DD-17-F3-7A-A6-05-2E-E4-45-04-F5-90-42-C1-BA-25",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 39: Interview Steve Vinoski",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/_-eYxzcpABY/",
+    "Description": "This episode is an interview with Steve Vinoski. Steve works as the Chief Engineer for IONA. He's what you'd call a middleware guru, he was for example deeply involved with CORBA. So, this interview centers mainly around middleware. We begin by talking about his own history wrt. middleare and ORBs and how ORBs evolved over time. We then talked about whether coarse-grained, stateless components might be a better abstraction for distributed systems than \"objects\". We then covered the future of CORBA, it's use in ethe embedded space as well as the practical relevance of the POSA patterns when building ORBs. Then we switched topics and addressed the role of web services as a \"middleware middleware\" and the maturity of WS-* specifications. We then looked at what Steve is working on these days, which is e.g. the Advanced Message Queueing Protocol (AMQP) as well as dynamic languages. We concluded the interwiew with his view on SOA.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode39-steveVinoski.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "7F-C6-45-A6-60-C1-30-A3-75-A3-4B-C2-79-45-04-86-1B-0E-16-45-C1-1C-8B-10-07-F4-65-78-82-BB-E8-92",
+    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
+    "Title": "134: Get Effective Help with an SSCCE",
+    "SourceUrl": "https://fragmentedpodcast.com/",
+    "Description": "<p>In this episode, Donn talks about how you can get effective help with your coding problems with an SSCCE - a Simple, Self-Contained, Correct (Compilable), Example.</p>\n<p>Using an SSCCE provides others with a quick, concise way to examine the problem without extraneous libraries, UI toolkits and various other parts of your application that do not matter to the problem at hand.</p>\n<p>Donn breaks down each component of the SSCCE so you can wrap your head around what you need to get help quickly.</p>\n<h1>Links</h1>\n<ul>\n<li><a href=\"http://sscce.org/\">SSCCE.org</a></li>\n</ul>\n<h2>Sponsors</h2>\n<ul>\n<li><a href=\"https://www.instabug.com/fragmented\">Instabug</a> - Instabug is the simplest yet most comprehensive bug reporting and In-app feedback SDK.</li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"https://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"https://twitter.com/donnfelker\">@donnfelker</a> and <a href=\"https://plus.google.com/+DonnFelker\">+DonnFelker</a></li>\n<li><a href=\"https://twitter.com/kaushikgopal/\">@kaushikgopal</a> and <a href=\"https://plus.google.com/+KaushikGopalIsMe\">+KaushikGopalIsMe</a></li>\n</ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/57ff4539-f8fe-4ec2-b0c3-1ef9cd000201/134-get-effective-help-with-an-sscce_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
+}

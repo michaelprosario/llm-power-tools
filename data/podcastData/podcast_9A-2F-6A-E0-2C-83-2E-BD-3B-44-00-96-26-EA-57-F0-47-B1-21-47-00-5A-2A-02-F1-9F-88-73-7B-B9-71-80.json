@@ -1,0 +1,8 @@
+{
+    "Id": "9A-2F-6A-E0-2C-83-2E-BD-3B-44-00-96-26-EA-57-F0-47-B1-21-47-00-5A-2A-02-F1-9F-88-73-7B-B9-71-80",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Config Mgr 2012 R2 and MDT 2013 with Johan Arwidmark",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with deployment master and control freak Johan Arwidmark about the latest on Configuration Manager 2012 R2 and the Microsoft Deployment Toolkit 2013. Johan discusses MDT first, talking about how much power actually exists in this free tool from Microsoft - you can start with light-touch deployment, but it's equally capable of doing zero-touch when you really want to scale. And MDT works nicely alongside the pay-product System Center Configuration Manager 2012 R2. You want both! Johan also talks about where PowerShell fits into the picture for deployment as well as Microsoft InTune. And check out the great notes from Johan and Kent Agerlund for optimal configuration of Configuration Manager!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/1d985b2d-775c-4fc4-8811-bd6e3e28b2fb/audio/54981625-decc-4707-8341-63558e5243e0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "95-30-91-95-BB-C3-94-E0-3C-2A-B6-FA-CB-ED-B0-03-8C-C4-25-2B-79-33-33-68-DE-6E-69-1F-2C-D0-6E-60",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure Dev Test Labs with Claude Remilliard",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Self-Service Test Labs in Azure! While at Build in Seattle, Richard talked with Claude Remillard about the on-going evolution of Azure Dev Test Labs. Azure Dev Test Labs allows you to define a set of templates and services for building up a set of VMs for doing testing - or anything else you like. The set can have run limits, billing limits and more, so you can control costs as well as make sure things get cleaned up when done. Claude digs into using Azure Dev Test Labs for demos, training and more - maybe the name should be changed to Azure Lab Services!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d53fa4e1-6a5a-49c8-95ba-3312036af999/audio/49ed4bec-2ebd-4bdc-b81f-1e837fff8cfe/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

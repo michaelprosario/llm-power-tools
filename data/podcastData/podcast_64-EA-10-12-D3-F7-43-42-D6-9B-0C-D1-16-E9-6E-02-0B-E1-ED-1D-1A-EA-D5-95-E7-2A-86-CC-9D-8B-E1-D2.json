@@ -1,0 +1,8 @@
+{
+    "Id": "64-EA-10-12-D3-F7-43-42-D6-9B-0C-D1-16-E9-6E-02-0B-E1-ED-1D-1A-EA-D5-95-E7-2A-86-CC-9D-8B-E1-D2",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Tony Redmond Deploys Exchange 2013",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>While at the MVP Summit, Richard chats with Tony Redmond about his experiences with Exchange 2013 so far. Exchange 2013 shipped in October of 2012, but as of mid-February, could only be deployed in greenfield scenarios - to get to co-existence with Exchange 2007 and 2010, you need current service packs as well as a yet-to-be-released cumulative update to Exchange 2013. Tony talks about how the interplay between Exchange 2013, Sharepoint 2013, Office 2013 and Lync offer awesome features, but at the expense of some additional deployment and configuration challenges. And don't forget about the cloud! Exchange 2013 is being rolled out to Office 365 as well, which has an impact on the on-premise features also. Awesome discussion about where Exchange is going!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c50c80e8-31cb-42ec-b53a-2af12900946b/audio/aa1faced-05f0-4b91-9692-eacf9e7586ff/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

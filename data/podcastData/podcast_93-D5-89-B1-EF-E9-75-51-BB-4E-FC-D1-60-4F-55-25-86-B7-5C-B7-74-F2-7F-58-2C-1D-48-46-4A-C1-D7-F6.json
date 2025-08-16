@@ -1,0 +1,8 @@
+{
+    "Id": "93-D5-89-B1-EF-E9-75-51-BB-4E-FC-D1-60-4F-55-25-86-B7-5C-B7-74-F2-7F-58-2C-1D-48-46-4A-C1-D7-F6",
+    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
+    "Title": "099: Effective Java - Item #17: Design and Document for Inheritance or Else Prohibit It",
+    "SourceUrl": "https://fragmentedpodcast.com/",
+    "Description": "<p>In this episode, Donn talks about Item #17 from the Effective Java book: Design and Document for inheritance or else prohibit it. Learn how you should be documenting your code that is built for inheritance when you should not call overridable methods and much more.</p>\n<h2>Show Links</h2>\n<ul>\n<li><a href=\"http://fragmentedpodcast.com/episodes/effective-java/\">Fragmented - Effective Java Fragments</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"https://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"https://twitter.com/donnfelker\">@donnfelker</a> and <a href=\"https://plus.google.com/+DonnFelker\">+DonnFelker</a></li>\n<li><a href=\"https://twitter.com/kaushikgopal/\">@kaushikgopal</a> and <a href=\"https://plus.google.com/+KaushikGopalIsMe\">+KaushikGopalIsMe</a></li>\n</ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/7c8eff05-cd51-467d-ac4e-8ff895b01468/fragmented-ef-java-17_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "3C-50-4D-3E-CA-6D-90-A5-EC-93-49-92-17-95-57-F0-31-69-5B-64-B8-D6-C9-4F-E7-A1-33-57-96-60-87-98",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 631: Abhay Paroha on Cloud Migration for Oil and Gas Operations",
+    "SourceUrl": "http://se-radio.net/se-radio-631-abhay-paroha-on-cloud-migration-for-oil-and-gas-operations",
+    "Description": "<p>Abhay Paroha, an engineering leader with more than 15 years' experience in leading product dev teams, joins SE Radio's Kanchan Shringi to talk about cloud migration for oil and gas production operations. They discuss Abhay's experiences in building a cloud foundation layer that includes a canonical data model for storing bi-temporal data. They further delve into his teams' learnings from using Kubernetes for microservices, the transition from Java to Scala, and use of Akka streaming, along with tips for ensuring reliable operations.</p> <p>Brought to you by\u00a0<a href=\"https://www.computer.org/\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a> and <a href=\"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/631-abhay-paroha-cloud-migration.mp3?dest-id=23379"
+}

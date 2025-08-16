@@ -1,0 +1,8 @@
+{
+    "Id": "CA-89-64-5A-1D-AF-84-E7-AB-DE-12-9D-5B-AC-D6-FD-3E-AA-90-97-D7-EC-B3-4A-44-D8-CC-7E-44-3E-54-D4",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Distributed Replay in SQL Server 2012 with Boris Hristov",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Boris Hristov about Distributed Transaction Replay in SQL Server 2012. New to SQL Server 2012, Distributed Replay uses a SQL Profiler template to collect transactions that can be replayed on your server. The tool is largely command line, and can be distributed across as many as sixteen clients. Boris talks about the different types of replays that can be done to simulate a workload in detail for testing purposes - say to make sure an upgrade will work properly, or in stress mode, to see what the limits of your SQL Server are. This is a great new tool for your SQL toolbox, check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ba0af76e-4305-4beb-af89-71a5abe4f550/audio/2a711c15-e48e-447a-89a3-fb46fe931abe/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

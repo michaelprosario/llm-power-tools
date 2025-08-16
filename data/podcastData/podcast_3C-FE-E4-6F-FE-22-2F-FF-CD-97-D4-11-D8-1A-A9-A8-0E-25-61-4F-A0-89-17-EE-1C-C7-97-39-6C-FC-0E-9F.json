@@ -1,0 +1,8 @@
+{
+    "Id": "3C-FE-E4-6F-FE-22-2F-FF-CD-97-D4-11-D8-1A-A9-A8-0E-25-61-4F-A0-89-17-EE-1C-C7-97-39-6C-FC-0E-9F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 520: John Ousterhout on A Philosophy of Software Design",
+    "SourceUrl": "http://se-radio.net/episode-520-john-ousterhout-on-a-philosophy-of-software-design",
+    "Description": "<p>John Ousterhout, professor of computer science at Stanford University, joined SE Radio host Jeff Doolittle for a conversation about his book, <em>A Philosophy of Software Design</em>. They discussed the history and ongoing challenges of software system design, especially the nature of complexity and the difficulties handling it. The conversation also explored various design concepts from the book, such as modularity, layering, abstraction, information hiding, maintainability, and readability.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/520-john-ousterhout-philosophy-software-design.mp3?dest-id=23379"
+}

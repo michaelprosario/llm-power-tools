@@ -1,0 +1,8 @@
+{
+    "Id": "BD-85-6D-1E-FD-61-D3-C9-8F-11-00-B8-06-E7-B5-74-5C-50-67-F8-6B-39-6C-B1-41-BE-6B-12-4C-CF-E8-1E",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 666: Eran Yahav on the Tabnine AI Coding Assistant",
+    "SourceUrl": "http://se-radio.net/se-radio-666-eran-yahav-on-the-tabnine-ai-coding-assistant",
+    "Description": "<p data-prosemirror-content-type=\"node\" data-prosemirror-node-name= \"paragraph\" data-prosemirror-node-block=\"true\" data-pm-slice= \"1 3 []\">Eran Yahav, Professor of Computer Science at Technion, Israel, and CTO of Tabnine, speaks with host <a href=\"https://se-radio.net/team/gregory-kapfhammer/\" data-prosemirror-content-type=\"mark\" data-prosemirror-mark-name= \"link\">Gregory M. Kapfhammer</a> about the Tabnine AI coding assistant. They discuss how the design and implementation allows software engineers to use code completion and perform tasks such as automated code review while still maintaining developer privacy. Eran and Gregory also explore how research in the field of natural language processing (NLP) and large language models (LLMs) has informed the features in Tabnine.</p> <p data-prosemirror-content-type=\"node\" data-prosemirror-node-name= \"paragraph\" data-prosemirror-node-block=\"true\" data-pm-slice= \"1 3 []\">Brought to you by\u00a0<a href=\"https://www.computer.org/\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/666-eran-yahav-tabnine-coding-assistant.mp3?dest-id=23379"
+}

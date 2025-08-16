@@ -1,0 +1,8 @@
+{
+    "Id": "3D-2D-D4-80-92-CA-C3-7B-F7-43-A9-78-B9-E1-BB-40-E0-49-14-9D-7C-08-6B-6C-D1-F8-78-BF-DF-00-34-8B",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Migrating to Exchange 2016 with Paul Cunningham",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Ready to move to Exchange 2016? Richard chats with Paul Cunningham about the latest version of Exchange and what it takes to move up to it. The older your version of Exchange, the harder it is to upgrade - as Paul says, moving from 2013 is the least painful. And if you're still on 2007, well, you have to migrate to 2013 first. The conversation dives into the typical problems that are revealed when you start looking at a migration - issues around namespaces, certificates and third party tools. And speaking of tools, Microsoft provides the Exchange Server Deployment Assistant to help you started on your own migration!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b2b2338b-9d9f-4f60-90a3-38d11670865e/audio/7d4e5b32-7fc9-44b1-b36c-92a2fe866eef/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "5C-BC-8C-4B-50-A4-F4-9E-8C-5F-FF-81-BE-04-2A-07-86-4A-5F-58-A9-11-35-E1-5A-0F-19-37-21-8E-BC-DF",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 583: Lukas Fittl on Postgres Performance",
+    "SourceUrl": "http://se-radio.net/se-radio-583-lukas-fittle-on-postgres-performance",
+    "Description": "<p>Lukas Fittl of pganalyze discusses the performance of Postgres, one of the world\u2019s most popular database systems. SE Radio host <a href= \"https://www.se-radio.net/team/philip-winston/\">Philip Winston</a> speaks with Fittl about database indexing, queries, maintenance, scaling, and stored procedures. They also discuss some features of pganalyze, such as the index and vacuum advisors.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/583_Lukas_Fittle_Postgres_Performance.mp3?dest-id=23379"
+}

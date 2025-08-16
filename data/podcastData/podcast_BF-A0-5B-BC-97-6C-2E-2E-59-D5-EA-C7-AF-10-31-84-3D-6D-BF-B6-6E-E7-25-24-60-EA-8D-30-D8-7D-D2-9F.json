@@ -1,0 +1,8 @@
+{
+    "Id": "BF-A0-5B-BC-97-6C-2E-2E-59-D5-EA-C7-AF-10-31-84-3D-6D-BF-B6-6E-E7-25-24-60-EA-8D-30-D8-7D-D2-9F",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 116: The Semantic Web with Jim Hendler",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/eH9GQyFix2g/",
+    "Description": "In this episode we're talking to James A. Hendler about the semantic web. We start with a definition of the semantic web and by discussing the main ingredients. We then look at (more or less) related topics such as prolog, artificial intelligence, wisdom of the crowds, and tagging. In the next section we discuss the core semantic web technologies: RDF, OWL, inference engines, SPARQL, and GRDDL. We conclude our discussion by looking at the status of the semantic web today and a couple of example applications.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode116-jimHendlerOnTheSemanticWeb.mp3?dest-id=23379"
+}

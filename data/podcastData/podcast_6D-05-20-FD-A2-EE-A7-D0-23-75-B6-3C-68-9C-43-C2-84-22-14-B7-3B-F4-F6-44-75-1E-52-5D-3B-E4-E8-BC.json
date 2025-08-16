@@ -1,0 +1,8 @@
+{
+    "Id": "6D-05-20-FD-A2-EE-A7-D0-23-75-B6-3C-68-9C-43-C2-84-22-14-B7-3B-F4-F6-44-75-1E-52-5D-3B-E4-E8-BC",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 398: Apache Kudu with Adar Leiber Dembo",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-398-Apache-Kudu-with-Adar-Leiber-Dembo.mp3",
+    "Description": "<p>Adar Leiber-Dembo talks to SE Radio\u2019s Akshay Manchale about Apache Kudu, a system for fast analytics in a column-based storage system. They explore how to leverage Kudu for data analytics, as well as its rich feature set and integration options with other SQL and analytical engines.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-398-Apache-Kudu-with-Adar-Leiber-Dembo.mp3?dest-id=23379"
+}

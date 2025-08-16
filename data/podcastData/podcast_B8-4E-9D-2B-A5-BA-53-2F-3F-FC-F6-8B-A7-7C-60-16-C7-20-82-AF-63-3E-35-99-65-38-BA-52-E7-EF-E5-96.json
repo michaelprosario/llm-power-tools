@@ -1,0 +1,8 @@
+{
+    "Id": "B8-4E-9D-2B-A5-BA-53-2F-3F-FC-F6-8B-A7-7C-60-16-C7-20-82-AF-63-3E-35-99-65-38-BA-52-E7-EF-E5-96",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 36: Interview Guy Steele",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/EhssfZVRia8/",
+    "Description": "This episode is an interview with Guy L. Steele Jr.. Guy is a Sun Fellow and heads the Programming Language Research Group within Sun, and a generally well known \"programming language guy\" (see here for details). We briefly talk about Lisp and the resurgence of dynamic languages before we delve into the main topic, the Fortress programming language he is working on. Fortress is a language intended to replace Fortran as a scientific computing language. We talk about how mathematical notations, syntax extensio and built-in support for parallelism are crucial properties of such a language. We then briefly talk about potentials for compiler optimization before taking a closer look at the type system (static typing, type inference), traits and contract specification as well as first-class support for hierarchical components. We conclude the discussion with a look at automatic partitioning and distribuion of concurrent algorithms and a brief look at the future roadmap for the Fortress language.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode36-guySteele.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "BF-FB-11-56-97-8E-12-30-71-BE-7F-B5-58-1F-57-95-6F-32-52-86-5C-96-59-61-EB-18-70-D9-9A-CD-20-6D",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio Episode 353: Max Neunhoffer on Multi-model databases and ArangoDB",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-353-Max-Neunhoffer-on-Multi-model-databases-and-ArangoDB.mp3",
+    "Description": "<p>Max Neunhoffer of ArangoDB discusses about multi-model databases in general, and open source ArangoDB, in specific, with show host Nishant Suneja. The show discussion covers motivation behind deploying a multi-model database in an enterprise setting, and deep dives into ArangoDB internals.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-353-Max-Neunhoffer-on-Multi-model-databases-and-ArangoDB.mp3?dest-id=23379"
+}

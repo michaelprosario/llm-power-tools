@@ -1,0 +1,8 @@
+{
+    "Id": "4D-B3-E7-B2-5B-7E-83-11-A9-EF-D3-14-DE-BB-5C-30-1D-E1-A3-A6-3A-76-55-91-0F-A8-69-6C-E4-E9-0B-6D",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Learning CircuitPython with Scott Shawcroft",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>CircuitPython is a programming language designed to simplify experimenting and learning to code on low-cost microcontroller boards. The history of CircuitPython begins with MicroPython, a Python interpreter written from scratch for embedded systems by Damien George starting in 2013. Three years later, Adafruit hired Shawcroft to port MicroPython to the SAMD21 chip they use on many of their boards.  The Scott talks about how to lower the barrier to entry and how to enable beginners to be productive with CircuitPython.</p><ul><li><a href=\"https://circuitpython.org\">https://circuitpython.org</a></li><li><a href=\"https://www.adafruit.com/?q=circuitpython\">https://www.adafruit.com/?q=circuitpython</a></li><li><a href=\"https://twitter.com/tannewt\">https://twitter.com/tannewt</a></li><li><a href=\"https://github.com/chickadee-tech/pygb\">https://github.com/chickadee-tech/pygb</a></li><li><a href=\"https://circuitpython.org/board/gb_m4\">https://circuitpython.org/board/gb_m4</a></li></ul>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/07d9c36f-1b8d-4a13-b9e7-512c61daa4cc/hm701_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

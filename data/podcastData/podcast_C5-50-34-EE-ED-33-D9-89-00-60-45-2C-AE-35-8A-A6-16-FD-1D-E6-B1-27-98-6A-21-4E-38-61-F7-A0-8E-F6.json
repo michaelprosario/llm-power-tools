@@ -1,0 +1,8 @@
+{
+    "Id": "C5-50-34-EE-ED-33-D9-89-00-60-45-2C-AE-35-8A-A6-16-FD-1D-E6-B1-27-98-6A-21-4E-38-61-F7-A0-8E-F6",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Infrastructure as Code using Ansible with Josh Duffney",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Are you managing your infrastructure with code? Richard chats with Josh Duffney about his current toolset for writing infrastructure as code, including PowerShell, Chocolatey and Ansible. Ansible is an open-source project from Red Hat that includes some retail components if you need them. Josh dives into the playbook model, how Ansible helps make testing that infrastructure code easier, and the challenge of using virtual machine based application deployment in the modern world.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b3ed8af6-5bc3-4e64-92e6-1d2901ceaffd/audio/849d09bf-322b-4c9c-a738-e76263d06e3b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

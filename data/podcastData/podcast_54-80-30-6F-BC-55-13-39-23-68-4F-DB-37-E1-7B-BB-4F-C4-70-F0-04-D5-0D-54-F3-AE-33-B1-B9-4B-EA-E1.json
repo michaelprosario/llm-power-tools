@@ -1,0 +1,8 @@
+{
+    "Id": "54-80-30-6F-BC-55-13-39-23-68-4F-DB-37-E1-7B-BB-4F-C4-70-F0-04-D5-0D-54-F3-AE-33-B1-B9-4B-EA-E1",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Talking Containers with Jessica Deen",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Have you got containers in your operations? While at Build in Seattle, Richard chatted with Jessica Deen about the gamut of offerings that Microsoft has around containers. Jessica talks about the latest container features in Azure, including the Azure Kubernetes Service. But even more important than services is tooling, and the conversation dives into the Kubernetes Tools for VSCode as well as tools like Helm for helping you set up and manage your complete container system.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f462b5ed-f17d-4cac-abc2-fa7514d9387e/audio/67dd10eb-db2c-4fe0-aef3-70e83b7eadb0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

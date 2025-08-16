@@ -1,0 +1,8 @@
+{
+    "Id": "55-F0-E9-3B-7E-28-FF-CC-9C-EC-4D-05-95-7F-C4-C6-D9-4C-16-B7-E5-F0-42-EC-2F-22-CC-28-A1-ED-69-8F",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Docker and Server 2016 with Taylor Brown",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Docker is coming to Windows and it's going to be huge! Richard chats with Taylor Brown of the Windows Core Virtualization team about the new Windows Server containers coming in Server 2016. With the TP3 release of Server 2016, you can start experimenting with Windows Containers! The discussion also focuses on the upcoming Hyper-V Containers, and the differences and reasoning behind having two different types of containers. Taylor digs into the focus on configuration-as-code for containers, so that automation becomes the default approach to any container based deployment. This looks to be the future of virtualization!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/cb074d98-6086-42a5-9994-5dc44897a72e/audio/ad4b8de8-3b31-4dd7-b046-971db2ed0209/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

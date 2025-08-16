@@ -1,0 +1,8 @@
+{
+    "Id": "79-DC-0E-C3-DA-3D-77-42-95-33-AF-BF-77-C8-F8-8F-70-2A-55-89-2C-BA-8B-63-55-9A-A9-21-8B-6A-27-8F",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Windows Terminal 1.0 with Kayla Cinnamon",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Windows Terminal 1.0 is shipped! Richard talks to Kayla Cinnamon about the open-source project that is Windows Terminal. The conversation starts with a bit of a history lesson on updating the Windows Command Prompt - and why it turned out to be a bad idea. Folks depended on the exact behavior of the command prompt so heavily that any changes broke things and spread sadness. But what if you could start over? Windows Terminal brings together all the things you never knew you wanted in a terminal client, as well as a bunch of features you definitely knew you wanted. Check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/820b1493-3442-42ea-b325-818c521901db/audio/8703afaf-3663-4b65-9c1b-255643c1674e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

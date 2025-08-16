@@ -1,0 +1,8 @@
+{
+    "Id": "8E-28-60-3C-02-83-AB-CE-B4-E6-9F-F7-53-B2-18-BF-C9-95-81-0F-EF-E2-68-EC-32-39-B1-E5-28-7E-F0-72",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "Battling ticket bots and untangling taxes at the frontiers of e-commerce",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p>You can find Ilya on LinkedIn <a href=\"https://www.linkedin.com/in/igrigorik/\">here</a>.</p><p>You can listen to Ilya talk about Commerce Components <a href=\"https://www.shopify.com/commerce-components\">here</a>, a system he describes as a \"modern way to approach your commerce architecture without reducing it to a (false) binary choice between microservices and monoliths.\"</p><p>As Ilya notes, \u201cthere are a lot of interesting implications for runtime and how we're solving it at Shopify. There is a direct bridge there to a performance conversation as well: moving untrusted scripts off the main thread, sandboxing UI extensions, and more.\u201d\u00a0</p><p>No badge winner today. Instead, user Kaizen has a question about Shopify that still needs an answer. Maybe you can help!\u00a0</p><p><a href=\"https://stackoverflow.com/questions/78759047/how-to-activate-shopify-web-pixel-extension-on-production-store\">How to Activate Shopify Web Pixel Extension on Production Store?</a></p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/2831a1c2-b1d4-4a5e-b662-a444e6596a90/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=2831a1c2-b1d4-4a5e-b662-a444e6596a90&feed=XA_851k3"
+}

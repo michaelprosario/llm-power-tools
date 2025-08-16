@@ -1,0 +1,8 @@
+{
+    "Id": "8D-B8-D0-42-AA-F5-74-08-86-A7-44-D6-AC-42-F7-0A-42-35-DA-7F-A8-2D-7D-B3-DD-10-C0-A0-2E-D5-C2-B6",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Mobile Application Management Policies with Mike Crowley",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How granular can mobile application management be? Richard talks to Mike Crowley about the Microsoft Enterprise Mobility Suite, and it's ability to allow Bring-Your-Own-Device to work effectively without taking over the device. Mike focuses in on three key aspects in the suite, starting with identity - being able to identify users through Azure Active Directory. From there, the next aspect is application management, controlling what capabilities certain applications have on the device. And finally, there is document rights management so that you can protect docs on the device. This works, check it out!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ddb94bb6-1496-49f7-8359-2ca54fdb873b/audio/7c61b970-3b88-4244-82c6-c52261e597e3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

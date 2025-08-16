@@ -1,0 +1,8 @@
+{
+    "Id": "91-BD-71-4B-C5-98-5B-B6-11-D2-8E-D9-CB-8C-E5-73-FC-AC-47-9E-07-3E-3C-93-13-3C-6A-C9-90-59-7F-BC",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "DevOps for Mainframes with David Rizzo and Rosalind Radcliffe",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>DevOps for Mainframes? Really? Yes really! While at DevOps Enterprise Summit in London, Richard sat down with Rosalind Radcliffe and David Rizzo to talk about how mainframes can be part of a DevOps practice! The conversation starts out with Rosalind talking about the modern mainframe, which in IBM parlance is all about z/OS operating system and hardware. It's not just CICS anymore; Java runs there too! And with z/OS available for IBM Linux, you can run the same operating system setup on traditional PC hardware as well. This leads to all sorts of options in the modern DevOps practice with mainframes!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6c2082cc-d9c9-4ed2-a32c-433d0c0adc0f/audio/96360006-db8c-4744-865a-1663118ce677/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "CF-BE-22-EB-C7-72-9D-B3-F0-B4-F6-80-77-73-FB-9B-0A-75-39-8F-FF-84-1D-AB-C5-CB-1C-46-A4-0B-5A-1E",
+    "ContentSourceId": "03e85e81-f3bb-4c2c-944d-b6722870407b",
+    "Title": "903: LLM Benchmarks Are Lying to You (And What to Do Instead), with Sinan Ozdemir",
+    "SourceUrl": null,
+    "Description": "Has AI benchmarking reached its limit, and what do we have to fill this gap? Sinan Ozdemir speaks to Jon Krohn about the lack of transparency in training data and the necessity of human-led quality assurance to detect AI hallucinations, when and why to be skeptical of AI benchmarks, and the future of benchmarking agentic and multimodal models.\n\n\n\nAdditional materials: \u2060\u2060\u2060\u2060\u2060www.superdatascience.com/903\u2060\u2060\u2060\u2060\n\n\n\nThis episode is brought to you by Trainium2, the latest AI chip from AWS, by  \u2060\u2060Adverity, the conversational analytics platform\u2060\u2060 and by the \u2060\u2060Dell AI Factory with NVIDIA\u2060\u2060.\n\n\n\nInterested in sponsoring a SuperDataScience Podcast episode? Email natalie@superdatascience.com for sponsorship information.\n\n\n\nIn this episode you will learn: \n\n\n  (16:48) Sinan\u2019s new podcast, Practically Intelligent\n\n  (21:54) What to know about the limits of AI benchmarking\n\n  (53:22) Alternatives to AI benchmarks\n\n  (1:01:23) The difficulties in getting a model to recognize its mistakes",
+    "EnclosureUrl": "https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD4709835756.mp3?updated=1752060782"
+}

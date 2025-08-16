@@ -1,0 +1,8 @@
+{
+    "Id": "B7-1B-9F-A9-F3-62-02-E0-8B-02-0A-ED-2D-EA-0B-4A-7D-72-78-20-F6-23-38-EF-D1-22-B6-F2-29-5F-EC-AD",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Exploring the Orleans Distributed Virtual Actor Model with Richard Astbury",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>The open source Orleans project is behind some massive systems including Halo itself. Is the virtual actor model the revolution it appears to be? How does this relate to the models of the best, as well as things like Akka and Service Fabric? Richard Astbury does his best to set Scott straight in this episode.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/0848546e-3db7-4d0f-8a0e-c8115baf2127/7c9ac8c9_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

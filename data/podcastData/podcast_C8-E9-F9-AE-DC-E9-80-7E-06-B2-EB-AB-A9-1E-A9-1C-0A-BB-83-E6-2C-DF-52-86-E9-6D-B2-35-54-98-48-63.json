@@ -1,0 +1,8 @@
+{
+    "Id": "C8-E9-F9-AE-DC-E9-80-7E-06-B2-EB-AB-A9-1E-A9-1C-0A-BB-83-E6-2C-DF-52-86-E9-6D-B2-35-54-98-48-63",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Exchange Online Protection with Peter Schmidt",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you filter spam and malware for your mail server? Richard chats with Peter Schmidt about Exchange Online Protection (EOP). Remember Forefront? This is where the product went, into the cloud. As an Azure product, EOP is available when you use Exchange Online - but you can also put it in front of your on-premise Exchange server at a stunning price of one dollar per user per month. Peter discusses the spam and malware filtering, but EOP also offers mail proxying in general so that your mail has a place to live when your server is down. This is the first step to moving your mail to the cloud, check it out at Exchange Online Protection.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f81868db-fab8-4d00-87fd-4f6328244cf2/audio/c25aada4-466f-4088-8d58-eec9087f5acf/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

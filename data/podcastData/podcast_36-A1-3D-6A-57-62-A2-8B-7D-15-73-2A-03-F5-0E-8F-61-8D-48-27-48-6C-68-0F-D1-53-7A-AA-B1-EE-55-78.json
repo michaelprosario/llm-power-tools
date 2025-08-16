@@ -1,0 +1,8 @@
+{
+    "Id": "36-A1-3D-6A-57-62-A2-8B-7D-15-73-2A-03-F5-0E-8F-61-8D-48-27-48-6C-68-0F-D1-53-7A-AA-B1-EE-55-78",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Application Insights with Isaac Levin",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you understand what's going on in your applications? Richard talks to Isaac Levin about Azure Application Insights - now part of the Azure Monitor Suite that can help with monitoring of PCs, virtual machines as well as a large variety of applications. As Isaac explains, Insights is really a reporting tool that feeds off of a standard SDK that can be installed in a variety of applications - but in the case of .NET applications, you don't have to install the SDK, AppInsights can still instrument it! But the most important aspect is all the complex reporting built-in that can show trends of behaviour as well as errors in your suite of applications.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ccd6d284-0432-472b-81f2-74e0af6acf59/audio/324688c7-4b87-43a0-9218-004f64f89b4c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "53-FA-AA-DA-16-F7-D9-92-C4-58-15-08-A7-3E-0A-70-09-87-6B-BB-CF-D6-59-63-FB-C8-69-D9-2F-F5-A8-A8",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE-Radio 341: Michael Hausenblas on Container Networking",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/342-hausenblas-final.mp3",
+    "Description": "<p>Michael Hausenblas talks with host Kim Carter about topics covered in Michael\u2019s ebook <em>Container Networking</em>, such as single vs. multi-host container networking, orchestration, Kubernetes, service discovery, and many more. Michael and Kim also discuss the roles that IPTables plays, how the allocation of IP addresses is handled, along with the assignment of ports. Overlay networks are covered along with topics such as the open Container Network Interface (CNI).</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/342-hausenblas-final.mp3"
+}

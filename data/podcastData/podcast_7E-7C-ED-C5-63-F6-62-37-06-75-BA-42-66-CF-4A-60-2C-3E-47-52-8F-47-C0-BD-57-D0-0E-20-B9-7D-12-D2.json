@@ -1,0 +1,8 @@
+{
+    "Id": "7E-7C-ED-C5-63-F6-62-37-06-75-BA-42-66-CF-4A-60-2C-3E-47-52-8F-47-C0-BD-57-D0-0E-20-B9-7D-12-D2",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 371: Howard Chu on the Lightning Memory Mapped Database (LMDB)",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-371-Howard-Chu-On-the-Lightning-Memory-Mapped-Database-LMDB.mp3",
+    "Description": "<p>Howard Chu, CTO of Symas Corp and chief architect of the OpenLDAP Project, discusses the key technical features of the Lightning Memory-mapped Database (LMDB) that make it one of the fastest, most efficient and safest embedded data stores in the world.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-371-Howard-Chu-On-the-Lightning-Memory-Mapped-Database-LMDB.mp3"
+}

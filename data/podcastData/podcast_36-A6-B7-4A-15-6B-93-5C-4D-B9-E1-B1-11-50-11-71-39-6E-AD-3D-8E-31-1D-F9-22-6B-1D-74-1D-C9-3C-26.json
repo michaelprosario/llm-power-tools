@@ -1,0 +1,8 @@
+{
+    "Id": "36-A6-B7-4A-15-6B-93-5C-4D-B9-E1-B1-11-50-11-71-39-6E-AD-3D-8E-31-1D-F9-22-6B-1D-74-1D-C9-3C-26",
+    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
+    "Title": "Managing Kubernetes entirely in Git? Meet GitOps",
+    "SourceUrl": "https://stackoverflow.blog/podcast/",
+    "Description": "<p><a href=\"https://www.weave.works/\">Weaveworks</a> helps DevOps folks manage their Kubernetes settings entirely\u00a0</p><p>Paul's first computer was a <a href=\"https://en.wikipedia.org/wiki/ZX80\">Sinclair ZX-80</a>, which had a clock speed of 3.25 MHz, 1 KB of static RAM ,and 4 KB of read-only memory. Pretty good for 1980.\u00a0</p><p>Weaveworks based their project on <a href=\"https://www.weave.works/oss/flux/\">Flux</a>, an open source engine. If you're not a big corporation and you want to use it, it's free!</p><p>Before there was Kubernetes, Google created <a href=\"https://en.wikipedia.org/wiki/Borg_(cluster_manager)\">Borg</a>, an internal cluster manager. It has yet to be assimilated by Kubernetes.\u00a0</p><p>Ben thinks that, if it gets too easy to manage Kubernetes clusters, we'll be out of a job talking about the pain of cluster manages.\u00a0</p><p>Today's lifeboat badge goes to Daniel Ribeiro for the answer to <a href=\"https://stackoverflow.com/questions/44263450/how-can-i-run-go-binary-files/44278127#44278127\">How can I run Go binary files?</a></p>\n",
+    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/a06bef50-7065-4094-badd-60997ab14429/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=a06bef50-7065-4094-badd-60997ab14429&feed=XA_851k3"
+}

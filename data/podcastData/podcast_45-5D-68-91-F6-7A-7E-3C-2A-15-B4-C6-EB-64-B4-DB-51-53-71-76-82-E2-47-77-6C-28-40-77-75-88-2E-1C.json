@@ -1,0 +1,8 @@
+{
+    "Id": "45-5D-68-91-F6-7A-7E-3C-2A-15-B4-C6-EB-64-B4-DB-51-53-71-76-82-E2-47-77-6C-28-40-77-75-88-2E-1C",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "ReverseDSC with Nik Charlebois",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Desired State Configuration now works boths ways! Richard talks to fellow Canadian Nik Charlebois, a Microsoft Premier Field Engineer, about his work building ReverseDSC. The open source tool is available in the PowerShell Gallery and opens the door to a ton of interesting possibilities. Nik talks about how his work as a PFE is made much easier when he can use ReverseDSC to create a copy of the configuration of a system he is trying to troubleshoot so that he can explore and experiment with no risk. But there's so much more that ReverseDSC can do, especially when you start thinking about continuously deployed infrastructure - creation, deployment, testing and debugging of infrastructure all facilitated by ReverseDSC!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/990ba259-7cba-4f33-b74a-e3cf835b49bd/audio/e453651e-2f0c-4b21-ae6e-b7b7824a24f1/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

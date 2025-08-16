@@ -1,0 +1,8 @@
+{
+    "Id": "63-73-8E-F5-1A-8A-9B-CD-5F-F1-96-12-77-04-2E-57-BC-A7-C5-8F-4F-E2-84-13-14-05-AF-9E-96-60-B7-34",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Ransomware Resistance with Paula Januskiewicz",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Ransomware is in the news, but do you know what to do about it? Richard talks to Paula Januskiewicz about how ransomware works and what you can do to prevent an attack, and how to clean up after one. An awful lot of the power of ransomware is blunted by having a good backup strategy - one that you actually know how to restore from. Paula also talks about running your workstations in a whitelist configuration, where only a known good list of software can run. There are tools built into Windows that can help you there. At the same time, having good communication between IT and users helps - sometimes the reason a computer is slow is that it is encrypting everything, and reporting that to IT gives you a chance to get a jump on the malware!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/05cf51bf-2f4e-48c3-b477-03595863c711/audio/dcb57c28-6c68-4002-8a1d-91e386d85b1c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

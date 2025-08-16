@@ -1,0 +1,8 @@
+{
+    "Id": "5D-AE-0D-9D-20-AE-1F-8B-EC-12-BF-08-F0-57-7D-BE-82-AD-5E-AC-5B-FA-46-DD-AA-47-D7-BC-3B-4E-25-6E",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Heartbleed with Troy Hunt",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Hot off of last week's news about Heartbleed, Richard talks to Troy Hunt about the size and scope of the problem. Heartbleed is the cool name (and logo) given to a weakness in the OpenSSL library. The news has been hyped, but the exploit is real and there's really no way to know what data has been compromised. And if you don't run OpenSSL on your servers, do you know what your networking gear runs? After you're done listening to the show, check out Troy's awesome blog post on Heartbleed and do some checks on your systems. You'll be glad you did!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d0148b29-e092-40b2-aeb2-b86c9987d950/audio/1ca36580-fa17-400b-a8cd-01f7d7aa7dfa/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

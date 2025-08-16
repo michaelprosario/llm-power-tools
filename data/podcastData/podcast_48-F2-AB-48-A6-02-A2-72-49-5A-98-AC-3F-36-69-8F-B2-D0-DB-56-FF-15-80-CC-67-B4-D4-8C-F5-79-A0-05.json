@@ -1,0 +1,8 @@
+{
+    "Id": "48-F2-AB-48-A6-02-A2-72-49-5A-98-AC-3F-36-69-8F-B2-D0-DB-56-FF-15-80-CC-67-B4-D4-8C-F5-79-A0-05",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 10: Remoting Pt. 2",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/3oVHATF9SZA/",
+    "Description": "This is the second part of the remoting infrastructures discussion started in Episode 9. We take a look at how remoting infrastructures such as CORBA, .NET Remoting or Web Services work internally. This includes the low level details of the transport layer, marshalling, client proxies as well as interceptors and asynchronous communication. At the end, Michael will explain how all this relates to CORBA and Markus will map the concepts to .NET remoting. We don't have additional links in these show notes since all the relevant links had been posted for Episode 9 already.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode10-remoting_pt2.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "B9-8E-C1-9D-57-9D-14-8F-54-E5-61-54-15-8C-C8-82-8B-DE-7F-C7-4D-C7-A5-95-E0-0E-EA-C9-9F-99-2E-30",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 667: Ashley Peacock on Cloudflare",
+    "SourceUrl": "http://se-radio.net/se-radio-667-ashley-peacock-on-cloudflare",
+    "Description": "<p>Ashley Peacock, the author of <em>Serverless Apps on Cloudflare</em>, speaks with host Jeremy Jung about content delivery networks (CDNs). Along the way, they examine dependency injection with bindings, local development, serverless, cold starts, the V8 runtime, AWS Lambda vs Cloudflare workers, WebAssembly limitations, and core services such as R2, D1, KV, and Pages. Ashley suggests why most users use an external database and discusses eventually consistent data stores, S3-to-R2 migration strategies, queues and workflows, inter-service communication, durable objects, and describes some example projects.</p> <p data-prosemirror-content-type=\"node\" data-prosemirror-node-name= \"paragraph\" data-prosemirror-node-block=\"true\" data-pm-slice= \"1 1 []\">Brought to you by\u00a0<a href=\"https://www.computer.org/\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/667-ashley-peacock-cloudflare.mp3?dest-id=23379"
+}

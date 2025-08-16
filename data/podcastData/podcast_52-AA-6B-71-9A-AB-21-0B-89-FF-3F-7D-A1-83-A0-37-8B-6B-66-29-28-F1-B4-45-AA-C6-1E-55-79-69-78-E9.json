@@ -1,0 +1,8 @@
+{
+    "Id": "52-AA-6B-71-9A-AB-21-0B-89-FF-3F-7D-A1-83-A0-37-8B-6B-66-29-28-F1-B4-45-AA-C6-1E-55-79-69-78-E9",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 124: OpenJDK with Dalibor Topic",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/y4EPiMIuK2Q/",
+    "Description": "In this episode we look at SUN's open source strategy for the OpenJDK. We discuss challenges in creating such a big open source project, and ways to keep it focused and organized. We discuss what it means for the Java runtime to be adopted as the technological foundation for other programming languages.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode124-OpenJDK.mp3?dest-id=23379"
+}

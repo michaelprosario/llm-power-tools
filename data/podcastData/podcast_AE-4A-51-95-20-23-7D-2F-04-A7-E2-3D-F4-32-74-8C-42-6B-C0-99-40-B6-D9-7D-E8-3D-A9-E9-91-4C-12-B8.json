@@ -1,0 +1,8 @@
+{
+    "Id": "AE-4A-51-95-20-23-7D-2F-04-A7-E2-3D-F4-32-74-8C-42-6B-C0-99-40-B6-D9-7D-E8-3D-A9-E9-91-4C-12-B8",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Jeff Stokes Test Performance and Reliability with the Windows Assessment Toolkit",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Jeff Stokes about Microsoft's Windows Assessment Toolkit. Download the ADK here. Another amazing free tool from Microsoft, the Assessment Toolkit gives detailed evaluations on performance, reliability, compatibility and functionality across multiple operating systems, software, low level and application level behavior. Jeff talks about testing new hardware with existing software, with new versions of software, any combination you like. Also mentioned is Performance Analysis of Logs (PAL), which should be in your toolkit also. The Windows Assessment Toolkit is a tool you need to have sitting right beside Microsoft Deployment Toolkit - test every change, every time!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/3a41d750-ab0f-476b-bfe6-66e8b1817015/audio/bcf99b9a-671e-45ee-8165-492c90367387/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}
