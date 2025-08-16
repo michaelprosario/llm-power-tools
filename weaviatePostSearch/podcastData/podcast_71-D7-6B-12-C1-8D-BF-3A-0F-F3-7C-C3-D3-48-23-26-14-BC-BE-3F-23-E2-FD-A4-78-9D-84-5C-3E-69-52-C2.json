@@ -1,8 +1,0 @@
-{
-    "Id": "71-D7-6B-12-C1-8D-BF-3A-0F-F3-7C-C3-D3-48-23-26-14-BC-BE-3F-23-E2-FD-A4-78-9D-84-5C-3E-69-52-C2",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 44: Interview Brian Goetz and David Holmes",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/bqICWnvwuGw/",
-    "Description": "This is another episode on concurrency. We talk to two experts in the field, Brian Goetz and David Holmes about aspects of concurrency we hadn't really covered before. \n\nWe start out by discussing liveness and safety and then continue to talk about synchronizers (latches, barriers, semaphores) as well as the importance of agreeing on protocols when developing concurrent applications. We then talked about thread confinement as a way of building thread-safe programs, as well as using functional programming and immutable data. The next set of topics covers various ways of how compilers can optimize the performance wrt. to concurrency, talking about techniques such as escape analysis as well as lock elision and coarsening. We then covered how to test concurrent programs and the consequences of the Java memory model on concurrency. We then went on to look at some more advanced topics, namely, lock-free programming and atomic variables. We also briefly discussed the idea of transactional memory. \n\nFinally, we looked at how better language support - specifically, a more declarative style of concurrent programming as e.g. in the Fortress language - can aid in improving the quality of concurrent programs.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode44-goetzAndHolmes.mp3?dest-id=23379"
-}

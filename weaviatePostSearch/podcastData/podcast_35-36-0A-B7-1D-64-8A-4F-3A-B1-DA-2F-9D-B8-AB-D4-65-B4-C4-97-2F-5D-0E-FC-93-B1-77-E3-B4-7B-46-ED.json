@@ -1,8 +1,0 @@
-{
-    "Id": "35-36-0A-B7-1D-64-8A-4F-3A-B1-DA-2F-9D-B8-AB-D4-65-B4-C4-97-2F-5D-0E-FC-93-B1-77-E3-B4-7B-46-ED",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "Databases and Kubernetes: Adopting a Distributed Mindset",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/databases-and-kubernetes-adopting-a-distributed-mindset-dEuT02rP",
-    "Description": "<p><a href=\"https://thenewstack.io/category/cloud-native/\">Cloud native</a> systems are, by definition, distributed \u2014but to run <a href=\"https://thenewstack.io/category/data/\">databases</a> securely and effectively on them, what\u2019s needed is not only purpose-fit technology, but a change of mindset, according to this podcast episode\u2019s guests.</p><p>In this episode of Makers, the New Stack podcast, Jim Walker, principal product evangelist and <a href=\"https://www.linkedin.com/in/michelle-gienow-00007055/\">Michelle Gienow</a>, senior technical content manager, of Cockroach Labs (and <a href=\"https://thenewstack.io/author/michelle_gienow/\">a former New Stack reporter</a>), discussed how distributed systems create new challenges for databases, the paradigm shift that\u2019s needed to run databases effectively on Kubernetes, and the results of a new survey of Kubernetes users.</p><p>The podcast was hosted by <a href=\"https://thenewstack.io/author/hjoslyn\">Heather Joslyn</a>, features editor of The New Stack.</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/feba471f-4feb-4ee0-ae64-451c64ca1381/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=feba471f-4feb-4ee0-ae64-451c64ca1381&feed=IgzWks06"
-}

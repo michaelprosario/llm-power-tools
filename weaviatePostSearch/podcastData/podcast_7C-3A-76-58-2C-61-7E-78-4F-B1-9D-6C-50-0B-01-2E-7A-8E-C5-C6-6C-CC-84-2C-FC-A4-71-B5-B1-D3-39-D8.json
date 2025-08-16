@@ -1,8 +1,0 @@
-{
-    "Id": "7C-3A-76-58-2C-61-7E-78-4F-B1-9D-6C-50-0B-01-2E-7A-8E-C5-C6-6C-CC-84-2C-FC-A4-71-B5-B1-D3-39-D8",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 611: Ines Montani on Natural Language Processing",
-    "SourceUrl": "http://se-radio.net/se-radio-611-ines-montani-on-natural-language-processing",
-    "Description": "<p>Ines Montani, co-founder and CEO of Explosion, speaks with host <a href=\"../../team/jeremy-jung/\">Jeremy Jung</a> about solving problems using natural language processing (NLP). They cover generative vs predictive tasks, creating a pipeline and breaking down problems, labeling examples for training, fine-tuning models, using LLMs to label data and build prototypes, and the spaCy NLP library.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/611-Ines_Montani_Natural_Language_Processing.mp3?dest-id=23379"
-}

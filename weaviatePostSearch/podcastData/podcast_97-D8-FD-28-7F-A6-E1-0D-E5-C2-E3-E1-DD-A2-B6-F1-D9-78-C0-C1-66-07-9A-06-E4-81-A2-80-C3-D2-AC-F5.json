@@ -1,8 +1,0 @@
-{
-    "Id": "97-D8-FD-28-7F-A6-E1-0D-E5-C2-E3-E1-DD-A2-B6-F1-D9-78-C0-C1-66-07-9A-06-E4-81-A2-80-C3-D2-AC-F5",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 584: Charles Weir on Ruthless Security for Busy Developers",
-    "SourceUrl": "http://se-radio.net/se-radio-584-charles-weir-on-ruthless-security-for-busy-developers",
-    "Description": "<p data-pm-slice=\"1 1 []\">Charles Weir\u2014developer, security researcher, and Research Fellow at Security Lancaster\u2014joins host <a href= \"https://www.se-radio.net/team/giovanni-asproni/\">Giovanni Asproni</a> to discuss an approach that development teams can use to create secure systems without wasting effort on unnecessary security work. The episode starts with a broad description of the approach, which is based on Weir's research and on a free Developer Security Essentials workshop he created. Charles presents some examples from real-world projects, his view on AI's impact on security, and information about the workshop and where to find the materials. During the conversation, they consider several related topics including the concept of \"good enough\" security; security as a product decision; risk assessment, classification, and prioritization; and how to approach security in startups, greenfield, and legacy systems.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/584_charles_weir_ruthless_security.mp3?dest-id=23379"
-}

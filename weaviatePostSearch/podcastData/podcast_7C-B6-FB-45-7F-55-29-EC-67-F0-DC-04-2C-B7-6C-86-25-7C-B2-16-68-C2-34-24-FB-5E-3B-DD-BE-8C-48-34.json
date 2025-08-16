@@ -1,8 +1,0 @@
-{
-    "Id": "7C-B6-FB-45-7F-55-29-EC-67-F0-DC-04-2C-B7-6C-86-25-7C-B2-16-68-C2-34-24-FB-5E-3B-DD-BE-8C-48-34",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 645: Vinay Tripathi on BGP Optimization",
-    "SourceUrl": "http://se-radio.net/se-radio-645-vinay-tripathi-on-bgp-optimization",
-    "Description": "<p>Vinay Tripathi, a senior network engineer in Google Backbone Engineering and an 18-year network engineering veteran, discusses BGP optimization, a technique that's critical in achieving top goals in distributed applications. Host <a href= \"https://se-radio.net/team/philip-winston/\">Philip Winston</a> speaks with Tripathi about BGP, autonomous systems, peer grouping, router hardware and software, software-defined networks, and shared network optimization and debugging stories.\u00a0Brought to you by\u00a0<a href=\"https://www.computer.org/\" target=\"_blank\" rel= \"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/645-vinay-tripathi-bgp-optimization.mp3?dest-id=23379"
-}

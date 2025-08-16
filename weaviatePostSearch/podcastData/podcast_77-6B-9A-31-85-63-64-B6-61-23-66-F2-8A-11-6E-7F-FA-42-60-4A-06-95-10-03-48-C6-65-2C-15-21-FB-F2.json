@@ -1,8 +1,0 @@
-{
-    "Id": "77-6B-9A-31-85-63-64-B6-61-23-66-F2-8A-11-6E-7F-FA-42-60-4A-06-95-10-03-48-C6-65-2C-15-21-FB-F2",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 563: David Cramer on Error Tracking",
-    "SourceUrl": "http://se-radio.net/se-radio-563-david-cramer-on-error-tracking",
-    "Description": "<p>In this episode, David Cramer, co-founder and CTO of Sentry, joins host Jeremy Jung for a conversation about error tracking. The discussion starts with treating performance problems as errors, why you might not need logs, and how most applications share the same problems. From there they consider other topics including capturing information by hooking into runtimes and frameworks, issues with the quality of Open Telemetry data, how front-end applications are constantly changing and why that makes them hard to instrument. Finally, they discuss how Sentry's architecture has evolved, and why they switched from a permissive license to the Business Source License.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/563_david_cramer_error_tracking.mp3?dest-id=23379"
-}

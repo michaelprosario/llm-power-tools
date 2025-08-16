@@ -1,8 +1,0 @@
-{
-    "Id": "01-B9-4B-86-A2-07-CF-10-1A-42-5A-F1-3B-4A-F8-CE-8F-BA-6D-E4-C1-A9-6B-D9-2D-AC-C1-34-ED-34-50-66",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 537: Adam Warski on Scala and Tapir",
-    "SourceUrl": "http://se-radio.net/episode-537-adam-warski-on-scala-and-tapir",
-    "Description": "<p>Adam Warski, the co-founder and CTO of SoftwareMill, discusses Scala programming and the Tapir library. Scala is a general-purpose JVM language, and Tapir is a back-end library used to describe HTTP API endpoints as immutable Scala values. Host Philip Winston speaks with Warski about the implications of Scala being a JVM language, the Scala type system, the Scala community's view of functional vs. object-oriented programming, and the transition of the ecosystem from Scala 2 to Scala 3. The Tapir discussion explores why Tapir is a library and not a framework, how server interpreters work in Tapir, how interceptors work, and what observability features are included with Tapir.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/537-adam-warski-scala-and-tapir.mp3?dest-id=23379"
-}

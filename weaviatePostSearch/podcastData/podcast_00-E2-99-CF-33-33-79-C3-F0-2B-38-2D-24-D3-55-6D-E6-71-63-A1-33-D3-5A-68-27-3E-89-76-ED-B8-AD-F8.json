@@ -1,8 +1,0 @@
-{
-    "Id": "00-E2-99-CF-33-33-79-C3-F0-2B-38-2D-24-D3-55-6D-E6-71-63-A1-33-D3-5A-68-27-3E-89-76-ED-B8-AD-F8",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "From F# to JavaScript and beyond with Fable and Alfonso Garcia-Caro",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Fable is an F# to JavaScript compiler powered by Babel, designed to produce readable and standard code. Alfonso chats with Scott about how Fable and F# fit into the larger JavaScript ecosystem and how you can experience the best of .NET with the best of node and JavaScript.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/7986f25f-45f2-48b3-88f3-d4f0bfe9b133/221fe798_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

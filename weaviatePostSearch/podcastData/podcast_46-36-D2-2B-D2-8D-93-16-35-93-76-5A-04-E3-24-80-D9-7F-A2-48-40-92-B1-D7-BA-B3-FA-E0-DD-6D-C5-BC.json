@@ -1,8 +1,0 @@
-{
-    "Id": "46-36-D2-2B-D2-8D-93-16-35-93-76-5A-04-E3-24-80-D9-7F-A2-48-40-92-B1-D7-BA-B3-FA-E0-DD-6D-C5-BC",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Kamal Abburi Implements Hybrid Office 365!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Microsoft Premier Field Engineer Kamal Abburi about his experiences putting together hybrid implementations of Exchange and Office 365. The conversation starts out focusing on why Exchange in the Cloud at all, and the challenges of making a full migration to Office 365. Kamal mentions some of the regulatory hurdles that some countries put in place requiring some mailboxes to remain in the country of origin. He then digs into the challenge of hybrid implementations, covering the role of ADFS in creating a single sign-on experience, challenges with security and how to do seamless migrations of mailboxes. In the end it appears that hybrid deployment is going to be the most common model used, especially going forward into the next version of Exchange! Check out Office 365 and the Office 365 Deployment Guide.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c1f4af53-0f7b-4064-a25b-4afd344b0ac1/audio/fb4190d6-2b17-4f45-96d2-2e7755fb9d62/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "4A-5F-21-4C-78-29-C1-AE-CA-AD-E2-06-F4-8C-37-2A-4C-C6-5A-FB-0E-F3-48-E4-99-A3-E7-9D-6D-2E-3A-5C",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Security Global Policy with Alan Burchill",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Alan Burchill about the security aspects of Group Policy Preferences - good and bad! Alan reminds us all about where Group Policy Preferences came from, as an acquisition by Microsoft, and opened the door to reduce or eliminate login scripts, but only when it has sufficient privileges. And how do you do that? By embedding passwords! We all know that's a bad thing, so Alan walks through what is safe and what isn't safe in Group Policy Preferences, and gets you thinking about how to reduce your attack surface by using tools like Metasploit to hack yourself. Check out Alan's Group Policy Central web site for more information.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b4d72862-7988-49c2-aee4-4151b1c7e9a5/audio/8dfa5a22-4309-4a2b-b2af-15c976b4018c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

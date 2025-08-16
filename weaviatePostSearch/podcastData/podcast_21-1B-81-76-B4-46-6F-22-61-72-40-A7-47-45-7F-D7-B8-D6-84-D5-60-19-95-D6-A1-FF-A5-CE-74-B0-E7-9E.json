@@ -1,8 +1,0 @@
-{
-    "Id": "21-1B-81-76-B4-46-6F-22-61-72-40-A7-47-45-7F-D7-B8-D6-84-D5-60-19-95-D6-A1-FF-A5-CE-74-B0-E7-9E",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Managing CosmosDB with Deborah Chen",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you manage CosmosDB? Richard chats with Deborah Chen from the CosmosDB team about what it takes to care and feed the cloud-based NoSQL data storage solution. Deborah talks about the advantages of not having to manage the infrastructure of storage, with replication and fail-over solutions integrated into CosmosDB from the start - as well as at-rest and in-transmission encryption always on! The management tools are pretty straightforward too, with thorough logging and diagnostics tools integrated into Azure. CosmosDB can make your life simpler!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/8b6739f7-99c7-4eb9-9bb2-5703da94917f/audio/0fdb536e-ed8a-403c-9880-7205334d5d91/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

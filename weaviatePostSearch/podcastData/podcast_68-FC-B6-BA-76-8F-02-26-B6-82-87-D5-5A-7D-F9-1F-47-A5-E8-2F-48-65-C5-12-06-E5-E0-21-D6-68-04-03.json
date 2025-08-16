@@ -1,8 +1,0 @@
-{
-    "Id": "68-FC-B6-BA-76-8F-02-26-B6-82-87-D5-5A-7D-F9-1F-47-A5-E8-2F-48-65-C5-12-06-E5-E0-21-D6-68-04-03",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Building a culture of accessibility from step zero with Ayesha Mazumdar",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Ayesha Mazumdar is a Senior UX Engineer at Optimizely and works to enable everyone to access the web no matter their ability. How does one build a culture at their company that values accessibility from the beginning? Where does a11y factor in when creating design systems, and later component libraries. How much ARIA is enough...or too much?</p><ul><li><a href=\"https://www.makeitfable.com/\">Fable</a> and <a href=\"https://access-works.com/\">Access Works</a> both let you test your applications with people with disabilities</li><li><a href=\"https://conffab.com/video/the-great-accessibility-bake-off/\">Cordelia Dillon's Accessibility Bake Off</a> talk</li><li>An example of <a href=\"https://www.w3.org/TR/wai-aria-practices/#Listbox\">W3's Keyboard Interaction guidelines </a>(link is specifically for Listbox)</li><li>Ayesha's ReactBoston Scaling Accessibility <a href=\"https://www.youtube.com/watch?v=U1th3Qs-E_A&feature=youtu.be\">video</a> and <a href=\"https://slides.com/ayeshakmaz/scaling-a11y-react-boston\">slides</a></li></ul>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/5a6ec628-8577-41b7-8bf6-d29981b7d08e/hm714_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "2A-DD-C6-38-E6-8B-D1-54-2B-F9-8F-5D-25-54-93-CB-A8-DB-65-55-F1-0C-4F-DB-C1-4E-45-AB-5D-7B-00-B2",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Windows Autopilot with Michael Niehaus",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Are your PC deployments on Autopilot? Richard talks to Michael Niehaus about Windows Autopilot, which offers a centralized way to deploy to PCs, both remotely and on-premises. Michael talks about getting away from the double-shipping approach of provisioning new PCs, where you as an IT person have to receive a machine, load it up, then ship it out to the employee that is using it. With Autopilot you identify new PCs to your hardware provider using your Azure Tenant ID. Then you specify your configuration information so that when the machine powers up and connects to the Internet, it knows how to provision itself. There are also services for resetting machines and de-provisioning them at end-of-life!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2fe98f45-2ab2-465f-a7a7-13d7de30fa70/audio/72c25983-7149-495c-a94f-7b24f91efad4/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

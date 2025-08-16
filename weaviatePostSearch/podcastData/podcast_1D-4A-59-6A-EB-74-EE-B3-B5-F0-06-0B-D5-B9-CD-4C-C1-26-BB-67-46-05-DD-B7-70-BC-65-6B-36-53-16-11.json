@@ -1,8 +1,0 @@
-{
-    "Id": "1D-4A-59-6A-EB-74-EE-B3-B5-F0-06-0B-D5-B9-CD-4C-C1-26-BB-67-46-05-DD-B7-70-BC-65-6B-36-53-16-11",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 606: Charlie Jones on Third-Party Software Supply Chain Risks",
-    "SourceUrl": "http://se-radio.net/se-radio-606-charlie-jones-on-third-party-software-supply-chain-risks",
-    "Description": "<p>Charlie Jones, Director of Product Management at ReversingLabs and subject matter expert in supply chain security, joins host <a href= \"../../../team/priyanka-raghavan/\">Priyanka Raghavan</a> to discuss tackling third-party software risks. They begin by defining different types of third-party software risks and then take a deep dive into case studies where third-party components and software have had cascading effects on downstream systems. They consider some frameworks for secure software development that can be used to evaluate third-party software and components \u2013 both as a publisher or as a consumer \u2013 and end by discussing laws and regulations with final advise from Charlie on how enterprises can tackle third-party software risks. Brought to you by IEEE Computer Society and IEEE Software magazine. <a href= \"https://workos.com/?utm_source=seradio&utm_medium=podcast&utm_campaign=q12024\" target=\"_blank\" rel=\"noopener\">This episode is sponsored by WorkOS</a>.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/606-charlie_jones_third-party_software_supply_chain_risks.mp3?dest-id=23379"
-}

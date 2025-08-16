@@ -1,8 +1,0 @@
-{
-    "Id": "8A-AF-08-AE-3B-0B-97-91-64-22-07-93-96-EC-2B-F3-03-32-B6-6D-84-ED-A0-1C-9E-92-0D-6B-72-2C-09-86",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 587: M. Scott Ford on Managing Dependency Freshness",
-    "SourceUrl": "http://se-radio.net/se-radio-587-m-scott-ford-on-managing-dependency-freshness",
-    "Description": "<p>M. Scott Ford, the CTO of Corgibytes and host of the Legacy Code Rocks podcast, discusses managing dependency freshness. SE Radio\u2019s Sam Taggart speaks with him about why dependency freshness is important to ensure that your code has all the latest bug fixes, how exactly to measure dependency freshness, and some of the insights that teams can gain from monitoring freshness over time. Brought to you by IEEE Computer Society and IEEE Software Magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/587_m_scott_ford_managing_dependency_freshness.mp3?dest-id=23379"
-}

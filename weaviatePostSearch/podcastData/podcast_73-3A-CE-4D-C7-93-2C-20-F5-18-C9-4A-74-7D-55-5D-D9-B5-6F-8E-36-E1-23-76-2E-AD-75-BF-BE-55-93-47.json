@@ -1,8 +1,0 @@
-{
-    "Id": "73-3A-CE-4D-C7-93-2C-20-F5-18-C9-4A-74-7D-55-5D-D9-B5-6F-8E-36-E1-23-76-2E-AD-75-BF-BE-55-93-47",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Local Administrator Password Solution with Jeremy Moskowitz",
-    "SourceUrl": "https://runasradio.com/Shows/Show/862",
-    "Description": "<p>Have you used LAPS? Richard chats with Jeremy Moskowitz about the Windows Local Administrator Password Solution (LAPS). Jeremy talks about how the Premier Field Engineers originally developed LAPS at Microsoft to deal with having different local administrator passwords on every workstation in an organization. The passwords change automatically regularly, and sysadmins can retrieve the password for a given machine using PowerShell and other tools. Today there is an updated version of LAPS that works with Azure Active Directory and provides more control over password changes and restrictions - you need this tool!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.netwrix.com/endpoint_management_software.html\">Netwrix Endpoint Management</a></li><li><a href=\"https://learn.microsoft.com/windows-server/identity/laps/laps-overview\">Windows Local Administrator Password Solution</a></li></ul><p>Recording December 13, 2022</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/41d955d2-9fa0-4c86-83b3-ebaf08076174/audio/613fab89-440a-4381-a66f-466348d3d1d8/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

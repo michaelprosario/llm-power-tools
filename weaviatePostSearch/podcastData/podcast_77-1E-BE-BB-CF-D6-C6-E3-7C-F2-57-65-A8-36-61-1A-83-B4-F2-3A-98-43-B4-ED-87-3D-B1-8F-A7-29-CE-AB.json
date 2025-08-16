@@ -1,8 +1,0 @@
-{
-    "Id": "77-1E-BE-BB-CF-D6-C6-E3-7C-F2-57-65-A8-36-61-1A-83-B4-F2-3A-98-43-B4-ED-87-3D-B1-8F-A7-29-CE-AB",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Clint Huffman Does Hyper-V Performance Tuning!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Clint Huffman is back! Richard and Greg talk to Microsoft Premier Field Engineer Clint Huffman about performance tuning Hyper-V. Clint works out in the field with customers solving the problems they have with Hyper-V. He gives us a raft of tips on how to understand what Hyper-V is doing, including avoiding the Task Manager entirely (it'll lie to you) and focusing instead of Performance Monitor and xPerf. He also points us to Tony Voellm's blog at http://blogs.msdn.com/tvoellm. Also check out this article on Performance Tuning Hyper-V and BizTalk written by Clint and Ewan Fairweather.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e29b38e7-a3e2-4c92-8406-8b9bef38075c/audio/596c3c5e-4f24-4368-b3c6-6a421bc789bd/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

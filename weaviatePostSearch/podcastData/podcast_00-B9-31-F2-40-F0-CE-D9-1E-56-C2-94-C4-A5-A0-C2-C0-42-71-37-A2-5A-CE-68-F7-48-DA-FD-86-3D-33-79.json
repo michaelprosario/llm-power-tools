@@ -1,8 +1,0 @@
-{
-    "Id": "00-B9-31-F2-40-F0-CE-D9-1E-56-C2-94-C4-A5-A0-C2-C0-42-71-37-A2-5A-CE-68-F7-48-DA-FD-86-3D-33-79",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Dana Epp Uses the Cloud for Disaster Recovery",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Dana Epp about using cloud technology for disaster recovery. Dana digs into Microsoft Azure first, talking about how the new Azure Storage Services and secure connectivity make it much easier to maintain replicas of your virtual machines in Azure, synchronizing only the changes on a regular basis. The conversation also covers some of the Amazon EC2 features available for disaster recovery, as well as focusing on not giving up your responsibilities and an IT Pro - it's still your data and needs protecting, the cloud won't do everything for you! Dana also refers to Scott Guthrie's Blog Post on the new IaaS features of Azure, including even better pricing!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/71392260-be5a-46e7-9a9c-9c0b3662fe18/audio/77f5d8f8-c508-4732-ae89-6739ef65cdcf/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

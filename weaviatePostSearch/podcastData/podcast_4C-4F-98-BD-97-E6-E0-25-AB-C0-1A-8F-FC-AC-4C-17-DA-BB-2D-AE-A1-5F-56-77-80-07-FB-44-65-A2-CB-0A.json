@@ -1,8 +1,0 @@
-{
-    "Id": "4C-4F-98-BD-97-E6-E0-25-AB-C0-1A-8F-FC-AC-4C-17-DA-BB-2D-AE-A1-5F-56-77-80-07-FB-44-65-A2-CB-0A",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Secure Deployment with Mikael Nystr\u00f6m",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Can deploying software and updates enable a hack? Richard chats with Mikael Nystr\u00f6m about doing secure deployments - and this leads to a conversation about how modern hackers are exploiting systems today. Modern hackers can break into machines, but security restrictions limit their ability to exploit - until an administrator logs into the machine. Mikael talks about limiting your use of super-user accounts, including for deployment - and keeping your systems difficult for hackers to exploit!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b3d4ffcc-ccf2-4fa8-a8ea-2e5539907796/audio/90f80c3c-8336-435e-8a68-63d52c9d144d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

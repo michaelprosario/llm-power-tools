@@ -1,8 +1,0 @@
-{
-    "Id": "01-C5-AC-6C-6A-FF-1E-16-DD-38-D2-4B-87-86-0A-55-4F-71-A1-AA-B3-6A-88-32-1A-EB-22-16-4A-F3-DF-2B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "The Infrastructure Release Pipeline with Steve Murawski and Michael Greene",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you manage your infrastructure like its code? Enter the release pipeline! Richard chats with Steven Murawski and Michael Greene about their recent white paper on the Release Pipeline Model. The conversation digs into the stages of developing and management configuration-as-code, including source code management, building, testing and deploying. There's a ton of tooling around each of these aspects, what you choose is very personal - and it makes sense to use what you already have onsite. Michael and Steven also dig into crisis management - taking advantage of the pipeline to respond more effectively when there are problems, and to help make sure those problems never happen again!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/16949ef6-869f-482e-80c6-4d54d9da7cc7/audio/160f6ba7-2e37-4da1-a42d-89261173932e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

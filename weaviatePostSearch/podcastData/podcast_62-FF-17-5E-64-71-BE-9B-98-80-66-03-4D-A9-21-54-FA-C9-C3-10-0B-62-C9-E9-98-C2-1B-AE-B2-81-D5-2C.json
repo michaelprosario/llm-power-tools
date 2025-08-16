@@ -1,8 +1,0 @@
-{
-    "Id": "62-FF-17-5E-64-71-BE-9B-98-80-66-03-4D-A9-21-54-FA-C9-C3-10-0B-62-C9-E9-98-C2-1B-AE-B2-81-D5-2C",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 564: Paul Hammant on Trunk-Based Development",
-    "SourceUrl": "http://se-radio.net/se-radio-564-paul-hammant-on-trunk-based-development",
-    "Description": "<p>Paul Hammant, independent consultant, joins host <a href= \"https://www.se-radio.net/team/giovanni-asproni/\">Giovanni Asproni</a> to speak about trunk-based development\u2014a version control management practice in which developers merge small, frequent updates to a core \u201ctrunk\u201d or main branch. The episode explores the technique in some detail, including its pros and cons and some examples from real projects, and offers suggestions on how to get started. The conversation touches on a set of related topics, including code reviews, feature flags, continuous integration, and testing.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/564_paul_hammant_trunk-based_development.mp3?dest-id=23379"
-}

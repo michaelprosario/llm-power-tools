@@ -1,8 +1,0 @@
-{
-    "Id": "86-4D-2A-95-3A-D6-32-50-8D-B0-63-0D-CD-79-E9-84-36-C2-C6-7A-6F-10-17-E7-36-6A-98-5D-D0-11-4F-36",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 18: Resource Management",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/ZVII2JWXz8U/",
-    "Description": "In this episode Michael and our guest Prashant Jain talk about patterns for resource management. Efficient management of resources is critical in the execution of any kind of software. Ranging from embedded software in a mobile device to software in a large enterprise server, it is important that the resources, such as memory, threads, file handles, or network connections, are managed efficiently to allow the systems to function properly and effectively. Michael and Prashant discuss various patterns, such as Lazy Acquisition, Caching, Leasing and Evictor and explain when, why, and how to apply them for effective resource management.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode18-resourceManagement.mp3?dest-id=23379"
-}

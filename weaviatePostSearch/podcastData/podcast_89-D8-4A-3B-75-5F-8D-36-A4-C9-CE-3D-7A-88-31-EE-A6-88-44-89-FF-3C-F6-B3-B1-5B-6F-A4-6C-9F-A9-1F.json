@@ -1,8 +1,0 @@
-{
-    "Id": "89-D8-4A-3B-75-5F-8D-36-A4-C9-CE-3D-7A-88-31-EE-A6-88-44-89-FF-3C-F6-B3-B1-5B-6F-A4-6C-9F-A9-1F",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 585: Adam Frank on Continuous Delivery vs Continuous Deployment",
-    "SourceUrl": "http://se-radio.net/se-radio-585-adam-frank-on-continuous-delivery-vs-continuous-deployment",
-    "Description": "<p>Adam Frank, SVP of Product and Marketing at Armory.io, speaks with SE Radio\u2019s <a href= \"https://www.se-radio.net/team/kanchan-shringi/\">Kanchan Shringi</a> about continuous integration, continuous delivery, and continuous deployment \u2013 and how they differ. Frank suggests that organizations begin by identifying how the CI/CD process aligns best with their unique goals, noting that such goals might be different for B2C versus B2B SAAS (software as a service). They also discuss how the process can differ for monoliths compared to microservices-based products. Finally, they talk about continuous deployment as a service and some unique aspects of Armory\u2019s approach.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/585_adam_frank_continuous_delivery_vs_continuous_deployment.mp3?dest-id=23379"
-}

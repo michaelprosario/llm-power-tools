@@ -1,8 +1,0 @@
-{
-    "Id": "71-22-6E-CC-11-4D-3B-17-76-D3-B4-A6-73-62-3D-13-DF-BD-39-B3-8A-00-76-02-FB-C9-24-03-1E-8C-9B-7A",
-    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
-    "Title": "Making ETL pipelines a thing of the past",
-    "SourceUrl": "https://stackoverflow.blog/podcast/",
-    "Description": "<p>RelationalAI\u2019s first <a href=\"https://relational.ai/resources/introducing-first-ai-coprocessor\">big partner is Snowflake</a>, meaning customers can now start using their data with GenAI without worrying about the privacy, security, and governance hassle that would come with porting their data to a new cloud provider. The company promises it can also add metadata and a knowledge graph to existing data without pushing it through an ETL pipeline.</p><p>You can learn more about the company\u2019s services <a href=\"https://relational.ai/product\">here</a>.</p><p>You can catch up with Cassie <a href=\"https://www.linkedin.com/in/cassandrashum/\">on LinkedIn</a>.</p><p>Congrats to Stack Overflow user antimirov for earning a lifeboat badge by providing a great answer to the question:\u00a0</p><p><a href=\"https://stackoverflow.com/questions/46422374/efficiently-compare-two-sets-in-python/56685701#56685701\">How do you efficiently compare two sets in Python?</a></p>\n",
-    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/8c71159f-9796-4ada-9d38-525de41cc4da/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=8c71159f-9796-4ada-9d38-525de41cc4da&feed=XA_851k3"
-}

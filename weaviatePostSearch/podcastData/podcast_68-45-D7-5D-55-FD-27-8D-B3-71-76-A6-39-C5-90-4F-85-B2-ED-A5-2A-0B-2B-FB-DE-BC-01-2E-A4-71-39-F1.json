@@ -1,8 +1,0 @@
-{
-    "Id": "68-45-D7-5D-55-FD-27-8D-B3-71-76-A6-39-C5-90-4F-85-B2-ED-A5-2A-0B-2B-FB-DE-BC-01-2E-A4-71-39-F1",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 271: Idit Levine on Unikernelsl",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-271-Idit-Levine-on-Unikernelsl.mp3",
-    "Description": "<p>Jeff Meyerson talks to Idit Levine about Unikernels and unik, a project for compiling unikernels. The Linux kernel contains features that may be unnecessary to many application developers--particularly if those developers are deploying to the cloud. Unikernels allow programmers to specify the minimum features of an operating system we need to deploy our applications. Topics include the the Linux kernel, requirements for a cloud operating system, and how unikernels compare to Docker containers.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-271-Idit-Levine-on-Unikernelsl.mp3"
-}

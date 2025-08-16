@@ -1,8 +1,0 @@
-{
-    "Id": "66-5E-4B-69-F4-35-75-09-A3-7C-C6-A3-5D-98-20-EB-8B-98-CA-6B-F4-83-63-7C-03-FC-9A-5F-53-3A-9E-1F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Nibin PM Virtualizes Domain Controllers",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chat with PFE Nibin PM from Microsoft Gulf in Kuwait about his work deploying Active Directory domain controllers in virtualized environments. Nibin digs into the history of virtualized domain controllers first, with the biggest caution of all: don't do snapshots of domain controllers! At least, not until Server 2012. The conversation digs into the challenges of Active Directory maintaining synchronization between different domain controllers, how virtualization influences that and ultimately how Server 2012 solves some of these problems. Nibin also recommends checking out the Premier Field Engineering blog as well as the Directory Services blog.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/105e85d7-7d4d-4c3a-96da-439cecec2845/audio/a6a1bb67-1a84-44de-811c-603e4b037d34/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

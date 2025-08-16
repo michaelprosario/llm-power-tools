@@ -1,8 +1,0 @@
-{
-    "Id": "2F-43-B2-76-70-C9-D4-9C-08-95-71-BE-CA-63-67-36-8E-53-A6-E2-43-5E-B2-18-03-82-90-9A-06-62-89-5C",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 28: Type Systems",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/6x3MUKcafrE/",
-    "Description": "In recent episodes we have discusses statically and dynamically typed languages and domain specific languages - topics that are much talked about in the community at the moment. In this episode we look at the foundation of programming languages : types. We explain what a type actually is, how type systems work and what polymorphism works.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode28-typeSystems.mp3?dest-id=23379"
-}

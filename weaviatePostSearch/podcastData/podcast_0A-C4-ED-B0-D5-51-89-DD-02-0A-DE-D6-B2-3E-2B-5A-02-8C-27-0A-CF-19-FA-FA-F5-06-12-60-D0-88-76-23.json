@@ -1,8 +1,0 @@
-{
-    "Id": "0A-C4-ED-B0-D5-51-89-DD-02-0A-DE-D6-B2-3E-2B-5A-02-8C-27-0A-CF-19-FA-FA-F5-06-12-60-D0-88-76-23",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 482: Luke Hoban on Infrastructure as Code",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-482-Luke-Hoban-on-Infrastructure-as-Code.mp3",
-    "Description": "<p>Luke Hoban, CTO of Pulumi, joined host Jeff Doolittle for a conversation about infrastructure as code (IAC), which allows software development teams to configure and control their cloud infrastructure assets using code in contrast to other approaches...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-482-Luke-Hoban-on-Infrastructure-as-Code.mp3"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "6A-C8-D2-05-E6-0F-F3-C8-28-EA-44-20-0A-C4-AD-29-30-4D-0B-93-CC-A9-19-B2-B5-ED-06-BA-27-F8-23-DA",
-    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
-    "Title": "Where does Postgres fit in a world of GenAI and vector databases?",
-    "SourceUrl": "https://stackoverflow.blog/podcast/",
-    "Description": "<p>For the last two years, Postgres has been the <a href=\"https://survey.stackoverflow.co/2024/technology/#1-databases\">most popular database</a> among respondents to our Annual Developer Survey.\u00a0</p><p>Timescale is <a href=\"https://www.timescale.com/ai\">a startup</a> working on an open-source PostgreSQEL stack for AI applications. You can follow the company <a href=\"https://twitter.com/timescaledb\">on X</a> and check out their work on <a href=\"https://github.com/timescale\">GitHub</a>.\u00a0</p><p>You can learn more about Avthar on his <a href=\"https://avthar.com/\">website</a> and on <a href=\"https://www.linkedin.com/in/avthars/\">LinkedIn</a>.\u00a0</p><p>Congrats to Stack Overflow user Haymaker for earning a Great Question badge. They asked:\u00a0</p><p><a href=\"https://stackoverflow.com/questions/10108565/changing-sqlconnection-timeout\">How Can I Override the Default SQLConnection Timeout</a></p><p>? Nearly 250,000 other people have been curious about this same question.</p>\n",
-    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/0da2ebc4-eee8-4ef5-9b8d-7373ef793270/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=0da2ebc4-eee8-4ef5-9b8d-7373ef793270&feed=XA_851k3"
-}

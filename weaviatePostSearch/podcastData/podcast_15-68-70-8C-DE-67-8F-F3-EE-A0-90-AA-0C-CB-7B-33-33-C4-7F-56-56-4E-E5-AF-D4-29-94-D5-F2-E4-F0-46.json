@@ -1,8 +1,0 @@
-{
-    "Id": "15-68-70-8C-DE-67-8F-F3-EE-A0-90-AA-0C-CB-7B-33-33-C4-7F-56-56-4E-E5-AF-D4-29-94-D5-F2-E4-F0-46",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Exchange vNext with Gareth Gudger",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What's coming for Exchange? Richard talks to Gareth Gudger about all the news coming out of Ignite and beyond around Exchange server. Gareth talks about Exchange 2019 not being the last version of Exchange - there will be another on-premises version, although likely it will be an in-place upgrade, and without a year designation - call it the last version of Exchange. This leads to a conversation about folks still on-premises, staying hybrid with the cloud, and making it easier to make mail work no matter what, in the cloud or otherwise!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://docs.microsoft.com/en-us/powershell/exchange/exchange-online-powershell-v2?view=exchange-ps\">Exchange Online PowerShell V2</a></li><li><a href=\"https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange\">Exchange Team Blog</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b4ff9009-6711-4e05-b191-c5cccdc58711/audio/abffdccb-b92f-4b7a-a694-12ed3d36d9fd/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

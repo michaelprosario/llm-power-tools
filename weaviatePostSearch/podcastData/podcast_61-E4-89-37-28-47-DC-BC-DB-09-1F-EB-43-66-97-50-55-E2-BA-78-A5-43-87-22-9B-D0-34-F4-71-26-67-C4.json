@@ -1,8 +1,0 @@
-{
-    "Id": "61-E4-89-37-28-47-DC-BC-DB-09-1F-EB-43-66-97-50-55-E2-BA-78-A5-43-87-22-9B-D0-34-F4-71-26-67-C4",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "All the Performance with RavenDB's Oren Eini",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>In this episode, we talk to Oren Eini from <a href=\"http://www.ravendb.net\">RavenDB</a>. RavenDB is a NoSQL document database that offers high performance, scalability, and security. Oren shares his insights on why performance is not just a feature, but a service that developers and customers expect and demand. He also explains how RavenDB achieves fast and reliable data access, how it handles complex queries and distributed transactions, and how it leverages the cloud to optimize resource utilization and cost efficiency!</p><ul><li><strong>Sponsor:</strong> Head over to <a href=\"http://elevateai.com/hanselminutes\" target=\"_blank\">elevateai.com/hanselminutes</a> to sign up today and get started!</li></ul>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/066dce3f-6611-49dc-b4c7-35aea7c0103b/audio/6d12218e-0c47-4133-87c2-e2565ee2031f/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

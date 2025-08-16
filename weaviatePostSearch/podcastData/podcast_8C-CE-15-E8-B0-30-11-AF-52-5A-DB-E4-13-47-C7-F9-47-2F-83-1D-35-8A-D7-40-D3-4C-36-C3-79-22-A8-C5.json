@@ -1,8 +1,0 @@
-{
-    "Id": "8C-CE-15-E8-B0-30-11-AF-52-5A-DB-E4-13-47-C7-F9-47-2F-83-1D-35-8A-D7-40-D3-4C-36-C3-79-22-A8-C5",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 87: Software Components",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/PBPvfR_F3WU/",
-    "Description": "In this episode, Michael and Markus talk about software components. We first looked at a couple of attempts at defining what a component is. We then provided our own definition that will be used in the rest of the episode. We then looked at the promises of component-based development: why are components useful?\n\nWe then discussed some of the typical metadata components should specify to make them useful. We discussed to some extent typical variations in component models. The next topic was the separation of concerns between the component functionality and functionality provided by the component's execution environment (aka. container).\nWe then compared components with other (more or less) related technologies such as OO and SOA.\n\nWe concluded the episode with the notion of architecture as language, where you use a formal DSL to describe a system's architecture. Components are the basic building block for this approach.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode87-softwareComponents.mp3?dest-id=23379"
-}

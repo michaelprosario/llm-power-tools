@@ -1,8 +1,0 @@
-{
-    "Id": "83-42-E5-AE-9F-D0-87-49-08-B1-A0-66-EF-73-E4-4D-99-7E-DF-2D-CC-05-F0-37-34-A9-E1-1C-25-96-98-14",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Migrating to Windows Server 2019 with Dave Kawula",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Is it time to migrate to Server 2019? Richard chats with Dave Kawula who says YES! After a bit of a bumpy start, Server 2019 is good to go and offers a ton of great features - and some pretty painless in-place upgrades too. Dave points out that this is a version of Server 'born in the cloud' and since Microsoft does in-place upgrades, for certain roles, it makes sense for you to do it too. File servers and VM hosts are great for in-place upgrades, but domain controllers and app servers, you need to think things through more carefully - and they're likely virtual machines anyway, so build new... and use automation while you're at it!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/55ab1ff0-7b18-48ff-b872-21301595f04f/audio/a84a801e-ccad-4058-b1ae-e88008051f78/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

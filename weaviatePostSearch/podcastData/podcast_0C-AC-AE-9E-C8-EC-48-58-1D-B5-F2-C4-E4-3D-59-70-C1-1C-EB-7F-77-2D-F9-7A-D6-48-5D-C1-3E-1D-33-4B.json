@@ -1,8 +1,0 @@
-{
-    "Id": "0C-AC-AE-9E-C8-EC-48-58-1D-B5-F2-C4-E4-3D-59-70-C1-1C-EB-7F-77-2D-F9-7A-D6-48-5D-C1-3E-1D-33-4B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Allan Hirt Fails Over Our Clustered SQL Server!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Allan Hirt about failover clustering in SQL Server 2008. SQL Server got a major update in the clustering side of things for 2008, Allan talks about the changes, improvements and why you'd want to do this in the first place. Check out an alpha version of Allan's book at http://www.apress.com/book/view/1430219661.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/3686e67e-27b2-4524-9a27-9b36d31c4ea8/audio/78803cf4-8d65-47c0-bae4-caa00a65d88b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

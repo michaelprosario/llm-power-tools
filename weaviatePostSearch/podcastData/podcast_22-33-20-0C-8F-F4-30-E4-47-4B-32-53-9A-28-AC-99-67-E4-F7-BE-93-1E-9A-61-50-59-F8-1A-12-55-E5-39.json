@@ -1,8 +1,0 @@
-{
-    "Id": "22-33-20-0C-8F-F4-30-E4-47-4B-32-53-9A-28-AC-99-67-E4-F7-BE-93-1E-9A-61-50-59-F8-1A-12-55-E5-39",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "ADFS and oAuth2 with John Craddock",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>While at Tech Ed 2014, Richard chat with John Craddock about the latest incarnation of Active Directory Federation Services - don't call it version three, it's the Windows Server 2012 R2 version! John discusses some of the new features of ADFS, including it's integration with oAuth2 to allow a more lightweight approach to authentication, authorization and federation. Lots of great thinking from one of the best minds in identity!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7ceb786c-98f3-4517-906f-a53ad83d268e/audio/99bddaf0-292c-4a61-9aa4-b13c9735a46c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

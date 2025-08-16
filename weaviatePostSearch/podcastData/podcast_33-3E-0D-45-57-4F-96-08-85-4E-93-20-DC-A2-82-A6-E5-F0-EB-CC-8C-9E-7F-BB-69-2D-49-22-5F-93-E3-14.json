@@ -1,8 +1,0 @@
-{
-    "Id": "33-3E-0D-45-57-4F-96-08-85-4E-93-20-DC-A2-82-A6-E5-F0-EB-CC-8C-9E-7F-BB-69-2D-49-22-5F-93-E3-14",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Jeff Stokes Checks PC Performance with the ADK",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to PFE Jeff Stokes about the Microsoft Assessment and Deployment Kit (ADK). The ADK is a web installer that pulls together a bunch of free tools from Microsoft that can help you understand how PCs are performing. Jeff talks about the Assessment Toolkit, which is a small app that can run on a PC and determine problems with drivers such as memory leaks, as well as whether or not a better video card would improve browser performance. Also mentioned in the show is KB 2775511, which is a roll up for 90 hotfixes for Windows 7 SP1 and Server 2008 R2 SP1 that can significantly improve performance and reliability. It's recommended for everyone, but doesn't show up in Windows Update - you have to go get it from the Windows Update Catalog. Finally, the conversation also digs into risk assessments done by PFE, and Jeff brings up a video on the new Risk Assessment As a Service. Check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c34a4e04-08af-47df-9710-7e891cea6ab2/audio/96b09737-a3b4-444d-8808-2e25c073e2e5/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

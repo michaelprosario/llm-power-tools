@@ -1,8 +1,0 @@
-{
-    "Id": "65-D7-58-77-AE-E4-F0-33-A8-95-B8-CE-0B-F7-8C-97-6F-0D-8D-E7-31-FA-E3-83-B4-F9-A2-4D-7E-78-15-DE",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "What to Build First: Istio or Kubernetes?",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/what-to-build-first-istio-or-kubernetes-FvCHC6V4",
-    "Description": "<p>What we do know about Kubernetes? It\u2019s a raw, gaping maw. It\u2019s not meant for most of us. What is needed? Access to the grinding, digital gears that make what we know of as distributed architectures.</p>\n<p>Istio is an example of a management layer for Kubernetes, said Zack Butcher, part of the founding engineering team at Tetrate, a service mesh company. He joins Varun Talwar, co-founder at Tetrate for a discussion about the service mesh Istio and its role in the management of highly distributed networks, including, of course, Kubernetes in this The New Stack Makers podcast. Alex Williams, founder and publisher of The New Stack, hosted this episode.</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/e50cbd02-305c-4741-8186-502a288b9a88/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=e50cbd02-305c-4741-8186-502a288b9a88&feed=IgzWks06"
-}

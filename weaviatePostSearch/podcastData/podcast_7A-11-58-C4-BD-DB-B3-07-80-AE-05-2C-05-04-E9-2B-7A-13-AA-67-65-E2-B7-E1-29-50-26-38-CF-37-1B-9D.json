@@ -1,8 +1,0 @@
-{
-    "Id": "7A-11-58-C4-BD-DB-B3-07-80-AE-05-2C-05-04-E9-2B-7A-13-AA-67-65-E2-B7-E1-29-50-26-38-CF-37-1B-9D",
-    "ContentSourceId": "5cc3684f-3247-4149-a369-b48dc14d3734",
-    "Title": "#338: Using cibuildwheel to manage the scikit-HEP packages",
-    "SourceUrl": "https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages",
-    "Description": "",
-    "EnclosureUrl": "https://talkpython.fm/episodes/download/338/using-cibuildwheel-to-manage-the-scikit-hep-packages.mp3"
-}

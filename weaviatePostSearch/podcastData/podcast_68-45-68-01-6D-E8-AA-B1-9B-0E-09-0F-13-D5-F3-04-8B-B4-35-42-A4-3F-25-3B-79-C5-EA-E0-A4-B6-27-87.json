@@ -1,8 +1,0 @@
-{
-    "Id": "68-45-68-01-6D-E8-AA-B1-9B-0E-09-0F-13-D5-F3-04-8B-B4-35-42-A4-3F-25-3B-79-C5-EA-E0-A4-B6-27-87",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Office 365 Intelligent Substrate with Jeffrey Snover",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What's an intelligent substrate? Richard chats with Microsoft Technical Fellow Jeffrey Snover about his new role in Office 365. About a year ago Jeff changed jobs and jumped into one of the biggest, oldest (and most profitable) teams at Microsoft: Office. Today Office is totally cloud-focused, and Jeff talks about the intelligent substrate, a NoSQL data store that contains everything related to Office 365, including documents, spreadsheets, SharePoint lists, email... everything. This allows artificial intelligence technology to find relationships within that data to provide more value to companies using Office 365 - lots of value!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/80cfc460-4af7-40e3-82c5-c51b7da41286/audio/c612b1cd-1801-4a03-86a6-412fa4523a19/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

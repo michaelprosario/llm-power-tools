@@ -1,8 +1,0 @@
-{
-    "Id": "6F-D0-00-06-DD-D3-69-03-98-F0-BA-37-4A-22-67-9A-79-05-4F-71-10-DF-C1-79-6E-9C-9D-30-CA-E5-A2-3D",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Inside the Akka.NET open source project and the Actor Model with Aaron Stannard",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET &amp; Mono. This community-driven port brings C# &amp; F# developers the capabilities of the original Akka framework in Java/Scala. Scott talks to co-founder Aaron Stannard about the project, the Actor model, and distributed development in .NET.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ed4af720-8448-4594-be82-80a54aee0ee0/a2b78c31_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

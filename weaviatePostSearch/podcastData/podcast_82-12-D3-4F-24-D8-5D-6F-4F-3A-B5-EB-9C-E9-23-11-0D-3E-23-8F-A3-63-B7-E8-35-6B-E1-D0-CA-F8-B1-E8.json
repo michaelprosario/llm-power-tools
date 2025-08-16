@@ -1,8 +1,0 @@
-{
-    "Id": "82-12-D3-4F-24-D8-5D-6F-4F-3A-B5-EB-9C-E9-23-11-0D-3E-23-8F-A3-63-B7-E8-35-6B-E1-D0-CA-F8-B1-E8",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio-Episode-276-Bj\u00f6rn-Rabenstein-on-Site-Reliability-Engineering",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-276-Bjorn-Rabenstein-on-Site-Reliability-Engineering.mp3",
-    "Description": "<p>Bj\u00f6rn Rabenstein discusses the field of Site Reliability Engineering (SRE) with host Robert Blumen. The term SRE has recently emerged to mean Google's approach to DevOps. The publication of Google's book on SRE has brought many of their practices into more public discussion. The interview covers: what is distinct about SRE versus devops; the SRE focus on development of operational software to minimize manual tasks; the emphasis on reliability; Dickerson's hierarchy of reliability; how reliability can be measured; is there such a thing as too much reliability?; can Google's approach to SRE be applied outside of Google?; Bj\u00f6rn's experience in applying SRE to Soundcloud - what worked and what did not; how can engineers best apply SRE to their organizational situation?; the importance of monitoring; monitoring and alerting; being on call, responding to incidents; the importance of documentation for responding to problems; they wrap up with a discussion of why people from non-computer science backgrounds are often found in devops and SRE.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-276-Bjorn-Rabenstein-on-Site-Reliability-Engineering.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "8C-67-6D-58-0E-34-26-97-9A-EC-A6-3C-A6-23-5F-1F-8A-C0-FD-41-1D-9D-85-E9-64-45-92-8F-8E-D1-6D-9F",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 30: Architecture Pt.3",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/qEpMO0AXJug/",
-    "Description": "In this third Episode on software architecture, Michael and Markus talk about the basic tools that an architect uses when architecting systems. These tools include things like separation, abstraction, compression and sharing. We also relate these tools to the quality attributes we introduced in previous archtecture episodes.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode30-architecture_pt3.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "14-9C-7E-75-9C-55-32-D4-DE-45-8B-06-C7-E6-75-F4-01-10-14-EE-0C-B9-A9-08-51-13-BD-D9-01-F2-BE-F6",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 582: Leo Porter and Daniel Zingaro on Learning to Program with LLMs",
-    "SourceUrl": "http://se-radio.net/se-radio-582-leo-porter-and-daniel-zingaro-on-using-llms-in-the-classroom",
-    "Description": "<p data-pm-slice=\"1 1 []\">Dr. Daniel Zingaro and Dr. Leo Porter, co-authors of the book <em>Learn AI-Assisted Python Programming,</em> speak with host <a href= \"https://www.se-radio.net/team/jeremy-jung/\" target=\"_blank\" rel= \"noopener\">Jeremy Jung</a> about teaching programming with the aid of large language models (LLMs). They discuss writing a book to use in Leo's introductory CS class and explore how GitHub Copilot de-emphasizes syntax errors, reduces the need to memorize APIs, and why they want students to write manual test cases. They also discuss possible ethical concerns of relying on commercial tools, their impact on coursework, and why they aren't worried about students cheating with LLMs.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/582_Leo_Porter_Daniel_Zingaro_LLMs_in_the_Classroom.mp3?dest-id=23379"
-}

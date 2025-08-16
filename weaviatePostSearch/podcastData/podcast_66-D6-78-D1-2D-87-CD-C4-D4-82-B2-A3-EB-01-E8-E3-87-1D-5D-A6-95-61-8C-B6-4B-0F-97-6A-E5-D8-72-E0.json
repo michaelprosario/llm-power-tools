@@ -1,8 +1,0 @@
-{
-    "Id": "66-D6-78-D1-2D-87-CD-C4-D4-82-B2-A3-EB-01-E8-E3-87-1D-5D-A6-95-61-8C-B6-4B-0F-97-6A-E5-D8-72-E0",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Enterprise Class WiFi Security with Avril Salter",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How secure is your office Wi-Fi? Richard chats with Dr. Avril Salter about using enterprise security features in Wi-Fi. The conversation starts out focused on WPA2-Enterprise, using RADIUS servers and protocols like CHAP and PEAP. It may be more complicated to set up, but once running, you have far more control over who can be on your Wi-Fi. Avril talks about creating separate SSIDs for secure corporate devices, BYOD devices, a guest network, and a legacy network. Yeah, four SSIDs! Next up - WPA3, with even better default security features!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b54a1944-08b5-486b-a3a3-e010d6c13b86/audio/1b7b829d-fe4f-46db-86e4-232c78f23fab/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

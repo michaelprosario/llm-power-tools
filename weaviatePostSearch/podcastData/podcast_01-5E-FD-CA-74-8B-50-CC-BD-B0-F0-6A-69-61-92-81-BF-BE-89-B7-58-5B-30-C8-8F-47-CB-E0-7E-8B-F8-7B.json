@@ -1,8 +1,0 @@
-{
-    "Id": "01-5E-FD-CA-74-8B-50-CC-BD-B0-F0-6A-69-61-92-81-BF-BE-89-B7-58-5B-30-C8-8F-47-CB-E0-7E-8B-F8-7B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Exploring Microsoft Graph with Sahil Malik",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What can Microsoft Graph do for you? Richard talks to Sahil Malik about his experiences working with Microsoft Graph - starting with rationalizing all the different versions of Graph that have come along in recent years. While largely they're back to a single version, there still are aspects that are more Active Directory oriented as opposed to broader mobile mindsets. But the issues of identity with users, devices that users use and the rights that applications have with those users and devices is the key - can you keep track of what rights are out there, what is appropriate and contain them? The tools are getting better, but there's still a lot to do!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7f26d6f3-4b2e-4614-95ef-2d0e287b3c4b/audio/15118d25-a88d-49a4-8c6c-2547059e53db/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

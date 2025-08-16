@@ -1,8 +1,0 @@
-{
-    "Id": "00-60-A1-4F-8B-95-C9-AE-16-30-89-31-42-C8-CF-12-05-14-34-27-60-16-54-19-4D-5F-65-CA-4A-3D-88-94",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Brent Ozar Talks SQLAzure, SSDs and more!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>While at SQLConnections, Richard sat down with Brent Ozar for a rolling discussion about the things Brent is working about these days - how SQLAzure is stacking up, and how many performance problems that can be solved by 10Gb iSCSI and SSD drives. The conversation also dives into disaster recovery strategies, thoughts around data loss vs. downtime, and more.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b2f0a95d-d154-4a67-8a2d-a23286ce8d56/audio/615ca90a-a87d-467c-8138-1d20107b6e4e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

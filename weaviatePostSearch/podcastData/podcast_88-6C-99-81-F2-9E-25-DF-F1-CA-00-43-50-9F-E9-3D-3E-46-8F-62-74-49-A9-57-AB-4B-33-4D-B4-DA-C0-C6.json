@@ -1,8 +1,0 @@
-{
-    "Id": "88-6C-99-81-F2-9E-25-DF-F1-CA-00-43-50-9F-E9-3D-3E-46-8F-62-74-49-A9-57-AB-4B-33-4D-B4-DA-C0-C6",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Meltdown and Spectre Recap with Susan Bradley and Wayne Small",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Spectre and Meltdown are still out there - are you protected? Richard chats with Susan Bradley and Wayne Small about Spectre and Meltdown, a set of vulnerabilities found in Intel, AMD, ARM and other CPUs. Since the public announcements in early January, there have been an on-going stream of patches to mitigate the vulnerability - but at the expense of performance and in some cases, stability. The presumption that all patches are good is significantly challenged by Spectre and Meltdown. What are the right answers here?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/fb7ac22d-bf14-4b84-b830-629a91406ca5/audio/6c74361e-b7ef-443e-8bf8-52bf4d8aa480/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

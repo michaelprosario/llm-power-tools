@@ -1,8 +1,0 @@
-{
-    "Id": "8D-DA-7C-6D-AC-29-8C-B3-E0-26-9C-FC-43-21-18-E0-5F-E9-89-0F-90-F9-37-2B-5F-A4-45-51-C4-E3-7D-29",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Building a Blameless Post-Mortem Culture with Jason Hand",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you build a blameless post-mortem culture? And should you? Richard chats with Jason Hand from VictorOps about the blameless culture, which is a methodology embraced by the safest and most reliable organizations - think aircraft safety. Having everyone involved in an incident able to discuss everything they did and saw helps to get a clear picture of the truth. Without that information, it's very hard to make real improvements in our organizations. Jason talks about ChatOps as a strategy to get there, using tools like Slack to let people see the conversations going on and capture the critical information during an incident to address problems.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2bc75af0-5856-4409-8346-f1d513945f4f/audio/a904bca3-9c6d-40d6-8f66-c70cfc7c377c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

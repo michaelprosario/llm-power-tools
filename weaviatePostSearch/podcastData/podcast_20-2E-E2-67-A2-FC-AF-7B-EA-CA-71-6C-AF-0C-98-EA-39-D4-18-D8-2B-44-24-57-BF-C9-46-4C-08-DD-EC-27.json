@@ -1,8 +1,0 @@
-{
-    "Id": "20-2E-E2-67-A2-FC-AF-7B-EA-CA-71-6C-AF-0C-98-EA-39-D4-18-D8-2B-44-24-57-BF-C9-46-4C-08-DD-EC-27",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Migrating from SAN to Cloud with Kevin Evans",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>When should move your storage to the cloud? Richard chats with Kevin Evans about migrating off of an on-premise SAN onto Azure's StorSimple hybrid cloud storage solution. Kevin discusses the data requirements of a graphics packaging company, making multi-gigabyte files for printing. When the on-premise storage solution was due for replacement, looking at the massive increase in storage available in the cloud was hard to resist. When combined in a hybrid configuration so that you have the performance of local storage as well, it was an unbeatable combination. Disaster recovery, continuous online storage and archiving... is the cloud the perfect storage solution?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/06c54342-e510-413a-b0eb-acf624a00fcd/audio/e6e96718-e155-4e24-8951-1508cbd52f39/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

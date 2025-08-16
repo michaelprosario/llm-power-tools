@@ -1,8 +1,0 @@
-{
-    "Id": "81-86-F2-B5-62-8F-41-6F-29-C0-03-6D-6D-3A-C3-76-60-A9-8E-4D-05-02-F0-8C-F3-EC-3D-85-AF-9D-95-27",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 99: Transactions",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/endG3yvjNJI/",
-    "Description": "This episode takes a close look at transactions from different angles, starting with their fundamental properties of Atomicity, Consistency, Isolation, Durability but also investigating advanced topics like distributed or business transactions.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode99-transactions.mp3?dest-id=23379"
-}

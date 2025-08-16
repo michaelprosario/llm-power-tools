@@ -1,8 +1,0 @@
-{
-    "Id": "8A-BE-97-DF-C2-84-08-FC-AF-54-FD-7A-89-6D-AE-61-11-74-E8-D5-14-79-36-69-91-B4-5D-34-2B-78-4F-A2",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Threat Modeling with Robert Hurlbut",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you look at the potential security threats in your organization? Richard talks to Robert Hurlbut about threat modeling. Robert talks out talking about we all threat model in our day-to-day lives, after all, we put locks on doors and windows for a reason. But when applied to technology, things get more complex. Are you resisting specific attacks or casual hackers? How much security is enough? Robert references the book Threat Modeling by Adam Shostack and the acronym STRIDE: Spoofing, Tampering, Repudiation, Information disclosure, Denial of service and Elevation as an approach to planning the overall threat models to your software, systems and organization.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/160d7925-8598-455e-871b-69b37c98f960/audio/3ef816db-6a52-4b36-8c3f-75257ad22691/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

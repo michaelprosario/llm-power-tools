@@ -1,8 +1,0 @@
-{
-    "Id": "5C-18-68-E5-EB-0F-D8-76-CE-ED-CC-B5-D8-7B-75-8C-86-FB-CE-38-6B-C7-7A-02-4E-21-4F-BF-C6-7E-D8-D0",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Governing your Cloud VMs using Azure Automanage with Phoummala Schmitt",
-    "SourceUrl": "https://runasradio.com/Shows/Show/773",
-    "Description": "<p>Ready to have your Azure virtual machines auto-managed? Richard chats with Phoummala Schmitt about Azure Automanage, recently released into public preview. Phoummala talks about how Automanage sits atop Azure Update, Azure Backup, Azure Security Center, and more. The combination of tools gives you an overview of all of the virtual machines in your tenant and the ability to managing patches, governance: All the things you'd typically do by hand or in ARM templates. Virtual machine management is getting easier!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://azure.microsoft.com/services/azure-automanage/\">Azure Automanage</a></li><li><a href=\"https://azure.microsoft.com/services/backup/\">Azure Backup</a></li><li><a href=\"https://docs.microsoft.com/azure/automation/update-management/overview\">Azure Update Management</a></li><li><a href=\"https://azure.microsoft.com/services/security-center/\">Azure Security Center</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/8f321167-52f0-4d99-a497-4228e731e1e9/audio/8efeed2e-dba5-4638-9c60-e25c7843cd94/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

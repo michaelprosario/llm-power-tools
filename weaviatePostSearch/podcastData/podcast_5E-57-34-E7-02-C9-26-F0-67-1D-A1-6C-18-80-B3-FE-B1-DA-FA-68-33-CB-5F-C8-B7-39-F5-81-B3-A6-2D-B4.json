@@ -1,8 +1,0 @@
-{
-    "Id": "5E-57-34-E7-02-C9-26-F0-67-1D-A1-6C-18-80-B3-FE-B1-DA-FA-68-33-CB-5F-C8-B7-39-F5-81-B3-A6-2D-B4",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "sass.js - An Emscripten Experiment with Rodney Rehm",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>We have more interesting tools available to us than we realize. When asked if there was a JavaScript version of the Sass CSS library, Rodney Rehm and his friend Sebastian decided to see if they could use Emscripten to compile the existing C/C++ one into JavaScript. Because, why not?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/48c238f2-fad0-4446-9af1-24b7f9b4bb26/48ca1d4a_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

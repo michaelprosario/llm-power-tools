@@ -1,8 +1,0 @@
-{
-    "Id": "1E-F1-CD-8C-0F-2A-2D-85-65-05-C3-BA-4A-37-26-CC-B5-E6-EF-80-8F-5D-A4-CE-9C-D1-8C-93-B4-FC-27-9D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 65: Introduction to Embedded Systems",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/_CgFl6zcMr8/",
-    "Description": "This episode is an introduction to embedded system. It is an introduction in the sense that we cover many topics very briefly: upcoming episodes will provides details for many of these topics.\nWe start by discussing what an embedded system is an what the important characteristics are. Among them is limited resources, concurrency, real time and hardware integration. We also discuss the range of embedded systems from small mirocontrollers to mobile phones to distributed real time embedded systems. We also cover the different business case for embedded systems (per unit cost) and some non-trivial developmental aspects (cross compilation debugging, heisenbugs).\nWe close the episode by discussing some important architectural styles (time triggered, event-based, microkernels, state machines) as well as tools of the trade: languages, operating systems and middleware.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode65-introToEmbeddedSystems.mp3?dest-id=23379"
-}

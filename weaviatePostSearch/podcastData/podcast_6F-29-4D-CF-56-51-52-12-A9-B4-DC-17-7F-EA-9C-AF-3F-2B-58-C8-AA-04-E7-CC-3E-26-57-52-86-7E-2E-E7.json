@@ -1,8 +1,0 @@
-{
-    "Id": "6F-29-4D-CF-56-51-52-12-A9-B4-DC-17-7F-EA-9C-AF-3F-2B-58-C8-AA-04-E7-CC-3E-26-57-52-86-7E-2E-E7",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Software Defined Storage with Aidan Finn",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Aidan Finn about Software Defined Storage. Picking up he left off in April talking about Microsoft's Scale-Out File Server, the whole concept of Software Defined Storage is abstracting the details of the storage hardware away from the actual storage process. Aidan digs into how mixtures of SSD and spinning drives to optimize performance using Windows 2012 R2 Storage Spaces reduces costs and simplifies getting significant amounts of storage without any custom gear. And as Aidan says, in the end, it's all just Windows. Storage continues to evolve, and not just for the big enterprise folks - there are clustered storage solutions for small and medium businesses too!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9435f60b-1852-483f-884e-eed0ba5a2330/audio/ffb154ea-09ef-4489-99a2-9713b1c1260b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

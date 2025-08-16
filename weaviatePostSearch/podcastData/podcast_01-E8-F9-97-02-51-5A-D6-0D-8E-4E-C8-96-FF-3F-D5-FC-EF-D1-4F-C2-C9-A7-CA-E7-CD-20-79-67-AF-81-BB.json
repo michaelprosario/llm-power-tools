@@ -1,8 +1,0 @@
-{
-    "Id": "01-E8-F9-97-02-51-5A-D6-0D-8E-4E-C8-96-FF-3F-D5-FC-EF-D1-4F-C2-C9-A7-CA-E7-CD-20-79-67-AF-81-BB",
-    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
-    "Title": "Designing Data-Intensive Applications \u2013 SSTables and LSM-Trees",
-    "SourceUrl": "https://www.codingblocks.net/podcast/designing-data-intensive-applications-sstables-and-lsm-trees/",
-    "Description": "<img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2020/03/Episode128.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2020/03/Episode128.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />It's time to learn about SSTables and LSM-Trees as Joe feels pretty zacked, Michael clarifies what he was looking forward to, and Allen has opinions about Dr Who.",
-    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-128.mp3"
-}

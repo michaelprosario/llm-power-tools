@@ -1,8 +1,0 @@
-{
-    "Id": "40-C3-75-FB-27-09-E3-37-08-59-1D-82-35-C3-17-A3-22-51-F3-BF-BF-6B-00-A2-D6-09-76-70-6D-80-DD-DF",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Azure RMS with Morgan Simonsen",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Rights Management in the Cloud? Richard talks to Morgan Simonsen about Azure Rights Management. Azure RMS works with Office 2010-13 and a variety of other applications to provide rights like read-only, modifiable, even limit viewing times - as well as letting you know when secured docs are viewed. And it can work outside of your systems as well, through Azure Active Directory. For other applications, there is the general RMS service that handles text files and images at portal.aadrm.com. It doesn't work with everything (gmail for example), but it does work in the field - if you need rights management, you should check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/88fbd984-f913-4944-aeb6-1999080de211/audio/4c02189f-e6ed-49ed-aa9a-f2a0e50b8173/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "35-25-2D-F6-32-6D-A5-AC-64-B0-4C-E6-B3-FE-38-90-9B-46-27-F7-E6-F1-FE-63-31-7E-EC-21-98-05-3F-A3",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 298: Moshe Vardi on P versus NP",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-298-Moshe-Vardi-on-P-versus-NP.mp3",
-    "Description": "<p>Felienne talks with Moshe Vardi about P versus NP. Why is this problem so central to computer science? Are we close to solving it?\u00a0 Is it necessary to solve it? Progress toward computing hard problems efficiently with SAT solvers.\u00a0 How SAT solvers work,; applications of SAT like formal verification.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-298-Moshe-Vardi-on-P-versus-NP.mp3"
-}

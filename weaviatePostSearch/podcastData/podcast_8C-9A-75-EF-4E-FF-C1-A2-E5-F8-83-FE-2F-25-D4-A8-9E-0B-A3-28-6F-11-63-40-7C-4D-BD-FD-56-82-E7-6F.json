@@ -1,8 +1,0 @@
-{
-    "Id": "8C-9A-75-EF-4E-FF-C1-A2-E5-F8-83-FE-2F-25-D4-A8-9E-0B-A3-28-6F-11-63-40-7C-4D-BD-FD-56-82-E7-6F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Configuration Manager 2016 with Steve Rachui",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>It's 2017, do you know where your config manager is? Richard chats with Microsoft PFE Steven Rachui about his experiences helping companies manage substantial System Center Configuration Manager infrastructure. With the 2016 edition, the ability to handle rapid updates to Windows 10 is key and introduces the concept of Current Branch, as opposed to going with a more conservative stable edition of Windows. The conversation around non-Windows mobile device management focuses on using a hybrid mode to work with Microsoft InTune, but there does look to be a future of on-premise solutions as well. Lots to think about!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9a9e0b2a-45db-45b1-a58a-9ffa01e689a0/audio/7d7ba31c-00a2-4d0e-b04d-94222872d7ed/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

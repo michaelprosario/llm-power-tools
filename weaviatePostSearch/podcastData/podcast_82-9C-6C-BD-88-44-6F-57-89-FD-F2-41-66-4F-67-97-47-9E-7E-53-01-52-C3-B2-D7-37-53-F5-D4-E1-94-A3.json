@@ -1,8 +1,0 @@
-{
-    "Id": "82-9C-6C-BD-88-44-6F-57-89-FD-F2-41-66-4F-67-97-47-9E-7E-53-01-52-C3-B2-D7-37-53-F5-D4-E1-94-A3",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 651: Paul Frazee on Bluesky and the AT Protocol",
-    "SourceUrl": "http://se-radio.net/se-radio-651-paul-frazee-on-bluesky-and-the-at-protocol",
-    "Description": "<p>Paul Frazee, CTO\u00a0of Bluesky, speaks\u00a0with SE Radio's <a href= \"https://se-radio.net/team/jeremy-jung/\">Jeremy Jung</a> about the Authenticated Transfer Protocol (ATProto) used by the Bluesky decentralized social network. They discuss why ATProto was created, as well as how it differs from the ActivityPub open standard, the scaling limitations of peer-to-peer solutions, cryptographic decentralized identifiers, and creating a protocol based on experience with distributed systems. They also examine the role of personal data servers, relays, and app views, the benefits of using domain names, allowing users to create algorithmic feeds and moderation tools, and the challenges of content moderation.</p> <p>Brought to you by\u00a0<a href=\"https://www.computer.org/\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\">IEEE Software magazine.</a></p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/651-paul-frazee-bluesky-atprotocol.mp3?dest-id=23379"
-}

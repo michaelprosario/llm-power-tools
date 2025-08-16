@@ -1,8 +1,0 @@
-{
-    "Id": "5D-D8-9F-05-77-7A-12-80-30-95-76-53-7E-74-5A-08-73-3B-40-62-F5-DD-9B-3E-DB-32-9F-C3-C4-C5-1B-7F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Pen Testing Yourself with Paula Januszkiewicz",
-    "SourceUrl": "https://runasradio.com/Shows/Show/954",
-    "Description": "<p>Can you pen test yourself? Paula Januszkiewicz says yes! Richard talks to Paula about taking an active role in understanding your organization's security vulnerabilities. Paula talks about the low-hanging fruit she often finds as a professional penetration tester - typically on poorly maintained infrastructure like PKI servers. The conversation digs into tooling you can use to find vulnerabilities - just make sure you trust the source of those tools. Not everyone is a good guy in open source! And, of course, there's always a time to bring in professionals to do a deeper level of testing. Don't wait until the breach happens to take some action!</p><p><strong>Links</strong></p><ul><li><a href=\"https://cqure.pl/\">Cqure</a></li><li><a href=\"https://learn.microsoft.com/azure/security/fundamentals/pen-testing?WT.mc_id=DT-MVP-10953\">Penetration Testing</a></li><li><a href=\"https://docs.github.com/en/code-security/secret-scanning/introduction/about-secret-scanning\">GitHub Secrets Scanning</a></li><li><a href=\"https://haveibeenpwned.com/\">HaveIBeenPwned</a></li></ul><p>Recorded August 22, 2024</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/75d80f35-d17a-4aeb-96dd-ae858fd8ec4b/audio/9aad60c3-89d5-43a6-ae84-030fd6653925/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

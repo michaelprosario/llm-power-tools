@@ -1,8 +1,0 @@
-{
-    "Id": "83-2A-7B-C1-FD-EC-9F-84-A1-34-98-9F-2B-0A-34-EB-18-EC-9E-8F-4F-C0-7F-14-DB-60-A5-52-59-AF-5A-7F",
-    "ContentSourceId": "08ddc66c-88c1-4fd9-9d0f-06779ee4a5cb",
-    "Title": "#64 Prof. Gary Marcus 3.0",
-    "SourceUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/64-Prof--Gary-Marcus-3-0-e1es2gc",
-    "Description": "<p>Patreon: https://www.patreon.com/mlst</p>\n<p>Discord: https://discord.gg/HNnAwSduud</p>\n<p>YT: https://www.youtube.com/watch?v=ZDY2nhkPZxw</p>\n<p>We have a chat with Prof. Gary Marcus about everything which is currently top of mind for him, consciousness&nbsp;</p>\n<p><br></p>\n<p>[00:00:00] Gary intro</p>\n<p>[00:01:25] Slightly conscious</p>\n<p>[00:24:59] Abstract, compositional models</p>\n<p>[00:32:46] Spline theory of NNs</p>\n<p>[00:36:17] Self driving cars / algebraic reasoning&nbsp;</p>\n<p>[00:39:43] Extrapolation</p>\n<p>[00:44:15] Scaling laws</p>\n<p>[00:49:50] Maximum likelihood estimation</p>\n<p><br></p>\n<p>References:</p>\n<p>Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets</p>\n<p>https://arxiv.org/abs/2201.02177</p>\n<p><br></p>\n<p>DEEP DOUBLE DESCENT: WHERE BIGGER MODELS AND MORE DATA HURT</p>\n<p>https://arxiv.org/pdf/1912.02292.pdf</p>\n<p><br></p>\n<p>Bayesian Deep Learning and a Probabilistic Perspective of Generalization</p>\n<p>https://arxiv.org/pdf/2002.08791.pdf</p>\n",
-    "EnclosureUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/48154572/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-24%2Ff7efaa32-dd48-9e03-aa3b-0687dde9e928.mp3"
-}

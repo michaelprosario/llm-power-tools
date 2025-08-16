@@ -1,8 +1,0 @@
-{
-    "Id": "64-5D-64-A3-D7-03-62-4D-4A-0D-43-D8-41-C4-23-2E-91-9A-F6-00-FD-59-C9-27-49-67-D5-88-33-45-A3-3D",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "073: Effective Java - Item #14",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>In this mini-Fragment episode, Donn talks about Item #14 of the Effective Java series - In public classes, use accessor methods, not public fields. You'll learn why it's important to use accessors in your public classes and some caveats to this rule.</p>\n<p>For example, you may decide that the class is a private inner class or package private. Donn digs into the details in this week's episode. This is a glimpse of what's to come in Item #15, which is coming soon...</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html\">Java Access Control</a></li>\n<li><a href=\"http://amzn.to/1RUCko3\">Effective Java Book</a></li>\n</ul>\n<h2>Sponsor</h2>\n<ul>\n<li><a href=\"http://rollbar.com/fragmented\">Rollbar</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"http://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/donnfelker\">@donnfelker</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/kaushikgopal\">@kaushikgopal</a> [twitter.com]</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/9e212b0c-b934-4943-bbaa-e8ba627228f1/073-effectivejavaitem14_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "98-A5-E5-B1-83-24-F7-E6-99-9E-70-6E-09-4C-A6-F3-C8-D9-49-11-E5-9B-15-E9-4D-A6-1F-36-5F-A0-21-29",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Zero Trust Adoption Guidance with Nicolas Blank",
-    "SourceUrl": "https://runasradio.com/Shows/Show/908",
-    "Description": "<p>We're all using zero trust - but are we using it well? Richard talks to Nicolas Blank about his work helping to develop the Zero Trust Adoption Framework. Nicolas talks about resisting the buzzword effect and avoiding looking at zero trust as a set of products because it isn't - it's really about the people and processes in your organization that keep things secure. The conversation also digs into the tabletop exercises needed to create priorities for security - not everything in your organization needs the same level of protection or effort. It pays to work through scenarios!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://learn.microsoft.com/security/zero-trust/adopt/zero-trust-adoption-overview?WT.mc_id=DT-MVP-10953\">Zero Trust Adoption Framework</a></li><li><a href=\"https://www.microsoft.com/security/business/identity-access/microsoft-entra-verified-id\">Microsoft Entra ID</a></li><li><a href=\"https://learn.microsoft.com/security/zero-trust/data-compliance-gov-ransomware-recovery-readiness?WT.mc_id=DT-MVP-10953\">Ransomware Recovery Readiness</a></li><li><a href=\"https://github.com/ParrotSec/mimikatz\">MimiKatz</a></li></ul><p>Recorded October 12, 2023</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/dbe890d5-1f56-4e00-b0dc-cf67fb076b4d/audio/d6d67fb9-af40-416b-abdb-9a6103bf8d5f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "5C-AC-CF-0C-5B-B3-A8-D2-5E-0A-46-6E-A0-44-84-03-4D-2D-6E-7F-04-56-1F-BE-D6-F6-0A-B3-F4-ED-63-7F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Alan Burchill Manages Group Policy Objects in Server 2012!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Alan Burchill about some of the improvements to Group Policy in Server 2012. The conversation starts out with the new reporting features, including the infrastructure status report that will actually show you when policies have been synchronized between AD servers as well as improve group policy reports to help you understand what policies are (and are NOT) being applied to a given account. Alan then digs into local group policy features in Windows RT (yes, the ARM edition) - you can't join a domain, but you can push local policies onto tablets! For more information around group policy in Server 2012, check out Alan's blog.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9d53c610-84f2-4af0-b829-d8f09ea86e82/audio/fecb3c27-d176-4c1f-8487-676cc7b10edc/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

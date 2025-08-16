@@ -1,8 +1,0 @@
-{
-    "Id": "04-FB-90-50-B0-83-73-24-51-6A-E8-E5-31-AA-4E-8E-2A-83-3D-E6-06-D5-CB-38-AB-AC-C5-FE-20-41-34-FE",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Microsoft Azure Management Libraries with Scott Klein",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Microsoft Evangelist Scott Klein about the Microsoft Azure Management Libraries (MAML). MAML wraps up the REST calls to Azure to allow you to do a huge host of cloud tasks, such as provisioning new instances, monitoring, configuration, maintenance and more. Yeah, it's a dev library, but it can build things that the operations people want! Scott discusses three pretty powerful scenarios for MAML: automating elasticity/scaling, testing in the cloud and creating Software as a Service apps. You can get more info from Brady Gaster's Blog Post on MAML.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b1f97418-63bd-44f5-a04a-351c50992699/audio/28486124-492c-48a5-a1c9-980c98f89736/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

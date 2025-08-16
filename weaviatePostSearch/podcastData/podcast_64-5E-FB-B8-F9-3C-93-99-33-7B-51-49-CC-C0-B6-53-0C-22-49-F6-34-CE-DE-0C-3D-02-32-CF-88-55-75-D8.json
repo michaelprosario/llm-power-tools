@@ -1,8 +1,0 @@
-{
-    "Id": "64-5E-FB-B8-F9-3C-93-99-33-7B-51-49-CC-C0-B6-53-0C-22-49-F6-34-CE-DE-0C-3D-02-32-CF-88-55-75-D8",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Operations Runbooks in Octopus Deploy with Michael Richardson",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How can a deployment tool make your disaster recovery process easier? Richard chats with Michael Richardson of Octopus Deploy about Operations Runbooks. Octopus Deploy handles deployments very effectively, and with Runbooks, you can expand that functionality to include all sorts of other related processes, like backing up and restoring data, running failover scripts and more. Through deployment, Octopus already knows where all your resources live and the rights they need, making it easy to expand your automation over all sorts of disaster recovery needs!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/87c4dba9-c1ef-40d4-85f4-2e4b3fb3a1b6/audio/e079e83a-5e56-44ba-a699-47d7de65f802/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

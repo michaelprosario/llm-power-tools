@@ -1,8 +1,0 @@
-{
-    "Id": "62-9E-9E-98-F6-CC-21-BD-77-76-5F-00-B5-EB-BF-00-64-36-CD-43-AE-45-E5-A7-F7-74-0C-E9-4E-92-FF-EF",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "174: Testing RxJava, Debugging and More",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>Kaushik is back in this weeks podcast. \ud83c\udf89</p>\n<p>Donn and Kaushik talk about testing RxJava streams with a Kotlin extension method and how and when to test various scenarios.<br />\nDonn talks about his thoughs on the Testing Pyramid and why he think's its incorrect and how you can help shift your thinking in regards to it. They then talk about IDE themes and how the theme can help you with your day to day development and more.</p>\n<p>They wrap up with some talk about devleoping on Mac's vs Windows and Linux.</p>\n<p>We hope you enjoy ...</p>\n<h1>Contact</h1>\n<ul>\n<li><a href=\"https://discord.gg/zBSfhwk\">Discord chat</a> or <a href=\"https://twitter.com/fragmentedcast\">@fragmentedcast</a> or <a href=\"https://www.youtube.com/channel/UC7fT84G-G25w7Bdd-e1rnyw/videos\">our Youtube channel</a></li>\n<li><a href=\"https://twitter.com/donnfelker\">@donnfelker</a> and <a href=\"https://www.instagram.com/donnfelker/\">donnfelker</a> (on Instagram)</li>\n<li><a href=\"https://twitter.com/kaushikgopal\">@kaushikgopal</a> and <a href=\"https://www.instagram.com/kaushikgopal/\">kaushikgopal</a> (on Instagram)</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/2cda6b4a-b77f-48d1-aeec-5104cc55a7b5/debugging_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

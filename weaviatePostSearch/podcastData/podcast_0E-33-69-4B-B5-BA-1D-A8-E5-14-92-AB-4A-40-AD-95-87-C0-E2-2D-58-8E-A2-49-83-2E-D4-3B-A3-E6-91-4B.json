@@ -1,8 +1,0 @@
-{
-    "Id": "0E-33-69-4B-B5-BA-1D-A8-E5-14-92-AB-4A-40-AD-95-87-C0-E2-2D-58-8E-A2-49-83-2E-D4-3B-A3-E6-91-4B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "CosmosDB Update with Kirill Gavrylyuk",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Have you looked into CosmosDB? While at Connect in New York, Richard sat down with Kirill Gavrylyuk of the CosmosDB team to talk about the latest features. CosmosDB an update to Azure DocumentDB that focuses on global distribution and ultra-high performance. On top of that, CosmosDB has different API layers you can call through, including MongoDB and now the Apache Cassandra API. Kirill talks about being a drop-in replacement for these existing data stores, typically when confronted with an application that needs to scale substantially. And you only pay for what you use!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e1f68940-37d1-44e9-9ce6-a2dd504cd391/audio/35d5f12a-59ff-4e98-837e-ac3e0409d4cc/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "12-48-1C-2F-D6-10-31-9F-88-1B-05-04-55-D2-0D-1E-E6-7D-0B-98-14-DC-4B-2B-13-BE-ED-79-90-01-0C-97",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Jes Borland Reports on SSRS!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Jes Borland about SQL Server Reporting Services (SSRS). Jes talks about how SSRS has evolved into the latest version with SQL Server 2012, including some new features like reporting monitoring, where reports are generated automatically (and notifications sent out) when data changes. The conversation also digs into some of the administrative capabilities of SSRS including security and multi-tenancy features.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/75cbe0f5-adfd-41a7-a44b-19b1bafdbad0/audio/350c2a4c-793c-4912-ac5d-340311616688/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "27-6B-CE-47-FA-39-51-4E-72-B4-AA-4D-F2-19-93-1C-E8-65-2A-77-76-F2-D9-1A-93-3D-C7-67-B1-18-E9-97",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Using DSC on SharePoint with Patrick Curran",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Desired State Configuration and SQL Server? Richard talks to Patrick Curran about using DSC for more than just setting up a web farm. In fact, Patrick uses DSC to set up an entire SharePoint infrastructure - including SQL Server! And that is the tricky bit, since SQL Server isn't quite as PowerShell friendly as IIS. Patrick talks about battling the SQL PowerShell bits which sometime install, sometimes not so much - ultimately you're better off using SQL internal scripting for a reliable install. Lots of interesting thoughts about taking DSC to the max!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/52d61d42-8cad-4bc7-b493-d979cc3e3423/audio/70b436d2-bd6e-4215-a254-0f7b33f1f299/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

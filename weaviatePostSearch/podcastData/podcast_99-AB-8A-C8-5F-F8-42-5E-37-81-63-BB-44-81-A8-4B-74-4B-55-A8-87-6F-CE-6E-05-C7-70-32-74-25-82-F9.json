@@ -1,8 +1,0 @@
-{
-    "Id": "99-AB-8A-C8-5F-F8-42-5E-37-81-63-BB-44-81-A8-4B-74-4B-55-A8-87-6F-CE-6E-05-C7-70-32-74-25-82-F9",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Terraform with Jennelle Crothers",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What is Terraform, and why should you use it? Richard chats with Jennelle Crothers about HashiCorp's open source project called Terraform, providing configuration-as-code solutions for building out Azure infrastructure. As Jennelle describes it, this is code for racking-and-stacking Azure resources: Defining your virtual machines (or containers), wiring them up with networking, and so on. You could do it with Azure ARM, but do you want that much JSON in your life? Jennelle talks about the Azure Provider for Terraform and how it transforms the easy-to-read code of Terraform into Azure objects. But that code is still unique to Azure, don't expect to use your same Terraform scripts with other cloud providers.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e0a77d02-8a86-4127-8e3c-3d706403ca61/audio/0c7d3818-c478-4858-a82a-ddd0c3062b6a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "6D-D2-77-05-97-A7-EE-B2-11-D8-3B-36-51-C2-77-89-33-33-48-04-9E-12-6E-D8-8D-B5-B7-09-4B-31-8D-26",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 576: Jens Neuse on Back Ends for Front Ends",
-    "SourceUrl": "http://se-radio.net/se-radio-576-jens-neuse-on-back-ends-for-front-ends",
-    "Description": "<p>Jens Neuse, founder of Wundergraph, joins SE Radio host\u00a0<a href= \"https://www.se-radio.net/team/jeff-doolittle/\">Jeff Doolittle</a> for a conversation about back ends for front ends, or BFF. Jens begins by explaining how a heavy integration burden is often placed on front-end development teams. When multiple APIs must be integrated, it can be challenging for client development in web, mobile, and desktop environments. Explaining how APIs should be treated as dependencies, just like packages, the episode explores BFF patterns and use cases, as well as the future potential emergence of a \u201cgit for APIs\u201d standard. This episode is sponsored by <a href= \"https://try.clicksend.com/en/seradio/?utm_source=seradio&utm_medium=paid&utm_campaign=newsletter\" target=\"_blank\" rel= \"noopener\">ClickSend</a>.\u00a0</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/576_Jens_Neuse_Back_Ends_for_Front_Ends.mp3?dest-id=23379"
-}

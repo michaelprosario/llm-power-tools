@@ -1,8 +1,0 @@
-{
-    "Id": "27-92-DA-7D-11-53-CF-41-8C-8D-6C-D1-DF-E6-6A-33-BA-05-1E-D5-30-82-8D-48-19-10-3E-C0-B4-03-47-2B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Alan Sugano Does Disaster Recovery in the Cloud!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Alan Sugano about using the cloud for disaster recovery. Alan discusses how the latest version of Site Recovery Manager (SRM) from VMWare works with certain cloud providers to provide an alternate site for your virtual machines in the event of a disaster. The conversation digs into how much bandwidth is needed, dealing with the initial 'big sync' of data and the on-going costs of operating the cloud as a remote site.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/232720a4-631e-43b3-a964-8e46a2fa727d/audio/ee3da62c-9e1a-4f70-a1eb-b203086b942b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

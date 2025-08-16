@@ -1,8 +1,0 @@
-{
-    "Id": "18-8C-04-FB-FF-E9-55-FC-41-E7-80-70-1A-C8-9D-42-13-5E-79-B9-7A-A0-2C-05-26-63-C3-AB-80-2D-95-9D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 14: Interview Ted Neward",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/TfIb8U6DLmQ/",
-    "Description": "In this Episode we talk to Ted Neward. Since Ted is active in the .NET and Java universes, we started out by discussing some of the differences between the two platforms. The main discussion, however, focussed on new features in the C# 3.0 language. These include LINQ (language-integrated query). A very interesting discussion about extension methods, lamda expression, typing (dynamic, duck, compiler) and other language \"tricks\" follows. We also visited the topic of language development on the .NET and Java platforms in general, also looking at topics such as concurrency and the Scala language.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode14-tedNeward.mp3?dest-id=23379"
-}

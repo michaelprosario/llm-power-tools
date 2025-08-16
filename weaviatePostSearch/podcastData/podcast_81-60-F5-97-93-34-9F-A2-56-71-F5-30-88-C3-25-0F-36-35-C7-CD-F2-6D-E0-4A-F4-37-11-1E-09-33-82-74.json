@@ -1,8 +1,0 @@
-{
-    "Id": "81-60-F5-97-93-34-9F-A2-56-71-F5-30-88-C3-25-0F-36-35-C7-CD-F2-6D-E0-4A-F4-37-11-1E-09-33-82-74",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 348 Riccardo Terrell on Concurrency",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-348-Riccardo-Terrell-on-Concurrency.mp3",
-    "Description": "<p>Felienne interviews Riccardo Terrell on his book \u0091Concurrency in .NET: Modern patterns of concurrent and parallel programming\u0092 on concurrency, parallelism and immutability and common issues that developers run into when solving concurrent problems.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-348-Riccardo-Terrell-on-Concurrency.mp3"
-}

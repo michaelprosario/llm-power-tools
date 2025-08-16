@@ -1,8 +1,0 @@
-{
-    "Id": "58-EA-8A-28-B8-8D-8C-A6-8A-DE-1E-ED-85-19-86-B4-76-16-FA-6A-26-A6-DD-07-C3-84-6C-47-7A-D9-20-0A",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Developer Practices that Help SysAdmins with Rick Taylor",
-    "SourceUrl": "https://runasradio.com/Shows/Show/846",
-    "Description": "<p>What can a sysadmin learn from a developer? Richard chats with Rick Taylor about his experiences learning from developers to write better code - sysadmin code, of course, like PowerShell, Python, and even YAML. Rick talks about how PowerShell code works across all the clouds and how organizations need well-managed PowerShell the same way developers create well-managed compiled code. The conversation explores the various developer techniques that can help sysadmins be more productive - call it DevOps if you like, but it mostly looks like getting work done!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://cloud.google.com/powershell\">PowerShell for GCP</a></li><li><a href=\"https://aws.amazon.com/powershell/\">PowerShell for AWS</a></li><li><a href=\"https://docs.microsoft.com/powershell/azure/?view=azps-8.2.0\">PowerShell for Azure</a></li><li><a href=\"https://azure.microsoft.com/services/devops/\">Azure DevOps</a></li><li><a href=\"https://github.com/\">GitHub</a></li></ul><p>Recorded August 9, 2022</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/3d35163b-0f33-40bd-9afa-849995cf01b8/audio/4d519ca2-b7c9-42e5-bf44-35ea06dd6922/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

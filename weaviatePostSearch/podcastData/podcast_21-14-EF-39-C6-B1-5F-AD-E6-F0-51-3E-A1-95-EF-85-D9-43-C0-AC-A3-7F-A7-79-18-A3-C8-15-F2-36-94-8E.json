@@ -1,8 +1,0 @@
-{
-    "Id": "21-14-EF-39-C6-B1-5F-AD-E6-F0-51-3E-A1-95-EF-85-D9-43-C0-AC-A3-7F-A7-79-18-A3-C8-15-F2-36-94-8E",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Static Code Analysis with NDepend",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott and Carl discuss afferent and efferent coupling, and many other code metrics techniques, and wonder why more .NET developers don't use static analysis tools to better understand their designs.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/dfb88926-b287-4d8d-85ea-449ab721ae2f/4dfc8b9c_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

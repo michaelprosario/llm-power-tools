@@ -1,8 +1,0 @@
-{
-    "Id": "2C-EE-40-B5-C2-46-07-36-D6-CD-D4-FD-1F-D0-7E-D4-5D-BB-67-E7-79-01-1E-89-F4-A9-11-A8-96-5E-1A-DE",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Code First Databases with Entity Framework (Magic Unicorn Edition)",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to Jeff Derstadt, Senior Dev Lead in the Database and Modeling Group. They released a CTP (Community Technology Preview) of a simplified Code First model for creating, describing and accessing databases using the Entity Framework. Scott digs in and finds out if this is the Data Access technology for him (and maybe you).</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ac98a92b-c270-4b61-a91d-c88e4f32d5c3/5e05beed_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

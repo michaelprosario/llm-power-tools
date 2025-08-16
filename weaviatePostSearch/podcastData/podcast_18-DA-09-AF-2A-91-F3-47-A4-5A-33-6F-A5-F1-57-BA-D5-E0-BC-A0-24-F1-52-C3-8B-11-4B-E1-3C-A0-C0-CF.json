@@ -1,8 +1,0 @@
-{
-    "Id": "18-DA-09-AF-2A-91-F3-47-A4-5A-33-6F-A5-F1-57-BA-D5-E0-BC-A0-24-F1-52-C3-8B-11-4B-E1-3C-A0-C0-CF",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "The DSC Book with Missy Januszko",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Desired State Configuration continues to evolve, are you? Richard chats with Missy Januszko about her work (with Don Jones) on The DSC Book. DSC is short for Desired State Configuration, and a key part of PowerShell and the Windows Management Framework. Missy talks about how DSC is a key part of creating 'cattle' style infrastructure, where servers can be replaced on demand and changes are handled through code, not mouse-clicks. The conversation digs into the limits of the 'cattle-ness' of servers and what moves easily to the model and what doesn't. The DSC Book is a 'forever' book from LeanPub and is routinely updated!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2d6c0b26-1f43-43dc-8b67-7790e6e1e9e7/audio/0e248955-3a45-4ed8-b633-8aeffc77dce8/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

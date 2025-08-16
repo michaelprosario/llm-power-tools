@@ -1,8 +1,0 @@
-{
-    "Id": "98-FF-48-6D-C3-DD-EE-66-BF-32-5C-68-EC-64-3F-83-16-2C-CF-BF-C0-2F-9F-5C-B9-D3-D5-BF-92-9E-4C-F3",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Introducing TypeChat with Anders Hejlsberg",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to Anders Hejlsberg about a new open-source project called TypeChat that uses TypeScript types to generate structured AI responses from natural language requests. The library is designed to integrate large language models into existing app interfaces and make them safer and more reliable.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/03fa467a-4003-40ed-8c97-33669ea5fd86/audio/a665b629-a2b2-47e6-ac09-2f96d6749e18/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

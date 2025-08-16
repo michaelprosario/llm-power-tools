@@ -1,8 +1,0 @@
-{
-    "Id": "76-EA-F8-7E-0D-A8-5C-64-DC-F6-86-A1-05-B0-D8-60-BB-94-7D-52-26-90-B6-82-0F-85-FC-EF-0D-C1-C8-85",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 550: J.R. Storment and Mike Fuller on Cloud FinOps (Financial Operations)",
-    "SourceUrl": "http://se-radio.net/episode-550-jr-storment-and-mike-fuller-on-cloud-finops-financial-operations",
-    "Description": "<p>J.R. Storment and Mike Fuller discuss cloud financial operations (FinOps) with host Akshay Manchale. They consider the importance of a financial operations strategy for cloud-based infrastructure. J.R. and Mike discuss the differences between operating your own data center and running in the cloud, as well as the problems that doing so creates in understanding and forecasting cloud spend. Mike details the Cloud FinOps lifecycle by first attributing organizational cloud spend through showbacks and chargebacks to individual teams and products. JR describes the two levers available for optimization once an organization understands where they're spending their cloud budget. They discuss complexities that arise from virtualized infrastructure and techniques to attribute cloud usage to the correct owners, and close with some recommendations for engineering leaders who are getting started on cloud FinOps strategy.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/549_JR_storment_mike_fuller_cloud_finops.mp3?dest-id=23379"
-}

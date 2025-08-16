@@ -1,8 +1,0 @@
-{
-    "Id": "0C-10-3B-A3-C7-A7-85-B1-E3-BE-50-7F-8D-9A-62-0E-8D-00-DC-D5-B1-88-C9-28-63-4D-DD-C3-B8-E0-36-EE",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 96: Interview Krzysztof Czarnecki",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/bO3sMk8ALmg/",
-    "Description": "This episode is the long-awaited (and much requested) interview with <a href=\"http://swen.uwaterloo.ca/~kczarnec/\">Krzysztof Czarnecki</a>, the author, together with Ulrich Eisenecker, of the book  <a href=\"http://www.amazon.com/Generative-Programming-Methods-Tools-Applications/dp/0201309777\">Generative Programming</a>.\n\nIn the interview we discussed the state of generative programming today and related it to model-driven development and DSLs. We then talked a little bit about product lines in general. We then discussed his current field of research, which currently focusses on framework-specific modeling languages and non-trivial roundtrip engineering.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode96-interviewKrzysztofCzarnecki.mp3?dest-id=23379"
-}

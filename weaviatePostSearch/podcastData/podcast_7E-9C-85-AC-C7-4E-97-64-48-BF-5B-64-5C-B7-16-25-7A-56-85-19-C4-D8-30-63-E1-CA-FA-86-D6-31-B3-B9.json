@@ -1,8 +1,0 @@
-{
-    "Id": "7E-9C-85-AC-C7-4E-97-64-48-BF-5B-64-5C-B7-16-25-7A-56-85-19-C4-D8-30-63-E1-CA-FA-86-D6-31-B3-B9",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Rodney Buike Builds Private Clouds with System Center 2012!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Rodney Buike about how System Center 2012 facilitates the construction of private clouds. This is where System Center all comes together - utilizing Configuration Manager, Operations Manager, Virtual Machine Manager, Service Manager and Orchestrator to create effective private cloud infrastructure in your own data center. Rodney talks about how each of the System Center components work together to simplify the deployment of services - beyond the individual VM and into a suite of VM, networking rules, storage, etc. Each of the System Center products bring something to the table in this scenario. You should already be using them for their core purposes, now take it to the next level!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2d6bb8a1-356e-4b0e-bed3-85d0d35295a5/audio/a8211122-e6aa-4dc2-9bbd-bef272a1ee6c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

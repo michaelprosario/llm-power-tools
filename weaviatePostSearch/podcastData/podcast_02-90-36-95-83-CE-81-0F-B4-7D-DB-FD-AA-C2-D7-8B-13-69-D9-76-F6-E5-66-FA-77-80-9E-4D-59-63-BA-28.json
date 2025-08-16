@@ -1,8 +1,0 @@
-{
-    "Id": "02-90-36-95-83-CE-81-0F-B4-7D-DB-FD-AA-C2-D7-8B-13-69-D9-76-F6-E5-66-FA-77-80-9E-4D-59-63-BA-28",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 557: Timothy Beamish on React and Next.js",
-    "SourceUrl": "http://se-radio.net/se-radio-557-timothy-beamish-on-react-and-nextjs",
-    "Description": "<p data-pm-slice=\"1 1 []\">Timothy Beamish of BenchSci discusses React and Next.js, two of today's most popular front-end frameworks. Host <a href= \"https://www.se-radio.net/team/philip-winston/\">Philip Winston</a> speaks with Beamish about components, routing, JSX, client-side and server-side rendering, single-page applications, automatic code-splitting, image optimization, and more. Beamish also details his experience moving a real-world application to Next.js.</p> \u00a0",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/557_timothy_beamish_react_and_next.js.mp3?dest-id=23379"
-}

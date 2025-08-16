@@ -1,8 +1,0 @@
-{
-    "Id": "87-76-2A-99-06-05-5A-0E-0F-8F-FC-EE-A4-0D-F1-69-12-5E-2E-78-3E-B8-40-4B-45-FB-72-E1-86-64-B9-9E",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 33: Service Oriented Architecture, Pt.2b",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/h1voyCyK-0g/",
-    "Description": "This is the second snippet of the SOA 2 double-episode. Eberhard and Markus continue the discussion with the issue of service reuse and a couple of development process issues. We also look at the duality between infrastructure development and application development in the context of an SOA. We then discuss the great spaghetti misunderstanding :-). We conclude this episode with a look at how to integrate BPM into the conceptual SOA framework we've built up to now, and we'll also briefly skim over a number of technologies related to SOA. \n\nNote that this episode, as well as the last one, is based on a set of slides; these can be downloaded from here. This episode covers slides 39 through 74.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode33-soa_pt2b.mp3?dest-id=23379"
-}

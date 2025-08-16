@@ -1,8 +1,0 @@
-{
-    "Id": "98-C8-EA-5F-5F-77-C4-84-7C-EA-27-AB-C2-CC-EC-A5-61-10-C4-45-21-51-DF-B7-9F-1B-37-7D-BA-C9-DD-DD",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Application Automation using Habitat with Jessica DeVita",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What does it mean to have application automation? While at ChefConf in Austin, Richard sat down with Jessica DeVita to talk about Habitat, an open source project driven by the folks who created Chef to bring automation to the application itself. As Jessica explains, most applications are dependent on a given infrastructure to provide scaling, security, reliability and all of the other services that make a good application. But what if those elements were part of the application itself, and the infrastructure could change? That's the promise of Habitat. It's still early days, but well worth a look!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/43393ed0-275a-4c5c-9d24-e370edeb83fe/audio/d5c74a21-0125-48dd-928e-788be349fb5f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

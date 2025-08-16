@@ -1,8 +1,0 @@
-{
-    "Id": "5D-01-7D-AF-08-89-F4-05-0E-D6-BB-A8-6B-D6-08-84-38-F9-09-C2-23-48-92-3F-22-B1-2F-A4-B9-35-68-B2",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Azure Innovations with Mark Russinovich",
-    "SourceUrl": "https://runasradio.com/Shows/Show/892",
-    "Description": "<p>How does Azure continue to evolve and grow? While at Build in Seattle, Richard chatted with Azure CTO Mark Russinovich about the evolution of Azure and where it is going. Mark talks about the challenges of the recent explosion in large language models like GPT3 and ChatGPT - the sheer amount of cloud computing resources necessary to generate these enormous models, much less operate them at scale. The conversation explores ongoing innovation in architecture and hardware design, including a discussion on the results of Project Natick, the underwater data center experiments of a few years ago. There are more innovations to come!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://natick.research.microsoft.com/\">Project Natick</a></li></ul><p>Recorded May 25, 2023</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/06f1dc62-865f-45f7-8ed1-317d89ef32e4/audio/b78fc5a9-6792-45ee-8612-8315a5acbbda/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

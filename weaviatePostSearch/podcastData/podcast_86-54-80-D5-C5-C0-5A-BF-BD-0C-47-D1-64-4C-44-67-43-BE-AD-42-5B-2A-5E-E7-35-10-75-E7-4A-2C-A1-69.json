@@ -1,8 +1,0 @@
-{
-    "Id": "86-54-80-D5-C5-C0-5A-BF-BD-0C-47-D1-64-4C-44-67-43-BE-AD-42-5B-2A-5E-E7-35-10-75-E7-4A-2C-A1-69",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 384: Boris Cherny on TypeScript",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-384-Boris-Cherny-on-TypeScript.mp3",
-    "Description": "<p>Boris Cherny, author of Programming TypeScript, explains how TypeScript can scale JavaScript projects to larger teams, larger code bases, and across devices. Topics include: gradual typing, type refinement, structural typing, and interoperability...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-384-Boris-Cherny-on-TypeScript.mp3"
-}

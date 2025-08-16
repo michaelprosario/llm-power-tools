@@ -1,8 +1,0 @@
-{
-    "Id": "8C-A9-1B-82-A2-08-E3-53-F9-CD-A4-77-A7-F4-41-9D-D4-20-62-82-16-61-58-94-C1-81-B0-04-04-D4-8C-0E",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "OMS and SCOM with Cameron Fuller",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Here come the acronyms! Richard chats with Cameron Fuller about Microsoft Operations Management Suite (OMS), the cloud-based instrumentation, diagnostics and automation tool from Microsoft that is all the rage - and not just for cloud related products! Cameron talks about being able to feed any kind of log data into OMS for analysis. The conversation then turns to the on-premises System Center Operations Manager and its role in providing deep analytics into specific Microsoft products, and able to push that data to OMS for a comprehensive view. All these products work together!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c13bd51e-4f6c-4e22-939f-22ccd12a5f1c/audio/e6cffb11-6ab1-4b03-a346-0f862749f302/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

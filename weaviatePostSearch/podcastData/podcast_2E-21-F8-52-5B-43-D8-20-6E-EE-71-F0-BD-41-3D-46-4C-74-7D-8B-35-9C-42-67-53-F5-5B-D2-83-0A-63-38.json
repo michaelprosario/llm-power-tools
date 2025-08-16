@@ -1,8 +1,0 @@
-{
-    "Id": "2E-21-F8-52-5B-43-D8-20-6E-EE-71-F0-BD-41-3D-46-4C-74-7D-8B-35-9C-42-67-53-F5-5B-D2-83-0A-63-38",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Isolated User Mode in Windows 10 with Mark Minasi",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How does Windows 10 protect your secrets? Richard chats with Mark Minasi about the endless evolution of protecting user information in Windows. What, you don't have any secrets? Sure you do! Start with your login password: You don't want to have to type a password in every time an application runs, so Windows remembers it for you, at least while you're logged in. How can you be sure it's safe? Mark does his usual amazing story telling job of taking you through the history of protected storage and digging into how Windows 10 (and Server 2016) will do it better - check out the links in the show notes for more!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/fdfe768e-7c76-484f-8c12-89ea2246302f/audio/69f7df11-fe21-4a9d-8123-5d1be689bd6d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

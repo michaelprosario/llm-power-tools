@@ -1,8 +1,0 @@
-{
-    "Id": "95-A4-7D-D5-33-28-93-4A-9F-81-D8-B3-DC-C4-B5-26-A9-00-68-FF-4A-78-64-1B-4C-00-5D-BD-B7-F7-72-1B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "High-Availability Exchange 2013 with Paul Cunningham",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Paul Cunningham about configuring high-availability features in Exchange 2013. The conversation starts out talking a bit about how Exchange 2013 has evolved, including a mention of the amazing Microsoft Exchange Server Deployment Assistant. If you're planning a role out of Exchange, you want to use this tool! From there, Paul digs into the range of features you need to look at to make Exchange function in a high availability configuration, including creating redundant client access roles, using load balancing (or at least DNS round robin) to support failover, data access groups (DAGs) and transport redundancy. And don't forget about Managed Availability - Exchange 2013's built in capabilities to detect and failover to alternatives, sometimes to your own chagrin! There's a lot to learn to make a highly available Exchange infrastructure, so keep an eye out for Paul's ebook on the subject!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/66be6028-a198-44bc-a848-2e50c82f8963/audio/46c4d8cf-1feb-4bff-b2ca-96385384dd54/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

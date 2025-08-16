@@ -1,8 +1,0 @@
-{
-    "Id": "6F-C5-A5-AE-AB-8D-8A-6B-2A-95-50-24-8A-62-A6-C0-4C-10-4C-E4-09-F8-E4-7B-39-57-0F-B8-03-AD-40-85",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Steve Murawski Automates with Powershell V3!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Steve Murawski about the new features in Powershell V3. V3 comes with Server 2012, but should also make an appearance in 2008 R2 and Windows 7. Steve talks about how V3 is utilizing .NET 4 and the DLR for improved performance and flexibility. The new Command Source Adapter uses CDXML to create Powershell proxy commands against WMI API calls, which has made it possible for Server 2012 to ship with 1200 cmdlets, up from the 400 in 2008 R2. Steve also talks about workflows in V3, coming from the .NET 4 workflow foundation engine to create long running powershell tasks that survive the shutdown of the powershell enginer, even reboots. Microsoft seems to get it right on version threes - and Powershell V3 is no exception.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/aeabecca-c7b8-4b03-9ad1-577005b4ccde/audio/a1b8dbb5-bada-4763-9b5a-78a6fd668381/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "4A-5E-B0-BC-8E-96-77-F1-E9-ED-06-3E-2A-1F-AF-36-9F-F3-7F-87-6C-C2-1C-41-99-2E-2A-3F-1B-AC-7E-B3",
-    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
-    "Title": "Caching Overview and Hardware",
-    "SourceUrl": "https://www.codingblocks.net/podcast/caching-overview-and-hardware/",
-    "Description": "<img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2016/08/Episode45-150x150.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2016/08/Episode45-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />In this episode we give a general overview of caching, where it\u2019s used, why it\u2019s used, and what the differences in hardware implementations mean in terms we can understand. \u00a0This will be foundational to understanding caching at a software level in an upcoming episode. \u00a0There\u2019s also something about the number 37 that may be the [\u2026]",
-    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-045.mp3"
-}

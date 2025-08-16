@@ -1,8 +1,0 @@
-{
-    "Id": "12-D3-E6-42-43-94-1D-CB-1B-0F-F0-37-71-2C-82-04-94-83-30-6A-FD-46-EA-BE-1F-3D-AF-32-43-A1-96-5C",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 621: Xe Iaso on Fly.io",
-    "SourceUrl": "http://se-radio.net/se-radio-621-xe-iaso-on-flyio",
-    "Description": "<p>Xe Iaso of Fly.io discusses their hosting platform with host Jeremy Jung. They cover building globally distributed applications with Anycast, using Wireguard to encrypt inter-service communication, writing custom code to handle load balancing and scaling with fly-proxy, why serving EU customers has unique requirements, letting users use docker images without the docker runtime by converting them to firecracker and cloud hypervisor microVMs, the differences between regular VMs and microVMs, challenges of acquiring and serving GPUs to customers. when to use Kubernetes, and dealing with abuse on the platform. Brought to you by IEEE Computer Society and <em>IEEE Software</em> magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/621-xe_iaso_on_fly.io.mp3?dest-id=23379"
-}

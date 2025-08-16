@@ -1,8 +1,0 @@
-{
-    "Id": "97-13-DE-DF-89-64-35-E7-6A-D6-17-FE-90-01-0F-0A-FA-35-73-BF-F7-4A-02-3B-07-17-86-1D-92-8D-0A-63",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "NanoServer and Containers with Jason Helmick",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Lots of news around NanoServer - what's it all mean? Richard chats with Jason Helmick about NanoServer - but first, a quick discussion around a comment from a listener on the ongoing evolution of PowerShell. This ties nicely into the broader topic of Microsoft getting opinionated about how NanoServer should be used, which is to say, designed for containers. Jason talks about containers being light-weight virtual machines with configuration-as-code at their core. Microsoft is picking containers as a key approach to delivering services, does it make sense for you to jump aboard?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/47963e4e-57e8-4539-a70b-bb94f36c40e3/audio/5d7af33d-4b4a-41d4-bab6-89ace12f42cf/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

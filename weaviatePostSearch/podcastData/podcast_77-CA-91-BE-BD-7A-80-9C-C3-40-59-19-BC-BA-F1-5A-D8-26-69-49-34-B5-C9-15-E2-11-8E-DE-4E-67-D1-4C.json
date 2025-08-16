@@ -1,8 +1,0 @@
-{
-    "Id": "77-CA-91-BE-BD-7A-80-9C-C3-40-59-19-BC-BA-F1-5A-D8-26-69-49-34-B5-C9-15-E2-11-8E-DE-4E-67-D1-4C",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Modern Code Generation with Jordan Adler",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Jordan Adler is Head of Developer Engineering at OneSignal and has a deep interest in code generation. He has helped migrate large systems from Python 2 or Python 3 using code generation and code transformation. Using tools like Yellicode, Python Future, and others, Jordan's team has been able to accelerate software development. We'll also talk about OpenAPI-generator, a tool that takes OpenAPI/Swagger and generates idiomatic SDKs in any language.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/dd2fe293-b6ce-4b19-9961-0b19990861ee/audio/690557d8-4111-423e-8697-86decc20c336/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

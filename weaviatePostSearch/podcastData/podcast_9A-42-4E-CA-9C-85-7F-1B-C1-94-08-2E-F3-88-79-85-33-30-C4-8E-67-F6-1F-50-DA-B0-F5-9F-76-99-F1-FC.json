@@ -1,8 +1,0 @@
-{
-    "Id": "9A-42-4E-CA-9C-85-7F-1B-C1-94-08-2E-F3-88-79-85-33-30-C4-8E-67-F6-1F-50-DA-B0-F5-9F-76-99-F1-FC",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "When Does Multi-Cloud Make Sense with Phoummala Schmitt",
-    "SourceUrl": "https://runasradio.com/Shows/Show/873",
-    "Description": "<p>Does multi-cloud make sense? Richard chats with Phoummala Schmitt about her explorations into building workloads that can survive a cloud outage. Phoummala begins the conversation with some definitions because most organizations are multi-cloud already, using more than one cloud provider. Referencing Gartner and Thoughtworks, the term \"polycloud\" covers that idea. Then the hard part - a workload that needs perfect uptime, even in the face of a cloud provider outage. That is a more complex and expensive proposition, but it is possible once you work through the details. The question is - is it worth it?</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.thoughtworks.com/en-ca/insights/decoder/p/polycloud\">Polycloud</a></li><li><a href=\"https://kubernetes.io/\">Kubernetes</a></li><li><a href=\"https://kubernetes.io/docs/concepts/architecture/cloud-controller/\">Kubernetes Cloud Controller Manager</a></li><li><a href=\"https://azure.microsoft.com/products/azure-arc/\">Azure Arc</a></li></ul><p>Recorded February 16, 2023</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/612bec98-79cc-43e7-896d-a6a043b06863/audio/cc242b6f-5f94-4b7a-97fb-96f4acdb7fbe/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

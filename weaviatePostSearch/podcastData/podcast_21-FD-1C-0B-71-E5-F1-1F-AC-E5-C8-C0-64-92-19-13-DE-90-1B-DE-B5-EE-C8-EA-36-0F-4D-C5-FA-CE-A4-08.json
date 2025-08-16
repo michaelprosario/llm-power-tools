@@ -1,8 +1,0 @@
-{
-    "Id": "21-FD-1C-0B-71-E5-F1-1F-AC-E5-C8-C0-64-92-19-13-DE-90-1B-DE-B5-EE-C8-EA-36-0F-4D-C5-FA-CE-A4-08",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Steve Wright Improves the Performance of Analysis Services!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Steve Wright of SQL Sentry about the performance challenges with Analysis Services. Steve talks about how putting SSAS on the same box as SQL Server is not a good idea, how both products are greedy for memory and comparing query tuning techniques. Steve also gets into the performance counters that matter in SSAS.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/24627db9-6d8d-4836-9075-2a28755e5667/audio/b8b50bb6-ed22-4035-8a2a-085a4470511e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

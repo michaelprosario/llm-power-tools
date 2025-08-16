@@ -1,8 +1,0 @@
-{
-    "Id": "08-A6-1A-7B-DB-C7-84-55-EE-51-4B-1E-A8-3F-72-D7-98-6B-B4-89-48-1B-2B-98-BE-6A-A9-F8-2E-F7-E7-7F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Joe Sack Tunes Queries in SQL Server!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with former PFE Joe Sack about his work helping queries go faster in SQL Server. Joe talks about his techniques for figuring out what to fix as well as how to fix it, starting with studying wait statistics in dynamic management views - SQL Server knows what it's waiting for! From there the conversation digs into the ways that SQL Server fools itself to perform badly, including cardinality estimate issues and other problems with statistics. Joe also looks at the potential of column store indexes in SQL 2012 - still new cool stuff to come in SQL Server!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/cbed3fae-22a1-42ea-856b-1b6e4b3dc7a3/audio/a1533532-d906-49da-8cb8-fa9eb7558dda/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

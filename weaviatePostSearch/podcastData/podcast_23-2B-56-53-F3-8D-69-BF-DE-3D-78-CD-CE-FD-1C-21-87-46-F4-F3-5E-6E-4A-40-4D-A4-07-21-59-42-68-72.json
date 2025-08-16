@@ -1,8 +1,0 @@
-{
-    "Id": "23-2B-56-53-F3-8D-69-BF-DE-3D-78-CD-CE-FD-1C-21-87-46-F4-F3-5E-6E-4A-40-4D-A4-07-21-59-42-68-72",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 566: Ashley Peacock on Diagramming in Software Engineering",
-    "SourceUrl": "http://se-radio.net/se-radio-566-ashley-peacock-on-diagramming-in-software-engineering",
-    "Description": "<p>Ashley Peacock, author of the book <em>Creating Software with Modern Diagramming Techniques</em>, speaks with SE Radio host <a href= \"https://www.se-radio.net/team/akshay-manchale/\">Akshay Manchale</a> about diagrams in software engineering. They discuss the power of diagramming and some reasons we don\u2019t fully use it as often as we should. Ashley contrasts historical use of UML diagrams versus modern diagrams, which don't have hard rules about representations. The episode examines different types of diagrams through an example application and how it could be built with modern tools such as Streamy to simplify the building, versioning, and maintenance of diagrams.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/566_ashley_peacock_diagramming_software_engineering.mp3?dest-id=23379"
-}

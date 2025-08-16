@@ -1,8 +1,0 @@
-{
-    "Id": "72-59-0A-3B-85-C9-22-CB-52-84-D4-48-EC-F6-15-EC-5D-64-DE-CC-67-E4-39-2B-D9-C1-2B-99-41-BE-4F-C7",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Incident Management with Hila Fish",
-    "SourceUrl": "https://runasradio.com/Shows/Show/871",
-    "Description": "<p>What is your approach to incident management? While at NDC London, Richard talks to Hila Fish about her work in incident management. Hila talks about understanding when you have an incident and trying to grasp the scope before acting - is it impacting customer value? The goal is to learn from an incident to stop them from happening, and often immediate mitigations, like rebooting, destroy information needed for later analysis. Making the dashboard lights turn green is not enough - you want to get to a place where they never turn red!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.atlassian.com/software/jira/service-management/ticketing-software\">Jira Ticketing</a></li><li><a href=\"https://www.pagerduty.com/\">PagerDuty</a></li><li><a href=\"https://grafana.com/\">Grafana</a></li><li><a href=\"https://swimm.io/\">Swimm Documentation Engine</a></li></ul><p>Recorded January 27, 2023</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/443b5d33-7da5-4702-8389-36f834917820/audio/fa213a2a-4981-4a01-a879-06440ed8a219/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

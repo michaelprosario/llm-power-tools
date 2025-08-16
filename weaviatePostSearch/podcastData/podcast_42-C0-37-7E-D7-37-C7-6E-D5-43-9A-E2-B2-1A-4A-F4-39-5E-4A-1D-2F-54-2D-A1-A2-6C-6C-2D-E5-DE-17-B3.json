@@ -1,8 +1,0 @@
-{
-    "Id": "42-C0-37-7E-D7-37-C7-6E-D5-43-9A-E2-B2-1A-4A-F4-39-5E-4A-1D-2F-54-2D-A1-A2-6C-6C-2D-E5-DE-17-B3",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 222: Nathan Marz on Real-Time Processing with Apache Storm",
-    "SourceUrl": "http://www.se-radio.net/?p=1644",
-    "Description": "Nathan Marz is the creator of Apache Storm, a real-time streaming application. Storm does for stream processing what Hadoop does for batch processing. The project began when Nathan was working on aggregating Twitter data using a queue-and-worker system he had designed. Many companies use Storm, including Spotify, Yelp, WebMD, and many others. Jeff and Nathan [\u2026]",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-222-Nathan-Marz-on-Real-Time-Processing-with-Apache-Storm.mp3?dest-id=23379"
-}

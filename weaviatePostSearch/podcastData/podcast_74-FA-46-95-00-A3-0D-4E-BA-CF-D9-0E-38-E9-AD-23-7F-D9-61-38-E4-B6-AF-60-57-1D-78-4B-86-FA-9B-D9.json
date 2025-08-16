@@ -1,8 +1,0 @@
-{
-    "Id": "74-FA-46-95-00-A3-0D-4E-BA-CF-D9-0E-38-E9-AD-23-7F-D9-61-38-E4-B6-AF-60-57-1D-78-4B-86-FA-9B-D9",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 257: Michael Nygard on Clojure in Practice",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-257-Michael-Nygard-on-Clojure-in-Practice.mp3",
-    "Description": "<p class=\"p1\">Michael Nygard of \u201cRelease It!\u201d fame <span class= \"s1\">talks with</span> Stefan Tilkov <span class=\"s1\">about</span> his experience using the Clojure programming language<span class= \"s1\">.</span> Topics include the tool chain and development process, the Clojure learning curve, and on-boarding new developers. Michael explains the similarities and differences compared to typical OO languages when implementing domain logic, and uses both game development and typical web development projects as examples. Finally, the two discuss how well Clojure can be used in the face of long-running projects, and some typical obstacles and strategies for introducing it to real-world scenarios.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-257-Michael-Nygard-on-Clojure-in-Practice.mp3?dest-id=23379"
-}

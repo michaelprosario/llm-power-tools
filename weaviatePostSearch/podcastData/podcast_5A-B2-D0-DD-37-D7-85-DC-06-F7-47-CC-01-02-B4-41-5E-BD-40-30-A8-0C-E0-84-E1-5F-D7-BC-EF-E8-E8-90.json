@@ -1,8 +1,0 @@
-{
-    "Id": "5A-B2-D0-DD-37-D7-85-DC-06-F7-47-CC-01-02-B4-41-5E-BD-40-30-A8-0C-E0-84-E1-5F-D7-BC-EF-E8-E8-90",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "SQL DevOps with Michael Upton",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Can SQL Server be part of a DevOps practice? It has to be! While at Connect in New York, Richard sat down with Michael Upton to discuss the role of SQL Server in the DevOps practice and the tooling that can make your life easier. The conversation digs into the hard bit - not destroying data. Michael works at Red Gate, who have been building SQL Server data management tools for decades. And they know you can't afford to lose data, so the process of updating has to be done carefully. It can be done, and the effort is worth it - your database can also continuously deploy!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/773dec4e-a526-4d38-8d8b-33e05bc85293/audio/7236f4fe-701f-416d-a932-2480645e3926/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

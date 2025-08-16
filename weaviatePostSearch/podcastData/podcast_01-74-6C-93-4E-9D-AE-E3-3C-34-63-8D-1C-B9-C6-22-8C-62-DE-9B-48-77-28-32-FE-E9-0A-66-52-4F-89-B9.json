@@ -1,8 +1,0 @@
-{
-    "Id": "01-74-6C-93-4E-9D-AE-E3-3C-34-63-8D-1C-B9-C6-22-8C-62-DE-9B-48-77-28-32-FE-E9-0A-66-52-4F-89-B9",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 189: Eric Lubow on Polyglot Persistence",
-    "SourceUrl": "http://www.se-radio.net/?p=1270",
-    "Description": "Recording Venue: Skype Guest: Eric Lubow Eric Lubow and Robert discuss polyglot persistence, a term used to describe systems that incorporate multiple specialized persistent stores rather than a single general-purpose database.\u00a0 Eric provides insights into the forces driving this trend:\u00a0 including diverse data usage patterns, low latency, and increasing volumes of data.\u00a0 The emergence of [\u2026]",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/EricLubow.mp3?dest-id=23379"
-}

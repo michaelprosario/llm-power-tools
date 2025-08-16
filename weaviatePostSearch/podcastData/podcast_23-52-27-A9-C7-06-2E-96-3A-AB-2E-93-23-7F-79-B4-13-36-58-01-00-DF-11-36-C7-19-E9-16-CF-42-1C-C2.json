@@ -1,8 +1,0 @@
-{
-    "Id": "23-52-27-A9-C7-06-2E-96-3A-AB-2E-93-23-7F-79-B4-13-36-58-01-00-DF-11-36-C7-19-E9-16-CF-42-1C-C2",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Observability beyond buzzwords with New Relic's Tori Wieldt",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Let's move beyond buzzwords and talk about observability and DevOps in large systems. Observability is the ability to measure the internal state of a system only by its outputs, but often those outputs are hundreds of log files spread across dozens of systems. The cloud has only made these large systems harder to understand and manage. Scott talks to New Relic's Tori Wieldt about the benefits of formalizing how you think about distributed systems and the tools available to make things easier.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/c01dc5ba-f70c-4678-932d-9f91b19f90d1/audio/746ca791-8129-4a15-a10e-e0dcd95ec5c2/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

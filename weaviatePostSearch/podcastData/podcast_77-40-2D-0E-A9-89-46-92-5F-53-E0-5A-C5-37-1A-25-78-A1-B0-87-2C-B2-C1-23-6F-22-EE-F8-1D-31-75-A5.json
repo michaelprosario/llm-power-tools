@@ -1,8 +1,0 @@
-{
-    "Id": "77-40-2D-0E-A9-89-46-92-5F-53-E0-5A-C5-37-1A-25-78-A1-B0-87-2C-B2-C1-23-6F-22-EE-F8-1D-31-75-A5",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Benny Lakunishok Tests Storage Performance in Exchange 2010",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Benny Lakunishok about storage performance in Exchange 2010. The new storage systems in Exchange 2010 substantially changed the way Exchange works with storage systems. Benny talks about the surprise of having performance problems with Exchange on SANs because of these changes - Exchange 2010 tends to write much larger blocks of data than older versions. Benny mentions JetStress, a free tool from Microsoft for testing the storage system of an Exchange server before Exchange is deployed on it. It can also be used to test how the system behaves under various failure modes, such as a missing LUN, failed disk or array recovery. Lots to think about for the future of your Exchange infrastructure!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c67a59da-c163-4c91-a1bf-98e8570b5e53/audio/b8b1eb2e-4019-4101-a789-33c89c7452eb/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

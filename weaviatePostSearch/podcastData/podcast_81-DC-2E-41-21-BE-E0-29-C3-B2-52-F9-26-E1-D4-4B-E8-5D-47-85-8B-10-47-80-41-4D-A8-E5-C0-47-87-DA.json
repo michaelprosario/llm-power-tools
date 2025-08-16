@@ -1,8 +1,0 @@
-{
-    "Id": "81-DC-2E-41-21-BE-E0-29-C3-B2-52-F9-26-E1-D4-4B-E8-5D-47-85-8B-10-47-80-41-4D-A8-E5-C0-47-87-DA",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": ".NET Debugging 101 with Tess Ferrandez",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott's in Sweden this week and he sat down with master debugger and ASP.NET Escalation Engineer Tess Ferrandez. She explains .NET Debugging 101. What's a dump file? Do you need PDBs? How do you use WinDBG and what are the best ways to debug memory issues, perf problems and hangs.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/e4db9d45-f923-40b5-a7a2-d703051fcdef/1a1b239c_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "0C-67-F2-DF-0A-F7-55-10-C1-6A-A7-BC-31-10-E3-C3-88-D0-D0-2D-B6-1E-19-8B-89-FE-B8-28-B5-C3-79-48",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 49: Dynamic Languages for Static Minds",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/eSDprsVF0v0/",
-    "Description": "In this Episode we talk about dynamic languages for statically-typed minds, or in other words: which are the interesting features people should learn when they go from a langauge such as Java or C# to a language like Python or Ruby. We used Ruby as the concrete example language.\n\nWe started the discussion about important features with the concept of dynamically changing an object's type and the idea of message passing. We then looked at the concepts of blocks and closures. Next in line is a discussion about functions that create functions as well as currying. This lead into a quick discussion about continuations. Open classes, aliasing and the relationship to AOP was next on our agenda.\n\nWe then looked considered a somewhat more engineering-oriented view and looked at the importance of testing and what are the best steps of getting from static programming to dynamic programming. Finally, we discussed a bit about the current (as of October 2006) state of dynamic languages on mainstream platforms.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode49-dynamicLanguages.mp3?dest-id=23379"
-}

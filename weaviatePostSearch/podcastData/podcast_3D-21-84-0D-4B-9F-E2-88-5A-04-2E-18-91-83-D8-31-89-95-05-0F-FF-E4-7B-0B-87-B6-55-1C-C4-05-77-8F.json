@@ -1,8 +1,0 @@
-{
-    "Id": "3D-21-84-0D-4B-9F-E2-88-5A-04-2E-18-91-83-D8-31-89-95-05-0F-FF-E4-7B-0B-87-B6-55-1C-C4-05-77-8F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Exchange Server in 2025 with Michel de Rooij",
-    "SourceUrl": "https://runasradio.com/Shows/Show/973",
-    "Description": "<p>What is it like to take care of an Exchange Server in 2025? Richard chats with Michel de Rooij about his work with Exchange, including the many scripts he has written and published over the years to help sysadmins solve problems. Michel discusses how staying on-premises with Exchange is getting harder - the new version will be subscription-based! The conversation also digs into the new version of Outlook, the challenges of securing email, and Michel's latest book Pro Exchange Administration.</p><p><strong>Links</strong></p><ul><li><a href=\"https://github.com/michelderooij/Remove-DuplicateItems\">Remove DuplicateItems Script</a></li><li><a href=\"https://github.com/michelderooij/Invoke-Unarchive\">Unarchive Script</a></li><li><a href=\"https://link.springer.com/book/10.1007/978-1-4842-9591-5\">Pro Exchange Administration</a></li><li><a href=\"https://office365itpros.com/\">Office 365 for IT Pros</a></li><li><a href=\"https://www.microsoft.com/security/business/siem-and-xdr/microsoft-defender-office-365\">Microsoft Defender for Office 365</a></li></ul><p>Recorded January 9, 2025</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7015c421-6103-4eaf-b4e8-a804311059b5/audio/4e80a980-701a-43bd-8c45-3a642a0bfe33/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

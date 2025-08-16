@@ -1,8 +1,0 @@
-{
-    "Id": "70-5D-34-2D-77-60-77-A1-86-33-7A-5E-A1-24-12-FD-E0-43-68-C3-E4-96-11-E7-C7-8F-E2-53-C2-AB-61-D2",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio-Episode-261:-David-Heinemeier-Hansson-on-the-State-of-Rails,-Monoliths,-and-More",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-261-David-Heinemeier-Hansson-on-the-State-of-Rails-Monoliths-and-More.mp3",
-    "Description": "<p>David Heinemeier Hansson, creator of the Ruby on Rails framework and a partner at the software development company Basecamp, talks to Stefan Tilkov about the state of Ruby on Rails and its suitability for long-term development. He addresses some of its common criticisms, such as perceived usefulness for only simple problems, claimed lack of scalability, and increasing complexity. David also talks about the downsides of building JavaScript-centric, \u201csophisticated\u201d web UIs, and why he prefers well-structured, \u201cmajestic\u201d monoliths to microservices.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-261-David-Heinemeier-Hansson-on-the-State-of-Rails-Monoliths-and-More.mp3"
-}

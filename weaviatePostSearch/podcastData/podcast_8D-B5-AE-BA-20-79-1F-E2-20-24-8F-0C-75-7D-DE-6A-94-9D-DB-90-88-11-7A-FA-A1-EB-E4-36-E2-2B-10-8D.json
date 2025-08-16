@@ -1,8 +1,0 @@
-{
-    "Id": "8D-B5-AE-BA-20-79-1F-E2-20-24-8F-0C-75-7D-DE-6A-94-9D-DB-90-88-11-7A-FA-A1-EB-E4-36-E2-2B-10-8D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 4: Scripting Languages",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/jXWe0J7PJxU/",
-    "Description": "In this Episode, Alexander and Markus talk about scripting languages. Topics include the definition of what a scripting language is, typical usage scenarios, performance issues, programming styles and IDE support. In later Episodes we will talk about more specific topics, such as dynamic typing, reflection, functional programming as well as specific languages such as Ruby.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode4-scriptingLanguages.mp3?dest-id=23379"
-}

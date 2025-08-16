@@ -1,8 +1,0 @@
-{
-    "Id": "18-FA-6F-09-27-BF-AB-AA-60-3D-A7-DC-C5-A1-AC-A6-A9-8C-33-10-89-91-E6-72-42-02-59-26-7C-B1-6A-55",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 393: Jay Kreps on Enterprise Integration Architecture with a Kafka Event Log",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-393-Jay-Kreps-on-Enterprise-Integration-Architecture-with-a-Kafka-Event-Log.mp3",
-    "Description": "<p>Jay Kreps, CEO of Confluent, talks with Robert Blumen about how an enterprise integration architecture organized around a Kafka event log simplifies integration and enables rich forms of data sharing. #podcast #seradio #ieeecs #ComputerSociety</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-393-Jay-Kreps-on-Enterprise-Integration-Architecture-with-a-Kafka-Event-Log.mp3?dest-id=23379"
-}

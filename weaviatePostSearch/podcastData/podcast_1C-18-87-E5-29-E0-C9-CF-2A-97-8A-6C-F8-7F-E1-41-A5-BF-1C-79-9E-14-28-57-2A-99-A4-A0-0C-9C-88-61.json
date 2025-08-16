@@ -1,8 +1,0 @@
-{
-    "Id": "1C-18-87-E5-29-E0-C9-CF-2A-97-8A-6C-F8-7F-E1-41-A5-BF-1C-79-9E-14-28-57-2A-99-A4-A0-0C-9C-88-61",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 106: Introduction to AOP",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/CZMd9P301C0/",
-    "Description": "This episode is a systematic introduction to Aspect Oriented Programming (in contrast to the <a href=\"http://se-radio.net/podcast/2006-04/episode-11-interview-gregor-kiczales\">interview with Gregor Kiczales</a>). We discuss the fundamentals of AOP, define many of the relevant terms and also look at how and where AOP is used in practice, as well as at some current research trends.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode106-introductionToAOP.mp3?dest-id=23379"
-}

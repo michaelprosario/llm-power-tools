@@ -1,8 +1,0 @@
-{
-    "Id": "42-BF-74-7C-43-2B-36-6D-48-5A-E8-AC-46-D7-5D-65-5E-8F-F6-E6-36-DC-B8-F6-EE-5A-83-6B-76-49-15-49",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 319: Nicole Hubbard on Migrating from VMs to Kubernetes",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-319-Nicole-Hubbard-on-Migrating-from-VMs-to-Kubernetes.mp3",
-    "Description": "<p>Edaena Salinas talks with Nicole Hubbard at KubeCon 2017. They discuss why WP engine is migrating from VMs to Kubernetes and how the migration is structured. Nicole explained the VM infrastructure at WP Engine and why there was a need to move...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-319-Nicole-Hubbard-on-Migrating-from-VMs-to-Kubernetes.mp3"
-}

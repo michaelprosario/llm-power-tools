@@ -1,8 +1,0 @@
-{
-    "Id": "5F-63-BD-C7-14-B4-9F-D9-58-09-7F-77-69-88-85-F4-53-A4-68-B8-21-4C-26-B4-25-80-3D-B5-42-BA-04-73",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Clint Huffman Digs into the Internals of Server 2012!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>While on a break from the .NET Rocks Visual Studio 2012 Launch Road Trip, Richard talked to Clint Huffman about some of the internal changes to Server 2012. The discussion starts out talking about better utilization of multiple cores, including new NUMA architecture and Performance Monitor counters. Clint also talks about scheduling of threads in relation to NUMA, memory fragmentation and processor allocations. Finally he talks about the new Automatic Memory Dump feature that deals with huge amount of memory you can have in Server 2012 more effectively.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6f984ebb-c641-4192-95d1-c59ae4944858/audio/de9cdcb3-5a97-47d3-99f4-145906802b5e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

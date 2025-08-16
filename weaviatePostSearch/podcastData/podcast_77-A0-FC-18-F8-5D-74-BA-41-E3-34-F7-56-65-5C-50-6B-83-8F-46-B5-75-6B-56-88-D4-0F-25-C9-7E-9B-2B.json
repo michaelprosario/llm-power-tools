@@ -1,8 +1,0 @@
-{
-    "Id": "77-A0-FC-18-F8-5D-74-BA-41-E3-34-F7-56-65-5C-50-6B-83-8F-46-B5-75-6B-56-88-D4-0F-25-C9-7E-9B-2B",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio Episode 244: Gernot Starke on Architecture Documentation using arc42",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-244-Gernot-Starke-on-Architecture-Documentation-using-arc42.mp3",
-    "Description": "<p>Gernot Starke talks about arc42: an open-source set of templates he developed to document software architecture based on his practical experience with real projects. Also Gernot and host Eberhard then discuss how documenting architecture fits into agile processes and how to find the right amount of documentation for a system. They walk through the different parts of the arc42 templates covering requirements and the context of the system and the solution structure, including building blocks, runtime, and deployment. They discuss tooling, versioning, testing documentation, and how to keep documentation up to date.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-244-Gernot-Starke-on-Architecture-Documentation-using-arc42.mp3?dest-id=23379"
-}

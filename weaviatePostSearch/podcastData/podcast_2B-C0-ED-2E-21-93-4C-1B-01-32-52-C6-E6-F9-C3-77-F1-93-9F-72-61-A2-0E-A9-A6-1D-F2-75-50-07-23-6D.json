@@ -1,8 +1,0 @@
-{
-    "Id": "2B-C0-ED-2E-21-93-4C-1B-01-32-52-C6-E6-F9-C3-77-F1-93-9F-72-61-A2-0E-A9-A6-1D-F2-75-50-07-23-6D",
-    "ContentSourceId": "08ddc66c-88c1-4fd9-9d0f-06779ee4a5cb",
-    "Title": "#48 Machine Learning Security - Andy Smith",
-    "SourceUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/48-Machine-Learning-Security---Andy-Smith-esp0jf",
-    "Description": "<p>First episode in a series we are doing on ML DevOps. Starting with the thing which nobody seems to be talking about enough, security! We chat with cyber security expert Andy Smith about threat modelling and trust boundaries for an ML DevOps system.&nbsp;</p>\n<p>Intro [00:00:00]</p>\n<p>ML DevOps - a security perspective [00:00:50]</p>\n<p>Threat Modelling [00:03:03]</p>\n<p>Adversarial examples? [00:11:27]</p>\n<p>Nobody understands the whole stack [00:13:53]</p>\n<p>On the size of the state space, the element of unpredictability [00:18:32]</p>\n<p>Threat modelling in more detail [00:21:17]</p>\n<p>Trust boundaries for an ML DevOps system [00:25:45]</p>\n<p><br></p>\n<p>Andy has a YouTube channel on cyber security! Check it out @&nbsp;</p>\n<p>https://www.youtube.com/channel/UCywP24ly6h6NTusX88TQKTQ</p>\n<p>https://www.linkedin.com/in/andysmith-uk/</p>\n<p><br></p>\n<p>Video version:</p>\n<p>https://youtu.be/7Tz-3S4lypI</p>\n",
-    "EnclosureUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/29179951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-16%2Fd84b8eff-cf37-dbe5-270b-07b5d1966bad.mp3"
-}

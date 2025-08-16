@@ -1,8 +1,0 @@
-{
-    "Id": "05-D0-1F-BF-48-42-3E-AE-DB-F8-BA-1E-4E-C6-F9-A1-59-99-13-2C-8F-83-98-FB-05-AB-00-D0-BA-18-30-00",
-    "ContentSourceId": "93e20d47-d987-49da-93b1-8fa3d96a518b",
-    "Title": "Lightspeed search built for devs",
-    "SourceUrl": "https://changelog.com/podcast/649",
-    "Description": "We talk with Don MacKinnon, Co-founder and CTO of Searchcraft\u2014a lightspeed search engine built in Rust. We dig into the future of search, how it blends vector embeddings with classic ranking, and what it takes to build developer-friendly, production-grade search from the ground up.",
-    "EnclosureUrl": "https://op3.dev/e/https://cdn.changelog.com/uploads/podcast/649/the-changelog-649.mp3"
-}

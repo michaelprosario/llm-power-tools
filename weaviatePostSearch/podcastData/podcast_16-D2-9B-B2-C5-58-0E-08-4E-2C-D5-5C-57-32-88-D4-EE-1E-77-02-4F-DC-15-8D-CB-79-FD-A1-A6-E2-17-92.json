@@ -1,8 +1,0 @@
-{
-    "Id": "16-D2-9B-B2-C5-58-0E-08-4E-2C-D5-5C-57-32-88-D4-EE-1E-77-02-4F-DC-15-8D-CB-79-FD-A1-A6-E2-17-92",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Direct Memory Access Vulnerabilities with Sami Laiho",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>DMA vulnerabilities have been around for ten years - are your machines in danger? Richard talks to Sami Laiho about his experiences trying to close the exploit that is Direct Memory Access. This technology for rapid data transfer has been available for years with FireWire and Thunderbolt, and now exists in USB 3.1 as well. The problem is that it has been two-way memory access, so connecting two machines together via FireWire can allow the attacking machine to steal any memory it wants, like your BitLocker encryption key. Only in Windows 10 are we starting to see protection in place, and there's more to come. Scary stuff!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/3c0ff836-b3f5-4901-b455-dfda5f1a4370/audio/db5ba3a9-1be5-441c-a3ad-900220a0462e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

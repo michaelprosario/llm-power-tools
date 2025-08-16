@@ -1,8 +1,0 @@
-{
-    "Id": "7B-0B-63-19-D2-8C-06-AB-4A-2C-B8-EA-69-CB-45-49-28-FA-4F-98-33-4C-17-E8-6E-DF-9B-98-FF-CA-59-8C",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "End-to-End Troubleshooting SQL Server with Kevin Kline",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you troubleshoot SQL problems? Kevin Kline talks to Richard about his process for diagnosing SQL Server, starting with Windows and SQL Server event logs, then moving through wait statistics, dynamic managed views and more. The focus is on making sure you're working on the right problem. Kevin also mentions Glenn Berry's awesome blog on DMV Queries, a resource you need to use! He also talks about SQLSentry's free PlanExplorer tool for helping you understand where your query performance problems come from. And don't miss Kevin's great blog post and video on End-to-End Troubleshooting.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/20f31404-bc58-460c-8c6a-6a0c71c6d47b/audio/f4f55027-38b3-4796-a1b8-dbe24a29a324/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

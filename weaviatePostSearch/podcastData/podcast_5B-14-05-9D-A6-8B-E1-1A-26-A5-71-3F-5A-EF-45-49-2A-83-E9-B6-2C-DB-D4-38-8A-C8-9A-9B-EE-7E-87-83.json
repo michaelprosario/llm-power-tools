@@ -1,8 +1,0 @@
-{
-    "Id": "5B-14-05-9D-A6-8B-E1-1A-26-A5-71-3F-5A-EF-45-49-2A-83-E9-B6-2C-DB-D4-38-8A-C8-9A-9B-EE-7E-87-83",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 47: Interview Grady Booch",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/NLhHFzk5XbU/",
-    "Description": "In this Episode we are happy to talk to <a href=\"http://www.booch.com/architecture/contact.jsp\">Grady Booch</a>.  We started off by discussing his <a href=\"http://www.booch.com/architecture/blog.jsp\">Architecture Handbook</a>, how it came into being, the progress, and how it will look like once it's finished. In this context we also looked at the issue of how to distinguish architecture from design. We then asked him about how \"professional\" software architecture is these days, as well as about the ubiquity of software product lines in industry. The next couple of minutes looked at the question of whether software development is an engineering discipline, craftsmanship or an art form, and we discussed the key qualifications of software developers. Grady then elaborated on the problems of developing in large teams as well as the potential limits of complexity we can tackle with software.\n\n\nWe then got back to a more technical discussion, where we looked at model-driven development, DSLs, etc. and the role of the UML in that context. Next was a discussion about scripting languages, and the current trend towards new languages. We then looked at component marketplaces and other forms of reuse, as well as the importance of OO these days and the relevance of AO. We concluded with a (small) outlook to the future.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode47-gradyBooch.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "1D-B2-2A-C8-3C-A1-39-35-97-1A-82-75-C8-38-19-B9-7E-60-1B-CD-6A-72-2B-A7-D4-5F-5E-0C-B1-D0-88-A6",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Migrating from Server 2008 to Server 2019 with Sonia Cuff",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Windows Server 2008 and 2008 R2 went out of support as of January 14, 2020. Now what? Richard talks to Sonia Cuff about what your options are to deal with your Windows 2008 Servers. The conversation dives into all the great things that have been added to Server in the past twelve years, and the various options to have to upgrade. Starting with - should you upgrade? Sonia talks about building new VMs for roles like DHCP, DNS and Active Directory - and shifting workloads gradually. There are lots of great examples online! Sonia also digs into the power of Windows Admin Center to painlessly migrate file storage roles - and improve server management as a whole!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c854e43c-a936-4dde-a7d2-e1d218a1b305/audio/4fd69825-4bb3-47a6-8d5c-fce66fdb1660/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

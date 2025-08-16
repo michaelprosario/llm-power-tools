@@ -1,8 +1,0 @@
-{
-    "Id": "09-21-45-5E-2A-9C-5C-2F-18-20-77-03-A8-E2-FF-56-8B-0C-55-F2-B9-FA-4F-36-47-B3-BD-32-3F-BB-D9-5E",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "End to End Tracing",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott and Carl talk about the End to End (E2E) tracing format, how it relates to WCF and how you can use it to introduce system-wide tracing your large multi-machine or multi-service applications and literally trace a &quot;transaction&quot; from Web to backend and back.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/59a46d65-1565-4fec-a6cb-3d0068178b58/67ca72f8_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

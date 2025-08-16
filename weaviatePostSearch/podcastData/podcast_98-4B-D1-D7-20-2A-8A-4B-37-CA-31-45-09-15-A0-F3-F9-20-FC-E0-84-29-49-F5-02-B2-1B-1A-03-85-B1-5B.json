@@ -1,8 +1,0 @@
-{
-    "Id": "98-4B-D1-D7-20-2A-8A-4B-37-CA-31-45-09-15-A0-F3-F9-20-FC-E0-84-29-49-F5-02-B2-1B-1A-03-85-B1-5B",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Native apps using NativeScript with Jen Looper",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>NativeScript lets you build truly native iOS, Android and Windows Phone apps with Javascript and CSS. How is it different from Xamarin? What about Cordova? How can we tell what's &quot;native&quot; and what's not, and honestly, when should we care? Scott talks to Jen Looper about the NativeScript OSS project.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/043af237-6fca-45af-a947-ae89b94602b0/c47a7928_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

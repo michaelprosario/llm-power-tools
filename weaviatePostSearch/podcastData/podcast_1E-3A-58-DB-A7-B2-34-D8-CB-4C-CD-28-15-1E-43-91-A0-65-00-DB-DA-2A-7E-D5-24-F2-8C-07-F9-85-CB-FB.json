@@ -1,8 +1,0 @@
-{
-    "Id": "1E-3A-58-DB-A7-B2-34-D8-CB-4C-CD-28-15-1E-43-91-A0-65-00-DB-DA-2A-7E-D5-24-F2-8C-07-F9-85-CB-FB",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Debugging Windows Problems with Mario Hewardt",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to expert Windows debugger Mario Hewardt about what it takes to be a good debugger. How does the .NET managed heap and garbage collector work and when should you just let it do its job?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/b3a60086-f558-471d-9952-ca836f66238c/0d41ca46_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

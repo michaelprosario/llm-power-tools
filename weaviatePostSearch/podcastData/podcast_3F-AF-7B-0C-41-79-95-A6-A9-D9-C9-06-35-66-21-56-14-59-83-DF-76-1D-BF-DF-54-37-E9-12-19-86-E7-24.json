@@ -1,8 +1,0 @@
-{
-    "Id": "3F-AF-7B-0C-41-79-95-A6-A9-D9-C9-06-35-66-21-56-14-59-83-DF-76-1D-BF-DF-54-37-E9-12-19-86-E7-24",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Resiliency with Michael Nygard",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Michael Nygard about the concept of resilience in the IT world. Michael starts out the conversation talking about what resilience really is - do your systems keep working even when things aren't working perfectly? Or are they brittle, where one problem takes the whole system down. The conversation broadens to more of a DevOps conversation, since ultimately resiliency involves everyone that builds, tests, operates and uses software. And then Michael goes a step further - is your team, processes and organization resilient?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f5f8cc59-7053-45c3-a1e6-5af06c144866/audio/9b39195c-4307-4fc8-8d1a-1b172c4ce050/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

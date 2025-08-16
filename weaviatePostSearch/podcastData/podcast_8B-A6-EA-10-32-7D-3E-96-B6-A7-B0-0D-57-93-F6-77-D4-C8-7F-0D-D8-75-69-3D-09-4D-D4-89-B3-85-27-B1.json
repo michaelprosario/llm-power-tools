@@ -1,8 +1,0 @@
-{
-    "Id": "8B-A6-EA-10-32-7D-3E-96-B6-A7-B0-0D-57-93-F6-77-D4-C8-7F-0D-D8-75-69-3D-09-4D-D4-89-B3-85-27-B1",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Cloud and Deployment with Johan Arwidmark",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What's new in Configuration Manager world? Richard chats with Johan Arwidmark about the latest for Configuration Manager - but starts out with a discussion around Windows Update. Of course, anyone immersed in configuration cares about the problems with Windows Update, and Johan talks about the testing they're doing that often results in needing to wait for fixed to updates before they get deployed. Report your problems - they will get fixed faster! Then into a discussion about the Cloud, and the new cloud management tools for Config Man - making it easier to manage configuration no matter where you are. Check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/61fe3447-755a-4f41-96e1-ff1c2c5f31da/audio/1c5d589f-8229-47e1-8bcc-e7f798703b82/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

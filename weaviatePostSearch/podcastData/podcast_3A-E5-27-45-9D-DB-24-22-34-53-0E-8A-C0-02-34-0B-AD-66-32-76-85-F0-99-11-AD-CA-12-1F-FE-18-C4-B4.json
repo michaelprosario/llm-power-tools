@@ -1,8 +1,0 @@
-{
-    "Id": "3A-E5-27-45-9D-DB-24-22-34-53-0E-8A-C0-02-34-0B-AD-66-32-76-85-F0-99-11-AD-CA-12-1F-FE-18-C4-B4",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Secure by Design with Karinne Bessette",
-    "SourceUrl": "https://runasradio.com/Shows/Show/974",
-    "Description": "<p>What does it mean to be secure by design? Richard chats with Karinne Bessette about the scope of the problem around making more secure software. Karinne talks about the US government's Cybersecurity and Infrastructure Security Agency (CISA) push to promote more secure software products. The conversation digs into some of the more famous exploits in recent years and some of the challenges of dealing with development tools that require super-user privileges, getting security testing done promptly and responding to exploits effectively when they happen.</p><p><strong>Links</strong></p><ul><li><a href=\"https://techcommunity.microsoft.com/blog/mvp-blog/women-in-teams-collaborate-share-educate/2214282\">Women in Teams</a></li><li><a href=\"https://www.cisa.gov/securebydesign\">CISA Secure by Design</a></li><li><a href=\"https://azure.microsoft.com/products/kubernetes-service\">Azure Kubernetes Service</a></li><li><a href=\"https://msrc.microsoft.com/\">Microsoft Security Response Center</a></li></ul><p>Recorded February 21, 2025</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7d9fccb4-ddc8-4943-b97c-4cd70c22e3cf/audio/eaf6ff30-b308-499d-9f1c-7a3bc8843576/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

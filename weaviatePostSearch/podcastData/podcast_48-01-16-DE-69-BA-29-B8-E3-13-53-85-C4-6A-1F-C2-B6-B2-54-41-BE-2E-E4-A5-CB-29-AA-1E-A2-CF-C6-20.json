@@ -1,8 +1,0 @@
-{
-    "Id": "48-01-16-DE-69-BA-29-B8-E3-13-53-85-C4-6A-1F-C2-B6-B2-54-41-BE-2E-E4-A5-CB-29-AA-1E-A2-CF-C6-20",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 142: Sustainable Architecture with Kevlin Henney and Klaus Marquardt",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/ujC0HVAEy64/",
-    "Description": "This is another episode recorded at <a href=\"http://www.sigs-datacom.de/sd/kongresse/oop_2009/index.php\">OOP 2009</a>, thanks to <a href=\"http://www.sigs-datacom.de/\">SIGS Datacom</a> and programme chair Frances Paulisch for making this possible. Here is the abstract from the conference program: Many software systems have fragile architectures that are based on brittle assumptions or rigid architectures that reduce options and make change difficult. On the one hand, an architecture needs to be fit for the present day, suitable for immediate use, and on the other it needs to accommodate the future, absorbing reasonable uncertainty. However, an approach that is overly focused on today's needs and nothing more can create an inflexible architecture. An approach that becomes obsessed with possible future changes creates an overly complex architecture that is unfit for both today's and tomorrow's needs. Both approaches encourage an early descent into legacy for a system. The considerations presented in this talk reflect an approach that is more about thinking in the continuous present tense than just the present or the future tense. This includes principles from lean thinking, practices common in agile processes and techniques for loosely coupled design.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode142-kevlinKlausOOP.mp3?dest-id=23379"
-}

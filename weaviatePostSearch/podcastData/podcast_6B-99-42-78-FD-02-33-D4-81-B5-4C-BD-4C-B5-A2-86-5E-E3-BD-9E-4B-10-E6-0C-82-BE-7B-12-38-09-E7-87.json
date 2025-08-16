@@ -1,8 +1,0 @@
-{
-    "Id": "6B-99-42-78-FD-02-33-D4-81-B5-4C-BD-4C-B5-A2-86-5E-E3-BD-9E-4B-10-E6-0C-82-BE-7B-12-38-09-E7-87",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 504: Frank McSherry on Materialize",
-    "SourceUrl": "http://se-radio.net/episode-504-frank-mcsherry-on-materialize",
-    "Description": "<p>Frank McSherry, Chief Scientist at Materialize talks to Host Akshay Manchale about Materialize which is a SQL database that maintains incremental views over streaming data. Frank talks about how Materialize can complement analytical systems...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/504-frank-mcsherry-materialize.mp3?dest-id=23379"
-}

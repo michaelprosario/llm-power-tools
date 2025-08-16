@@ -1,8 +1,0 @@
-{
-    "Id": "0B-4B-8F-CB-C1-28-E5-3E-40-39-0D-E2-12-22-0E-29-BD-1F-F8-2A-A5-48-57-8C-72-D9-A8-A9-73-DA-3C-B3",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 615: Kent Beck on \"Tidy First?\"",
-    "SourceUrl": "http://se-radio.net/se-radio-615-kent-beck-on-tidy-first",
-    "Description": "<p>Kent Beck, Chief Scientist at Mechanical Orchard, and inventor of Extreme Programming and Test-Driven Development, joins SE Radio host Giovanni Asproni for a conversation on software design based on his latest book \"Tidy First?\". The episode starts with exploring the reasons for writing the book, and introducing the concepts of tidying, cohesion, and coupling. It continues with a conversation about software design, and the impact of tidyings. Then Kent and Giovanni discuss how to balance design and code quality decisions with cost, value delivered, and other important aspects. The episode ends with some considerations on the impact of Artificial Intelligence on the software developer's job. Brought to you by IEEE Software and IEEE Computer Society.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/615_kent_beck_tidy_first.mp3?dest-id=23379"
-}

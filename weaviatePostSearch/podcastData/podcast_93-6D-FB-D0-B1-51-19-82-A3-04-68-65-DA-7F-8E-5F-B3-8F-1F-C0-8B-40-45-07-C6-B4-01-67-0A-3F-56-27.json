@@ -1,8 +1,0 @@
-{
-    "Id": "93-6D-FB-D0-B1-51-19-82-A3-04-68-65-DA-7F-8E-5F-B3-8F-1F-C0-8B-40-45-07-C6-B4-01-67-0A-3F-56-27",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Damian Edwards explains The Realtime Web for ASP.NET with SignalR",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Damian Edwards and David Fowler have created a jQuery client-side library and an ASP.NET back end that promises to make real-time persistent connections available to .NET programmers. Long-polling, Server-sent events and WebSockets. What does it all mean? Damian sets us straight.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/48f144b7-371d-4566-8bc8-36f803de869b/273b7358_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

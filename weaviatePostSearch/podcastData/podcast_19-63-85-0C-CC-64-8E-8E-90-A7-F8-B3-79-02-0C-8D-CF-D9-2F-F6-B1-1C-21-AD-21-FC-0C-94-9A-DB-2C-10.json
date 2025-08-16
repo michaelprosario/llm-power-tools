@@ -1,8 +1,0 @@
-{
-    "Id": "19-63-85-0C-CC-64-8E-8E-90-A7-F8-B3-79-02-0C-8D-CF-D9-2F-F6-B1-1C-21-AD-21-FC-0C-94-9A-DB-2C-10",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 433: Jay Kreps on ksqlDB",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-433-Jay-Kreps-on-ksqlDB.mp3",
-    "Description": "<p>Jay Kreps, CEO and Co-founder of Confluent discusses ksqlDB which is a database built specifically for stream processing applications to query streaming events in Kafka with SQL like interface.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-433-Jay-Kreps-on-ksqlDB.mp3?dest-id=23379"
-}

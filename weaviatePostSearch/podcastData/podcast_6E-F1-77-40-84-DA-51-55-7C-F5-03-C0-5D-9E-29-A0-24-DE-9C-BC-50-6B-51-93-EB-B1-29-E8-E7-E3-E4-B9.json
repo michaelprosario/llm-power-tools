@@ -1,8 +1,0 @@
-{
-    "Id": "6E-F1-77-40-84-DA-51-55-7C-F5-03-C0-5D-9E-29-A0-24-DE-9C-BC-50-6B-51-93-EB-B1-29-E8-E7-E3-E4-B9",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "062: Effective Java for Android Developers \u2013 Item #12: Consider Implementing Comparable",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>In this mini-Fragment episode, Donn talks about Item #12 of the Effective Java series - Consider Implementing Comparable. You'll learn about how you can use the Comparable interface to give your code the extra sorting boost it needs. Work with Arrays.sort(), Collections utilities and even sorted data structures. Donn breaks down what it takes to implement the compareTo method of the Comparable interface.</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"https://docs.oracle.com/javase/7/docs/api/java/lang/Comparable.html\">Comparable Interface</a></li>\n<li><a href=\"http://amzn.to/1RUCko3\">Effective Java Book</a></li>\n</ul>\n<h2>Sponsor</h2>\n<ul>\n<li><a href=\"http://www.fragmentedpodcast.com/buddybuild\">BuddyBuild</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"http://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/donnfelker\">@donnfelker</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/kaushikgopal\">@kaushikgopal</a> [twitter.com]</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/ea2d364f-a55a-4578-942d-d57e261f0123/062_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

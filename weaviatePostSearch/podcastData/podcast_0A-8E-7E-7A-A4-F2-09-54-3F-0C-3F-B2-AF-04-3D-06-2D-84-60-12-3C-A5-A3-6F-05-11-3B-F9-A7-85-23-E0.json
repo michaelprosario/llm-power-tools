@@ -1,8 +1,0 @@
-{
-    "Id": "0A-8E-7E-7A-A4-F2-09-54-3F-0C-3F-B2-AF-04-3D-06-2D-84-60-12-3C-A5-A3-6F-05-11-3B-F9-A7-85-23-E0",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Desired State Configuration Update with Jeffrey Snover",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard catches up with Jeffrey Snover, father of PowerShell and one of the moving forces behind Desired State Configuration (DSC). After just over a year since the original version of DSC came out, Windows 2012 R2 has shipped and DSC has gone through a number of revisions. Jeff refers to a Window Powershell Blog post on DSC Resource Wave 6! Not bad for one year. DSC is also part of Windows Management Framework Preview 5.0 which is an ongoing bundling of all sorts of tools you need to really take advantage of the power of Desired State Configuration. The conversation also digs into new version of DSC for Azure and for Linux. The Linux version you can find on GitHub as an open source project! Jeff wraps up the show with some information about the Open Management Initiative and a whitepaper called Just Enough Administration. Huge show with a ton of info, including a callout to our sponsor, ScriptRock!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c3a4c7ae-b210-4156-81a5-14459bf22a7d/audio/9733e966-d598-4cd2-b330-5c30261b6bea/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "8B-F1-D2-5D-36-AA-7E-59-E0-5D-AE-6B-30-85-31-AA-F0-61-F2-18-DF-0B-12-16-A3-54-06-51-8D-84-46-1A",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 558: Michael Fazio on Modern Android Development",
-    "SourceUrl": "http://se-radio.net/se-radio-558-michael-fazio-on-modern-android-development",
-    "Description": "<p>Michael Fazio, Engineering Manager (Android) at Albert and author of <em>Kotlin and Android Development featuring Jetpack</em> from the Pragmatic Programmers, speaks with SE Radio's <a href=\"https://www.se-radio.net/team/gavin-henry/\">Gavin Henry</a> about how the Android ecosystem looks today, and why it's an excellent time to write native Android apps. They explore a wide range of topics about modern Android development, including when to go native, how to keep a lot of decisions in your back-end API, Kotlin co-routines, Jetpack and Jetpack Compose, the MVVM design pattern, and threads, as well as activities, fragments, Dagger, room, navigation, Flutter, and improvements in simulators. They also examine details such as IDEs, API selection, how to choose a list of support devices, Java vs Kotlin, handset manufacturers, XML layouts, and why Jetpack is a safe bet for all your future Android development.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/558_michael_fazio_modern_android_development.mp3?dest-id=23379"
-}

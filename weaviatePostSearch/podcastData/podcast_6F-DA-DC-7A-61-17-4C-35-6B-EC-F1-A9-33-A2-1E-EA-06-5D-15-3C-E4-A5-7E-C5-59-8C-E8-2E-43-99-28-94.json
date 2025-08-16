@@ -1,8 +1,0 @@
-{
-    "Id": "6F-DA-DC-7A-61-17-4C-35-6B-EC-F1-A9-33-A2-1E-EA-06-5D-15-3C-E4-A5-7E-C5-59-8C-E8-2E-43-99-28-94",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "164: Learning Kotlin: Sealed Classes",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>In this episode, you'll learn all about Kotlin Sealed classes. Donn walks you through what they are, how to create them, how to use data classes, objects and regular classes to create a restricted type hierarchy.</p>\n<ul>\n<li><a href=\"https://kotlinlang.org/docs/reference/sealed-classes.html\">Kotlin Sealed Classes</a></li>\n</ul>\n<h2>Sponsors \ud83d\ude4f</h2>\n<ul>\n<li><a href=\"https://sentry.io/for/android/\">sentry.io</a> -  Your code is broken. Let\u2019s fix it together - https://sentry.io/for/android/</li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"https://discord.gg/zBSfhwk\">Discord chat</a> or <a href=\"https://twitter.com/fragmentedcast\">@fragmentedcast</a> or <a href=\"https://www.youtube.com/channel/UC7fT84G-G25w7Bdd-e1rnyw/videos\">our Youtube channel</a></li>\n<li><a href=\"https://twitter.com/donnfelker\">@donnfelker</a> and <a href=\"https://www.instagram.com/donnfelker/\">donnfelker</a> (on Instagram)</li>\n<li><a href=\"https://twitter.com/kaushikgopal\">@kaushikgopal</a> and <a href=\"https://www.instagram.com/kaushikgopal/\">kaushikgopal</a> (on Instagram)</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/8c860232-bf6d-4546-b0c5-9b8ad39ad487/fragmented-ef-java-17-final_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

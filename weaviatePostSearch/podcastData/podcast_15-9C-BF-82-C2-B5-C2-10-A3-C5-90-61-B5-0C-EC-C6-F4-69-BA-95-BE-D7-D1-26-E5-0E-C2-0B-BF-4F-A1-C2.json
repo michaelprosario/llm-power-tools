@@ -1,8 +1,0 @@
-{
-    "Id": "15-9C-BF-82-C2-B5-C2-10-A3-C5-90-61-B5-0C-EC-C6-F4-69-BA-95-BE-D7-D1-26-E5-0E-C2-0B-BF-4F-A1-C2",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Creating a Mac emulator using JavaScript with James Friend",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to James Friend, author of PCE.js which is a port of PCE the Portable Computer Emulator. You can run Mac System 7 in your browser? How is this sorcery possible? We talk emscripten, portable C, and lots more.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ed279bae-b7cb-4956-b678-9f8ae9d30203/7de07203_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

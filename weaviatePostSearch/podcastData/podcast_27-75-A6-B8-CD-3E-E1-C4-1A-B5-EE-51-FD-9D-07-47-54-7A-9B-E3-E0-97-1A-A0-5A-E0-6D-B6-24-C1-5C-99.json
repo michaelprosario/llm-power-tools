@@ -1,8 +1,0 @@
-{
-    "Id": "27-75-A6-B8-CD-3E-E1-C4-1A-B5-EE-51-FD-9D-07-47-54-7A-9B-E3-E0-97-1A-A0-5A-E0-6D-B6-24-C1-5C-99",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Deprecating Basic Auth with Greg Taylor",
-    "SourceUrl": "https://runasradio.com/Shows/Show/806",
-    "Description": "<p>Basic authentication is going away in Exchange Online - how will it impact you? Richard talks to Greg Taylor about the long-planned end of basic authentication support in Exchange Online. Greg talks about the fundamental vulnerability of basic authentication systems like POP and IMAP - and how many systems still use them by default. Too many business email compromise and ransomware attacks happen through an email hack, and getting rid of basic authentication will help. Basic auth goes away in October of 2022, and Greg discusses the many ways that Microsoft is assisting IT Pros to get to secure email protocols running before that happens!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://blog.peterdahl.net/2017/09/12/ios-11-provides-support-for-oauth-2-0-in-the-native-mail-app/\">iOS 11 Supports OAuth 2</a></li><li><a href=\"https://docs.microsoft.com/en-us/exchange/client-developer/exchange-web-services/start-using-web-services-in-exchange\">Exchange Web Services</a></li></ul><p>Recorded October 25, 2021</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/aed592c2-a111-46a8-91e6-a52d420b5b58/audio/127fd143-6c79-4b1d-b27d-2d423d780c30/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

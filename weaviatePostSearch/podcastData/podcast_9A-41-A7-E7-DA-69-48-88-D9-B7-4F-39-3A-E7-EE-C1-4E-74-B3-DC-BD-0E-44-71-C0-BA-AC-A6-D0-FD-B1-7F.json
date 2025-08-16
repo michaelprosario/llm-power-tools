@@ -1,8 +1,0 @@
-{
-    "Id": "9A-41-A7-E7-DA-69-48-88-D9-B7-4F-39-3A-E7-EE-C1-4E-74-B3-DC-BD-0E-44-71-C0-BA-AC-A6-D0-FD-B1-7F",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 346: Stephan Ewen on Streaming Architecture",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-346-Stephan-Ewen-on-Streaming-Architecture.mp3",
-    "Description": "<p>Edaena Salinas talks with Stephen Ewen about streaming architecture. Stephen is one of the original creators of Apache Flink. Topics discussed: stream processing vs batch processing, architecture components of stream architectures, Apache Flink...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-346-Stephan-Ewen-on-Streaming-Architecture.mp3"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "76-DD-6B-E3-6B-59-BE-8D-BE-94-95-3E-71-4D-F9-77-78-34-F5-AC-89-B8-EC-B2-FD-8C-CF-E7-34-A1-99-B8",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 559: Ross Anderson on Software Obsolescence",
-    "SourceUrl": "http://se-radio.net/se-radio-559-ross-anderson-on-software-obsolescence",
-    "Description": "<p>Ross John Anderson, Professor of Security Engineering at University of Cambridge, discusses software obsolescence with host <a href= \"https://www.se-radio.net/team/priyanka-raghavan/\">Priyanka Raghavan</a>. They examine risks associated with software going obsolete and consider several examples of software obsolescence, including how it can affect cars. Prof. Anderson discusses policy and research in the area of obsolescence and suggests some ways to mitigate the risks, with special emphasis on software bills of materials. He describes future directions, including software policy and laws in the EU, and offers advice for software maintainers to hedge against risks of obsolescence.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/559_ross_anderson_software_obsolescence.mp3?dest-id=23379"
-}

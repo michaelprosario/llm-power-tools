@@ -1,8 +1,0 @@
-{
-    "Id": "47-8E-03-A1-B2-28-59-15-1D-25-CB-59-AE-50-8C-F2-7D-D9-DC-13-26-C5-FC-34-04-7D-9D-D5-E4-95-59-F5",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Eriq Neale Puts Macs in Active Directory!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Eriq Neale about mixing Apple Macs and PCs in networks. The conversation digs into how Macs can access file shares in Windows network. There are even options for allowing Macs to log into Active Directory and with some third party tools, some group policy can be pushed onto a Mac. Eriq also talks about printers, virus scanning and the effects of BootCamp and Parallels for Mac.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/dc327bb5-a209-4013-ab87-fb31f250964d/audio/c68b88b7-1702-427f-a94e-c1bd45f64ed8/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

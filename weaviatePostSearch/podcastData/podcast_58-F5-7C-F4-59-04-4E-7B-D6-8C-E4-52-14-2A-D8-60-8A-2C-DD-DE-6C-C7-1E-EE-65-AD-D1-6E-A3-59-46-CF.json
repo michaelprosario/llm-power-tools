@@ -1,8 +1,0 @@
-{
-    "Id": "58-F5-7C-F4-59-04-4E-7B-D6-8C-E4-52-14-2A-D8-60-8A-2C-DD-DE-6C-C7-1E-EE-65-AD-D1-6E-A3-59-46-CF",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 624: Marcelo Trylesinski on FastAPI",
-    "SourceUrl": "http://se-radio.net/se-radio-624-marcelo-trylesinski-on-fastapi",
-    "Description": "<p>Marcelo Trylesinski, a senior software engineer at Pydantic and a maintainer of open-source Python tools including Starlette and Uvicorn, joins host Gregory M. Kapfhammer to talk about FastAPI. Their conversation focuses on the design and implementation of FastAPI and how programmers can use it to create web-based APIs. They also explore how to create and deploy a FastAPI implemented in the Python programming language. Brought to you by IEEE Computer Society and <em>IEEE Software</em> magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/624-marcelo_trylesinski_on_fastAPI.mp3?dest-id=23379"
-}

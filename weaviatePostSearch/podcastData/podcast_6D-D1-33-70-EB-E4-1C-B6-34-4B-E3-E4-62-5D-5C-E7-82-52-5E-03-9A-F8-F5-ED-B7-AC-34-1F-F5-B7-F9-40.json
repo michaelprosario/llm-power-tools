@@ -1,8 +1,0 @@
-{
-    "Id": "6D-D1-33-70-EB-E4-1C-B6-34-4B-E3-E4-62-5D-5C-E7-82-52-5E-03-9A-F8-F5-ED-B7-AC-34-1F-F5-B7-F9-40",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "Mist.io and the Challenge of Multicloud Management",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/mistio-and-the-challenge-of-multicloud-management-R1E5BZbH",
-    "Description": "<p>Sometimes, multicloud just happens. Some organizations might have, for example, applications running on <a href=\"https://aws.amazon.com/?utm_content=inline-mention\" target=\"_blank\">Amazon Web Services</a> in one department, while at the same time, while another may come to rely on Google Cloud or other cloud provider services.</p><p>How do you make them work under one unified architecture? The difficulties of multicloud management is the main topic of this latest episode of the New Stack Makers podcast, where we interview the CEO\u00a0 and co-founder of mulitcloud management platform provider <a href=\"https://mist.io/\">Mist.io</a>,\u00a0 <a href=\"https://www.linkedin.com/in/chpsaltis\">Chris Psaltis</a>. Here we discussed the inherent difficulties and possible solutions for running operations across multiple cloud services, as well as how Mist.io can help. TNS Editor <a href=\"https://twitter.com/Joab_Jackson\">Joab Jackson</a> was the host.</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/446a4a11-6a64-4ec7-812e-6976f5595b63/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=446a4a11-6a64-4ec7-812e-6976f5595b63&feed=IgzWks06"
-}

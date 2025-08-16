@@ -1,8 +1,0 @@
-{
-    "Id": "45-38-C8-7F-F4-6C-65-87-34-EE-D9-CD-53-7A-F3-70-0E-1C-3E-D7-87-30-89-C5-72-B1-65-67-1C-AF-BE-90",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Scale-Out File Server for Hyper-V with Aidan Finn",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Aidan Finn about the Scale-Out File Server features of Hyper-V in Windows Server 2012 R2. Aidan digs into a bunch of the improvements that have come with Windows Server 2012 R2, including SMB 3.0., which opens the door to dramatic network speed advantages for such things as live VM migration. But it also impacts how we do file sharing, and Aidan digs deep into the new features in Storage Spaces and Scale-Out File Servers. Looks like you'll want the latest version!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/558854cf-0bf2-4384-b67d-9b7975192c63/audio/ed1a416a-e6e8-48b3-96c7-1c5a8cb33469/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

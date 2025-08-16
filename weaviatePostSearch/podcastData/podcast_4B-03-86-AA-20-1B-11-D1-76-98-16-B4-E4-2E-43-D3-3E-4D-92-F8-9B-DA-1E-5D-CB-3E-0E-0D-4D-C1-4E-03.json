@@ -1,8 +1,0 @@
-{
-    "Id": "4B-03-86-AA-20-1B-11-D1-76-98-16-B4-E4-2E-43-D3-3E-4D-92-F8-9B-DA-1E-5D-CB-3E-0E-0D-4D-C1-4E-03",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 674: Vilhelm von Ehrenheim on Autonomous Testing",
-    "SourceUrl": "http://se-radio.net/se-radio-674-vilhelm-von-ehrenheim-on-autonomous-testing",
-    "Description": "<p><strong>Vilhelm von Ehrenheim</strong>, co-founder and chief AI officer of QA.tech, speaks with SE Radio's <a href= \"https://se-radio.net/team/brijesh-ammanath/\">Brijesh Ammanath</a> about autonomous testing.</p> <p>The discussion starts by covering the fundamentals, and how testing has evolved from manual to automated to now autonomous. Vilhelm then deep dives into the details of autonomous testing and the role of agents in autonomous testing.</p> <p>They consider the challenges in adopting autonomous testing, and Wilhelm describes the experiences of some clients who have made the transition. Toward the end of the show, Vilhelm describes the impact of autonomous testing on the traditional QA career and what test professionals can do to upskill.</p> <p style=\"text-align: center;\" data-pm-slice=\"1 1 []\">This episode is sponsored by <a href=\"https://www.fly.io?utm=seradio\" target= \"_blank\" rel=\"noopener\">Fly.io.</a><br /> <a href=\"https://www.fly.io?utm=seradio\" target=\"_blank\" rel= \"noopener\"><img class=\"aligncenter size-medium wp-image-9045\" src= \"https://se-radio.net/wp-content/uploads/2025/05/logo-landscape-e1747936323623.png\" alt=\"Fly.io\" width=\"300\" height=\"89\" /></a></p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/674-vilhelm-von-ehrenheim-autonomous-testing.mp3?dest-id=23379"
-}

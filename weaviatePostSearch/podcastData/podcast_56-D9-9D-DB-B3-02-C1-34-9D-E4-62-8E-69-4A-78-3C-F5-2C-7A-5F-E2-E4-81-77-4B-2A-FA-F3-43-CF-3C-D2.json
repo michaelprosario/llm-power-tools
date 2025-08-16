@@ -1,8 +1,0 @@
-{
-    "Id": "56-D9-9D-DB-B3-02-C1-34-9D-E4-62-8E-69-4A-78-3C-F5-2C-7A-5F-E2-E4-81-77-4B-2A-FA-F3-43-CF-3C-D2",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Patching in 2023 with Sami Laiho",
-    "SourceUrl": "https://runasradio.com/Shows/Show/886",
-    "Description": "<p>It's 2023 - are you able to keep your systems patched? Richard talks to Sami Laiho about the emerging patching crisis. Sami talks about how MFA and user security have improved enough that they are no longer the primary path of exploitation for ransomware. Today, the main way to get breached is through unpatched computers. But patches are risky and can occasionally cause downtime - so we control when patches are installed and (hopefully) test extensively. Is it worth it? Is it better to be down for an hour due to a lousy patch versus down for months due to a breach? It's time to talk to leadership about a change of tone around patches - and get moving faster!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.microsoft.com/en-us/security/mobile-authenticator-app\">Microsoft Authenticator</a></li><li><a href=\"https://learn.microsoft.com/en-us/windows/deployment/windows-autopatch/overview/windows-autopatch-overview?WT.mc_id=DT-MVP-10953\">Windows Autopatch</a></li><li><a href=\"https://www.cisecurity.org/\">Center for Internet Security</a></li><li><a href=\"https://samilaiho.com/\">Sami Laiho Website</a></li></ul><p>Recorded May 10, 2023</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/61dcd0ba-a0ce-471c-b231-58f10c4fc632/audio/baec362a-1d83-4c7c-9cdd-c7a16ef32a5d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

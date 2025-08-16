@@ -1,8 +1,0 @@
-{
-    "Id": "6E-6A-0B-F1-09-85-13-48-FC-40-98-C0-EA-BB-87-5F-06-6C-32-A3-77-F0-05-C6-6E-DD-92-71-48-9D-4C-68",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Susan Bradley Patches Our Machines with Windows Server Update Services!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Susan Bradley, the SBS Diva, about her other life - patching servers. Susan digs into Windows Server Update Services (WSUS), including what it updates and what it doesn't (check out http://support.microsoft.com/kb/894199 for more info), as well as some third party tools for patching. WSUS lets administrators centralize patching of servers and workstations, so that your machines don't all go fetching the same patches. It also provides means to control what patches get installed and what don't. Susan also points us to http://www.patchmanagement.org/ for access to listservs about WSUS and patch management in general.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ff298e1b-ca58-4abc-8d75-ee7cbe5c2ae5/audio/5d16f929-1d25-4906-8b01-f85a17dc85d5/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

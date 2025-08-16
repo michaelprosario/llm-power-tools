@@ -1,8 +1,0 @@
-{
-    "Id": "3F-9E-9B-85-0E-E0-C0-E3-74-76-53-FE-2E-DE-28-2C-1D-9A-86-5F-A0-8C-C7-B0-84-11-A6-F1-67-D1-1E-BC",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 320: Nate Taggart on Serverless Paradigm",
-    "SourceUrl": "http://se-radio.net/se-radio-episode-320-nate-taggart-on-serverless-paradigm",
-    "Description": "<p>Kishore Bhatia discusses with Nate Taggart about Serverless. Topics include: understanding the motivations for this computing model, deep dive learning about Serverless architecture, development frameworks and tools. Learn from Nate\u2019s experience with Serverless paradigm developing Operations tools at Stackery and find out various approaches, challenges and best practices for architecting and building Serverless applications.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-320-Nate-Taggart-on-Serverless-Paradigm.mp3?dest-id=23379"
-}

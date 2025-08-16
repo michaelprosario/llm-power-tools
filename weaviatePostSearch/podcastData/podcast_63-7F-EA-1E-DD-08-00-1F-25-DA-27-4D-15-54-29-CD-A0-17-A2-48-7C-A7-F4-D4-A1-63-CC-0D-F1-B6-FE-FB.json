@@ -1,8 +1,0 @@
-{
-    "Id": "63-7F-EA-1E-DD-08-00-1F-25-DA-27-4D-15-54-29-CD-A0-17-A2-48-7C-A7-F4-D4-A1-63-CC-0D-F1-B6-FE-FB",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "System Center Orchestrator 2012 with Mickey Gousset",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Mickey Gousset about System Center Orchestrator 2012. Mickey talks about the role orchestrator plays interacting between other System Center products (like Operations Manager and Service Manager), and/or third party apps, creating a place for all your scripts to live. Yes, it's true, scripts live on with Orchestrator, although you can use other tools to build runbooks using drag-and-drop tools as well. The conversation also digs into the thriving third-party community for Orchestrator, including Orchestrator on CodePlex. Check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/92d27740-84ba-4b71-84ce-7b599ce9a7be/audio/143d25db-ed91-40fc-b013-9377cf07426f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

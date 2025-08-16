@@ -1,8 +1,0 @@
-{
-    "Id": "54-2B-3C-92-F3-C6-56-EF-47-AB-E0-9C-AE-D1-AE-1A-F5-03-88-C9-3C-AC-06-DA-E6-85-BE-F0-EF-B9-A1-E4",
-    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
-    "Title": "Designing Data-Intensive Applications \u2013 Weak Isolation and Snapshotting",
-    "SourceUrl": "https://www.codingblocks.net/podcast/ddia-weak-isolation-and-snapshotting/",
-    "Description": "<img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2023/02/episode-204-final.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2023/02/episode-204-final.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />Ever wonder how database backups work if new data is coming in while the backup is running? Hang with us while we talk about that, while Allen doesn\u2019t stand a chance, Outlaw is in love, and Joe forgets his radio voice. The full show notes for this episode are available at https://www.codingblocks.net/episode204. News Thanks for [\u2026]",
-    "EnclosureUrl": "https://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/codingblocks/coding-blocks-episode-204.mp3"
-}

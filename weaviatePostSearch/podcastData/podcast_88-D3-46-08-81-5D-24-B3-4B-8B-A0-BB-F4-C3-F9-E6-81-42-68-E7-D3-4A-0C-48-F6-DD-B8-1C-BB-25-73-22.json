@@ -1,8 +1,0 @@
-{
-    "Id": "88-D3-46-08-81-5D-24-B3-4B-8B-A0-BB-F4-C3-F9-E6-81-42-68-E7-D3-4A-0C-48-F6-DD-B8-1C-BB-25-73-22",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 126: Jetbrains MPS with Konstantin Solomatov",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/u-pKTJyRIkg/",
-    "Description": "In this episode we take a brief look at Jetbrains' Meta Programming System, a language workbench for creating external DSLs or for extending existing languages (such as Java). In a brief telephone discussion, Konstantin Solomatov explains what the system does and how it works. The system has recently been released into public beta and will be made available under then Apache 2.0 Open Source license.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode126-jetbrainsMPS.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "96-9A-50-FA-04-DC-C8-A2-9C-19-3E-95-70-24-FE-CF-0D-DE-33-BE-36-6C-95-FE-4D-37-A4-6E-F2-10-4E-5B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Virtual Desktop for Work at Home with Grant Becker",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Could Windows Virtual Desktop be your organization's Work-From-Home solution? Another episode in the Pandemic Series, Richard talks to Grant Becker about the latest version of Microsoft's virtual desktop tools. Grant talks about Windows Virtual Desktop as Remote Desktop Services in Azure - you have a minimal installation on the workstation, all of the security policies live in the Azure-hosted virtual machines that run your templates. And it works on mobile devices as well! While certainly a useful solution during the pandemic, WVD could be a common way to work going forward!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e254af1b-546f-4787-9d4c-cd6b5ddce20a/audio/b0e0ff95-2f9d-4aaf-a297-dd1188ad0a5b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

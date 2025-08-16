@@ -1,8 +1,0 @@
-{
-    "Id": "41-11-B7-43-E7-DB-C6-24-C7-89-3D-39-49-0C-36-84-C7-BE-75-BA-AA-5B-62-76-D2-7A-63-D9-A8-AA-31-71",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Rhonda Layfield, Queen of Deployment!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Rhonda Layfield during Tech Ed Australia about her work with Microsoft Deployment Tools (MDT). Rhonda goes over the relationship between MDT and Windows Deployment Service (WDS) as well as the Windows Automation Installation Kit (WAIK). All these tools are free and make image-based deployment tools look wasteful and inefficient. The conversation tears off into deployment in virtualization just for fun. Rhonda mentions AppDeploy.com as a key resource for the MDT user, helping with all the details around configuration applications for deployment in MDT.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/fc9eac31-d76c-4035-b388-5ef8fd5c4625/audio/bbc6f3e5-0f53-4c90-b254-1e72810398f5/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

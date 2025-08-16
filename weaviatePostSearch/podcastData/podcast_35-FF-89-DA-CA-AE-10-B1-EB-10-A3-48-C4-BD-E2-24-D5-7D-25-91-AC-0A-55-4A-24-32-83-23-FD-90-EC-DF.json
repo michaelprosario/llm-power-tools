@@ -1,8 +1,0 @@
-{
-    "Id": "35-FF-89-DA-CA-AE-10-B1-EB-10-A3-48-C4-BD-E2-24-D5-7D-25-91-AC-0A-55-4A-24-32-83-23-FD-90-EC-DF",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 162: Project Voldemort with Jay Kreps",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/x4cIsPfgiFM/",
-    "Description": "Jay Kreps talks about the open source data store Project Voldemort. Voldemort is a distributed key-value store used by LinkedIn and other high-traffic web sites to overcome the inherent scalability limitations of a relational database. The conversation delves into the workings of a Voldemort cluster, the type of consistency guarantees that can be made in a distributed database, and the tradeoff between client and the server.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode162-projectVoldemort.mp3?dest-id=23379"
-}

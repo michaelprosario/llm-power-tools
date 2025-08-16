@@ -1,8 +1,0 @@
-{
-    "Id": "0D-94-F4-06-20-10-CF-EE-9D-18-12-3E-79-C5-8F-BA-23-37-A2-CC-87-B2-BC-46-AD-D3-CE-03-67-17-98-68",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 454: Thomas Richter Postgres as an OLAP database",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/454-Thomas-Richter-Postgres-as-an-OLAP-database.mp3",
-    "Description": "<p>Thomas Richter is the founder of Swarm64, a Postgres extension company designed to boost performance of your Postgres instance. This episode examines the internals of Postgres, performance considerations, and relational database types.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/454-Thomas-Richter-Postgres-as-an-OLAP-database.mp3"
-}

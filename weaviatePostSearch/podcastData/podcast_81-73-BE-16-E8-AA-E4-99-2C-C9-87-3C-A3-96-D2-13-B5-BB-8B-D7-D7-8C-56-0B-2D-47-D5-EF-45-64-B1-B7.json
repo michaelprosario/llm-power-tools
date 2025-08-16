@@ -1,8 +1,0 @@
-{
-    "Id": "81-73-BE-16-E8-AA-E4-99-2C-C9-87-3C-A3-96-D2-13-B5-BB-8B-D7-D7-8C-56-0B-2D-47-D5-EF-45-64-B1-B7",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Chef Update with Steven Murawski",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Are you looking at Chef for deploying your infrastructure yet? Steven Murawski is back to talk about the latest development in Chef, including his role as the Community Software Development Engineer. Chef integrates with DSC and PowerShell to make managing your Windows instances and everything else much simpler when you roll out applications. Steven also talks about Chef going all open source, with some paid services if you need them. You should check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6ce800a4-050f-4c5c-ac41-3574b79bcdef/audio/cc5a464c-7447-4716-b7cf-690ac13f0288/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

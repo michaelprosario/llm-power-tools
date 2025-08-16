@@ -1,8 +1,0 @@
-{
-    "Id": "4B-4C-AC-98-3C-D5-DD-0F-4B-E2-F6-2B-86-B6-34-0D-40-42-33-E9-7F-52-A0-33-86-10-AC-6D-E8-7B-B5-29",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "BrightstarDB, an open source NoSQL .NET database with Kal Ahmed",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Kal Ahmed and his open source team have created a great .NET-based NoSQL solution called BrightstarDB. Brightstar is an RDF triple store. What does that mean? It does not require the definition of a database schema, and with the RDF data model you can easily add and integrate data of all shapes. Kal talks to Scott about RDF, NoSQL, and the whens and whys of using a database like BrightStarDB.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/c74109f8-370c-4a8b-82df-aaa9e4e89a10/c1c25a1c_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "55-1C-A0-F8-4F-7D-C0-56-C3-BC-2E-53-01-04-56-EB-B5-A6-FD-95-CC-AF-92-28-AE-4B-5B-03-54-F7-42-59",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Framework Series: Service Stack with Demis Bellot",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Demis Bellot has put together an open source .NET and Mono REST Web Services framework called Service Stack. It's effectively a WCF replacement for some kinds of webservices. There's no XML and no code-generation. Why do frameworks like this exist and what kinds of things did Demis take into consideration when creating it? How does one balance performance vs. compliance?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/8f03d312-90da-4a6d-adee-c2112cbd3a89/6e0065b6_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

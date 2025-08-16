@@ -1,8 +1,0 @@
-{
-    "Id": "47-2D-C7-CC-8C-57-5E-35-66-94-BC-B0-E7-A0-69-81-42-D9-E1-B1-73-26-34-22-F5-2A-FA-88-DE-2F-6B-8B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Amy Babinchuk Deals with Security in EBS!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Amy Babinchuk about Essential Business Server (EBS). Amy digs into the challenges of setting up EBS's Threat Management Gateway with an existing firewall and how  Feature Pack 1 addresses those problems. The conversation also delves into the issues around integrating EBS into an existing environment, including using the Microsoft IT Environment Health Scanner to make sure your existing infrastructure is healthy enough to add EBS too successfully. The health scanner is a must have for any environment!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/eb80a5ad-78e2-4417-8448-11e08883771e/audio/9b9552c3-1c5a-41c9-bd53-da5d2c5f6baa/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

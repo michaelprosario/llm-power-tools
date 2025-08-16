@@ -1,8 +1,0 @@
-{
-    "Id": "61-98-41-B5-4A-A1-DC-CB-84-AB-2C-08-FF-E7-CB-99-1E-11-15-7F-F2-90-9C-71-37-28-1B-0B-DA-F4-EA-9E",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Robert Smith Diagnoses Our Storage Performance Problems!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Robert Smith from Microsoft Premier Field Engineering about understanding storage performance. The discussion digs into SAN, iSCSI, direct-attached storage, also looking at tools like PerfMon and the Windows Performance Toolkit. Check out WPT at http://msdn.microsoft.com/en-us/library/cc305187.aspx and the disk performance issues talked about in the show at http://support.microsoft.com/?kbid=929491.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b50a8b79-ef00-4d90-bb3d-7f0ad34a5b66/audio/86099a70-5bc9-444a-aea7-a2069b9f5299/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "84-79-01-B3-4D-9C-91-A0-2B-B8-02-D5-19-BB-02-1E-C2-AD-E8-E7-94-F2-67-36-24-7A-BF-D3-F6-DC-0D-C8",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 588: Jos\u00e9 Valim on Elixir, Machine Learning, and Livebook",
-    "SourceUrl": "http://se-radio.net/se-radio-588-jos-valim-on-elixir-machine-learning-and-livebook",
-    "Description": "<p>Jos\u00e9 Valim, creator of the Elixir programming language, Chief Adoption Officer at Dashbit, and author of three programming books, speaks with SE Radio host <a href= \"https://www.se-radio.net/team/gavin-henry/\">Gavin Henry</a> about what Elixir is today, what Livebook is, the five spearheads of the new machine learning ecosystem for Elixir, and how they all fit together. Valim describes why he created Elixir, what \u201cthe beam\u201d is, and how he pitches it to new users. This episode examines things you can do with Livebook and how it is well-aligned with machine learning, as well as why immutability is important and how it works. They take a detailed look at a range of topics, including tensors with Nx, traditional machine learning with Scholar, data munging with Explorer, deep learning and neural networks with Axon, Bumblebee and Huggingface, and model creation basics. Brought to you by IEEE Computer Society and IEEE Software magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/588_jose_valim_machine_learning_and_livebook.mp3?dest-id=23379"
-}

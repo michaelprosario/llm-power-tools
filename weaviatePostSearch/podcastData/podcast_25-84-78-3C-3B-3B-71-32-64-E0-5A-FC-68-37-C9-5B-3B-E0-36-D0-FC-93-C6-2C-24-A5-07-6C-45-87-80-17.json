@@ -1,8 +1,0 @@
-{
-    "Id": "25-84-78-3C-3B-3B-71-32-64-E0-5A-FC-68-37-C9-5B-3B-E0-36-D0-FC-93-C6-2C-24-A5-07-6C-45-87-80-17",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 347: Daniel Corbett on Load Balancing and HAProxy",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-347-Daniel-Corbett-on-Load-Balancing-and-HAProxy.mp3",
-    "Description": "<p>Guest Daniel Corbett discusses how to scale your application with the help of load balancing. Hear details on HAProxy and the load balancing ecosystem as a whole.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-347-Daniel-Corbett-on-Load-Balancing-and-HAProxy.mp3"
-}

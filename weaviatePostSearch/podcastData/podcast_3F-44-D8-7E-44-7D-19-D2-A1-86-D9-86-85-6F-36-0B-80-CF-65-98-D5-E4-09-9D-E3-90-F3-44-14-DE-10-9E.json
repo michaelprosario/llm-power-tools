@@ -1,8 +1,0 @@
-{
-    "Id": "3F-44-D8-7E-44-7D-19-D2-A1-86-D9-86-85-6F-36-0B-80-CF-65-98-D5-E4-09-9D-E3-90-F3-44-14-DE-10-9E",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Blazor brings .NET to Web Assembly with Steve Sanderson",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>The Blazor project aims to bring .NET to the open Web using Web Assembly. Scott talks to Steve Sanderson about this experiment and it's future plans. How are they compiling C# and .NET to Web Assembly in a way that works everywhere? How does Mono and .NET Standard fit in?</p>\n<ul>\n<li>https://blazor.net/</li>\n<li>https://twitter.com/stevensanderson</li>\n<li><a href=\"https://blogs.msdn.microsoft.com/webdev/2018/07/25/blazor-0-5-0-experimental-release-now-available/\">Blazor 0.5 release!</a></li>\n</ul>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/1a7e4602-faf5-4b80-965b-86a7b6160a42/9f1b3df1_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

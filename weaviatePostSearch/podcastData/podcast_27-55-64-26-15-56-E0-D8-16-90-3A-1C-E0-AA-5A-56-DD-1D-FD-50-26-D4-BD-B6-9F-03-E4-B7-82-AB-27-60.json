@@ -1,8 +1,0 @@
-{
-    "Id": "27-55-64-26-15-56-E0-D8-16-90-3A-1C-E0-AA-5A-56-DD-1D-FD-50-26-D4-BD-B6-9F-03-E4-B7-82-AB-27-60",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 679: Wesley Beary on API Design",
-    "SourceUrl": "http://se-radio.net/se-radio-679-wesley-beary-on-api-design",
-    "Description": "<p data-prosemirror-content-type=\"node\" data-prosemirror-node-name= \"paragraph\" data-prosemirror-node-block=\"true\" data-pm-slice= \"1 1 []\"><strong>Wesley Beary</strong> of Anchor speaks with host Sam Taggart about designing APIs with a particular emphasis on user experience. Wesley discusses what it means to be an \u201cAPI connoisseur\u201d\u2014 paying attention to what makes the APIs we consume enjoyable or frustrating and then taking those lessons and using them when we design our own APIs. Wesley and Sam also explore the many challenges developers face when designing APIs, such as coming up with good abstractions, testing, getting user feedback, documentation, security, and versioning. They address both CLI and web APIs.</p> <p style=\"text-align: center;\" data-pm-slice=\"1 1 []\">This episode is sponsored by <a href=\"https://www.fly.io?utm=seradio\" target= \"_blank\" rel=\"noopener\">Fly.io.</a></p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/679-wesley-beary-api-design.mp3?dest-id=23379"
-}

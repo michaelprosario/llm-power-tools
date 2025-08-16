@@ -1,8 +1,0 @@
-{
-    "Id": "04-D3-A2-83-38-7D-7A-EB-43-D0-F0-AE-42-A2-3D-DD-0A-23-67-FF-A8-2B-29-CC-A7-85-0B-1E-93-C5-F4-84",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Cloud-Based IT Automation with Dana Epp",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What can you automate in the cloud? Everything! Richard chats with Dana Epp about how the tooling in Azure allows for automating a huge range of tasks, starting with Dana's personal focus - security. Dana talks about using automation to catch whenever security rules change anywhere, just for logging if not for direct action. The combination of Azure ARM Templates, Automation and Azure Functions is hugely powerful. The challenge is in managing that tooling, which leads to a conversation around source control, just enough administration and DevOps!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a9aa1d7f-4274-46c5-a262-729b1910a69c/audio/786d80ed-5aed-4b8d-9cca-f80c3535b9c1/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

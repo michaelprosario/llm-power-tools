@@ -1,8 +1,0 @@
-{
-    "Id": "56-D3-E1-C1-DD-FF-66-52-8E-3B-2A-33-DD-71-E8-77-5F-A2-33-89-52-BC-0B-D9-4C-20-08-CB-CD-99-1C-AD",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Windows Package Manager with Sarah Lean",
-    "SourceUrl": "https://runasradio.com/Shows/Show/793",
-    "Description": "<p>Does Windows need a package manager? Richard talks to Sarah Lean about Windows Package Manager, aka winget. Of course, there have been package managers for Windows before winget, and Sarah talks about her favorite, Chocolatey. But winget is destined to be a part of Windows itself and opens the door to some great deployment automation. The conversation also dives into exporting - making a copy of the manifest of applications currently on a workstation. Could we get to full local workstation localization, where you could build and re-build workstations on demand? Maybe some next-level hot-desk workstations are possible!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://github.com/microsoft/winget-cli\">Windows Package Manager on GitHub</a></li><li><a href=\"https://chocolatey.org/\">Chocolatey</a></li><li><a href=\"https://www.microsoft.com/security/business/microsoft-endpoint-manager\">InTune, aka Microsoft Endpoint Manager</a></li><li><a href=\"https://docs.microsoft.com/azure/storage/common/storage-ref-azcopy\">AZCopy</a></li><li><a href=\"https://www.techielass.com/\">Techielass - Blog of Sarah Lean</a></li></ul><p>Recorded August 13, 2021</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/378e4a2f-04ea-49cb-bd9c-5f1f2b1dd188/audio/188dd4ba-de1a-44af-8aaa-531f2cd7f330/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

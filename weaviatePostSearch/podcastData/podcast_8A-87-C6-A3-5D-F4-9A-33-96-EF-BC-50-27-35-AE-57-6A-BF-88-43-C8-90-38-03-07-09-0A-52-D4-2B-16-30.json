@@ -1,8 +1,0 @@
-{
-    "Id": "8A-87-C6-A3-5D-F4-9A-33-96-EF-BC-50-27-35-AE-57-6A-BF-88-43-C8-90-38-03-07-09-0A-52-D4-2B-16-30",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 622: Wolf Vollprecht on Python Tooling in Rust",
-    "SourceUrl": "http://se-radio.net/se-radio-622-wolf-vollprecht-on-python-tooling-in-rust",
-    "Description": "<p>Wolf Vollprecht, the CEO and founder of Prefix.dev, speaks with host Gregory M. Kapfhammer about how to implement Python tools, such as package managers, in the Rust programming language. They discuss the challenges associated with building Python infrastructure tooling in Python and explore how using the Rust programming language addresses these concerns. They also explore the implementation details of Rust-based tooling for the Python ecosystem, focusing on the cross-platform Pixi package management tool, which enables developers to easily and efficiently install libraries and applications in a reproducible fashion. Brought to you by IEEE Computer Society and <em>IEEE Software</em> magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/622-wolf_vollprecht_python_tooling_in_rust.mp3?dest-id=23379"
-}

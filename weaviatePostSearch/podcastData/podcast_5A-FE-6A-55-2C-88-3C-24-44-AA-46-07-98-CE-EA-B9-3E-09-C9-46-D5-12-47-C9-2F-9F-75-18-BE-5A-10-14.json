@@ -1,8 +1,0 @@
-{
-    "Id": "5A-FE-6A-55-2C-88-3C-24-44-AA-46-07-98-CE-EA-B9-3E-09-C9-46-D5-12-47-C9-2F-9F-75-18-BE-5A-10-14",
-    "ContentSourceId": "a59c7e0a-5c5c-488b-96cb-0e11ecabd26f",
-    "Title": "Episode 766: WebRTC -- The Hack that Connects Everyone to Everything",
-    "SourceUrl": "http://flossweekly.libsyn.com/episode-766-webrtc-the-hack-that-connects-everyone-to-everything",
-    "Description": "<p>This week Jonathan Bennett and <a href= \"https://www.danlynch.org/\" target=\"_blank\" rel=\"noopener\">Dan Lynch</a> talk with <a href=\"https://siobud.com/\" target=\"_blank\" rel=\"noopener\">Sean DuBois</a>, one of the few people that seem to really understand WebRTC. He's created Pion, a go implementation of WebRTC, which enables some great tricks like sending TOR traffic through a WebRTC connection. He's also the mind behind some really impressive upcoming OBS features, like direct WebRTC input and output, which among other things enable direct OBS to OBS video connections. Sean also has some words of wisdom about how to make a decent living as an Open Source developer. Catch the all this and more on this week's show!</p> <p>\u00a0</p> <p>You can\u00a0<a href= \"https://discord.gg/w2RknXkJ7U?event=1192188220927119420\" target= \"_blank\" rel=\"noopener\">join the conversation in the Hackaday Discord</a>, where the show records live each week.\u00a0</p> <p>Theme music: \"Newer Wave\" Kevin MacLeod (incompetech.com)</p> <p>Licensed under Creative Commons: By Attribution 4.0 License</p> <p>http://creativecommons.org/licenses/by/4.0/</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS_Weekly-Ep766.mp3?dest-id=4272468"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "62-5C-EF-EE-43-92-84-D0-44-8D-42-48-6D-20-49-E4-14-31-CD-A7-DC-B3-1B-3F-04-3A-33-58-E8-34-5C-F4",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 221: Jez Humble on Continuous Delivery",
-    "SourceUrl": "http://www.se-radio.net/?p=1631",
-    "Description": "Johannes Th\u00f6nes interviews Jez Humble, senior vice president at Chef, about continuous delivery (CD). They discuss continuous delivery and how it was done at Go, CD, and HP firmware; the benefits of continuous delivery for developers; Conway\u2019s law and cross-functional teams; scary releases and nonscary releases; fix-forward, blue-green deployments, and A/B testing; origins of continuous [\u2026]",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-221-Jez-Humble-on-Continuous-Delivery.mp3?dest-id=23379"
-}

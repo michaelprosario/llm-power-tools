@@ -1,8 +1,0 @@
-{
-    "Id": "1B-E4-15-03-13-4E-A2-81-B3-DD-69-21-C6-88-4C-75-59-F4-C9-08-DF-32-E5-8C-5D-DE-91-3D-7B-2E-0C-ED",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 361: Daniel Berg on Istio Service Mesh",
-    "SourceUrl": "http://se-radio.net/se-radio-episode-361-daniel-berg-on-istio-service-mesh",
-    "Description": "<p>Daniel Berg, a distinguished Engineer at IBM cloud unit, talks with host Nishant Suneja, about Istio service mesh and how it lets developers deploy microservices into the cloud in a secure, efficient fashion by taking away the burden of devops...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-361-Daniel-Berg-on-Istio-Service-Mesh.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "94-A7-7C-25-2A-10-D0-B3-AC-72-C3-9E-93-81-2E-FE-2A-60-46-4D-9C-B7-5C-7A-04-9E-E7-64-2C-62-5E-1D",
-    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
-    "Title": "Zero to MVP without provisioning a database",
-    "SourceUrl": "https://stackoverflow.blog/podcast/",
-    "Description": "<p>PlanetScale is built on <a href=\"https://planetscale.com/vitess\" target=\"_blank\">Vitess</a>, the open-source database clustering system that runs at colossal scale hosting YouTube, Slack, and GitHub.</p><p><a href=\"https://stackoverflow.blog/2021/11/23/podcast-395-gabe-monroy-digital-ocean-cloud/\" target=\"_blank\">A familiar theme</a>: Big cloud companies aren\u2019t set up for independent developers. Sam and Ceora discuss how serverless can get projects\u2014even businesses\u2014up and running quickly.</p><p>Choosing the stack for a new business? Tools like <a href=\"https://www.netlify.com/\" target=\"_blank\">Netlify</a> can scale with your product, so you don\u2019t have to change your architecture as you evolve.</p><p>Staging environments should be a thing of the past. That\u2019s why PlanetScale enables <a href=\"https://docs.planetscale.com/concepts/branching\" target=\"_blank\">database branching</a>.</p><p>And finally, a question from Law Stack Exchange: <a href=\"https://law.stackexchange.com/questions/73144/can-satellite-images-be-copyrighted\" target=\"_blank\">Can satellite images be copyrighted?</a></p>\n",
-    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/b55f4baa-dcfb-4e34-85ea-c3fb85b547b4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=b55f4baa-dcfb-4e34-85ea-c3fb85b547b4&feed=XA_851k3"
-}

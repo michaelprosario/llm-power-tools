@@ -1,8 +1,0 @@
-{
-    "Id": "2F-CC-83-0A-D0-75-05-F9-FD-2A-3F-CC-C9-7E-1F-C8-EF-E4-04-D0-AE-39-C4-44-3F-9C-2B-82-93-D7-12-18",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "IPv6 and Azure Active Directory with Pierre Roman",
-    "SourceUrl": "https://runasradio.com/Shows/Show/874",
-    "Description": "<p>Are you ready for more IPv6 in your life? Richard talks to Pierre Roman about recent support added to Azure Active Directory for IPv6 - specifically around Conditional Access. Pierre talks about how in the past, IPv6 addresses weren't a part of Conditional Access - but now they are. This could cause problems for folks connecting to an Azure tenant via IPv6 if those IPv6 ranges aren't included as named locations. Even if this update hasn't impacted you yet, it can - changes to your ISP or when connecting to the internet can result in IPv6 access being required - don't get locked out!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.google.com/intl/en/ipv6/statistics.html\">Google IPv6 Adoption</a></li><li><a href=\"https://techcommunity.microsoft.com/t5/itops-talk-blog/wired-for-hybrid-deep-dive-1-azure-ad-introduces-support-for/ba-p/3769325\">Pierre's Blog Post on IPv6</a></li><li><a href=\"https://learn.microsoft.com/en-us/troubleshoot/azure/active-directory/azure-ad-ipv6-support?WT.mc_id=DT-MVP-10953\">IPv6 Support in Azure Active Directory</a></li><li><a href=\"https://learn.microsoft.com/azure/dns/dns-faq?WT.mc_id=DT-MVP-10953\">Azure DNS FAQ</a></li></ul><p>Recorded March 27, 2023</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/002bc383-d360-4f9b-9778-98dccb1b1e69/audio/57922cc1-447b-4439-82ea-141fa3ae1cd3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "39-F0-9F-9F-68-20-B5-86-AC-5A-72-BB-0F-CB-D7-4F-9B-57-86-2B-AD-5E-9C-57-E3-C8-B7-82-AF-11-28-A8",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "PowerShell at Ten Years with Don Jones",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>PowerShell is ten years old! How did that happen! Richard chats with Don Jones about his on-going enthusiasm for PowerShell creating the awesome PowerShell.org website and summit. The conversation turns to what PowerShell is like today - a mature product that is well supported throughout the Microsoft ecosystem and beyond. Don discusses the excitement around building your own automation in ways that help you deeply understand your infrastructure. Today the young product in the suite of tools is Desired State Configuration (DSC), which got a minor update in Server 2016, but can still do more. Don is building Tug, an open source pull service for DSC that can put even more control in your hands. Check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/bc5fcfd8-de9e-4d39-8e18-3bbbedb5e79d/audio/26192f56-083e-47af-9d5a-751ed2295d8a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

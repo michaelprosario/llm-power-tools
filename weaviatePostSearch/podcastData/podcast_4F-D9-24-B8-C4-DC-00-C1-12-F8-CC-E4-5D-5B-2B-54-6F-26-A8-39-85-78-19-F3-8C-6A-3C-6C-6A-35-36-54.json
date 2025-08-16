@@ -1,8 +1,0 @@
-{
-    "Id": "4F-D9-24-B8-C4-DC-00-C1-12-F8-CC-E4-5D-5B-2B-54-6F-26-A8-39-85-78-19-F3-8C-6A-3C-6C-6A-35-36-54",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Jeremiah Peschka Talks to DBAs about ORMs!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Jeremiah Peshcka about how DBAs can work with Object Relational Mapping (ORM). ORMs are tools used by developers to speed development of object-oriented applications that use databases by automating the process of connecting application objects to database objects. While speed is good, crap is bad, and DBAs often struggle with the results of the ORMs generated data structures and queries. Jeremiah talks about how DBAs can work with developers to make better databases and queries, what tools can help out and how everyone can benefit from ORMs. Check out Jeremiah's awesome blog post on DBAs and ORMs.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c0dbf9ca-92f1-440c-8f54-8065e874fb94/audio/821659f6-5e93-488c-a718-9b73c46ca3be/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "2C-2C-EC-7B-F5-3F-3E-CD-03-1D-4C-B7-4C-9F-76-43-4D-98-08-63-69-92-F6-FA-0A-07-3F-A9-32-54-F2-25",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 613: Shahar Binyamin on GraphQL Security",
-    "SourceUrl": "http://se-radio.net/se-radio-613-shachar-binyamin-on-graphql-security",
-    "Description": "<p>Shahar Binyamin, CEO and co-founder of Inigo, joins host Priyanka Raghavan to discuss GraphQL security. They begin with a look at the state of adoption of GraphQL and why it's so popular. From there, they consider why GraphQL security is important as they take a deep dive into a range of known security issues that have been exploited in GraphQL, including authentication, authorization, and denial of service attacks with references from the OWASP Top 10 API Security Risks. They discuss some mitigation strategies and methodologies for solving GraphQL security problems, and the show ends with discussion of Inigo and Shahar's top three recommendations for building safe GraphQL applications. Brought to you by IEEE Software and IEEE Computer Society.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/613_shachar_binyamin_graphql_security.mp3?dest-id=23379"
-}

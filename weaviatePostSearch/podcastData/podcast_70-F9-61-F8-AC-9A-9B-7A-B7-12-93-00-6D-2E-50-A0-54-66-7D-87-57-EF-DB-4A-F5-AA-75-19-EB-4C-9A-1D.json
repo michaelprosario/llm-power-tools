@@ -1,8 +1,0 @@
-{
-    "Id": "70-F9-61-F8-AC-9A-9B-7A-B7-12-93-00-6D-2E-50-A0-54-66-7D-87-57-EF-DB-4A-F5-AA-75-19-EB-4C-9A-1D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 445: Thomas Graf on eBPF (extended Berkeley Packet Filter)",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-445-Thomas-Graf-on-eBPF-extended-Berkeley-Packet-Filter.mp3",
-    "Description": "<p>Thomas Graf, Co-Founder of Cilium, discusses eBPF and XDP and how they can be leveraged for a wide variety of use cases across networking, observability, and security.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-445-Thomas-Graf-on-eBPF-extended-Berkeley-Packet-Filter.mp3?dest-id=23379"
-}

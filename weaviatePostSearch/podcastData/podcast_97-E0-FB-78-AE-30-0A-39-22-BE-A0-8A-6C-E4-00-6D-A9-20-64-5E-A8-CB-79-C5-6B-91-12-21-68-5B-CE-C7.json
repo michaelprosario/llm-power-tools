@@ -1,8 +1,0 @@
-{
-    "Id": "97-E0-FB-78-AE-30-0A-39-22-BE-A0-8A-6C-E4-00-6D-A9-20-64-5E-A8-CB-79-C5-6B-91-12-21-68-5B-CE-C7",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Controlling Robots with node.js and Johnny-Five with Raquel V\u00e9lez",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Did you know that you can control a robot with JavaScript and node.js? Scott talks to Raquel V\u00e9lez from nodebots.io about how to start! Why JavaScript and not C? What libraries and hardware do I need to build a robot that will bring me a soda?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/d1570523-d22b-4e91-9c30-761ad6824304/9254da5c_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

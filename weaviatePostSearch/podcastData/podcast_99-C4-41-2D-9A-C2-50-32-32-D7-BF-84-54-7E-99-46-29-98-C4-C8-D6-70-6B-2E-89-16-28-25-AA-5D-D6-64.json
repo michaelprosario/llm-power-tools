@@ -1,8 +1,0 @@
-{
-    "Id": "99-C4-41-2D-9A-C2-50-32-32-D7-BF-84-54-7E-99-46-29-98-C4-C8-D6-70-6B-2E-89-16-28-25-AA-5D-D6-64",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 9: Remoting Pt.1 and Listener Feedback",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/Jr6pN8F3GAk/",
-    "Description": "This Episode as well as the next one take a look at remoting infrastructures such as CORBA, .NET Remoting or Webservices. In this first part we will take a look at why remote communication is necessary in the first place, what remoting middleware can do for you as well as which other middleware technologies exist in addition to OO-RPC systems, such as messaging middleware. Finally, we conclude with a brief overview of what the broker pattern can do for us in the context of remoting middleware.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode9-remoting_pt1.mp3?dest-id=23379"
-}

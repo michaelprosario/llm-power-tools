@@ -1,8 +1,0 @@
-{
-    "Id": "07-82-CC-41-EA-CD-C5-99-E9-CF-0F-B0-CC-4B-74-E7-9B-86-30-47-92-52-BF-DA-0B-35-91-BB-84-37-78-84",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Azure IaaS Management with Samuel Erskine",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>You're moving virtual machines to the cloud - how do you keep them organized and maintained? Richard chats with Samuel Erskine about all the things Azure provides to make the life of a virtual machine better. The conversation starts on organization, using dynamic groups and tags to identify servers - not the machine names! Samuel digs into patch management and monitoring as well. Virtual machines are not going away; keeping them organized and maintained continues to be a crucial part of the job!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.amazon.com/Samuel-Erskine/e/B00J8BTB52?ref=dbs_a_mng_rwt_scns_share\">Sam's Books on Amazon</a></li><li><a href=\"https://itprocessed.com/2019/06/1126/\">Sam's Blog Series on IaaS Management</a></li><li><a href=\"https://itrevolution.com/the-phoenix-project/\">Phoenix Project</a></li><li><a href=\"https://azure.microsoft.com/en-ca/product-categories/analytics/\">Azure Analytics</a></li><li><a href=\"https://docs.microsoft.com/en-us/azure/automation/update-management/update-mgmt-overview\">Azure Update Management</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ecae02d3-c18c-4894-8342-0ff718f02344/audio/f22ea93d-f8a6-4505-9fea-907d8a783704/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

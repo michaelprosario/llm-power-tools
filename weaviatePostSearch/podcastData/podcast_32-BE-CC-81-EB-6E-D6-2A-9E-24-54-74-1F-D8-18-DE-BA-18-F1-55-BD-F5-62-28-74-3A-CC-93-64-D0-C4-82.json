@@ -1,8 +1,0 @@
-{
-    "Id": "32-BE-CC-81-EB-6E-D6-2A-9E-24-54-74-1F-D8-18-DE-BA-18-F1-55-BD-F5-62-28-74-3A-CC-93-64-D0-C4-82",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 460: Evan Weaver on FaunaDB",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-460-Evan-Weaver-on-FaunaDB.mp3",
-    "Description": "<p>Evan Weaver of Fauna discusses the Fauna distributed database. Host Felienne spoke with him about its design and properties, as well as the FQL query language, and the different models it supports: document-based as well as relational.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-460-Evan-Weaver-on-FaunaDB.mp3"
-}

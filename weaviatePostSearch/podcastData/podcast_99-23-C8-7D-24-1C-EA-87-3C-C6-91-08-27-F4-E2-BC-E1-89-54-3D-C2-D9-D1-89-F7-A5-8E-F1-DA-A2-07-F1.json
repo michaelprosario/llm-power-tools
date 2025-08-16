@@ -1,8 +1,0 @@
-{
-    "Id": "99-23-C8-7D-24-1C-EA-87-3C-C6-91-08-27-F4-E2-BC-E1-89-54-3D-C2-D9-D1-89-F7-A5-8E-F1-DA-A2-07-F1",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 497: Richard L. Sites on Understanding Software Dynamics",
-    "SourceUrl": "http://se-radio.net/episode-497-richard-l-sites-on-understanding-software-dynamics",
-    "Description": "<p>Richard L. Sites discusses his new book Understanding Software Dynamics, which offers expert methods and advanced tools for understanding complex, time-constrained software dynamics in order to improve reliability and performance. Philip Winston spoke with Sites about the five fundamental computing resources CPU, Memory, Disk, Network, and Locks, as well as methods for observing and reasoning when investigating performance problems using the open-source utility KUtrace.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/497-richard-sites-understanding-software-dynamics.mp3?dest-id=23379"
-}

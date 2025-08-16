@@ -1,8 +1,0 @@
-{
-    "Id": "7C-3C-7B-FB-6C-D0-2D-D1-1C-A7-61-2B-5B-B4-9C-DA-C4-F9-B7-0C-1A-AD-AF-65-0C-43-77-46-A6-B4-68-E8",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 292: Philipp Krenn on Elasticsearch",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-292-Philipp-Krenn-on-Elasticsearch.mp3",
-    "Description": "<p>Phillipp Krenn talks with SE Radio\u2019s Jeff Meyerson about Elasticsearch, a scalable search index. The conversation begins with a discussion of search, how it compares to database queries, and what an inverted index is. Phillipp introduces Wikipedia as an example that runs throughout the episode because Wikipedia uses Elasticsearch to power its full-text search. A discussion of Elasticsearch\u2019s scalability ensues, including basic terminology and an explanation of other applications of Elasticsearch.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-292-Philipp-Krenn-on-Elasticsearch.mp3?dest-id=23379"
-}

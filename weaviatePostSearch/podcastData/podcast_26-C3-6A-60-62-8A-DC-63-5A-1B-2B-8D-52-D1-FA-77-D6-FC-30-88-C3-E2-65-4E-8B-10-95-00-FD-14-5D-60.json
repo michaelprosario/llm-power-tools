@@ -1,8 +1,0 @@
-{
-    "Id": "26-C3-6A-60-62-8A-DC-63-5A-1B-2B-8D-52-D1-FA-77-D6-FC-30-88-C3-E2-65-4E-8B-10-95-00-FD-14-5D-60",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Managing Linux Virtual Machines with Tim Warner",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you host Linux in the cloud? Richard talks to Tim Warner about his experience managing Linux instances in Azure. According to Microsoft, about 25% of Azure's VMs are Linux! Tim focuses on the key issue of working with Linux, which is getting familiar with the command line approach of management. Sure, there are GUIs for Linux, but it's all about the command line. The CLI is becoming central to Windows server management as well, and Tim talks about setting up tooling for managing both from the command line. Development on Linux is a common practice in the open source world and becoming an important supported platform in the Microsoft space - dive in!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/3a03adb2-f9e8-405e-a8ba-5c722cc716d3/audio/1113edd9-9aea-4bd9-a2b3-501747eadc39/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

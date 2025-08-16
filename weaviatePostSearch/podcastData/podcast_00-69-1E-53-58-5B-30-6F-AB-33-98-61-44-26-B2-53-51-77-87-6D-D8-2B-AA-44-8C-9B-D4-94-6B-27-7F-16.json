@@ -1,8 +1,0 @@
-{
-    "Id": "00-69-1E-53-58-5B-30-6F-AB-33-98-61-44-26-B2-53-51-77-87-6D-D8-2B-AA-44-8C-9B-D4-94-6B-27-7F-16",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Least Privilege using Group Policy with Jeremy Moskowitz",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Can Group Policy help protect your user's machines? Definitely! Richard chats with Jeremy Moskowitz about his on-going work with group policy, including his cool tool, PolicyPak. Jeremy talks about applying least privilege principles via Group Policy, including a case of a patch from June 2016 that may have broken some of your group policies because the machine that has to apply them doesn't have sufficient privileges! Other important least privilege aspects discussed include better management of local admin accounts, control over who actually makes and changes group policy, and how to deal with users who want to install apps. Lots to learn!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/8cc79d4c-db3f-4d02-b8aa-a36228c918cf/audio/6776f176-e9bf-4dc2-a831-b32f7e00aff9/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

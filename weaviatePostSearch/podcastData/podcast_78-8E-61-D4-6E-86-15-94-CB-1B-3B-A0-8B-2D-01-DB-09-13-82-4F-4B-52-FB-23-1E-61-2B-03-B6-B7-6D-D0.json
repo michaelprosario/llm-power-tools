@@ -1,8 +1,0 @@
-{
-    "Id": "78-8E-61-D4-6E-86-15-94-CB-1B-3B-A0-8B-2D-01-DB-09-13-82-4F-4B-52-FB-23-1E-61-2B-03-B6-B7-6D-D0",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Lessons from a Pen Testers with Paula Januszkiewicz",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Paula is back - with stories of hacking her customer's systems! Richard talks to Paula Januszkiewicz about her work as a penetration tester and what it has revealed about the common vulnerabilities for corporate systems. There are lots of simple things you can do to make your systems less vulnerable - starting with getting patched up! There's a lot of conversation about passwords and account restrictions too, such as making sure that local machine admin accounts do not all have the same password, that service accounts do not allow interactive logins and so on. In Paula's experience, you're always going to get penetrated by some zero-day exploit, so be prepared to defend in depth!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/70ad2476-48af-423b-8ce2-dcbfca526b22/audio/a66bdabb-b381-4cb1-8312-3c3cd0ba1552/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

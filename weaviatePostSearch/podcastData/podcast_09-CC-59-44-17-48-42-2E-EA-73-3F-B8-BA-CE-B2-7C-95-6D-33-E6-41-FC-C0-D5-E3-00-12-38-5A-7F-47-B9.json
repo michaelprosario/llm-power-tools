@@ -1,8 +1,0 @@
-{
-    "Id": "09-CC-59-44-17-48-42-2E-EA-73-3F-B8-BA-CE-B2-7C-95-6D-33-E6-41-FC-C0-D5-E3-00-12-38-5A-7F-47-B9",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Understanding Containers with Jennelle Crothers",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Why should you care about containers? Richard chats with Jennelle Crothers about what container technology does for operations. Like virtualization before it, containers allow you to densify your infrastructure into fewer machines and VMs - and all container tech focuses on configuration-as-code. Containers make sense when you have services that are regularly updated or need to scale elastically. And they work on-premises as well as in the cloud. There are some tricky bits to containers, but if you're looking to provide more services to your customers in less time and at a lower cost, they are certainly worth the look!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/885311e6-191f-44fc-9f07-668633bb04d2/audio/88807d4d-5782-4590-8b84-8c8296a49f13/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

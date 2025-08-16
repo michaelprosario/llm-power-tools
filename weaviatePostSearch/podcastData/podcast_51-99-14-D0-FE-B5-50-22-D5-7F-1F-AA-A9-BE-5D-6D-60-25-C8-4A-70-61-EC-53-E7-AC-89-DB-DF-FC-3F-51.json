@@ -1,8 +1,0 @@
-{
-    "Id": "51-99-14-D0-FE-B5-50-22-D5-7F-1F-AA-A9-BE-5D-6D-60-25-C8-4A-70-61-EC-53-E7-AC-89-DB-DF-FC-3F-51",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Nano Server with Andrew Mason",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Ready for Nano Server? Richard chats with Andrew Mason, one of the folks at Microsoft responsible for creating Nano Server. The conversation dives into the distinctions between Nano Server and Server Core - Core is still around, but Nano is substantially smaller. How much smaller? Less than half a gig! Andrew digs into what Nano Server can and can't do in this version, but don't worry, more is coming and user voice is being used (check the links) if you want to make suggestions to the team. If you're looking for the lightest footprint for Windows Server, you want Nano!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9a9a8fe9-1f7c-4b7f-abb4-e494bedac329/audio/bc3b97eb-c710-42bd-943e-30f1d651e2fa/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

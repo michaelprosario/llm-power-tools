@@ -1,8 +1,0 @@
-{
-    "Id": "5B-A6-97-A9-3B-2D-F6-12-90-01-BB-8F-CA-4C-06-CE-D7-74-63-FB-A1-E0-0F-75-F9-4C-33-AB-F5-F7-86-60",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Monitoring Office 365 with Paul Keely",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Office 365 is growing in popularity - but is it fast enough? Richard chats with Paul Keely about how IT needs to monitor Office 365 to understand performance problems and worse. Paul talks about all the various aspects of performance that can be impacted by working with Office 365, including needing more overall bandwidth. The discussion turns to the Azure Service Map tool that runs on workstations and in the cloud to understand what services are eating resources - and how that can turn up potential malware and security breaches! There are a lot of aspects to understanding exactly what's going on with Office 365 in your org, but it is a solvable problem - dig in!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7dd8cf8c-061c-42bf-8b3a-c5ee57e928f9/audio/26dd1422-8280-4d01-a222-661a091790dc/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

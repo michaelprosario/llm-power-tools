@@ -1,8 +1,0 @@
-{
-    "Id": "06-3B-EE-71-C8-0E-F6-FB-A7-9C-8B-49-51-92-D1-2A-BA-E7-4C-58-29-20-38-2F-AD-A2-FB-CC-22-CB-2E-EB",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "PowerShell 7.4 with Sydney Smith",
-    "SourceUrl": "https://runasradio.com/Shows/Show/929",
-    "Description": "<p>Have you downloaded the latest version of PowerShell? While at the MVP Summit in Redmond, Washington, Richard sat down with Sydney Smith to discuss some of the features in PowerShell 7.4. Sydney talks about the successful delivery of PSResourceGet and PSReadline, two long-in-development features that have reached their so-called \"1.0\" state. The conversation also digs into the ongoing challenge of some sysadmins sticking with PowerShell 5.1, the last of the Windows-only versions. Today, PowerShell 7 has feature parity with 5.1 and many new features that improve the quality, security, and capabilities of PowerShell. Try the latest!</p><p><strong>Links</strong></p><ul><li><a href=\"https://learn.microsoft.com/powershell/scripting/whats-new/what-s-new-in-powershell-74?view=powershell-7.4?WT.mc_id=DT-MVP-10953\">PowerShell 7.4</a></li><li><a href=\"https://github.com/PowerShell/PowerShell\">PowerShell on GitHub</a></li><li><a href=\"https://code.visualstudio.com/docs/languages/powershell\">PowerShell in Visual Studio Code</a></li><li><a href=\"aka.ms/getpowershell\">Get PowerShell</a></li></ul><p>Recorded March 11, 2024</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/b13b86d2-92b4-4767-92ff-4b8f606d33bc/audio/5cc8f1d4-7e08-48e5-bc44-d16d5d174bb7/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

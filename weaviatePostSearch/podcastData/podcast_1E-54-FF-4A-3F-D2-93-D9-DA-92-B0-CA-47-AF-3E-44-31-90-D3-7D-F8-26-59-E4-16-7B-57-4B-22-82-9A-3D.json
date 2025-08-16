@@ -1,8 +1,0 @@
-{
-    "Id": "1E-54-FF-4A-3F-D2-93-D9-DA-92-B0-CA-47-AF-3E-44-31-90-D3-7D-F8-26-59-E4-16-7B-57-4B-22-82-9A-3D",
-    "ContentSourceId": "a59c7e0a-5c5c-488b-96cb-0e11ecabd26f",
-    "Title": "Episode 784: I'll Buy You a Poutine",
-    "SourceUrl": "http://flossweekly.libsyn.com/episode-784-ill-buy-you-a-poutine",
-    "Description": "<p>This week Jonathan Bennett and Dan Lynch talk with Fran\u00e7ois Proulx of BoostSecurity, talking about the Poutine security scanner, available at <a href= \"https://github.com/boostsecurityio/poutine\">https://github.com/boostsecurityio/poutine</a>. It's all about the security vulnerabilities that may lurk in your Github Actions, and Gitlab Pipelines. When someone sends in a pull request, could they run arbitrary code, and is that going to bite you? Listen to find out!</p> <p>You can join the conversation in\u00a0<a href= \"https://discord.gg/GNeFvChvnz?event=1217585022589206670\">the Hackaday Discord</a>, where the show records live each week, as well as getting the full story and show links from Hackaday. Oh, and follow <a href=\"https://hackaday.social/@FLOSS_Weekly\">the official Mastadon account</a>!</p> <p>Theme music: \"Newer Wave\" Kevin MacLeod (incompetech.com)</p> <p>Licensed under Creative Commons: By Attribution 4.0 License</p> <p>http://creativecommons.org/licenses/by/4.0/</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/b27a1a7a-dbb9-4922-ac3e-601e2d6ca1e1/FLOSS-784.mp3?dest-id=4272468"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "94-71-10-7B-ED-AB-AD-BF-36-35-4E-D4-6C-9C-9E-DD-50-8E-93-EC-C0-C7-02-74-77-D8-85-A8-00-40-DB-78",
-    "ContentSourceId": "08ddc66c-88c1-4fd9-9d0f-06779ee4a5cb",
-    "Title": "Explainability, Reasoning, Priors and GPT-3",
-    "SourceUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/Explainability--Reasoning--Priors-and-GPT-3-ejngoj",
-    "Description": "<p>This week Dr. Tim Scarfe and Dr. Keith Duggar discuss Explainability, Reasoning, Priors and GPT-3. We check out Christoph Molnar's book on intepretability, talk about priors vs experience in NNs, whether NNs are reasoning and also cover articles by Gary Marcus and Walid Saba critiquing deep learning. We finish with a brief discussion of Chollet's ARC challenge and intelligence paper.&nbsp;</p>\n<p><br></p>\n<p>00:00:00 Intro</p>\n<p>00:01:17 Explainability and Christoph Molnars book on Intepretability</p>\n<p>00:26:45 Explainability - Feature visualisation</p>\n<p>00:33:28 Architecture / CPPNs</p>\n<p>00:36:10 Invariance and data parsimony, priors and experience, manifolds</p>\n<p>00:42:04 What NNs learn / logical view of modern AI (Walid Saba article)</p>\n<p>00:47:10 Core knowledge</p>\n<p>00:55:33 Priors vs experience&nbsp;</p>\n<p>00:59:44 Mathematical reasoning&nbsp;</p>\n<p>01:01:56 Gary Marcus on GPT-3&nbsp;</p>\n<p>01:09:14 Can NNs reason at all?&nbsp;</p>\n<p>01:18:05 Chollet intelligence paper/ARC challenge</p>\n",
-    "EnclosureUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/19693779/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-16%2F695d4ae5-f139-a089-e008-df535242c8b8.mp3"
-}

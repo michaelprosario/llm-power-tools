@@ -1,8 +1,0 @@
-{
-    "Id": "37-26-7B-BA-9A-08-54-E4-FD-34-16-22-11-73-98-CF-C3-43-50-18-40-81-4F-D8-BF-51-72-32-5E-E1-12-0B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Steven Murawski Explores the StackExchange Infrastructure",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Steven Murawski about his work at StackExchange. The conversation starts out digging into how StackExchange avoided hurricane Sandy by failing the site over from New York to Oregon. Steven also talks about the DevOps attitude at StackExchange, how the developers work closely with operations to test new features, keeping performance and reliability at peak. With his primary responsibility at StackExchange being SQL Server, Steven also discusses the benefits he's gotten from moving SQL Server 2012 over to Server 2012 from Server 2008 R2. Check out the blog posts on ServerFault about Moving to SQL 2012, Working towards failure and  Failing over for Sandy.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/1557740c-79c3-4b88-9eb3-bca5f43f0b78/audio/6ba923f6-d6bc-4709-8252-bd3cd0a1a283/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

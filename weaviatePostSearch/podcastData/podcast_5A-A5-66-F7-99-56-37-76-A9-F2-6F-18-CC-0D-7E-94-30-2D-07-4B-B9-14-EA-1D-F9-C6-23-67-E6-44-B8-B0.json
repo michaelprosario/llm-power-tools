@@ -1,8 +1,0 @@
-{
-    "Id": "5A-A5-66-F7-99-56-37-76-A9-F2-6F-18-CC-0D-7E-94-30-2D-07-4B-B9-14-EA-1D-F9-C6-23-67-E6-44-B8-B0",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 586: Nikhil Shetty on Virtual Private Cloud",
-    "SourceUrl": "http://se-radio.net/se-radio-586-nikhil-shetty-on-virtual-private-cloud",
-    "Description": "<p>Nikhil Shetty, an expert in networking and distributed systems, speaks with SE radio's <a href= \"https://www.se-radio.net/team/kanchan-shringi/\">Kanchan Shringi</a> about virtual private cloud (VPC) and related technologies. They explore how VPC relates to public cloud, private cloud, and virtual private networks (VPNs). The discussion delves into why VPC is fundamental to building on the cloud, as well as configuring a VPC, subnets, and the address space that can be assigned to the VPC. During this episode they look into route tables, network address translation, as well as security groups, network access control lists, and DNS. Finally, Nikhil helps compare VPC offerings from Amazon Web Services (AWS) and Oracle Cloud Infrastructure (OCI).</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/586_nikhil_shetty_on_virtual_private_cloud.mp3?dest-id=23379"
-}

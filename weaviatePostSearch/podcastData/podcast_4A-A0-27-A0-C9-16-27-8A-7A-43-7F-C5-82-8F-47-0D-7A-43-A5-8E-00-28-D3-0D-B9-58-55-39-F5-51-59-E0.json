@@ -1,8 +1,0 @@
-{
-    "Id": "4A-A0-27-A0-C9-16-27-8A-7A-43-7F-C5-82-8F-47-0D-7A-43-A5-8E-00-28-D3-0D-B9-58-55-39-F5-51-59-E0",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 19: Concurrency Pt. 2",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/Wh7E6YT1_JI/",
-    "Description": "In this second part of our concurrency series Michael and Alexander talk about basic patterns for concurrent programming, such as Active and Monitor Object, Scoped Locking and Futures. Further, they discuss some architectural considerations regarding the number of threads and resource usage in general. For more information, see the references for <a href=\"http://se-radio.net/index.php?post_id=81083\">part one</a> as well as the following links",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode19-concurrency_pt2.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "34-38-E4-C6-EF-75-EE-0B-C5-D5-EC-85-6C-07-31-1B-B6-F2-79-22-41-75-29-0A-5B-FF-AA-C7-9A-C2-DD-5A",
-    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
-    "Title": "Owning the code, from integration to delivery",
-    "SourceUrl": "https://stackoverflow.blog/podcast/",
-    "Description": "<p>Today's conversation was inspired by a great <a href=\"https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd/\">blog post</a> from Charity Majors.</p><p>We also discuss the Chrome team's decision to <a href=\"https://developers.google.com/web/updates/2021/01/puppeteer-typescript\">migrate Puppeteer to Typescript</a>, and the way in which large tech organizations are increasingly interconnected by a set of open source tools and platforms.\u00a0</p><p>Lastly, we discuss the impact expanded funding for community colleges could have on the pipeline of software engineers entering the job market.</p><p>Today's lifeboat badge winner is <a href=\"https://stackoverflow.com/users/1176903/abdul-saboor\">Abdul Saboor</a>, who answered the question: <a href=\"https://stackoverflow.com/questions/9773909/convert-negative-data-into-positive-data-in-sql-server/16080886#16080886\">How do you convert negative data into positive data in SQL Server?</a></p>\n",
-    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/4137bdc5-2c61-479f-b424-55bf6e8f04e5/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=4137bdc5-2c61-479f-b424-55bf6e8f04e5&feed=XA_851k3"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "71-D0-FC-5F-C0-43-D3-79-69-16-77-9C-BC-79-3D-49-DE-98-C9-7D-77-81-2D-03-92-66-4A-B5-EF-BA-D3-B5",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Office Macro Security with Karim El-Melhaoui",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Office macros need security? Yes! Richard chats with Karim El-Melhaoui about the issues around Office macros. With default settings, VBA macros in the Office suite are incredibly powerful and are an effective malware vector. While Microsoft has some built-in capabilities to warn users about enabling macros, modern malware makers have been socially engineering users to bypass those protections. You can go heavy handed and disable macros with group policy, but what if you need them? Karim talks about some of the latest features coming in the Windows 10 Creators Update to provide more granular security for Office macros. But maybe it's time to move away from them entirely?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/cfa68ac6-2444-4d56-a926-20b8020d0a7f/audio/cb54af63-4b84-49b0-a6d7-3ccadb0cfa31/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

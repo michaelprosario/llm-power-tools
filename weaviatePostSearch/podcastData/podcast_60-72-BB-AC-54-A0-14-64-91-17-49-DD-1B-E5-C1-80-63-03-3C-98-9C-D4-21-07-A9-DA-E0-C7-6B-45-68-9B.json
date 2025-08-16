@@ -1,8 +1,0 @@
-{
-    "Id": "60-72-BB-AC-54-A0-14-64-91-17-49-DD-1B-E5-C1-80-63-03-3C-98-9C-D4-21-07-A9-DA-E0-C7-6B-45-68-9B",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 568: Simon Bennetts on OWASP Dynamic Application Security Testing Tool ZAP",
-    "SourceUrl": "http://se-radio.net/se-radio-568-simon-bennetts-on-owasp-dynamic-application-security-testing-tool-zap",
-    "Description": "<p data-pm-slice=\"1 1 []\">Simon Bennetts, a distinguished engineer at Jit, discusses one of the flagship projects of OWASP: the Zed Attack Proxy (ZAP) open source security testing tool. As ZAP\u2019s primary maintainer, Simon traces the tool's origins and shares some anecdotes with SE Radio host <a href= \"https://www.se-radio.net/team/priyanka-raghavan/\">Priyanka Raghavan</a> on why there was a need for it. They take a deep dive into ZAP\u2019s features and its ability to integrate with CI/CD, as well as shift security left. Bennetts also considers what it takes to build a successful open source project before spending time on ZAP\u2019s ability to script to provide richer results. Finally, the conversation ends with some questions on ZAP\u2019s future in this AI-powered world of bots.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/568_simon_bennetts_owasp_dynamic_application_security_testing_tool_zap.mp3?dest-id=23379"
-}

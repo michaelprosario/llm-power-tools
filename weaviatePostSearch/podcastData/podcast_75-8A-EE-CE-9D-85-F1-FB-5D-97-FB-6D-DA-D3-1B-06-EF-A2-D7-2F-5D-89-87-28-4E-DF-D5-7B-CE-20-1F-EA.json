@@ -1,8 +1,0 @@
-{
-    "Id": "75-8A-EE-CE-9D-85-F1-FB-5D-97-FB-6D-DA-D3-1B-06-EF-A2-D7-2F-5D-89-87-28-4E-DF-D5-7B-CE-20-1F-EA",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Building a Data Warehouse on Azure with Michael Blumenthal",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you build a data warehouse in Azure? While at That Conference in Wisconsin Dells, Richard sat down with Michael Blumenthal to talk through a particular case study. Michael talks about the early days of Azure, and how for this particular project, Azure was used only as a VM host - entirely an Infrastructure-as-a-Service solution. Using SQL Server and Integration Services, the system gathered data from a number of disparate systems and loaded into separate databases. Then the consolidation! Great stories about making the cloud work!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/905a8a77-b994-403f-a53b-a46987be5b80/audio/e88b4282-565e-443e-9467-c90a9e85685e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

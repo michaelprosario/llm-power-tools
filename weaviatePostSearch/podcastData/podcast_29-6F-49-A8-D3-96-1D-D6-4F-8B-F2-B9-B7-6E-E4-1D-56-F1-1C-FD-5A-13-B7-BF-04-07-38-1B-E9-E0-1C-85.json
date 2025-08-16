@@ -1,8 +1,0 @@
-{
-    "Id": "29-6F-49-A8-D3-96-1D-D6-4F-8B-F2-B9-B7-6E-E4-1D-56-F1-1C-FD-5A-13-B7-BF-04-07-38-1B-E9-E0-1C-85",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Going Deep on Operations Management Suite with Jeremy Winter",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Instrumentation and Automation across clouds and on-premise? Yes! Richard chats with Jeremy Winter about his work bringing Microsoft Operations Management Suite to life in the cloud. Think of it as Monitoring and Management as a Service, although it works just fine with your on-premise systems as well. OMS comes from the System Center world, but it isn't dependent on it - you can use OMS with and without System Center. Jeremy also talks about how other existing instrumentation and automation tools integrate with OMS so that you don't have to do any rip-and-replace, just add OMS on the top for a broader view of your systems. Lots of great links, check them out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/8d2ba855-a1fc-4eb6-9c41-dfbfa28ee4dd/audio/fd5e52a1-1810-4381-80b3-cf063f516082/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

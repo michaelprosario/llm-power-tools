@@ -1,8 +1,0 @@
-{
-    "Id": "97-26-FF-8C-A6-60-CA-43-01-A0-8F-BF-C9-DE-81-2A-11-EC-5D-4A-76-41-5E-4A-83-4F-6B-FF-46-39-A9-61",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Barry Dorrans Deal with the Breach in Certificate Authority Security!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard flies solo to talk to Barry Dorrans, now at Microsoft, about the recent spate of security breaches at Certificate Authorities like Comodo and DigiNotar. What can you as an IT Pro do about this recent set of hacks? Other than replacing your potentially exploited certificate, not a lot. Barry talks about how these exploits have happened, what Microsoft, Google and others are doing about it and some possible long term solutions to the problems. Check out Barry's blog at idunno.org. Barry also mentions an alternative solution to Certificate Authorities called Convergence and why Chrome won't be implementing it.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ed88f145-5167-40cd-aec5-4473be5b425f/audio/7d3fee3c-8e8c-48b9-aff2-2233309d33cb/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

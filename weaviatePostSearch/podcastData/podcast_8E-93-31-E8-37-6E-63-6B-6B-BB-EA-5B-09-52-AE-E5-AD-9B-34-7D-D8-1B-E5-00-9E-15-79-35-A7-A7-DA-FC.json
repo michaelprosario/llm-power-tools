@@ -1,8 +1,0 @@
-{
-    "Id": "8E-93-31-E8-37-6E-63-6B-6B-BB-EA-5B-09-52-AE-E5-AD-9B-34-7D-D8-1B-E5-00-9E-15-79-35-A7-A7-DA-FC",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Data Governance using Azure Purview with Laurie Litwack",
-    "SourceUrl": "https://runasradio.com/Shows/Show/769",
-    "Description": "<p>What is Azure Purview, and how can it help you with data governance? Richard chats with Laurie Litwack about the preview version of Azure Purview. Laurie discusses how Purview focuses on an overall view of data in an organization - collecting metadata about data wherever it is stored. That means collecting information about data in databases, file shares, on-premises, in the cloud, even on the various SaaS platforms like Salesforce. The result is a data catalog that can help your organization utilize data more effectively, as well as understand where sensitive data exists and is being created!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://azure.microsoft.com/services/purview/\">Azure Purview</a></li><li><a href=\"http://aka.ms/tryazurepurview\">Try Azure Purview</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/509c0c78-df12-46cc-ab24-5e8a081abeb6/audio/47d82560-a0cb-48ae-93df-2e8df4aab7fa/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "4F-24-13-C1-D1-21-53-8E-23-63-E4-3A-FC-CF-AC-14-46-4B-09-C8-6F-7B-A6-26-2E-5C-73-32-50-FE-F6-96",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Rhonda Layfield on the Next Generation of Deployment!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Rhonda Layfield about what's coming in the Microsoft deployment tools for Windows 7 and Windows Server 2008 R2. They talk about Windows PE - the Windows Preinstallation environment that presents a minimum install environment (fits on a CD or USB key) which is part of Windows Automated Installation Kit (WAIK). Improvements in the new Microsoft Deployment Toolkit (MDT 2010) that deploys operating systems and application software. Finally, they explore the Windows Deployment Service (WDS).</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/71418ed3-648a-4981-8418-01f5a880080e/audio/004977a6-4ebf-4f69-b52f-be7894b20d30/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

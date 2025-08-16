@@ -1,8 +1,0 @@
-{
-    "Id": "80-B9-C4-D0-AA-00-78-C0-76-B1-E1-E2-BB-48-B1-37-4E-88-40-70-60-B5-D3-D5-9E-F9-35-1B-93-0B-30-5C",
-    "ContentSourceId": "03e85e81-f3bb-4c2c-944d-b6722870407b",
-    "Title": "674: Parameter-Efficient Fine-Tuning of LLMs using LoRA (Low-Rank Adaptation)",
-    "SourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD5458913962.mp3?updated=1716819126",
-    "Description": "\n        <p>Models like Alpaca, Vicu\u00f1a, GPT4All-J and Dolly 2.0 have relatively small model architectures, but they're prohibitively expensive to train even on a small amount of your own data. The standard model-training protocol can also lead to catastrophic forgetting. In this week's episode, Jon explores a solution to these problems, introducing listeners to Parameter-Efficient Fine-Tuning (PEFT) and the leading approach: Low-Rank Adaptation (LoRA).<br><br>Additional materials:<a href=\"https://www.superdatascience.com/672\"> </a><a href=\"https://www.superdatascience.com/674\">www.superdatascience.com/674</a><br><br>Interested in sponsoring a SuperDataScience Podcast episode? Visit <a href=\"https://www.jonkrohn.com/podcast\">JonKrohn.com/podcast</a> for sponsorship information.</p>\n      ",
-    "EnclosureUrl": "https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD5458913962.mp3?updated=1716819126"
-}

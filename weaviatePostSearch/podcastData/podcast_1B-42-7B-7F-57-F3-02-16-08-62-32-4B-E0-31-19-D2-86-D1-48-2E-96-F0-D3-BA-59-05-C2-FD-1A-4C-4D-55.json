@@ -1,8 +1,0 @@
-{
-    "Id": "1B-42-7B-7F-57-F3-02-16-08-62-32-4B-E0-31-19-D2-86-D1-48-2E-96-F0-D3-BA-59-05-C2-FD-1A-4C-4D-55",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Migrating to Azure SQL with Anna Hoffman",
-    "SourceUrl": "https://runasradio.com/Shows/Show/767",
-    "Description": "<p>What's the right way to migrate SQL workloads to the cloud? Richard chats with Anna Hoffman about the expanding array of choices we have today for moving your SQL Server to Azure. Anna talks about the great support for running SQL Server in an Azure Virtual Machine - and why that sometimes makes the most sense for folks! Then there's moving into Azure SQL, which has some differences to regular SQL Server, but you will find it familiar. The conversation also turns to migrating other databases as well - and the migration tools that provide guidance and tooling to make it easier than ever!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://channel9.msdn.com/Shows/Data-Exposed\">Data Exposed</a></li><li><a href=\"https://docs.microsoft.com/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview\">SQL Server on Azure Virtual Machine</a></li><li><a href=\"https://datamigration.microsoft.com/\">Azure Data Migration Guidance</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c73cfb6a-1adc-4c15-9d83-db5d6504a50c/audio/078d0f5c-cce0-47c2-bf8a-2709f218a631/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

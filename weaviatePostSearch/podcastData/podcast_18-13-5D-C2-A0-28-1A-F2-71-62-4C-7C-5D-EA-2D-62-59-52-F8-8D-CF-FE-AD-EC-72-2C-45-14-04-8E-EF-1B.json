@@ -1,8 +1,0 @@
-{
-    "Id": "18-13-5D-C2-A0-28-1A-F2-71-62-4C-7C-5D-EA-2D-62-59-52-F8-8D-CF-FE-AD-EC-72-2C-45-14-04-8E-EF-1B",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "How Kasten\u2019s Ongoing Contribution to Open Source Bears Fruit for Stateful Storage",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/how-kastens-ongoing-contribution-to-open-source-bears-fruit-for-stateful-storage-qI696eg7",
-    "Description": "<p>This The New Stack Makers podcast explores the state of open source software today and features a case example of what is possible: Kasten by Veeam has created Kubestr to identify, validate and evaluate storage systems running in cloud native environments. As Michael Cade, a senior global technologist for Veeam, describes Kubestr, the open source tool provides information about what storage solutions are available for particular Kubernetes clusters and how well they are performing. The software project is also intended to offer DevOps teams an \u201ceasy button\u201d to automate these processes.</p>\n<p>Hosted by Alex Williams, founder and publisher of The New Stack, Cade and fellow guest Sirish Bathina, a software engineer, for Kasten, describe Kasten\u2019s long-standing collaboration with the open source community and how Kubestr serves as case study example of both an ambitious open source project and what is possible today for stateful storage in Kubernetes environments.</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/8c6ea885-eeb4-41fe-862b-5e08f9032bc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=8c6ea885-eeb4-41fe-862b-5e08f9032bc4&feed=IgzWks06"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "54-55-02-3A-4C-20-A5-A6-75-47-E6-C9-75-65-8A-42-8F-EF-EC-19-F4-5E-08-AD-B5-C1-61-E8-69-F3-A8-1A",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Mobile Application Management with Simon May",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you manage the security of documents around individual applications on a mobile device? Richard talks to Simon May about Microsoft InTune Mobile Application Management (MAM). MAM allows IT folks to specify security privileges on an app-by-app and document-by-document basis. The identity role is handled by Azure Active Directory, and the entire Office 365 suite is supported - but so are products from Adobe, FoxIt, SAP and more. Documents can be time-limited (very spy novelish!) and even have individual parts of a document (like a paragraph) have different privileges. This looks to be a lighter-weight way to allow bring-your-own-device to protect corporate documents while leaving personal content alone. Check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/90432193-9d71-441e-a382-5c733053edf5/audio/a6e54a6b-50b4-4c89-8bbc-3e08437e004f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

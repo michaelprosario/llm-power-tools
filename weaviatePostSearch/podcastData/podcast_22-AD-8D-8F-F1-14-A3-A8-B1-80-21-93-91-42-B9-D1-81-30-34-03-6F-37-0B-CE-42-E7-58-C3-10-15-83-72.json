@@ -1,8 +1,0 @@
-{
-    "Id": "22-AD-8D-8F-F1-14-A3-A8-B1-80-21-93-91-42-B9-D1-81-30-34-03-6F-37-0B-CE-42-E7-58-C3-10-15-83-72",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Testing Databases with Dan Mallott",
-    "SourceUrl": "https://runasradio.com/Shows/Show/959",
-    "Description": "<p>How do you test your database? While at NDC Porto, Richard chatted with Dan Mallott about building unit tests for transactional databases like SQL Server. Dan talks about using testing frameworks constructed for the purpose, like TSQL-T, to make it easier to test individual database elements, from stored procedures to column constraints. The conversation digs into the challenges around testing, tolerating the changes to the database, and tweaking how you write your T-SQL code to be more testable. But the power of getting database tests into your CI/CD pipeline is enormous - catch more problems in testing before they become problems in production!</p><p><strong>Links</strong></p><ul><li><a href=\"https://tsqlt.org/\">tsqlt</a></li><li><a href=\"https://dbfit.github.io/dbfit/\">DbFit</a></li></ul><p>Recorded October 17, 2024</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a96213cd-7f4d-4b64-9492-842563bb4b12/audio/b481a271-b026-4449-99a0-e54cac0eb67a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

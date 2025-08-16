@@ -1,8 +1,0 @@
-{
-    "Id": "65-BE-9D-1D-F9-33-8E-F0-46-89-2D-94-26-5B-B8-82-AF-8D-2B-EA-34-3D-7A-95-81-F5-F3-06-84-E2-86-DE",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Using PowerShell in Linux with Timothy Warner",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>PowerShell? On Linux? Why would you DO that? Richard chats with Tim Warner about the recent announcements around making PowerShell open source and available on Linux and Mac OS. What does this mean? The Linux world has been script-driven since it was Unix, so does PowerShell make any sense? Tim talks about coming up with common ways to manage both Windows and Linux machines, and where PowerShell adds some interesting capabilities by being far more object-oriented than text-file-oriented. It's still early days, and there's only an alpha version on GitHub to experiment with, but it looks to be interesting times in the future!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/127b8625-00f3-4ccd-9ea4-e426c3690538/audio/9a9910c9-44ab-4549-9c82-9ed9b335fc39/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

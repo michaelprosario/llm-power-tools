@@ -1,8 +1,0 @@
-{
-    "Id": "0C-4B-03-ED-7D-27-D7-55-89-87-B8-EA-C7-87-44-57-CC-CB-F6-D3-7D-DA-E0-ED-47-A1-25-2D-62-20-70-83",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Writing FaceBook Applications with .NET - Interview with Mel Sampat, author of Outsync",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>In this episode, Scott talks with Mel Sampat, a Program Manager at Microsoft who's written OutSync, an application that syncs faces between Outlook, Facebook, and indirectly Windows SmartPhones. They chat about what it takes to write your own FaceBook application using ASP.NET or WinForms.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/90899c74-d3f9-4a2d-b6ae-12f4dfdc3356/f58066ae_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

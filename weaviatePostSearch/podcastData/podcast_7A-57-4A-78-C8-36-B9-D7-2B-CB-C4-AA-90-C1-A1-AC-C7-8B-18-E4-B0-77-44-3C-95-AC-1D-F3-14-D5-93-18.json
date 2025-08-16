@@ -1,8 +1,0 @@
-{
-    "Id": "7A-57-4A-78-C8-36-B9-D7-2B-CB-C4-AA-90-C1-A1-AC-C7-8B-18-E4-B0-77-44-3C-95-AC-1D-F3-14-D5-93-18",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Jeremy Moskowitz Looks at Group Policy in Windows 8!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>During the US Thanksgiving break of the .NET Rocks Visual Studio 2012 Launch Road Trip, Richard chatted with Jeremy Moskowitz about the new group policy features in Windows 8. The discussion starts out with a digression talking about how to influence features in the Microsoft stack before steering back on the subject of Group Policy, specifically Group Policy Preferences with Server 2012 and Windows 8. Jeremy digs into some of the new features available, as well as talking about how his product PolicyPak can help with applying policies to third party products. He also mentions a number of blogs including his own GP Blog, Darren Mar-Elia's GPOGuy and Alan Burchill's Group Policy Central for finding out more about group policy.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/00bfd4a5-a8f1-477a-ae42-78973499a62a/audio/b186c58d-9e5d-4daa-ab8c-a176a66f171e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

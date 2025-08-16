@@ -1,8 +1,0 @@
-{
-    "Id": "73-0F-D4-5A-33-C9-6A-CC-E8-11-72-71-F6-18-6C-1B-3D-B8-1C-A2-68-46-DF-89-F2-15-0F-C6-21-57-39-4F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Fixing Problem WiFi Devices using Tonic with Ryan Woodings",
-    "SourceUrl": "https://runasradio.com/Shows/Show/824",
-    "Description": "<p>We all have those problem WiFi devices - how do you fix them? Richard chats with Ryan Woodings about Tonic, the latest product from MetaGeek that helps you analyze WiFi traffic by the device to understand its problems. Ryan talks about tracking WiFi-specific information, including what AP a client is connecting to and all the intimate details of WiFi connection negotiating. Tools like Tonic can identify a broken antenna in a device based on that traffic or just poor decision-making by the WiFi chipset - and what you can do about it!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.metageek.com/products/signifi/business/\">Signifi for Business</a></li><li><a href=\"https://www.wireshark.org/\">WireShark</a></li></ul><p>Recording March 3, 2022</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2cea02f5-576a-47dc-b3c9-34cc087308a7/audio/57814485-eb8f-4c3e-8fa7-d6626fbea887/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

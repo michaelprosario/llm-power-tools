@@ -1,8 +1,0 @@
-{
-    "Id": "7E-31-29-29-05-E0-FE-A9-9A-A3-F5-8E-50-DC-C0-70-3A-F6-A6-BD-D8-4E-57-89-54-E3-9B-A8-1C-1E-6B-59",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 264: James Phillips on Service Discovery",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-264-James-Phillips-on-Service-Discovery.mp3",
-    "Description": "<p>Charles Anderson talks with James Phillips about service discovery and Consul, an open-source service discovery tool. The discussion begins by defining what service discovery is, what data is stored in a service discovery tool, and some scenarios in which it\u2019s used. Then they dive into some details about the components of a service discovery tool and how reliability is achieved as a distributed system. Finally, James discusses Consul, the functions it provides, and how to integrate it with existing applications, even if they use configuration files instead of a service discovery tool.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-264-James-Phillips-on-Service-Discovery.mp3"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "37-DD-E1-E2-D8-BC-3B-E3-1E-4E-13-6C-BA-F2-EA-9E-D2-4A-84-E8-48-5C-85-17-B4-F9-94-2B-E5-11-80-A4",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Linux on Hyper-V with Kevin Kelling",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Why would you run Linux on Hyper-V? Richard chats with Microsoft Premier Field Engineer Kevin Kelling about his experiences working with a customer that had tens of thousands of virtual machines running Hyper-V - enough that the licensing of the VMs became an issue! And since Windows Server Data Center edition allows for unlimited Hyper-V instances, the effort was on to make those Linux-based VMs run well in Hyper-V - and with the right tweaking, they do! Great story about digging deeply into how Hyper-V works!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9c553060-134a-40bf-a114-1f5d23b534ba/audio/b11ffc28-f7d1-4a77-a428-544174b8da20/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

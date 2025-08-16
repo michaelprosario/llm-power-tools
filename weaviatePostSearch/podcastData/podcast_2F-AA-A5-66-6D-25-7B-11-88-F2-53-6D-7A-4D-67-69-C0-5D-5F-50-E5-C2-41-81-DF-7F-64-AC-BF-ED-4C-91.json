@@ -1,8 +1,0 @@
-{
-    "Id": "2F-AA-A5-66-6D-25-7B-11-88-F2-53-6D-7A-4D-67-69-C0-5D-5F-50-E5-C2-41-81-DF-7F-64-AC-BF-ED-4C-91",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "BYOD and PKI with Brian Komar",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Brian Komar about the issues around Bring Your Own Device (BYOD) policies and Public Key Infrastructure (PKI). Brian starts out talking about being a responsible PKI authority within your organization and how certificate revocation lists (CRLs) are a bigger issue than ever. From there, the conversation turns to the challenges of actually securing the delivery of certificates to devices that are never going to be joined to active directory. Actually understanding the costs of BYOD are an important part of the equation - maybe it's cheaper, simpler and safer to just distribute company devices to everyone?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/04fdf921-da63-4fef-9bbc-d5990656d8d3/audio/08fdf379-7c86-43d5-818d-9e711889e3e8/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

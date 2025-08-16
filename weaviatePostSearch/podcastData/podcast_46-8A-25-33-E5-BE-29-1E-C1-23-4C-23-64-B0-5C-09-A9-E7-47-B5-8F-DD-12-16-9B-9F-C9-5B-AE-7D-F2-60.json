@@ -1,8 +1,0 @@
-{
-    "Id": "46-8A-25-33-E5-BE-29-1E-C1-23-4C-23-64-B0-5C-09-A9-E7-47-B5-8F-DD-12-16-9B-9F-C9-5B-AE-7D-F2-60",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Upgrading GitHub and improving Rails with Eileen Uchitelle",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Eileen Uchitelle is a Senior Systems Engineer at GitHub and a member of the Rails Core Team. They recently upgraded GitHub two major versions to the latest Rails. How do you manage such a large upgrade and the technical debt underneath - with no downtime? How do you also move improvements in GitHub's own branch upstream into Rails so everyone can benefit! Eileen explains it all to Scott in this episode.</p>\n<ul>\n<li><a href=\"https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/\">Upgrading GitHub from Rails 3.2 to 5.2</a></li>\n</ul>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/fa37608a-d2fc-449a-bcbd-5797df1fa065/8bbaee5a_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

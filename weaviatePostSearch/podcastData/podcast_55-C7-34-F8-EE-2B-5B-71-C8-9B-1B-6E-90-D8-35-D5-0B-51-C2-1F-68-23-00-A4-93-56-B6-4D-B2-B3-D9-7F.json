@@ -1,8 +1,0 @@
-{
-    "Id": "55-C7-34-F8-EE-2B-5B-71-C8-9B-1B-6E-90-D8-35-D5-0B-51-C2-1F-68-23-00-A4-93-56-B6-4D-B2-B3-D9-7F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Chef on Windows with Steven Murawski",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Steven Murawski on the day he is leaving Stack Exchange to join the Chef team as a Community Manager. So naturally, the conversation turns to Chef. Chef is a configuration management system that comes from the Linux world - it's scripting language is Ruby. But in the past year, Chef has added Windows to it's repertoire with support from Microsoft and Desired State Configuration. Steven mentions a free DSC EBook you can download from Powershell.org to help get you started on DSC. There's also the Learn Chef site to get you started on Chef. It's early days for Chef and Windows, but things continue to improve - Steven also mentions John Ewart's book Managing Windows Servers with Chef as a starting point for managing Windows and Linux servers side by side.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a498b8a8-ba70-4ef6-9ad0-b6b5e6b5f5f4/audio/fb75113e-d189-444b-bd65-7ecb9bf8ddd6/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

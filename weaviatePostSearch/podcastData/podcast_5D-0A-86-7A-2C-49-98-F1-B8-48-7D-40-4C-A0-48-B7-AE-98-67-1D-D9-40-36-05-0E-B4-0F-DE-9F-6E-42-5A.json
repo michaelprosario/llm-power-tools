@@ -1,8 +1,0 @@
-{
-    "Id": "5D-0A-86-7A-2C-49-98-F1-B8-48-7D-40-4C-A0-48-B7-AE-98-67-1D-D9-40-36-05-0E-B4-0F-DE-9F-6E-42-5A",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 69: Nico Josuttis on SOA (SOA Pt. 3)",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/9aGzlahHra4/",
-    "Description": "This Episode is part five in our (probably ongoing) series on service oriented architecture. In this episode we talk to Nico Josuttis, who has recently published a <a href=\"http://www.soa-in-practice.com/\">book </a>on this topic. As its title \"SOA in Practice\" suggests, it is a very pragmatic book based on Nico's experience as architect and project lead in a number of enterprise-level projects - not all of them had been called SOA, since they at the time the term was not yet coined. The episode discusses some technical aspects of SOA (such as loose coupling, messaging and ESBs), but mainly focusses on non-technical aspects of implementing an SOA.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode69-nicoJosuttisOnSOA.mp3?dest-id=23379"
-}
