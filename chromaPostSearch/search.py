@@ -15,7 +15,7 @@ import uuid
 
 # setup chromadb
 repo = ChromaDataRepository()
-collection = repo.get_collection("posts")
+collection = repo.get_collection("podcasts")
 
 while True:
     query = input("Enter a search query (or 'exit' to quit): ")
@@ -38,7 +38,7 @@ while True:
         distance = results['distances'][0][i] if 'distances' in results else None
         
         #print(f"\nResult {i+1}:")
-        print(f"Title: {metadata['title']}")        
-        print(f"Source URL: {metadata['sourceUrl']}")
+        print(f"Title: {metadata['Title']}")        
+        print(f"Source URL: {metadata['SourceUrl']}")
 
         print("-" * 80)
