@@ -28,6 +28,9 @@ COPY chromaPostSearch/search.py /app/chromaPostSearch/
 # Copy the existing chroma database
 COPY chromaPostSearch/chroma_db/ /app/chromaPostSearch/chroma_db/
 
+# populate the chroma.sqlite3 from google storage bucket
+#RUN curl -o /app/chromaPostSearch/chroma_db/chroma.sqlite3 https://storage.googleapis.com/team-focus-data/chroma.sqlite3
+
 # Create __init__.py files for proper Python package structure
 RUN touch /app/genAiPowerToolsInfra/__init__.py
 RUN touch /app/chromaPostSearch/__init__.py
