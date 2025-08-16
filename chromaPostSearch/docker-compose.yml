@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  chromapostsearch:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      # Optional: Mount a local volume for persistent ChromaDB data
+      - chroma_data:/app/chromaPostSearch/chroma_db
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  chroma_data:
