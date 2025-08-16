@@ -1,8 +1,0 @@
-{
-    "Id": "DD-A8-5C-C7-16-91-9C-DE-71-7D-6C-37-78-69-AD-C4-0C-22-B8-60-FD-6C-45-A3-B2-EB-F9-DF-49-36-17-40",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "A Boring Kubernetes Release",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/kubernetes-127-NgFsDuDc",
-    "Description": "<p><a href=\"https://thenewstack.io/kubernetes-1-27-arrives/\">Kubernetes release 1.27</a> is boring, says <a href=\"https://github.com/salaxander\">Xander Grzywinski</a>, a senior product manager at Microsoft.</p><p>It's a stable release, Grzywinski said on this episode of The New Stack Makers from KubeCon Europe in Amsterdam.</p><p>\"It's reached a level of stability at this point,\" said Grzywinski. \"The core feature set has become more fleshed out and fully realized.</p><p>The release has 60 total features, Grzywinski said. The features in 1.27 are solid refinements of features that have been around for a while. It's helping Kubernetes be as stable as it can be.</p><p>Examples?</p><p>It has a better developer experience, Grzywinski said. Storage primitives and APIs are more stable.</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/ea02f6c6-ae13-4450-bf61-50e33e93b14d/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=ea02f6c6-ae13-4450-bf61-50e33e93b14d&feed=IgzWks06"
-}

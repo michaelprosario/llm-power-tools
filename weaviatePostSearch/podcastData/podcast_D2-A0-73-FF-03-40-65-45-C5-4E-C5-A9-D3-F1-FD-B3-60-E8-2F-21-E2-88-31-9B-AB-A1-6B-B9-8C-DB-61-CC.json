@@ -1,8 +1,0 @@
-{
-    "Id": "D2-A0-73-FF-03-40-65-45-C5-4E-C5-A9-D3-F1-FD-B3-60-E8-2F-21-E2-88-31-9B-AB-A1-6B-B9-8C-DB-61-CC",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Bruce Adamczak Makes DHCP Highly Available in Server 2012!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Microsoft PFE Bruce Adamczak about the new high availability features for DHCP in Server 2012. The conversation digs into the problems in DHCP and some of the fundamental strategies for dealing with implementing DHCP to be survivable. Bruce then talks about how Server 2012 allows active-active and active-passive groups (don't call them clusters!) of DHCP servers in Server 2012. You can read more about DHCP high availability at Bruce's Blog. Also check out the Windows Team DHCP Blog. Time to think about a more robust DHCP implementation!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/864936ac-db92-4f4c-b384-b74c6c52c9aa/audio/33b5931b-855b-4d02-bba3-317289143959/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

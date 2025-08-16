@@ -1,8 +1,0 @@
-{
-    "Id": "E2-EB-C0-C3-58-63-EF-86-37-0E-50-9E-48-2D-87-8D-27-8D-97-3B-F3-CA-CB-1B-7D-00-AC-74-E3-D9-66-97",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 484: Audrey Lawrence on Timeseries Databases",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-484-Audrey-Lawrence-on-Timeseries-Databases.mp3",
-    "Description": "<p>Audrey Lawrence of Amazon discusses Timeseries Databases and their new database offering Amazon Timestream. Philip Winston spoke with Lawrence about data modeling, ingestion, queries, performance, life-cycle management, hot data vs. cold data...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-484-Audrey-Lawrence-on-Timeseries-Databases.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "D5-92-98-27-85-BA-D9-2D-39-15-76-CC-25-93-F2-80-60-FE-3E-85-84-FC-2A-7F-D4-A4-4A-9F-75-21-E5-3E",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "The State of Object-Relational Mapping with Frans Bouma",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to LLBLGEN author Frans Bouma about the state of Object Relational Mappers in .NET. Will the relational database die, or are we just lacking the proper tools? Should an ORM hide the fact we have a database and just make everything look like objects?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/48776fdf-68d7-4d5f-a17b-3f4b7ede44c1/4c632a57_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

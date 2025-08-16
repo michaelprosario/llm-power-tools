@@ -1,8 +1,0 @@
-{
-    "Id": "EE-A0-00-12-84-8D-12-23-41-C1-EB-C5-17-37-6B-18-EC-EE-3E-A6-52-43-2C-23-D1-D8-AD-3E-3A-8C-EE-11",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Azure Stack HCI with Sarah Lean",
-    "SourceUrl": "https://runasradio.com/Shows/Show/853",
-    "Description": "<p>Why do you need Azure Stack? Richard chats with Sarah Lean about the capabilities Azure Stack HCI brings to your organization. Sarah describes the three flavors of Azure Stack, including Hub, Edge, and HCI - short for Hyper-Converged Infrastructure. While all the options act like a part of Azure, they are optimized for different needs, but primarily focus on putting Azure-style compute closer to where you need it, perhaps as part of a machine learning solution, IoT, and so on. Azure Arc plays a role in giving you a broad view of your cloud assets, Stack assets, and regular on-premises resources also!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://azure.microsoft.com/products/azure-stack/hci/#overview\">Azure Stack HCI</a></li><li><a href=\"https://azure.microsoft.com/products/azure-arc/#overview\">Azure Arc</a></li><li><a href=\"https://techcommunity.microsoft.com/t5/azure-stack-blog/what-s-new-for-azure-stack-hci-at-microsoft-ignite-2022/ba-p/3650949\">Azure Stack HCI Pro 2</a></li><li><a href=\"https://www.microsoft.com/azure/partners/fasttrack-for-azure\">FastTrack for Azure</a></li></ul><p>Recorded October 24, 2022</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/124cf37d-a183-4975-aa5a-2e5a2567229e/audio/4d1ab298-727b-40ec-987c-3200bdc29ae0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

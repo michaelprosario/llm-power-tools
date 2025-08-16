@@ -1,8 +1,0 @@
-{
-    "Id": "B5-A4-4A-50-48-7F-34-14-49-17-F4-F6-21-B0-15-F3-C8-F7-DD-F9-06-F6-36-06-9C-66-91-5D-9F-31-EE-B2",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Doing Deployment Right with Johan Arwidmark",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Johan is back, and still doing deployment right! Richard talks to Johan Arwidmark about best practices and clear thinking around deployment. Johsan starts out with the idea that with the speed of updates coming these days, you really need to have a good lab. While it's awesome to test on native client hardware, it's not always possible - but testing in VMs is still a good idea! The conversation also goes to the need for caching of updates with WSUS and Configuration Manager - the network is the constrained resource and updates are only getting larger!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e8f2968d-7252-43ec-ab90-c2521340a70b/audio/2fba98a5-0a5d-4bcd-8f2c-4e2ededcdb27/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

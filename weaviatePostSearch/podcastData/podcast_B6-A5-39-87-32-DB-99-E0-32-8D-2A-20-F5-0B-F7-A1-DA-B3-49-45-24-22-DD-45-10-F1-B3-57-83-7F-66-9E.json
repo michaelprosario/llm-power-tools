@@ -1,8 +1,0 @@
-{
-    "Id": "B6-A5-39-87-32-DB-99-E0-32-8D-2A-20-F5-0B-F7-A1-DA-B3-49-45-24-22-DD-45-10-F1-B3-57-83-7F-66-9E",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 386: Building Low Latency Applications with WebRTC",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-386-Building-Low-Latency-Applications-with-WebRTC.mp3",
-    "Description": "<p>WebRTC provides real time video and audio streaming capabilities to applications. Spencer Dixon explains the different parts of WebRTC and how they used it to build a pair programming application.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-386-Building-Low-Latency-Applications-with-WebRTC.mp3"
-}

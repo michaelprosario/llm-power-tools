@@ -1,8 +1,0 @@
-{
-    "Id": "FA-90-BC-17-33-FC-5D-19-50-D8-ED-48-CB-D0-4E-D0-71-B5-74-5C-74-A0-D3-BE-76-FB-C0-B2-65-7C-9A-0B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "ARM Templates at Scale with Pierre Roman",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>ARM Templates are awesome - but what happens when they get big? Richard chats with Pierre Roman on the Cloud Advocates team at Microsoft about how ARM Templates are evolving to help you manage them when they get more sophisticated. Pierre talks about all the challenging bits of scaling ARM Templates, including modularizing, testing, and using source control. Your infrastructure-as-code is code, and it needs care and feeding to be as good as it can be, especially as things get more complex!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/8d615b53-5053-469a-88cb-3de75e513ee0/audio/5461fa6b-5b2e-493b-bdc0-cf957db9247a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "B0-60-C4-49-A3-C2-7D-E6-7B-2C-18-3C-19-2E-14-9B-C7-C1-16-67-B7-9C-D8-6B-D4-F9-92-CD-92-91-07-A8",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "Siloscape: Windows Container Malware That Breaks Kubernetes",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/siloscape-windows-container-malware-that-breaks-kubernetes-WMS9syhJ",
-    "Description": "<p>In March, <a href=\"https://www.linkedin.com/in/prizmant\">Daniel Prizmant</a>, senior security researcher for <a href=\"https://www.paloaltonetworks.com/cloud-security?utm_content=inline-mention\" target=\"_blank\">Palo Alto Networks</a>, uncovered the malware targeting Windows containers, calling the exploit \u201cSiloscape.\u201d In a <a href=\"https://unit42.paloaltonetworks.com/siloscape/\">blog post</a>, he wrote the emergence of such an attack was not \u201cnot surprising given the massive surge in cloud adoption over the past few years.\u201d</p><p>In this edition of The New Stack Makers podcast, Prizmant, as the guest, described what makes Siloscape a threat for Kubernetes clusters \u2014 both for Linux and Windows containers.</p><p>The New Stack\u2019s publisher and founder, <a href=\"https://thenewstack.io/author/alex/\">Alex Williams</a>, hosted this episode.</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/eb7c7f81-e090-4ec9-937d-9838f362a1b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=eb7c7f81-e090-4ec9-937d-9838f362a1b8&feed=IgzWks06"
-}

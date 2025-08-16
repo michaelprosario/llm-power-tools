@@ -1,8 +1,0 @@
-{
-    "Id": "CE-CF-CB-A0-C7-60-0D-88-88-A9-A3-E4-20-CC-91-06-1C-E4-3C-E0-19-0C-EC-B4-25-C4-CA-0B-F1-FA-D1-A6",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Clint Huffman Announces PAL Version 2!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Clint Huffman from Microsoft's Premier Field Engineering (PFE) about the new version of Performance Analysis of Logs (PAL). PAL is available on CodePlex at http://pal.codeplex.com. It's job is to help you analyze performance monitor logs for various Microsoft applications and identify out-of-normal values. PAL solves the key problem of Performance Monitor - identifying what numbers are good, what numbers are bad, and what numbers are ugly. Check out Clint's blog at http://blogs.technet.com/clinth.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/96a3f014-e3df-46bc-9625-9019f64bd210/audio/e7822fbf-8e83-45bc-b730-38d3ba52937b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

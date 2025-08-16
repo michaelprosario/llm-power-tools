@@ -1,8 +1,0 @@
-{
-    "Id": "9F-FB-74-54-2C-96-F4-24-CA-57-EB-0B-9E-0F-C9-C8-9D-19-38-1C-89-66-B0-B0-E7-58-EC-F2-C6-52-E3-49",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Group Policy Pak with Jeremy Moskowitz",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>While at Tech Ed 2014 in Houston, Richard chats with Jeremy Moskowitz about group policy in Windows 8. Jeremy talks about his session at Tech Ed called Group Policy Notes from the Field which focuses on how group policy is often unfairly blamed for performance problems. Check out the video and watch for a link at the end of it to get access to the performance tools that Jeremy uses! The conversation also digs into PolicyPak, the tools Jeremy and his team have built to allow group policy to apply to third party products like FireFox. And the latest incarnation works in the cloud against non-domain-joined machines!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/07122033-2608-4ebe-a196-8c163e028184/audio/cbe832cb-e66b-4a79-bfb2-7541ccd2e6cd/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

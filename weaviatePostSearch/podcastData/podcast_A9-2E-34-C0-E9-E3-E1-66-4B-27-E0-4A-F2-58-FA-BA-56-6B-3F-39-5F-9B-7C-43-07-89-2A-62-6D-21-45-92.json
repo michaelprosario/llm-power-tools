@@ -1,8 +1,0 @@
-{
-    "Id": "A9-2E-34-C0-E9-E3-E1-66-4B-27-E0-4A-F2-58-FA-BA-56-6B-3F-39-5F-9B-7C-43-07-89-2A-62-6D-21-45-92",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 577: Casey Muratori on Clean Code, Horrible Performance?",
-    "SourceUrl": "http://se-radio.net/se-radio-577-casey-muratori-on-clean-code-horrible-performance",
-    "Description": "<p data-pm-slice=\"1 1 []\">Casey Muratori caused some strong reactions with a blog post and an associated video in which he went through an example from the \u201cClean Code\u201d book by Robert Martin to demonstrate the negative impact that clean code practices can have on performance. In this episode, he joins SE Radio\u2019s <a href= \"https://www.se-radio.net/team/giovanni-asproni/\">Giovanni Asproni</a> to talk about the potential trade-offs between performance and the qualities that make for maintainable code, these qualities being the main focus of Clean Code. Brought to you by IEEE Computer Society and IEEE Software magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/577_Casey_Muratori_Clean_Code_Horrible_Performance.mp3?dest-id=23379"
-}

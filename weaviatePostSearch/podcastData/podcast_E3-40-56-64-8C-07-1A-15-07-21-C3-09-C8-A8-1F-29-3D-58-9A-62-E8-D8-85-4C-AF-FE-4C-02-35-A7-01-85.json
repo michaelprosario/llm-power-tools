@@ -1,8 +1,0 @@
-{
-    "Id": "E3-40-56-64-8C-07-1A-15-07-21-C3-09-C8-A8-1F-29-3D-58-9A-62-E8-D8-85-4C-AF-FE-4C-02-35-A7-01-85",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Improving Help Desk Using PowerShell with David das Neves",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How can PowerShell improve your help desk? Richard chats with David das Neves about his work improving the efficiency of a help desk by writing PowerShell scripts. Not the most obvious role for PowerShell, but David walks through the process of finding common tech support requests that can benefit significantly from automation, rather than mouse click - like uninstalling and reinstalling Java! This leads to a conversation about creating mature, shareable and maintainable PowerShell scripts that multiple people can use reliably and safely. Think bigger with PowerShell!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/385c1316-cb10-4a5c-943b-f6bd5b065590/audio/f31a5b7e-b6a5-497e-9a2e-52b57ceddc92/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

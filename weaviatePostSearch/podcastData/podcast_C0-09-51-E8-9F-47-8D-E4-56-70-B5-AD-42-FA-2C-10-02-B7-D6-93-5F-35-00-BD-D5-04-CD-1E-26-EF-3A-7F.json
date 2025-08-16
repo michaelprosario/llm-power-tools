@@ -1,8 +1,0 @@
-{
-    "Id": "C0-09-51-E8-9F-47-8D-E4-56-70-B5-AD-42-FA-2C-10-02-B7-D6-93-5F-35-00-BD-D5-04-CD-1E-26-EF-3A-7F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Windows Linux Subsystem with Tara Raj and Sarah Cooley",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Linux on Windows! While at Build in Seattle, Richard talked to Tara Raj and Sarah Cooley about Windows Subsystem for Linux (WSL). While you've been able to run Linux in virtual machines and containers for a long time, WSL actually lets you run Linux in a command line inside Windows. Why would you do that? Sarah and Tara focuses on the biggest benefit, which is taking advantage of great Linux command line tools and scripts.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a7b463bd-9de2-4195-b288-00eb6fbe1f51/audio/94049185-fd58-4364-bb5d-45c881be406a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

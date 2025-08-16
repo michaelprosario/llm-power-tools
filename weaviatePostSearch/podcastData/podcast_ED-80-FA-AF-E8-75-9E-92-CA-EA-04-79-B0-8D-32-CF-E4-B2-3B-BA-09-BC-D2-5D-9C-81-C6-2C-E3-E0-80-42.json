@@ -1,8 +1,0 @@
-{
-    "Id": "ED-80-FA-AF-E8-75-9E-92-CA-EA-04-79-B0-8D-32-CF-E4-B2-3B-BA-09-BC-D2-5D-9C-81-C6-2C-E3-E0-80-42",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Software Defined Networks and Hyper-V with Richard Hicks",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard brings Richard Hicks back to talk about Software Defined Networks (SDN). Windows Server 2012 brings many new capabilities to the role, but Hyper-V's advancements in virtual networking are especially important. Richard talks about how Windows Server 2012 R2 takes virtual networking to another level, making SDNs more a reality than ever before. The conversation digs into the challenges around bridging between the virtual network and the rest of the world, as well as new generation tools for monitoring your network. SDNs are in their early days on the Microsoft stack, but they are here to stay!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/deed27ce-3424-4c54-b1ab-892fd8e57721/audio/c7aa3664-be71-4c3c-a95e-76d1f2026add/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

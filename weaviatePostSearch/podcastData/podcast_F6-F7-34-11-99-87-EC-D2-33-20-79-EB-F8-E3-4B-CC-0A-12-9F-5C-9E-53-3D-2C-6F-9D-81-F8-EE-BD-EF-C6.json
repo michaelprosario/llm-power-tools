@@ -1,8 +1,0 @@
-{
-    "Id": "F6-F7-34-11-99-87-EC-D2-33-20-79-EB-F8-E3-4B-CC-0A-12-9F-5C-9E-53-3D-2C-6F-9D-81-F8-EE-BD-EF-C6",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Securing Your New Cloud with Dana Epp",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>You've moved to the cloud - you're secure, right? Richard chats with Dana Epp about what you should be doing to secure your cloud services in Azure. Dana talks about how the default settings for Azure services tend toward making them easy to use and inexpensive. But it also leaves you potentially vulnerable - logging is turned off, for example. The conversation turns to tools like Azure Advisor helping you lock down your services better and having a clear view of who is using your services, as well as who is attacking you. Microsoft secures the cloud, you secure your cloud services!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a28aad7a-49ca-4444-8d52-56e00ce330f7/audio/13e9f613-5c0b-4d09-bf38-803346a4085b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

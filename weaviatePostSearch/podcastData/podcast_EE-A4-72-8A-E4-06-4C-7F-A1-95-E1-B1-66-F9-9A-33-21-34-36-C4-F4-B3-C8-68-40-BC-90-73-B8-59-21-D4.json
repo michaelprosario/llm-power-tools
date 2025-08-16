@@ -1,8 +1,0 @@
-{
-    "Id": "EE-A4-72-8A-E4-06-4C-7F-A1-95-E1-B1-66-F9-9A-33-21-34-36-C4-F4-B3-C8-68-40-BC-90-73-B8-59-21-D4",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Database Administration During a Crisis with Brent Ozar",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Databases are important during a crisis - how are yours? Richard talks to Brent Ozar about how the pandemic has effected workloads for databases and DBAs. While some businesses have wound-down during the crisis, many are busier than ever. How do you scale on short notice? What if bigger hardware isn't readily available? Even large cloud database instances are somewhat limited today, so clever techniques have to be found to keep things running. Brent also digs into the maintenance side of things - it's a great time to do the preventative work you always meant to do!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/438793b0-35ac-4d9b-b462-dc718a178047/audio/a7e80f8c-b3fa-49b6-ad43-8add0b592646/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

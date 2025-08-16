@@ -1,8 +1,0 @@
-{
-    "Id": "DB-25-C7-C7-8E-7D-A0-76-11-CD-E8-0B-CE-2C-64-49-5E-86-B7-80-4B-37-8E-1C-D6-16-F2-08-6B-60-1B-F1",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Rhonda Layfield on MDT 2012, SCM and Group Policy!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Rhonda Layfield about the now shipping version of Microsoft Deployment Toolkit 2012. Rhonda describes the relationship between MDT 2012 and System Center 2012 Configuration Manager - what MDT does and what SCCM does. The conversation continues over to how Group Policy packs are deployed by default in MDT 2012, which might surprise some IT folks. Rhonda also talks about Security Compliance Manager and how it can help you understand where your Group Policy is at, as well as provide policy configuration for specific Windows, Office and Internet Explorer features. You can get MDT and SCM at the Solution Accelerators page on TechNet. Also, check out the Microsoft Security Compliance Manager library page on TechNet for a list of the security baseline settings for various operating systems, Internet Explorer, Exchange and Office.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6c4037fa-855f-4bdb-a10d-449cbf5c2395/audio/6069a629-63a1-4747-848e-540a667e807a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

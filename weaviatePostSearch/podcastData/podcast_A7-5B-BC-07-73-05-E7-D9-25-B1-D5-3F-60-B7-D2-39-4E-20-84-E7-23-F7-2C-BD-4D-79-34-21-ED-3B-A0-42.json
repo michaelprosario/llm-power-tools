@@ -1,8 +1,0 @@
-{
-    "Id": "A7-5B-BC-07-73-05-E7-D9-25-B1-D5-3F-60-B7-D2-39-4E-20-84-E7-23-F7-2C-BD-4D-79-34-21-ED-3B-A0-42",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 474: Paul Butcher on Fuzz Testing",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-474-Paul-Butcher-on-Fuzz-Testing.mp3",
-    "Description": "<p>Paul Butcher of AdaCore discusses Fuzz Testing, an automated testing technique used to find security vulnerabilities and other software flaws. Host Philip Winston spoke with Butcher about negative testing, brute-force fuzz testing...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-474-Paul-Butcher-on-Fuzz-Testing.mp3?dest-id=23379"
-}

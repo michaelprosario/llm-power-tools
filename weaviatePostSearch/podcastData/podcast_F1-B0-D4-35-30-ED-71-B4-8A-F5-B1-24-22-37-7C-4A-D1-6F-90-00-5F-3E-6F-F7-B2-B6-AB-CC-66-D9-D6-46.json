@@ -1,8 +1,0 @@
-{
-    "Id": "F1-B0-D4-35-30-ED-71-B4-8A-F5-B1-24-22-37-7C-4A-D1-6F-90-00-5F-3E-6F-F7-B2-B6-AB-CC-66-D9-D6-46",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Steve Syfuhs Makes Development Easier with ADFS!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Steve Syfuhs at TechDays Toronto about IT Pros providing security services for developers using Active Directory Federated Services. IT and development talking to each other willingly? Perish the thought! But in truth, Steve makes it clear that ADFS provides a great wrapper for developers to access active directory or any other service that has security claims that an application might require. Azure depends on it, even Office 365 can take advantage of ADFS. Steve discusses how IT can work with developers to make the jobs of both groups easier.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/707429a0-0a6f-49a4-845f-7eaaf3b00844/audio/233f54a5-349d-4fd3-8123-3f91acdfcf97/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

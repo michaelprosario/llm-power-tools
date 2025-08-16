@@ -1,0 +1,8 @@
+{
+    "Id": "0B-FD-05-39-49-81-25-06-38-3C-98-3A-9E-47-0C-38-3C-67-66-C8-8F-46-24-0D-9B-95-B5-52-DD-B5-6B-0B",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Todd Lamothe Secures WiFi with Windows!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Todd Lamothe about how to use Windows Server 2008 to secure WiFi. No, this doesn't replace encryption, it just adds to it - with WPA2-RADIUS to have your access point communicate with the Network Policy Service in Windows 2008. Now every user on your WiFi connection is specifically associated with an active directory account. Todd talks through the challenges of certificates, configuration and how to integrate the service with a firewall to get a complete end-to-end view of what your users are doing on the wireless network.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2826f562-bcc2-4cc1-9bbb-9233fc10dd7a/audio/1e64c443-96a3-4ea4-9fba-2dae767c977d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

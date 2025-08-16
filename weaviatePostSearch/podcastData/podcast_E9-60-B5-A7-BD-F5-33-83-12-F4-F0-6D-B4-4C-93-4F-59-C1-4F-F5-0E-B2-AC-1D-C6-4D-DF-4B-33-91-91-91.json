@@ -1,8 +1,0 @@
-{
-    "Id": "E9-60-B5-A7-BD-F5-33-83-12-F4-F0-6D-B4-4C-93-4F-59-C1-4F-F5-0E-B2-AC-1D-C6-4D-DF-4B-33-91-91-91",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Exchange 2016 Update with Mike O'Neill",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What's the latest on Exchange 2016? Richard chats with Microsoft PFE Mike O'Neill about some the things he's seen lately in Exchange world. Mike talks about the hybrid world of mail these days, with on-premises Exchange servers working alongside of Office 365 Exchange Online. The conversation also digs into the affect that feature testing in the cloud has had on the on-premises edition of Exchange - the quality of updates is better and you can have confidence in doing updates during the day with zero downtime - with caveats of course! This may be the last version of Exchange on-premises, but the features will keep coming!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/1f52fecc-c217-4b69-8666-b959793aca1b/audio/f55f7874-5931-4fa7-83e3-248d19ce3504/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

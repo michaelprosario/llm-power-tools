@@ -1,8 +1,0 @@
-{
-    "Id": "FA-A9-A4-47-49-DC-BB-AC-CD-66-88-68-07-3D-31-80-9A-8A-6B-F1-10-0E-D6-67-3E-D0-DA-8F-54-09-2F-FA",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 157: Hadoop with Philip Zeyliger",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/-xVFNhQY0uA/",
-    "Description": "Philip Zeyliger of Cloudera discusses the Hadoop project with Robert Blumen.  The conversation covers the emergence of large data problems, the Hadoop file system, map-reduce, and a look under the hood at how it all works.  The listener will also learn where and how Hadoop is being used to process large data sets.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode157-hadoop.mp3?dest-id=23379"
-}

@@ -1,0 +1,8 @@
+{
+    "Id": "08-BE-D1-BD-85-1B-62-95-E4-B9-0D-88-DF-18-89-B3-6C-A2-9D-E5-3E-29-C0-A4-A7-AA-5F-73-BA-34-00-14",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 569: Vladyslav Ukis on Rolling out SRE in an Enterprise",
+    "SourceUrl": "http://se-radio.net/se-radio-569-vladyslav-ukis-on-rolling-out-sre-in-an-enterprise",
+    "Description": "<p>Vladyslav Ukis, author of the book <em>Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations</em>, discusses how to roll out SRE in an enterprise. SE Radio host <a href= \"https://www.se-radio.net/team/brijesh-ammanath/\" target=\"_blank\" rel=\"noopener\">Brijesh Ammanath</a> speaks with Vlad about the origins of SRE and how it complements ITIL (Information Technology Infrastructure Library). They examine how firms can establish foundations for rolling out SRE, as well as how to overcome challenges they might face in adopting. Vlad also recommends steps that organizations can take to sustain and advance their SRE transformation beyond the foundations.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/569_vladyslav_ukis_enterprise_sre.mp3?dest-id=23379"
+}

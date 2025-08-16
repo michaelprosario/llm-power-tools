@@ -1,8 +1,0 @@
-{
-    "Id": "A8-90-AD-5E-69-60-B8-4E-1D-D8-1D-3C-B6-00-93-7F-64-31-E7-30-A9-B8-9C-F0-FA-2C-3A-3A-25-B5-D1-C7",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 80: OSGi with Peter Kriens and BJ Hargrave",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/Y2UtJKC_E5M/",
-    "Description": "This episode is about <a href=\"http://www.osgi.org/\">OSGi</a>, the dynamic module system for Java. Our guests are <a href=\"http://www.aqute.biz/Main/HomePage\">Peter Kriens</a> (OSGI's Technical Director) and <a href=\"http://blog.bjhargrave.com/\">BJ Hargrave</a> (OSGI's CTO). We'll discuss what OSGi is all about and why and in which contexts it is useful. Additionally we are having a look at the different layers of OSGI and where and how they are used. Other questions discussed are: What means dynamicity in an OSGI environment? Where is OSGI used? What\u2019s the future of OSGI? How does OSGI interact with existing middleware solutions? How can I run several versions of the same JAR at the same time? Where are OSGI\u2019s problems?",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode80-osgiWithKriensAndHardgrave.mp3?dest-id=23379"
-}

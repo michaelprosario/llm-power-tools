@@ -1,8 +1,0 @@
-{
-    "Id": "B5-79-C3-DB-78-CA-CE-10-69-04-17-0E-FB-E2-74-02-02-D8-A5-CC-1C-D5-62-82-98-5F-A9-10-73-3F-D0-59",
-    "ContentSourceId": "08ddc66c-88c1-4fd9-9d0f-06779ee4a5cb",
-    "Title": "#71 - ZAK JOST (Graph Neural Networks + Geometric DL) [UNPLUGGED]",
-    "SourceUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/71---ZAK-JOST-Graph-Neural-Networks--Geometric-DL-UNPLUGGED-e1g8dvr",
-    "Description": "<p>Special discount link for Zak's GNN course - https://bit.ly/3uqmYVq</p>\n<p>Patreon: https://www.patreon.com/mlst</p>\n<p>Discord: https://discord.gg/ESrGqhf5CB</p>\n<p>YT version: https://youtu.be/jAGIuobLp60 (there are lots of helper graphics there, recommended if poss)</p>\n<p><br></p>\n<p>Want to sponsor MLST!? Let us know on Linkedin / Twitter.&nbsp;</p>\n<p><br></p>\n<p>[00:00:00] Preamble</p>\n<p>[00:03:12] Geometric deep learning</p>\n<p>[00:10:04] Message passing</p>\n<p>[00:20:42] Top down vs bottom up</p>\n<p>[00:24:59] All NN architectures are different forms of information diffusion processes (squashing and smoothing problem)</p>\n<p>[00:29:51] Graph rewiring</p>\n<p>[00:31:38] Back to information diffusion&nbsp;</p>\n<p>[00:42:43] Transformers vs GNNs</p>\n<p>[00:47:10] Equivariant subgraph aggregation networks + WL test</p>\n<p>[00:55:36] Do equivariant layers aggregate too?</p>\n<p>[00:57:49] Zak's GNN course</p>\n<p><br></p>\n<p>Exhaustive list of references on the YT show URL (https://youtu.be/jAGIuobLp60)</p>\n",
-    "EnclosureUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/49608123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-25%2F469e352d-1565-1e37-7d4f-93d9240b57fb.mp3"
-}

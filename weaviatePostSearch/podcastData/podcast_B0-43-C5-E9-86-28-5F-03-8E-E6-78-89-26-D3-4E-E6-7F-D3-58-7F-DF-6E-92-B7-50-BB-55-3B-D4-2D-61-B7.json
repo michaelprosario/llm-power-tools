@@ -1,8 +1,0 @@
-{
-    "Id": "B0-43-C5-E9-86-28-5F-03-8E-E6-78-89-26-D3-4E-E6-7F-D3-58-7F-DF-6E-92-B7-50-BB-55-3B-D4-2D-61-B7",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 354: Avi Kivity on ScyllaDB.mp3",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-354-Avi-Kivity-on-ScyllaDB.mp3",
-    "Description": "<p>Avi Kivity of Scylladb deep dives into the internals of Scylladb and what makes it a high performant version of Cassandra, a distributed key-value datastore. The discussion covers the architecture of Scylladb, its relationship with high performance...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-354-Avi-Kivity-on-ScyllaDB.mp3"
-}

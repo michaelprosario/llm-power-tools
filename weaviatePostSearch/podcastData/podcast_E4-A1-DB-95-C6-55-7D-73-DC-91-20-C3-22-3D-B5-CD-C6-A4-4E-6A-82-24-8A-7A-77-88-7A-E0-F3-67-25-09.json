@@ -1,8 +1,0 @@
-{
-    "Id": "E4-A1-DB-95-C6-55-7D-73-DC-91-20-C3-22-3D-B5-CD-C6-A4-4E-6A-82-24-8A-7A-77-88-7A-E0-F3-67-25-09",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 34: Enterprise Architecture",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/NjjUSVBQgBA/",
-    "Description": "In this episode Markus and our Guest Andy Longshaw talk about enterprise architecture. More specifically, we talk about some of the patterns in Andy Longshaw's and Paul Dyson's book Architecting Enterprise Solutions: Patterns for High-Capability Internet-based Systems. These includes things like replication, load balancing, monitoring and application management.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode34-enterpriseArchitectureWithAndyLongshaw.mp3?dest-id=23379"
-}

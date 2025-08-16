@@ -1,8 +1,0 @@
-{
-    "Id": "D8-1E-E3-43-9B-25-32-72-07-5E-B5-EF-B0-5A-43-E9-FC-B5-45-81-34-B4-91-38-F4-37-84-5E-C9-AA-BE-FF",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Web Assembly's hidden talent with WasmCloud's Kevin Hoffman",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>WebAssembly-based wasmCloud is a Sandbox Project for the Cloud Native Computing Foundation (CNCF) and Cosmonic COO Kevin Hoffman is convinced it's the next big thing in computing. He talks to Scott about why WebAssembly is so significant and considers it through a historical lens of decades of building distributed systems. Should you build your functions and services in the language you want and run them securely everywhere with WebAssembly?</p><ul><li><a href=\"https://wasmcloud.dev/\">https://wasmcloud.dev/</a></li><li><a href=\"https://cosmonic.com/\">https://cosmonic.com/</a></li></ul>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/6aa9aadf-ef18-4e0a-9d3b-fd1f22d5f99d/audio/b93f0c09-994d-41a3-bcb8-024e5b0cdd9e/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "F2-7F-74-65-F1-B9-D5-89-4A-A9-94-C3-23-68-27-43-86-72-20-51-83-BB-DE-38-6E-ED-D2-F7-CA-0C-21-BC",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Serverless Databases with Monica Rathbun",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Can you go serverless with databases? Monica Rathbun says yes! Richard chats with Monica about Microsoft's serverless mode for SQL Azure. Same SQL database, but now it is billed by the second and will automatically suspend itself after a set amount of time - incurring no costs to you while suspended! It doesn't work for every database scenario, but Monica talks through some options that have great potential. You need to understand the limitations as well as the benefits, but serverless SQL is a great new tool!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview\">Azure SQL Database Serverless</a></li><li><a href=\"https://sqlespresso.com/\">SQLEspresso Blog</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/35dc7c61-76f6-4218-8d47-054b12cfab54/audio/b3a27e5e-cca7-41d4-9a39-5b41fd1dc863/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

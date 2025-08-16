@@ -1,8 +1,0 @@
-{
-    "Id": "C1-D2-87-6E-12-D1-CE-DC-62-A3-01-A3-6C-F4-4E-07-FA-FB-39-18-EB-75-FB-89-16-85-E0-EC-B4-9C-C1-01",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 656: Ivett \u00d6rd\u00f6g on Rewrite versus Refactor",
-    "SourceUrl": "http://se-radio.net/se-radio-656-ivett-rdg-on-rewrite-versus-refactor",
-    "Description": "<p data-pm-slice=\"1 1 []\">Ivett \u00d6rd\u00f6g speaks with host Sam Taggart about rewrite versus refactor -- a choice that many projects face as they grow. It's a topic that inspires a lot of dogmatic feelings. They discuss how companies and projects end up at this crossroads and consider some strategies to try to avoid it. Ivett challenges the myth that you should never rewrite but points to two key factors that need to be present for a successful large-scale rewrite or refactor. They end by talking about how to get management on board for such large-scale rewrite or refactor projects.</p> <p>Brought to you by <a href=\"https://www.computer.org\" target= \"_blank\" rel=\"noopener\">IEEE Computer Society</a> and <a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/656-ivett-ordog-rewrite-vs-refactor.mp3?dest-id=23379"
-}

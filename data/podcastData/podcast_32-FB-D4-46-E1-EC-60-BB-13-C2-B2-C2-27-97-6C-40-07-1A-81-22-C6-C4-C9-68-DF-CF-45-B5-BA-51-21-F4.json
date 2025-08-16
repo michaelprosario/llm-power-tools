@@ -1,0 +1,8 @@
+{
+    "Id": "32-FB-D4-46-E1-EC-60-BB-13-C2-B2-C2-27-97-6C-40-07-1A-81-22-C6-C4-C9-68-DF-CF-45-B5-BA-51-21-F4",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Turn Off SMB1 with Ned Pyle",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Turn off SMB1! Richard talks to Ned Pyle about the ongoing battle to retire SMB1, a 30-year-old file transfer protocol at the heart of recent malware attacks. While there are patches to eliminate the vulnerability, the best patch is removing the protocol entirely. Already on the schedule for deprecation, Ned talks about how ransomware like WannaCry has accelerated the process. Windows hasn't depended on SMB1 since 2006, the challenge other devices and software - some are current. Patch your systems, be safe and turn off SMB1!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7a193c1a-75ad-4b77-b1bd-684f309f4f4c/audio/cd1d480a-c240-480b-98e8-db75325b2f7f/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

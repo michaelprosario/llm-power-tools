@@ -1,8 +1,0 @@
-{
-    "Id": "F6-47-DB-58-8F-D4-36-D7-2E-59-BC-E6-51-AD-D8-15-0F-13-BB-71-F4-D4-46-78-ED-9E-AA-C2-53-0A-B6-95",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 456: Tomer Shiran on Data Lakes",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-456-Tomer-Shiran-on-Data-Lakes.mp3",
-    "Description": "<p>Tomer Shiran, co-founder of Dremio, talks about managing data inside a data lake, historical changes and motivations for managing data as a data lake, and the common tools and methods for ingestion, storage, and analytics on top of the underlying data.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-456-Tomer-Shiran-on-Data-Lakes.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "A9-48-DF-45-91-BD-77-B7-8C-BC-BD-65-EB-60-5F-39-A8-56-00-1F-EB-0B-8F-6F-76-81-50-78-59-6E-9B-8C",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Hyper-V vs. vSphere with Mitch Garvis",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Mitch Garvis about his experiences comparing vSphere and Hyper-V. Which one is better? Mitch gets right to the point - they're both incredibly capable virtualization solutions. It's all about the tools around the hypervisor - whether that's vSphere on the VMWare side and System Center on the Microsoft side. So they both have their merits, but Mitch is all about Hyper-V. The conversation dives deep on the evolution of IT using virtualization, not just in the data center, but all the way out to the desktop.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/c26d1ba2-3f54-4841-b45a-cf17f97f5b47/audio/3dcca5a2-a61a-406c-8b18-005e2020fb3e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

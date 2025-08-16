@@ -1,8 +1,0 @@
-{
-    "Id": "B0-E1-27-B6-B5-DD-18-BB-A8-C1-2B-1E-11-98-E6-AB-91-DC-19-C5-24-E8-AC-CB-02-FB-D2-0F-C3-7C-83-13",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "The Problem with DateTime - NodaTime with Matt Johnson",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Matt Johnson is a time nerd. He has contributed with the Noda Time project and is helping with making time, dates, and timezones easier to use with .NET and .NET Core. Most of what we think is intuitive about time, isn't!</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/6359dd46-a764-448a-89da-1e364c3637f5/b2b81dc5_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

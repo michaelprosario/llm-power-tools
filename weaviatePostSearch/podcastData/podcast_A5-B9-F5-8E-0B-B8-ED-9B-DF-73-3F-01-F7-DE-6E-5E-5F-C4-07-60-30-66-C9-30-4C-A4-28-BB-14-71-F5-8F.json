@@ -1,8 +1,0 @@
-{
-    "Id": "A5-B9-F5-8E-0B-B8-ED-9B-DF-73-3F-01-F7-DE-6E-5E-5F-C4-07-60-30-66-C9-30-4C-A4-28-BB-14-71-F5-8F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "DirectAccess on Windows 10 with Richard Hicks",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>VPNs don't have to suck! Richard chats with Richard Hicks about the latest in DirectAccess, Microsoft's built in VPN technology that makes maintaining a secure connection for a remote PC a bit less painful. Richard talks about how the server-side of DirectAccess being pretty solid for Server 2012R2 and 2016. But the big improvement comes from deploying Windows 10 Enterprise - bringing key features like multi-homing so that remote PCs can choose from a variety of geographically dispersed data centers. The conversation also goes to the mobile device management side of things, since DirectAccess requires a domain-joined version of Windows, it's not for everything. What are the alternatives?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a2b51ccb-c02e-4f59-a5d3-ea439b7d18c6/audio/282e332a-a71e-494e-9230-8ad8c7129d95/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

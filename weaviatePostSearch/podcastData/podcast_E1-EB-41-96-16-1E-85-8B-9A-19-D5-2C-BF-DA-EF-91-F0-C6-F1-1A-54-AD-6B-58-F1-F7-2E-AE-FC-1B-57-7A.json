@@ -1,8 +1,0 @@
-{
-    "Id": "E1-EB-41-96-16-1E-85-8B-9A-19-D5-2C-BF-DA-EF-91-F0-C6-F1-1A-54-AD-6B-58-F1-F7-2E-AE-FC-1B-57-7A",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 7: Error Handling",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/Fq3Nc538iXY/",
-    "Description": "This week, Arno and Markus take a look at error handling at the architectural level. They discuss the different kinds of errors, the groups of people who need to know about them and proven high-level approaches. Later episodes will investigate more technical aspects of error handling, such as idioms for using exceptions or a discussion of checked vs. unchecked exceptions.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode7-errorhandling.mp3?dest-id=23379"
-}

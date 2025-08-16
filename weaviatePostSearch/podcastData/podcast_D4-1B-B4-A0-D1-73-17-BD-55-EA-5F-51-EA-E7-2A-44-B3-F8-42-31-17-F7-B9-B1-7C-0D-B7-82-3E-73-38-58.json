@@ -1,8 +1,0 @@
-{
-    "Id": "D4-1B-B4-A0-D1-73-17-BD-55-EA-5F-51-EA-E7-2A-44-B3-F8-42-31-17-F7-B9-B1-7C-0D-B7-82-3E-73-38-58",
-    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
-    "Title": "Bringing AI to the edge, from the comfort of your living room",
-    "SourceUrl": "https://stackoverflow.blog/podcast/",
-    "Description": "<p>Bill gives an\u00a0 overview of <a href=\"https://www.intel.com/content/www/us/en/edge-computing/overview.html\">edge computing</a> and why it matters.</p><p>His team wants to enable developers by democratizing access to AI. <a href=\"https://docs.openvino.ai/latest/index.html\">OpenVINO</a> is an open-source toolkit for high-performing AI inference.</p><p><a href=\"https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html\">DevCloud</a> lets developers prototype, test, and run their workloads for free on Intel hardware and software. For more on OpenVINO, check out <a href=\"https://stackoverflow.blog/2021/06/14/lets-enhance-use-intel-ai-to-increase-image-resolution-in-this-demo/\">this example we shared</a> that increases image resolution.\u00a0</p><p>Of course, we would be remiss if we didn\u2019t mention another way Intel is bringing its technology to developers: <a href=\"https://stackoverflow.blog/2021/11/03/intel-joins-collectives-on-stack-overflow/\">joining Collectives\u2122 on Stack Overflow</a>.</p>\n",
-    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/933f3724-15c4-4f93-ba45-e6c141a1e3c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=933f3724-15c4-4f93-ba45-e6c141a1e3c4&feed=XA_851k3"
-}

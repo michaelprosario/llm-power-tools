@@ -1,8 +1,0 @@
-{
-    "Id": "FB-42-13-B8-C2-F2-79-47-BA-4A-4A-F3-A9-4C-34-B0-B7-F7-F1-48-3F-19-0C-35-A4-9C-72-27-DE-D3-02-56",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 279: Florian Gilcher on Rust",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Florian-Gilcher-on-Rust.mp3",
-    "Description": "<p>Eberhard talks with Florian Gilcher about the programming language Rust. Rust originates from Mozilla research. Its focus is on system programming and it is often used to replace C or C++. Topics include the concepts behind Rust; concurrent and safe programming; advanced and unique features like ownership and borrowing; the rust type system (which supports other features like traits, generics and macros). The show finishes with: the evolution of Rust based, features of libraries, and how the community works.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Florian-Gilcher-on-Rust.mp3?dest-id=23379"
-}

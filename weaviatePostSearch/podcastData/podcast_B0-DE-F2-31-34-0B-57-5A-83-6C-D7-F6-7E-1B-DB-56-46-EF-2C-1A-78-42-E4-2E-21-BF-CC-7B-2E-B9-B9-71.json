@@ -1,8 +1,0 @@
-{
-    "Id": "B0-DE-F2-31-34-0B-57-5A-83-6C-D7-F6-7E-1B-DB-56-46-EF-2C-1A-78-42-E4-2E-21-BF-CC-7B-2E-B9-B9-71",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 617: Frances Buontempo on Modern C++",
-    "SourceUrl": "http://se-radio.net/se-radio-617-frances-buontempo-on-modern-c",
-    "Description": "<p>Frances Buontempo, author of the new book <em>Learn C++ by Example</em>, discusses the C++ programming language, a widely used general-purpose programming language. Host Philip Winston spoke with Buontempo about where C++ fits into the landscape of existing programming languages and how recent C++ standards have changed things. They talk about specific language features such as lambdas, templates, concurrency, ranges, concepts along with tips for learning and using C++. Brought to you by IEEE Software and IEEE Computer Society.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/617-frances_buontempo_modern_c.mp3?dest-id=23379"
-}

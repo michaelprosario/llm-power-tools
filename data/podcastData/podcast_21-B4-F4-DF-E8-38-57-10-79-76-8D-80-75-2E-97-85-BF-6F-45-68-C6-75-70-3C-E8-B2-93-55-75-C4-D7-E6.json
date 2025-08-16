@@ -1,0 +1,8 @@
+{
+    "Id": "21-B4-F4-DF-E8-38-57-10-79-76-8D-80-75-2E-97-85-BF-6F-45-68-C6-75-70-3C-E8-B2-93-55-75-C4-D7-E6",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 62: Martin Odersky on Scala",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/wqsHKclKKmU/",
+    "Description": "In this Episode we talk about the Scala language with its creator Martin Odersky. Scala is a language that fuses object oriented and functional programming. Martin started out by providing a two-minute overview over the language, and then talked a little bit about its history. We then discussed the basics of functional programming. The main part of the episode features a discussion of some of the important features of the Scala language:\n<ul>\n <li>Case Classes and Pattern Matching\n </li><li>Multiple Inheritance and Compound Types, Traits, Mixins\n </li><li>Closures\n </li><li>Functions as types, \"Function pointers\", Anonymous functions\n </li><li>Higher Order Functions\n </li><li>Currying\n </li><li>(Sequence) Comprehensions\n </li><li>Generics\n </li><li>Type Bounds (Upper, Lower)\n </li><li>Static/Dynamic Typing, Type Inference\n </li><li>Operators\n </li><li>Implicits \n</li></ul>  \nWe then talked about Scala's actors library, a highly scalable concurrency package. The last part of the episode covered some more general topics, such as where and how Scala is used today, IDE support and the user and developer community. We concluded the episode by looking at current development and next steps in Scala language evolution.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode62-scalaWithMartinOdersky.mp3?dest-id=23379"
+}

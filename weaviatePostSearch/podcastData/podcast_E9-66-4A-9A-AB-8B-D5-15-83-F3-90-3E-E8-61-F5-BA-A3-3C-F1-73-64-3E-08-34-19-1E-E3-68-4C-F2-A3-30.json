@@ -1,8 +1,0 @@
-{
-    "Id": "E9-66-4A-9A-AB-8B-D5-15-83-F3-90-3E-E8-61-F5-BA-A3-3C-F1-73-64-3E-08-34-19-1E-E3-68-4C-F2-A3-30",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Managed Environments for PowerApps with April Dunnam",
-    "SourceUrl": "https://runasradio.com/Shows/Show/843",
-    "Description": "<p>PowerApps are proliferating - how do you keep them under control? Richard talks to April Dunnam about managed environments for PowerApps, providing oversight and governance. April talks about the Microsoft Power Platform Center of Excellence Starter Kit as a way to get started in the governance model with tooling for insights, auditing, compliance, and even helping connect the folks building PowerApps in your organization. It's early days for the tooling, but worth the effort to help get PowerApps to be part of the same application lifecycle management processes that already exist in your organization!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://docs.microsoft.com/power-platform/admin/managed-environment-overview\">Managed Environments</a></li><li><a href=\"https://docs.microsoft.com/power-platform/guidance/coe/starter-kit\">Microsoft Power Platform Center of Excellence Starter Kit</a></li><li><a href=\"https://docs.microsoft.com/power-apps/maker/canvas-apps/express-design\">Express Design</a></li><li><a href=\"https://powerapps.microsoft.com/blog/power-platform-extension-for-vs-code/\">Power Platform Extension for VS Code</a></li></ul><p>Recorded July 15, 2022</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/eedb9153-145b-47f8-bd65-147a6a0d62fa/audio/2bb22340-2230-4cb7-9885-0d6e49135b81/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

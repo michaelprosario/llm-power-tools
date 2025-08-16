@@ -1,8 +1,0 @@
-{
-    "Id": "BD-C0-3A-78-32-24-1A-50-BE-5C-9C-D4-E9-AE-55-ED-2B-2D-8B-87-19-35-28-35-A3-1A-37-04-5A-F3-12-80",
-    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
-    "Title": "At scale, anything that could fail definitely will",
-    "SourceUrl": "https://stackoverflow.blog/podcast/",
-    "Description": "<p>Pradeep talks about building at global scale and preparing for inevitable system failures. He talks about extra layers of security, including viewing your own VMs as untrustworthy. And he lays out where he thinks the world of cloud computing is headed as GenAI becomes a bigger piece of many company\u2019s tech stack.\u00a0</p><p>You can find Pradeep on <a href=\"https://www.linkedin.com/in/pradeepvincent/\">LinkedIn</a>. He also writes a blog and hosts a podcast over at <a href=\"https://blogs.oracle.com/cloud-infrastructure/category/oci-f\">Oracle First Principles</a>.\u00a0</p><p>Congrats to Stack Overflow user shantanu, who earned a Great Question badge for asking:\u00a0</p><p><a href=\"https://stackoverflow.com/questions/43417162/which-shell-i-am-using-in-mac\">Which shell I am using in mac?</a></p><p>\u00a0Over 100,000 people have benefited from your curiosity.</p>\n",
-    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/abe444d2-8fad-42d4-b82b-bcf9afa56d61/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=abe444d2-8fad-42d4-b82b-bcf9afa56d61&feed=XA_851k3"
-}

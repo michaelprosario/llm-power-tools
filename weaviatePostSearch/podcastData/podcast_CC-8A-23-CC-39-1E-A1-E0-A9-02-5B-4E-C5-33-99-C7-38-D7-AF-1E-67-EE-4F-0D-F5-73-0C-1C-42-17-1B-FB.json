@@ -1,8 +1,0 @@
-{
-    "Id": "CC-8A-23-CC-39-1E-A1-E0-A9-02-5B-4E-C5-33-99-C7-38-D7-AF-1E-67-EE-4F-0D-F5-73-0C-1C-42-17-1B-FB",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio-Episode-267-J\u00fcrgen-H\u00f6ller-on-Reactive-Spring-and-Spring-5.0",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-267-Jrgen-Hller-on-Reactive-Spring-and-Spring-5.0.mp3",
-    "Description": "<p>Eberhard Wolff talks with J\u00fcrgen H\u00f6ller about Reactive Spring. Reactive programming is a hot topic, but adoption has been slow in the enterprise. Spring 5 incorporates Reactor and the RxJava API to help Java developers build scalable high-performance web applications. The discussion explores architectural challenges, transactions, porting existing applications, and increased code complexity.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-267-Jrgen-Hller-on-Reactive-Spring-and-Spring-5.0.mp3?dest-id=23379"
-}

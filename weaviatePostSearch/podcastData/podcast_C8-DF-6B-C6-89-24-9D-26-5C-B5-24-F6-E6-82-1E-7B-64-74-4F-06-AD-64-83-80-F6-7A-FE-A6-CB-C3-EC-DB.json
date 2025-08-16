@@ -1,8 +1,0 @@
-{
-    "Id": "C8-DF-6B-C6-89-24-9D-26-5C-B5-24-F6-E6-82-1E-7B-64-74-4F-06-AD-64-83-80-F6-7A-FE-A6-CB-C3-EC-DB",
-    "ContentSourceId": "03e85e81-f3bb-4c2c-944d-b6722870407b",
-    "Title": "909: Causal AI, with Dr. Robert Usazuwa Ness",
-    "SourceUrl": null,
-    "Description": "Researcher at Microsoft Robert Usazuwa Ness talks to Jon Krohn about how to achieve causality in AI with correlation-based learning, the right libraries, and handling statistical inference. When dealing with causal AI, Robert notes how important it is to keep aware of variables in the data that may mislead us and force inaccurate assumptions. Not all variables will be useful. It is essential, then, that any assumptions are grounded in a deeper understanding of how the data were gathered, and not what appears in the dataset. Listen to the episode to hear how you can apply causal AI to your projects.\n\n\n\nAdditional materials: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060www.superdatascience.com/907\u2060\u2060\u2060\u2060\n\n\n\nThis episode is brought to you by Trainium2, the latest AI chip from AWS and by the Dell AI Factory with NVIDIA.\n\n\n\nInterested in sponsoring a SuperDataScience Podcast episode? Email natalie@superdatascience.com for sponsorship information.",
-    "EnclosureUrl": "https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/E581B9/arttrk.com/p/VI4CS/pscrb.fm/rss/p/traffic.megaphone.fm/SUPERDATASCIENCEPTYLTD8961461336.mp3?updated=1753770662"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "D1-02-9B-E0-7D-B9-AB-9A-30-38-AD-FA-01-7C-1F-2C-EB-89-A2-80-21-84-1A-3B-FD-3A-48-FB-7D-C8-6F-36",
-    "ContentSourceId": "d63839fa-145c-4b98-b0bf-278d40a3236d",
-    "Title": "S3:E6 - How does the internet work? (Julia Evans)",
-    "SourceUrl": "https://www.codenewbie.org/podcast/how-does-the-internet-work",
-    "Description": "You type in a url and you get a website. But how did you get that website? What are all the little steps that happen when you request a page and (hopefully) see that page in your browser? Julia Evans breaks down how the internet works and gives us an amazing introduction to computer networking. Show Links Partner with Dev &amp; CodeNewbie! (sponsor)  Networking! Ack! (Julia's zine) Netcat Cat (command) TCP UDP TCP dump Juia's blog posts Codeland Conf Codeland 2019 ",
-    "EnclosureUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/FOR6134239575.mp3?updated=1628260529"
-}

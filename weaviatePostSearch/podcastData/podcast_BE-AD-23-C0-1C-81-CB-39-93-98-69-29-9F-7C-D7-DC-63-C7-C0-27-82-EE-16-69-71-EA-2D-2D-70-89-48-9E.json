@@ -1,8 +1,0 @@
-{
-    "Id": "BE-AD-23-C0-1C-81-CB-39-93-98-69-29-9F-7C-D7-DC-63-C7-C0-27-82-EE-16-69-71-EA-2D-2D-70-89-48-9E",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "DevOps and GitHub Actions with Edward Thomson",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Today Scott talks with GitHub's Edward Thomson about GitHub Actions and how to really automate your entire software workflow. Are you doing anything twice...manually? What you can automate and can GitHub Actions make that happen? How complete is your CI/CD? Are you testing, releasing? What about bots to make your issue triage easier?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/7e1bb039-e810-4c6c-b202-f818a8d45e96/hm733_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "AE-D3-0D-B7-D2-EE-D9-8F-A6-8B-07-7E-36-E6-78-6A-ED-0E-19-FC-34-0D-10-9D-C5-12-6B-3B-86-A2-AC-85",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 86: Interview Dave Thomas",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/qvj-Y8NBazY/",
-    "Description": "This episode is an interview with <a href=\"http://www.davethomas.net\">Dave Thomas</a> (OTI Dave or Smalltalk Dave, not PragDave). We started our discussion with a look at the (non-)success of objects and components. We then discussed some history behine Eclipse and Dave's role in OTI. We then compared Smalltalk and Ruby and looked at the promises of small and powerful languages such as Lisp. We also discussed the role of (static) type systems and the role of tool support for languages.\n\nWe then switched gears and looked at what is necessary to scale agile development to the level of large organizations\nand how techniques from lean production and manufacturing as well as product management can play an important role.\n\nIn the last part of the interview we looked at the state of research today, and especially the relationship between industry and academia in this area. \n\nWe concluded the interview with Dave's opinion on what it takes to be a good developer.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode86-daveThomas.mp3?dest-id=23379"
-}

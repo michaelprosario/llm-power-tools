@@ -1,8 +1,0 @@
-{
-    "Id": "FF-4D-51-A9-D4-55-D7-26-C6-5F-90-48-17-AF-66-84-5F-19-DC-A0-3A-D5-8B-26-D1-2B-0C-F7-4F-2C-2C-C9",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 680: Luke Hinds on Privacy and Security of AI Coding Assistants",
-    "SourceUrl": "http://se-radio.net/se-radio-680-luke-hinds-on-privacy-and-security-of-ai-coding-assistants",
-    "Description": "<p><strong>Luke Hinds</strong>, CTO of Stacklok and creator of Sigstore, speaks with SE Radio's Brijesh Ammanath about the privacy and security concerns of using AI coding agents. They discuss how the increased use of AI coding assistants has improved programmer productivity but has also introduced certain key risks.\u00a0In the area of secrets management, for example, there is the risk of secrets being passed to LLMs. Coding assistants can also introduce dependency-management risks that can be exploited by malicious actors. Luke recommends several tools and behaviors that programmers can adopt to ensure that secrets do not get leaked.</p> <p>Brought to you by\u00a0<a href=\"https://www.computer.org/\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/680-luke-hinds-security-ai-coding-assistants.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "BD-2D-5B-D0-38-8B-CA-2B-47-5C-BC-AE-1B-6F-B4-B3-A6-AE-62-C1-41-DE-82-D7-8B-03-24-80-6B-D7-E7-25",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 254: Mike Barker on the LMAX Architecture",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-254-Mike-Barker-on-the-LMAX-Architecture.mp3",
-    "Description": "<p>Mike Barker talks with Sven Johann about the architecture of the LMAX system. LMAX is a low-latency, high-throughput trading platform. Their discussion begins with what LMAX does; the origins of LMAX; and extreme performance requirements faced by LMAX. They then delve into systems that LMAX communicates with; LMAX users; the two main components of the system (broker and exchange); Mechanical Sympathy as an architectural driver; message flow using the Disruptor library; and lock-free algorithms. Mike and Sven wrap up by discussing how a well modeled domain model can improve the performance of any system; automated (performance) tests; continuous delivery; and measuring response times.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-254-Mike-Barker-on-the-LMAX-Architecture.mp3"
-}

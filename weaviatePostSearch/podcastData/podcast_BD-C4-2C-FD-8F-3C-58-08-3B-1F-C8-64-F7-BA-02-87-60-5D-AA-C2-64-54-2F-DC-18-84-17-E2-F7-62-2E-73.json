@@ -1,8 +1,0 @@
-{
-    "Id": "BD-C4-2C-FD-8F-3C-58-08-3B-1F-C8-64-F7-BA-02-87-60-5D-AA-C2-64-54-2F-DC-18-84-17-E2-F7-62-2E-73",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 620: Parker Selbert and Shannon Selbert on Robust Job Processing in Elixir",
-    "SourceUrl": "http://se-radio.net/se-radio-620-parker-selbert-and-shannon-selbert-on-robust-job-processing-in-elixir",
-    "Description": "<p>Shannon Selbert, co-founder of Soren and developer of Oban, and\u00a0Parker Selbert, creator of the Oban background job framework, chief architect at dscout, and co-founder of Soren, speak with SE Radio host <a href= \"../team/gavin-henry/\">Gavin Henry</a> about robust job processing in Elixir. They explore the reliability, consistency, and observability in relation to job processing, to understand how Oban, Elixir, and PostgreSQL deliver them.</p> <p>The Selberts describe why Oban was created, its history, which parts of the Elixir ecosystem they use, and why this would not be possible without PostgreSQL and Elixir. They discuss the lessons learned in the 5 years since the first release, as well as use cases, job throughput, the hardest problem to solve so far, workers, queues, CRON, distributed architectures, retry algorithms, just-once methodologies, the reliability the beam brings, consistency across nodes, how PostgreSQL is vital, telemetry data, best use cases for Oban, and the most common issues that new users face. Brought to you by IEEE Computer Society and\u00a0<em>IEEE Software</em> magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/620-parker_selbert_and_shannon_selbert_on_elixir.mp3?dest-id=23379"
-}

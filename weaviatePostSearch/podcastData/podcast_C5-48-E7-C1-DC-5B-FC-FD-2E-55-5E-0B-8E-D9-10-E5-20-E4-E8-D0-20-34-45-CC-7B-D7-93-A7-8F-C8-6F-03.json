@@ -1,8 +1,0 @@
-{
-    "Id": "C5-48-E7-C1-DC-5B-FC-FD-2E-55-5E-0B-8E-D9-10-E5-20-E4-E8-D0-20-34-45-CC-7B-D7-93-A7-8F-C8-6F-03",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Sean Deuby Federates with Simple Cloud Identity Management!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Sean Deuby about Simple Cloud Identity Management (SCIM). SCIM is an evolving standard for simplifying federation of identity authentication and account information using common web-based protocols like REST and SAML. Sean talks about how services like Microsoft's Active Directory Federation Services (ADFS) works fine for a handful of major cloud applications, but becomes a problem when the number of applications grows. SCIM looks to address this by simplifying the provisioning of identity services. You can read more about SCIM at http://www.simplecloud.info/ and Sean's article on SCIM at Windows IT Pro. Sean also mentions Ping Identity as a key driver behind SCIM and recommends watching a one hour webinar entitled SCIM: New Standard on the Block. It's early days for SCIM yet, but it's worth getting up to speed and asking your cloud vendors where their support for the standard is.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2cd98115-8277-4fdb-ab7f-926d26d622fa/audio/81af0fa9-7621-457f-ace4-bfc38571545a/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

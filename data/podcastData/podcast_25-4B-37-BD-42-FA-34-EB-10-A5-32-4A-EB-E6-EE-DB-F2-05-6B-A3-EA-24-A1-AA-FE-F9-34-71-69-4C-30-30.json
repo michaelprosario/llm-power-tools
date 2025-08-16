@@ -1,0 +1,8 @@
+{
+    "Id": "25-4B-37-BD-42-FA-34-EB-10-A5-32-4A-EB-E6-EE-DB-F2-05-6B-A3-EA-24-A1-AA-FE-F9-34-71-69-4C-30-30",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "SE Radio 560: Sugu Sougoumarane on Distributed SQL with Vitess",
+    "SourceUrl": "http://se-radio.net/se-radio-560-sugu-sougoumarane-on-distributed-sql-databases",
+    "Description": "<p>Sugu Sougoumarane discusses how to face the challenges of horizontally scaling MySQL databases through the Vitess distribution engine and Planetscale, a service built on top of Vitess. The journey began with the growing pains of scale at YouTube around the time of Google\u2019s acquisition of the video service. This episode explores ideas about topology management, sharding, Paxos, connection pooling, and how Vitess handles large transactions while abstracting complexity from the application layer.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/560_sugu_sougoumarane_distributed_sql_databases.mp3?dest-id=23379"
+}

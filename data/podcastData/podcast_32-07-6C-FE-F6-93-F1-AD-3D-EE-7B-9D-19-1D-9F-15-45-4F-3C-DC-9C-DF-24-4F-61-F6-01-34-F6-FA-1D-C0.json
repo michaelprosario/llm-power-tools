@@ -1,0 +1,8 @@
+{
+    "Id": "32-07-6C-FE-F6-93-F1-AD-3D-EE-7B-9D-19-1D-9F-15-45-4F-3C-DC-9C-DF-24-4F-61-F6-01-34-F6-FA-1D-C0",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Always On VPN with Richard Hicks",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What's happening with VPNs in the Microsoft world? While at Ignite in Orlando, Richard sat down with Richard Hicks to talk about the on-going evolution of VPN access in Windows. There's been a number of products along the way, Richard talks about DirectAccess as the one most people know and love - but it hasn't had much work done on it in the past few years. Enter Always On VPN, which simplifies VPNs as well as broadening the VPN support for Windows and other platforms. There are some tricks to migrating, not the least of which is deciding what additional services you need, like InTune - but this is the VPN service Microsoft is focused on today!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/767a91ea-e994-49c9-8d03-5fd3f97ad68e/audio/b8c1449f-2289-4a63-817c-fceeac126012/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

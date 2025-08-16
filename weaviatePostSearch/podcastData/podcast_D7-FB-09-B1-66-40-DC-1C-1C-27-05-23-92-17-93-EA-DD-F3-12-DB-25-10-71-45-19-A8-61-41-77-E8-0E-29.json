@@ -1,8 +1,0 @@
-{
-    "Id": "D7-FB-09-B1-66-40-DC-1C-1C-27-05-23-92-17-93-EA-DD-F3-12-DB-25-10-71-45-19-A8-61-41-77-E8-0E-29",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Keeping Active Directory Data Up to Date with Chris Johnson",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How does your Active Directory data look? Richard chats with Chris Johnson of Hyperfish about how important AD personnel data is, and the terrible condition that most organizations leave it in. Chris talks about how the point of Active Directory was to be the authoritative source of personnel information in an organization - but most companies just use it for login credentials! It was Microsoft Exchange that first took on AD for all its user information, and more systems are doing so. The challenge is finding efficient ways to allow users to keep their data up to date and accurate.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/05e32a7b-8603-4dd3-8113-ae7722aa9e79/audio/cf563458-1037-4c35-bde1-626bd837a018/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

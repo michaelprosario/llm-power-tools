@@ -1,0 +1,8 @@
+{
+    "Id": "20-13-9A-AE-E0-03-67-78-1F-7B-B0-C3-BA-7D-DD-A9-9F-18-AC-22-11-DA-44-85-F9-7F-8D-28-A2-28-39-DD",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Unifying Structured and Unstructured Data using Azure Synapse with Jen Stirrup",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What can Azure Synapse do for you? Richard chats with Jen Stirrup about Microsoft's Azure Synapse Analytics. Jen talks about how most companies have structured and unstructured data, typically stored in different locations. If you're all in on Azure, you have an Azure Data Warehouse for structured data ready for analytics as well as an Azure Data Lake that holds your unstructured data. Azure Synapse brings those two data sources together, along with other SQL data sources, to help you do comprehensive analytics. The conversation turns to the idea of answering business questions as opposed to exploring business mysteries - both are valuable, but need different tools and techniques!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/fefd488a-c85c-4bdd-a393-e03ba02d1721/audio/47ed9ba9-5221-4e13-aa18-faefc8c334d2/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

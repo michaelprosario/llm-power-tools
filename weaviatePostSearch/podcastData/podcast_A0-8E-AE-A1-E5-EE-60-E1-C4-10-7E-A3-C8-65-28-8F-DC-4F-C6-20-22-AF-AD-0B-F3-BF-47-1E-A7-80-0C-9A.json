@@ -1,8 +1,0 @@
-{
-    "Id": "A0-8E-AE-A1-E5-EE-60-E1-C4-10-7E-A3-C8-65-28-8F-DC-4F-C6-20-22-AF-AD-0B-F3-BF-47-1E-A7-80-0C-9A",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "The Azure Storage Landscape with Karl Rautenstrauch",
-    "SourceUrl": "https://runasradio.com/Shows/Show/776",
-    "Description": "<p>So many ways to store data in the cloud, so little time! Richard talks to Karl Rautenstrauch about the array of offerings for your files in Azure Storage. Karl talks about how the rush to move to the cloud last year created some regrets - in the form of large bills for certain services! Planning migrations help because there are several storage choices based on your needs. The conversation digs into the role of Azure Disk, Azure Files, and Azure Blobs - including their relationship to OneDrive for Business, and even a quick chat about NAS products like NetApp!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.microsoft.com/microsoft-365/onedrive/onedrive-for-business\">OneDrive for Business</a></li><li><a href=\"https://docs.microsoft.com/azure/storage/common/storage-introduction\">Azure Storage Services</a></li><li><a href=\"https://docs.microsoft.com/azure/migrate/migrate-services-overview\">Azure Migrate</a></li><li><a href=\"https://azure.microsoft.com/services/netapp/\">Azure NetApp Files</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/e8ee0d04-acad-4e91-b2a8-fef507e4f55b/audio/492a6895-db1c-4908-87b1-8b1a2adcd0da/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "A2-82-BF-E6-2B-D8-D5-67-8E-85-2A-B5-A1-E6-A0-0E-60-ED-38-EC-B2-60-25-FA-60-71-F3-38-F9-D8-50-97",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "063: Effective Java for Android Developers \u2013 Item #13: Minimize the accessibility of classes and members",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>In this mini-Fragment episode, Donn talks about Item #13 of the Effective Java series - Minimize the accessibility of classes and members. You'll learn why it's important to limit the access on your public API, how it can help you with development and performance. You'll also learn how changing a public API can affect the consumers of your API, for good and bad.</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html\">Java Access Control</a></li>\n<li><a href=\"http://amzn.to/1RUCko3\">Effective Java Book</a></li>\n</ul>\n<h2>Sponsor</h2>\n<ul>\n<li><a href=\"http://www.fragmentedpodcast.com/buddybuild\">BuddyBuild</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"http://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/donnfelker\">@donnfelker</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/kaushikgopal\">@kaushikgopal</a> [twitter.com]</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/24fbefec-dc9b-44f6-b1fc-eddf4c97f51a/063-effectivejava13_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

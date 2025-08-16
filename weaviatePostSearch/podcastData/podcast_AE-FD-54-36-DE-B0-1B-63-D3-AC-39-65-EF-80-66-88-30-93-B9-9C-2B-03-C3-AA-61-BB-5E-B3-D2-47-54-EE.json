@@ -1,8 +1,0 @@
-{
-    "Id": "AE-FD-54-36-DE-B0-1B-63-D3-AC-39-65-EF-80-66-88-30-93-B9-9C-2B-03-C3-AA-61-BB-5E-B3-D2-47-54-EE",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 82: Organization of Large Code Bases with Juergen Hoeller",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/a77Os--cyXM/",
-    "Description": "In this episode Eberhard Wolff speaks with J\u00fcrgen H\u00f6ller, the co-found of the Spring framework. Spring is a tremendously successful Java framework so they discuss the design of large frameworks and the issues that arise in the evolution. \nJ\u00fcrgen explains the management of dependencies in the framework, how to structure such a framework, how to offer compatibility for the existing user base while evolving the framework and the role of metrics during development.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode82-largeCodebasesWithJuergenHoeller.mp3?dest-id=23379"
-}

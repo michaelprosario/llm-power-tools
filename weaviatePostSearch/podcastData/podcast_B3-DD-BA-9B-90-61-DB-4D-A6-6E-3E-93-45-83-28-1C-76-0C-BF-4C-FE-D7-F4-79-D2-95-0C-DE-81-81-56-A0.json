@@ -1,8 +1,0 @@
-{
-    "Id": "B3-DD-BA-9B-90-61-DB-4D-A6-6E-3E-93-45-83-28-1C-76-0C-BF-4C-FE-D7-F4-79-D2-95-0C-DE-81-81-56-A0",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "044 \u2013 Effective Java for Android Developers \u2013 Item #10",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>In this mini-Fragment, Donn talks about Item #10 of the Effective Java series - Always Override toString. You'll learn why it's important for your own sanity, future developers, and overall developer happiness.</p>\n<p>This episode is sponsored by Hired.com</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#toString%28%29\">Object#toString</a></li>\n<li><a href=\"http://amzn.to/1RUCko3\">Effective Java Book</a></li>\n</ul>\n<h2>Sponsor</h2>\n<ul>\n<li><a href=\"https://hired.com/fragmented/\">Hired.com</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"http://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/donnfelker\">@donnfelker</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/kaushikgopal\">@kaushikgopal</a> [twitter.com]</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/09d27f15-3d6f-4082-b355-cd85bfd56f59/044_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

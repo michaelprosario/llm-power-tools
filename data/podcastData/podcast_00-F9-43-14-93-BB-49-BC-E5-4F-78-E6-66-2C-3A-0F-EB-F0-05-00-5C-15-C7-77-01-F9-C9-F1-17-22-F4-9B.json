@@ -1,0 +1,8 @@
+{
+    "Id": "00-F9-43-14-93-BB-49-BC-E5-4F-78-E6-66-2C-3A-0F-EB-F0-05-00-5C-15-C7-77-01-F9-C9-F1-17-22-F4-9B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 159: C++0X with Scott Meyers",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/LOmd4ACdwV8/",
+    "Description": "This episode is a conversation with <a href=\"http://www.aristeia.com/\">Scott Meyers</a> about the upcoming C++0x standard. We talk a bit about the reasons for creating this new standard and then cover the most important new features, including upport for concurrency, implicitly-typed variables, move semantics, variadic templates, lambda functions, and uniform initialization syntax. We also looked at some new features in the standard library.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode159-cPlusPlus0x.mp3?dest-id=23379"
+}

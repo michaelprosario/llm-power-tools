@@ -1,8 +1,0 @@
-{
-    "Id": "B6-B7-9A-F9-6E-5E-F8-88-90-EA-46-EF-09-E0-4F-70-92-7D-DC-3F-5B-43-3F-79-D1-56-E1-07-6A-F9-18-5E",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 101: Andreas Zeller on Debugging",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/t6z6sQ0hG0w/",
-    "Description": "In this episode we're talking to <a href=\"http://www.st.cs.uni-sb.de/zeller/\">Andreas Zeller</a>. about debugging. We started the discussion with an explanation of what debugging and how it works in principle. We then briefly discussed the relationship between\ndebugging and testing. Next was the importance of the scientific method for debugging. We then looked as debugging as a search problem, leading to a discussion about delta debugging, the main topic of this discussion. We concluded the discussion by looking at the practical usability of delta debugging and the relationship to other means of automatically finding problems in software.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode101-andreasZellerOnDebugging.mp3?dest-id=23379"
-}

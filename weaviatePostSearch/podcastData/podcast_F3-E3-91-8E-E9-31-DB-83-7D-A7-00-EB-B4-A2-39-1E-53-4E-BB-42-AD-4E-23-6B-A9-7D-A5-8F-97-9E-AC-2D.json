@@ -1,8 +1,0 @@
-{
-    "Id": "F3-E3-91-8E-E9-31-DB-83-7D-A7-00-EB-B4-A2-39-1E-53-4E-BB-42-AD-4E-23-6B-A9-7D-A5-8F-97-9E-AC-2D",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Managing SQL Server using dbatools with Rob Sewell",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Ready to manage SQL Server with PowerShell? Richard chats with Rob Sewell about dbatools, an open source effort to build an amazing set of PowerShell commands for SQL Server. Yes, Microsoft has a few PowerShell commands implemented, but when you see the dbatools set, you'll see what PowerShell can really do for you! Rob talks about the focus on migration for continuous integration purposes, upgrading from one version of SQL Server to another, even into the cloud. If you wanted to get to a place where you can experiment with SQL Server configurations, settings and performance, you need dbatools!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/14777b29-2a8c-420a-8f3a-19fc604a84dc/audio/2ec72622-eeaf-4699-b799-dbf6bc9b2481/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

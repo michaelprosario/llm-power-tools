@@ -1,8 +1,0 @@
-{
-    "Id": "D0-6E-3A-51-52-3F-E0-06-D4-0D-06-EE-F6-F6-2F-7F-B8-D4-3B-B1-85-A9-C5-96-92-A7-7A-E0-7E-57-60-07",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Virtualizing Everything on Azure using RemoteApp with Aidan Finn",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Virtualization at Microsoft continues to evolve! Richard chats with Aidan Finn about the on-going evolution of virtualization and the options available in Azure to use it. It's not just about Azure-hosted virtual machines any more! The conversation ranges over a number of Azure technologies in use today, including Active Directory. You need AD in the cloud to make your hybrid infrastructure work effectively, but it does take time to figure out all the options. Aidan also talks about Microsoft Azure RemoteApp and the options it brings to making applications available in the cloud. Also mentioned is the Azure Speed Test for evaluating which data centers give your location the best performance. The Azure story continues to evolve. Have you checked out the latest?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/4598a5c3-01d6-4c96-b96c-d3a3d2396f57/audio/f52c8b66-2038-4036-9f8e-b915bc944b6b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

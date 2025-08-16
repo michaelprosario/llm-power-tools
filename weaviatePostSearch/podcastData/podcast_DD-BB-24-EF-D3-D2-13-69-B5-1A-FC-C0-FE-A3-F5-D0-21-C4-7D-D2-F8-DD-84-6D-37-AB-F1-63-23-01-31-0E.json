@@ -1,8 +1,0 @@
-{
-    "Id": "DD-BB-24-EF-D3-D2-13-69-B5-1A-FC-C0-FE-A3-F5-D0-21-C4-7D-D2-F8-DD-84-6D-37-AB-F1-63-23-01-31-0E",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 571: Jeroen Mulder on Multi-Cloud Governance",
-    "SourceUrl": "http://se-radio.net/se-radio-571-jeroen-mulder-on-multi-cloud-governance",
-    "Description": "<p>Jeroen Mulder, author of <em><a href= \"https://www.packtpub.com/product/multi-cloud-strategy-for-cloud-architects-second-edition/9781804616734\" target=\"_blank\" rel=\"noopener\">Multi-Cloud Strategy for Cloud Architects</a></em>, joins host <a href= \"https://www.se-radio.net/team/robert-blumen/\">Robert Blumen</a> for a discussion of public cloud, private cloud, and multi-cloud computing architectures and trends. They start by considering what defines cloud computing and what differentiates the major cloud providers, including whether they are more alike or different in the services they offer.\u00a0 Jeroen discusses governance, regulatory compliance, and data locality as drivers of where enterprises want to run their workload. They explore use cases for multi-cloud, and discuss architectural challenges in migrating to kubernetes, as well as issues with networking, security, and identity management with multi-cloud architectures. Finally, they discuss running public cloud compute on on-prem resources with Anthos, Outback, and related technologies.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/571_jeroen_mulder_multi-cloud_governance.mp3?dest-id=23379"
-}

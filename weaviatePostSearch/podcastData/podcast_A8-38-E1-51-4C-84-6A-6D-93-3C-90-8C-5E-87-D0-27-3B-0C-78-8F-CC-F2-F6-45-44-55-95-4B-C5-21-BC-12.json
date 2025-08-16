@@ -1,8 +1,0 @@
-{
-    "Id": "A8-38-E1-51-4C-84-6A-6D-93-3C-90-8C-5E-87-D0-27-3B-0C-78-8F-CC-F2-F6-45-44-55-95-4B-C5-21-BC-12",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Managing Your Hybrid Cloud using Azure Arc with Thomas Maurer",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>We all have a hybrid cloud solution - how do you manage it? Richard chats with Thomas Maurer about Azure Arc, a tool in the Azure suite for managing virtual machines, Kubernetes clusters, and data services in Azure, your on-premises servers, even other cloud providers! Thomas talks about how IT folks end up with an array of tools for managing servers depending on the location and how Azure Arc ends that. Arc provides location-independent access to all your resources, and it's in preview now, so free to use (although you may have to pay for additional Log Analytics data)... check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d565b974-7775-41cd-8e8b-23f9958fa1bf/audio/f1b00108-31bb-4e73-b665-12fe17704b6c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

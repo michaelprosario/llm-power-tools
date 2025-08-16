@@ -1,8 +1,0 @@
-{
-    "Id": "B7-52-9F-92-ED-9C-11-14-13-11-EB-2E-AB-15-2C-E5-44-30-EF-B3-93-63-E6-69-37-4F-D6-AD-ED-F7-DE-0E",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Azure Active Directory with Venkat and David",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Venkat Kalyanasundaram and David Apolinar about Azure Active Directory. The conversation starts out with a focus on the whole idea of claims-based security and what it takes to make single sign on work, especially with heterogeneous clients (like mobile phones and tablets) and cloud-based applications. David digs into the use and limitations of Active Directory Federation Services (ADFS) letting you keep your AD infrastructure in-house and your cloud-based applications authenticating against it. What happens when you want to scale further? Azure AD opens the door not only to high-scaling authentication infrastructure, but also support for a larger diversity of devices and applications. There are thousands of cloud-based applications supported by Azure Active Directory! Azure AD also opens the door to support for multi-factor authentication and other features to keep identities more secure and resistant to hacking. Check it out!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7bfba671-5a7c-41b2-9640-ccd4d76ab504/audio/2c73e72c-972a-424b-bc13-1b24edd5a944/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "C3-1E-C3-62-68-00-D9-B9-FF-4A-E0-05-23-D2-A2-5E-FA-CF-99-80-39-C6-96-C2-9B-B1-B7-78-3E-47-A0-6D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 372: Aaron Patterson on the Ruby Runtime",
-    "SourceUrl": "http://se-radio.net/episode-372-aaron-patterson-on-the-ruby-runtime",
-    "Description": "<p>Aaron Patterson of GitHub discusses the Ruby language and its runtime.\u00a0 Host Jeremy Jung spoke with Aaron about the Ruby language and how it works.\u00a0 They discuss the language virtual machine, concurrency, garbage collection, and JIT compilation.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-372-Aaron-Patterson-on-the-Ruby-Runtime.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "C3-4D-2E-4E-29-F9-29-4A-EA-0C-91-CD-10-C8-F9-6D-80-C0-3E-00-8E-4A-95-F3-7E-74-2A-CD-9F-00-90-3A",
-    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
-    "Title": "There\u2019s Something About LINQ",
-    "SourceUrl": "https://www.codingblocks.net/podcast/episode-6-theres-something-about-linq/",
-    "Description": "<img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2013/09/iStock_000024467396XSmall-150x150.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Lambda vs Comprehension Syntax\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2013/09/iStock_000024467396XSmall-150x150.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"Lambda vs Comprehension Syntax\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />This week we\u2019re talking about LINQ, what\u2019s so special about .NET, the differences IQueryable and IEnumerable, and another round of \u201cNever Have I Ever\u201d. Oh, and jokes! Download the episode on iTunes or Stitcher and make sure to send us your feedback! What is LINQ? Language Integrated Query Common interface for working with data Famous [\u2026]",
-    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-006.mp3"
-}

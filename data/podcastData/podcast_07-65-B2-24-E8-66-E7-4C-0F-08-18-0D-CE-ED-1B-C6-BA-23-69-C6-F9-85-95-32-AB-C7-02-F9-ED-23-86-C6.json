@@ -1,0 +1,8 @@
+{
+    "Id": "07-65-B2-24-E8-66-E7-4C-0F-08-18-0D-CE-ED-1B-C6-BA-23-69-C6-F9-85-95-32-AB-C7-02-F9-ED-23-86-C6",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 32: Service Oriented Architecture, Pt.2a",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/c-vYoRQhu38/",
+    "Description": "In this, as well as in the next episode Eberhard and Markus continue their discussion about SOA (the episode got too long, so we had to split it into two ... SOA 2a and SOA 2b). In this episode, we talk about the various perspectives on SOA (CBD, EAI, BPM), about fundamental requirements towards an SOA, and we discuss the role of models in defining sustainable architectures. We also discuss how a programming model based on the described approach typically looks like. We then discuss a number of issues any large-scale SOA faces (and for which the SOA paradigm does not really provide an out-of-the-box solution: In this episode we discuss data type ownership and (weak) typing of data types.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode32-soa_pt2a.mp3?dest-id=23379"
+}

@@ -1,0 +1,8 @@
+{
+    "Id": "2F-68-74-94-E7-35-C9-7B-59-7A-67-AE-53-8B-8F-D4-F2-76-72-6B-18-33-04-A0-31-A0-7D-35-0B-8D-DF-A0",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": ".NET Micro Framework with Colin Miller",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott talks to Colin Miller about the .NET Micro Framework. It's a &quot;tiny CLR&quot; that runs in as little as 64k! He explains how it started with the SPOT Watch (remember that) and how it's grown to an Open Source project under the Apache 2.0 license with a broad ecosystem and dozens of hardware boards available from partners.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/432f6b05-b8ed-446f-9b9e-7a6082ec4093/3062e338_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

@@ -1,8 +1,0 @@
-{
-    "Id": "E5-BE-B3-C9-91-A5-06-1F-12-84-2F-F8-EE-88-86-8D-AF-F8-05-24-F4-20-AD-BB-32-A5-F5-50-0F-B2-77-2B",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Atom-Shell for cross platform desktop apps with Paul Betts",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to developer Paul Betts, formerly of GitHub, now working on the Windows Desktop application for Slack. They are building their desktop with atom-shell, a cross-platform toolkit that uses V8 and Chromium. Is atom-shell right for you?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/c8046c12-50ed-43f2-9692-59f5d31d540c/cfc084ae_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

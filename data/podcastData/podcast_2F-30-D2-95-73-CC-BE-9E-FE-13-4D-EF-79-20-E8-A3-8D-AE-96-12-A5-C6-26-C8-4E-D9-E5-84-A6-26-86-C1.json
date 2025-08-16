@@ -1,0 +1,8 @@
+{
+    "Id": "2F-30-D2-95-73-CC-BE-9E-FE-13-4D-EF-79-20-E8-A3-8D-AE-96-12-A5-C6-26-C8-4E-D9-E5-84-A6-26-86-C1",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Microsoft 365 Desired State Configuration with Nik Charlebois",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>How do you keep the configuration of your Microsoft 365 resources consistent? Richard talks to Microsoft Premier Field Engineer Nik Charlebois about the evolution of Desired State Configuration. Nik talks about how his old open source project called ReverseDSC has become a part of the new Microsoft365DSC - giving you the ability to extract all the configuration and policy details from the various elements of your Microsoft 365 tenant. And once you have that file, you can compare it against other templates of Microsoft 365 tenants and apply it if you need to. Nik talks about the power of knowing exactly when your configuration gets changed for any reason, and the options available to react to that change!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/55c87594-12df-4d15-a492-074ee90bfbe6/audio/92f89bf4-53bd-471f-851c-e4b7b5b6b44b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

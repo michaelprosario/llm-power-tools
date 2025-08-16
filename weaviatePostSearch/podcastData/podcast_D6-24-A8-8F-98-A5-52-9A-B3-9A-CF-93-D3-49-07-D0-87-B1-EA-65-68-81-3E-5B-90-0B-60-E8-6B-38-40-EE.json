@@ -1,8 +1,0 @@
-{
-    "Id": "D6-24-A8-8F-98-A5-52-9A-B3-9A-CF-93-D3-49-07-D0-87-B1-EA-65-68-81-3E-5B-90-0B-60-E8-6B-38-40-EE",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "DBA DevOps using Query Store with Erin Stellato",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How can Query Store help you participate in the DevOps cycle? Richard chats with Erin Stellato about the power of SQL Query Store - born out of Azure SQL, Query Store keeps a record of every unique query that is run, along with its query plan and stats. How does this help with DevOps? By providing data for DBAs to talk to developers about how to make improvements to applications that will have a real impact on customer value in the long run!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.sqlskills.com/blogs/erin/\">Erin's Blog</a></li><li><a href=\"https://docs.microsoft.com/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store\">Docs on SQL Server Query Store</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7b755c7c-c732-4023-b302-d5e678a59d8d/audio/318fb23b-05cf-47ff-8b24-626eda01e531/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

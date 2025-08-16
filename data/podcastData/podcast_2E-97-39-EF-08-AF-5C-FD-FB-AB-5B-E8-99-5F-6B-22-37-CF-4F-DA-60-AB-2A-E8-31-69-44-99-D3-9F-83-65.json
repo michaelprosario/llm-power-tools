@@ -1,0 +1,8 @@
+{
+    "Id": "2E-97-39-EF-08-AF-5C-FD-FB-AB-5B-E8-99-5F-6B-22-37-CF-4F-DA-60-AB-2A-E8-31-69-44-99-D3-9F-83-65",
+    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
+    "Title": "Eric Sink on Distributed Version Control Systems",
+    "SourceUrl": "https://www.hanselminutes.com/",
+    "Description": "<p>Scott chats with Eric Sink from SourceGear about DVCS. How bad IS SourceSafe? What kinds of things should you think about when moving to more modern source control system like SVN? Then what about moving to a proper distributed system? Mercurial vs. Git and more.</p>\n",
+    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/a2fdc0a9-6798-4c6f-b09b-f0576b21c64f/31742d04_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
+}

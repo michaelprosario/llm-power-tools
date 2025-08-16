@@ -1,8 +1,0 @@
-{
-    "Id": "E6-7C-6F-94-84-18-AB-CB-E1-D6-A4-E8-70-C1-25-79-3C-19-11-EA-D3-79-A9-8B-06-26-3E-5F-44-2E-A2-18",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Genomic-Scale Cloud Data Analysis Pipelines with Lynn Langit",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>There is big data, and then there is genomic-scale. Richard talks to Lynn Langit about her work in large scale data analytics around the pandemic. Lynn talks about the terabytes of data involved in doing genetic analysis and the pipeline needed to move and organize that data. It takes a cloud - you need a huge amount of compute in relatively small bursts, as well as massive amounts of storage. And in the end, you get probabilistic results - nothing is ever absolutely certain! But the experiences happening today in genomic-scale research point to amazing data analytics capabilities for everyone in the future.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/41eaa2d7-acfc-4e47-802e-872c56398509/audio/bae55ccb-ca7a-4602-9002-fc5f45ea8152/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

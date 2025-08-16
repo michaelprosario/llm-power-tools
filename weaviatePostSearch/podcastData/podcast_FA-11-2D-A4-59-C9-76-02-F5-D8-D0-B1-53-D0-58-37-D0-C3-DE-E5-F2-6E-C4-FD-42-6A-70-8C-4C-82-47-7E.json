@@ -1,8 +1,0 @@
-{
-    "Id": "FA-11-2D-A4-59-C9-76-02-F5-D8-D0-B1-53-D0-58-37-D0-C3-DE-E5-F2-6E-C4-FD-42-6A-70-8C-4C-82-47-7E",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "GitOps on the Edge with Octopus Deploy's Dan Garfield",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>In this episode of Hanselminutes, Scott Hanselman sits down with Dan Garfield from Octopus Deploy to delve into the cutting-edge world of GitOps on the Edge. They explore how GitOps principles are revolutionizing deployment strategies, particularly in edge computing environments where latency and reliability are critical. Dan shares insights on the unique challenges and solutions for managing infrastructure and applications at the edge, highlighting real-world use cases and best practices. Whether you\u2019re a seasoned DevOps professional or just curious about the future of deployment automation, this episode offers valuable perspectives on the evolving landscape of GitOps</p><ul><li><a href=\"https://octopus.com/blog/what-is-gitops\">https://octopus.com/blog/what-is-gitops</a></li></ul>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/4a91891f-1efc-436b-aeec-d6d531af8aa4/audio/65a57f6f-acef-4551-82d7-d3edf12705cb/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "D3-27-8C-36-C2-32-7C-27-48-6F-E6-C8-F0-25-AA-F3-77-6F-E3-42-59-51-0D-83-36-1A-13-DF-5F-E2-0E-14",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 381: Josh Long on Spring Boot",
-    "SourceUrl": "http://se-radio.net/episode-381-john-long-on-spring-boot",
-    "Description": "<p>Josh Long, developer advocate at Pivotal, discusses using Spring Boot to efficiently develop production ready enterprise web applications. Josh talks about working with different databases, and developing and testing microservices using Spring Boot.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-381-John-Long-on-Spring-Boot.mp3?dest-id=23379"
-}

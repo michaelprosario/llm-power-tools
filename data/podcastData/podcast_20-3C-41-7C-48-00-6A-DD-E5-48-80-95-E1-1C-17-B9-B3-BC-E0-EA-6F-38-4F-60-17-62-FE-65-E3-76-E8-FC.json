@@ -1,0 +1,8 @@
+{
+    "Id": "20-3C-41-7C-48-00-6A-DD-E5-48-80-95-E1-1C-17-B9-B3-BC-E0-EA-6F-38-4F-60-17-62-FE-65-E3-76-E8-FC",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Erin Welker Partitions Our Data!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard and Greg talk to Erin Welker about Data Partitioning in SQL Server 2005 and 2008. Erin digs into the advantages of partitioning for OLTP and OLAP, as well as the changes between 2005 and 2008. Check out Erin's blog at www.sqlblog.com/blogs/erin_welker.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/47d552c8-32e5-4303-a1ab-882f191650d2/audio/32574191-a4fc-4de3-966d-6a2fae119f64/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

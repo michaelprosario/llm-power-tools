@@ -1,8 +1,0 @@
-{
-    "Id": "B2-36-66-8E-E0-61-C1-A9-1F-46-0D-FA-64-69-C2-FA-02-DA-CA-EF-8C-99-11-C1-5C-B4-AE-5F-73-FC-CE-81",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 291: Morgan Wilde on LLVM",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-291-Morgan-Wilde-on-LLVM.mp3",
-    "Description": "<p>Morgan Wilde talks with SE Radio\u2019s Jeff Meyerson about the LLVM compiler toolchain. They begin with a discussion of how a compiler works and how compiled code executes against different processor architectures. Using the JVM as a model for interoperability, they move on to how LLVM is a system that optimizes an <em>intermediate representation</em> (IR), which is similar to the Java bytecode: every programming language that compiles down to IR can leverage the same optimizations of that IR. The conversation concludes with a discussion of applications of LLVM and the future of the ecosystem.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-291-Morgan-Wilde-on-LLVM.mp3"
-}

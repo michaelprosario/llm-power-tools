@@ -1,8 +1,0 @@
-{
-    "Id": "F3-5A-1F-3A-05-BD-F4-A5-83-01-EC-F2-D3-1D-6F-12-C9-BC-CB-08-77-95-F4-1D-3D-21-59-35-D8-F5-CE-A1",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Alan Sugano Helps Us Migrate from VMWare ESX to ESXi!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard and Greg talk to Alan Sugano about migrating from VMWare ESX to ESXi. VMWare announced that the next version of ESX is the last one, only ESXi will be developed further.</p>\n<p>ESXi is a far lighter weight version of ESX, lowering the security risk, memory consumption and a host of other advantages, but in exchange you give up a lot of the tools you're used to working with in ESX. Regardless, this is the direction that VMWare is going, so give a listen to how Alan has solved these challenges.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2d8e3378-fd43-4a07-a2ea-b50684c7c12f/audio/13076e09-293b-42bf-939b-a0276e2af086/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

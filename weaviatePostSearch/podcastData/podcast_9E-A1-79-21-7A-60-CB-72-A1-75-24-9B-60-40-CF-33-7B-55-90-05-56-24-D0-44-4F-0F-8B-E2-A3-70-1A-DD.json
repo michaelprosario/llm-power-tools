@@ -1,8 +1,0 @@
-{
-    "Id": "9E-A1-79-21-7A-60-CB-72-A1-75-24-9B-60-40-CF-33-7B-55-90-05-56-24-D0-44-4F-0F-8B-E2-A3-70-1A-DD",
-    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
-    "Title": "Understanding Serial Transactions for Databases like Redis",
-    "SourceUrl": "https://www.codingblocks.net/podcast/understanding-serial-transactions-for-databases-like-redis/",
-    "Description": "<img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2023/04/coding-blocks-episode-207-artwork.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2023/04/coding-blocks-episode-207-artwork.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />We\u2019ve got a new / old opening\u2026Allen goes off / on script? Michael denies Joe the \u201cswing\u201d vote, and Joe is all in on AI assistance Testing for concurrency issues is hard because it\u2019s non-deterministic \u2013 basically you get unlucky due to the timing of things Serializability Common Implementations Actual Serial Execution Encapsulating transactions in [\u2026]",
-    "EnclosureUrl": "https://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/forcedn/codingblocks/207_Understanding_Serial_Transactions_for_Databases_like_Redis.mp3"
-}

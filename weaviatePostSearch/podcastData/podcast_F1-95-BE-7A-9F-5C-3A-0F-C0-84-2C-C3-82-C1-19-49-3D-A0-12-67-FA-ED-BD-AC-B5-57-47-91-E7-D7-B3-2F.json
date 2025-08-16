@@ -1,8 +1,0 @@
-{
-    "Id": "F1-95-BE-7A-9F-5C-3A-0F-C0-84-2C-C3-82-C1-19-49-3D-A0-12-67-FA-ED-BD-AC-B5-57-47-91-E7-D7-B3-2F",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "058: Effective Java for Android Developers \u2013 Item #11: Override clone Judiciously",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>In this mini-Fragment, Donn talks about Item #11 of the Effective Java series - Override clone Judiciously. You'll learn about the extralinguistic behavior of clone and the Cloneable interface. Clone and Cloneable are very special, and this episode helps explain the nuances.</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#clone()\">Object#clone</a></li>\n<li><a href=\"http://amzn.to/1RUCko3\">Effective Java Book</a></li>\n</ul>\n<h2>Sponsor</h2>\n<ul>\n<li><a href=\"https://hired.com/fragmented/\">Hired - special offer: double the signing bonus!</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"http://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/donnfelker\">@donnfelker</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/kaushikgopal\">@kaushikgopal</a> [twitter.com]</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/f5667441-74d7-4615-819f-73e107bd82a0/058-effective-java-item11_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

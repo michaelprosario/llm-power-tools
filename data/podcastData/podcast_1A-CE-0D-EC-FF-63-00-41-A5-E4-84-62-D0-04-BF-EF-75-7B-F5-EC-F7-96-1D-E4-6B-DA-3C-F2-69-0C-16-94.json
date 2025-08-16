@@ -1,0 +1,8 @@
+{
+    "Id": "1A-CE-0D-EC-FF-63-00-41-A5-E4-84-62-D0-04-BF-EF-75-7B-F5-EC-F7-96-1D-E4-6B-DA-3C-F2-69-0C-16-94",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Azure and Azure Stack with Aidan Finn",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Azure is growing, and Azure Stack is taking orders! Richard chats with Aidan Finn about his work with companies implementing Azure and looking at Azure Stack. Azure Stack <em>is</em> Azure, but it's your own private Azure - you run it where you want. What you don't choose is what hardware (just how much) and any of the configuration, since that is handled by Microsoft. You're always patched at the same level that public Azure is. Does Azure Stack make sense for you? Aidan digs into the various reasons why you might need your own private hybrid cloud!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7a5d58e5-3a8f-43fc-a298-133cef031314/audio/5aa9ae35-5451-44df-b836-b05d0e4baa94/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

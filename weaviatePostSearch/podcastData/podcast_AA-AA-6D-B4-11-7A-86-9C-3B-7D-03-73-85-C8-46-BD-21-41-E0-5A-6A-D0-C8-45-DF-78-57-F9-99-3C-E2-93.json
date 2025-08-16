@@ -1,8 +1,0 @@
-{
-    "Id": "AA-AA-6D-B4-11-7A-86-9C-3B-7D-03-73-85-C8-46-BD-21-41-E0-5A-6A-D0-C8-45-DF-78-57-F9-99-3C-E2-93",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 565: Luca Galante on Platform Engineering",
-    "SourceUrl": "http://se-radio.net/se-radio-565-luca-galante-on-platform-engineering",
-    "Description": "<p>Luca Galante, head of product at Humanitec, joins host <a href= \"https://www.se-radio.net/team/jeff-doolittle/\">Jeff Doolittle</a> for a conversation about platform engineering. They begin by defining platform engineering and its relationship to, and distinction from, DevOps. Tracing platform engineering's history, Luca describes how internal developer platforms are fundamental, and then explores the goals of addressing complexity and reducing the cognitive load on developers by creating golden paths.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/565_luca_galante_platform_engineering.mp3?dest-id=23379"
-}

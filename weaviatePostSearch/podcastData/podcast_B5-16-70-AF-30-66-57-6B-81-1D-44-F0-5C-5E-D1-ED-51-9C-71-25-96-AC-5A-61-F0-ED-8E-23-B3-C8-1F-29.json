@@ -1,8 +1,0 @@
-{
-    "Id": "B5-16-70-AF-30-66-57-6B-81-1D-44-F0-5C-5E-D1-ED-51-9C-71-25-96-AC-5A-61-F0-ED-8E-23-B3-C8-1F-29",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Inside Visual Studio Performance and PerfWatson with Phil Price",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott goes directly to the source and talks to Phil Price from the Visual Studio team. Why is VS sometimes slow? When it is slow, what's really happening? What is PerfWatson and how will it help them make VS faster? All this and some hints in interesting improvements in the next version of Visual Studio!</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ecfe03d0-aee1-4776-8b7a-b642c1a7c763/a215b056_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

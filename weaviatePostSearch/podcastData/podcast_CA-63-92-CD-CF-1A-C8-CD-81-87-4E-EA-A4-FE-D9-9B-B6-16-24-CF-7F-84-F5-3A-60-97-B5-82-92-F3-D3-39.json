@@ -1,8 +1,0 @@
-{
-    "Id": "CA-63-92-CD-CF-1A-C8-CD-81-87-4E-EA-A4-FE-D9-9B-B6-16-24-CF-7F-84-F5-3A-60-97-B5-82-92-F3-D3-39",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 479: Luis Ceze on the Apache TVM Machine Learning Compiler",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-479-Luis-Ceze-on-the-Apache-TVM-Machine-Learning-Compiler.mp3",
-    "Description": "<p>Luis Ceze of OctoML discusses Apache TVM, an open source machine learning model compiler for a variety of different hardware architectures with host Akshay Manchale. Luis talks about the challenges in deploying models on specialized hardware and how TVM.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-479-Luis-Ceze-on-the-Apache-TVM-Machine-Learning-Compiler.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "FB-D5-C9-A7-04-63-42-32-F1-1A-98-12-BA-86-D5-66-E1-CA-F7-8F-E5-C6-75-CE-75-19-8E-BA-61-D5-4E-0F",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "How Pokemon Go Creator Builds on Kubernetes for Developers",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/how-pokemon-go-creator-builds-on-kubernetes-for-developers-AMFOKCud",
-    "Description": "<p>Kubernetes played a key role in maintaining Pokemon Go, Niantic\u2019s wildly popular augmented-reality development.\u00a0 Kubernetes, and the efficiencies it offers DevOps teams, continue to play a role at Niantic, as the company builds on the game\u2019s architecture to third-party developers.</p><p>In this latest episode of The New Stack Makers podcast, <a href=\"https://www.linkedin.com/in/ria-bhatia-a8135b98\">Ria Bhatia</a>, senior product manager of <a href=\"https://nianticlabs.com/fr/\">Niantic</a>, discusses why the Pokemon Go platform remains relevant and why <a href=\"https://thenewstack.io/category/kubernetes/\">Kubernetes</a> will remain an integral part of the platform as the company hopes to bring in more \u201cdeveloper customers.\u201d\u00a0</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/08a044f0-68df-461d-9763-73e588f5eefc/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=08a044f0-68df-461d-9763-73e588f5eefc&feed=IgzWks06"
-}

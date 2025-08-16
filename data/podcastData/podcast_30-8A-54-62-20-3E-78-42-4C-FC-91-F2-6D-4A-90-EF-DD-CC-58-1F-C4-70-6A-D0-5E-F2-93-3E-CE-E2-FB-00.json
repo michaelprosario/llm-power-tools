@@ -1,0 +1,8 @@
+{
+    "Id": "30-8A-54-62-20-3E-78-42-4C-FC-91-F2-6D-4A-90-EF-DD-CC-58-1F-C4-70-6A-D0-5E-F2-93-3E-CE-E2-FB-00",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Providing Self-Service using Azure Pack with Damian Flynn",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard talks to Damian Flynn about Windows Azure Pack for Windows Server and Service Management Automation. Big confusing names for a really simple concept - how do we bring self-service to the users of our infrastructure? The discussion starts out around the idea of service management automation, using tools to make your IT systems more service-centric, allowing people to provision and utilize infrastructure on demand. This leads to a conversation on Windows Azure Pack for Windows Server (WAP) - terrible name, but accurate. WAP is all about making Microsoft Azure tooling available in your own infrastructure. While it can stand on it's own, WAP also works well with various components of System Center including Configuration Manager, Operations Manager, Virtual Machine Manager and Orchestrator. This looks to be the best way to bring self-service to your company!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/2c1dbb9e-24fb-4509-a67f-d321c87369bd/audio/81c0e2ee-db1f-4473-9079-5629651fae18/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

@@ -1,8 +1,0 @@
-{
-    "Id": "DE-EF-07-6C-B2-C9-82-3A-C7-8A-BD-EA-BD-9D-5A-02-24-CA-D5-B3-F5-91-3A-12-A6-44-2C-DD-E1-A8-2F-DA",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Azure Data Factory with Tom Kerkhove",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>How do you ETL? Richard chats with Tom Kerkhove about Azure Data Factory, now previewing V2 features. We've had Extract-Transform-Load workflows since databases were first invented, but the concept was really formalized back in the data warehouse days. With the cloud, there are more tools, more data sources and more compute to enhance your ETL experiences. Tom talks about how V2 of Data Factory adds SQL Server Integration Service functionality so that you can put your SSIS packages directly into Azure. Data Factory is tied in with Logic Apps, including supporting features like Azure Key Vault. This leads to a great conversation about data-centric vs. application-centric workflows. Your company is sure to have both!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/47c53fe6-0f01-4f1a-9202-bb0ff6a68f19/audio/ff2ad2f3-c28e-49fe-bd00-4d91bcba83e7/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

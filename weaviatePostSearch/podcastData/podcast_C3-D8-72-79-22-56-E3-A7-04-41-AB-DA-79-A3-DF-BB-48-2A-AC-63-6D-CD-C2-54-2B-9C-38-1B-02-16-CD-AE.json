@@ -1,8 +1,0 @@
-{
-    "Id": "C3-D8-72-79-22-56-E3-A7-04-41-AB-DA-79-A3-DF-BB-48-2A-AC-63-6D-CD-C2-54-2B-9C-38-1B-02-16-CD-AE",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Windows Terminal with Richard Turner",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Is it time for a new Windows Terminal? Richard talks to Richard Turner about the announcement at Build of the new Windows Terminal. The conversation starts with: Why? Richard explains that the ConHost.exe based console of Windows has hit its limits - the need for backward compatibility exceeds the ability to make changes to it effectively anymore. A new open source project has been developed to allow all the features you've always wanted in a terminal, like tabs, font choices, customization per environment and more - take a look!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/64294669-7289-444b-a8f5-099f98c42847/audio/5bc750a5-1761-40bf-bf2e-8e0ebe13c930/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

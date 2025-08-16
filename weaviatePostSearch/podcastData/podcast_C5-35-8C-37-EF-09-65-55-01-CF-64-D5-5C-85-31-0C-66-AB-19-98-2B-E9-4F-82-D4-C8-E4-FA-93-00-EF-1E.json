@@ -1,8 +1,0 @@
-{
-    "Id": "C5-35-8C-37-EF-09-65-55-01-CF-64-D5-5C-85-31-0C-66-AB-19-98-2B-E9-4F-82-D4-C8-E4-FA-93-00-EF-1E",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 413: Spencer Kimball on CockroachDB",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-413-Spencer-Kimball-on-CockroachDB.mp3",
-    "Description": "<p>Spencer Kimball talks to Akshay Manchale about CockroachDB which is a distributed, resilient, SQL database system. He talks about challenges of using single node databases and features and principles behind CockroachDB that make it a better alternative open source database.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-413-Spencer-Kimball-on-CockroachDB.mp3"
-}

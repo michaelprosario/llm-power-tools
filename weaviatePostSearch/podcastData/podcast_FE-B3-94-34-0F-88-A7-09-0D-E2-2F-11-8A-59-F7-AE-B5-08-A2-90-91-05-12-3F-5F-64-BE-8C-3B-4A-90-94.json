@@ -1,8 +1,0 @@
-{
-    "Id": "FE-B3-94-34-0F-88-A7-09-0D-E2-2F-11-8A-59-F7-AE-B5-08-A2-90-91-05-12-3F-5F-64-BE-8C-3B-4A-90-94",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 92: Introduction to Game Development",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/6e44yOjPNDQ/",
-    "Description": "In this Episode, Arno talks with Oliver Jucknath about the art of writing computer games. A lot of myth is attached to this area of computing, and while a game technically is just another program, it is written in a different context than typical business applications.\n\nThis is true at the code level, where aggressive optimization is a focus throughout development. It also applies at the team level, where collaboration between specialists is pronounced. And the business context is different as well, which in turn influences the development effort as a whole.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode92-introductionToGameDevelopment.mp3?dest-id=23379"
-}

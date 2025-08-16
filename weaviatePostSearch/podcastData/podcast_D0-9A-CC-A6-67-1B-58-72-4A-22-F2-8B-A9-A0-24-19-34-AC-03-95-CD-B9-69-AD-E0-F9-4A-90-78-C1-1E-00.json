@@ -1,8 +1,0 @@
-{
-    "Id": "D0-9A-CC-A6-67-1B-58-72-4A-22-F2-8B-A9-A0-24-19-34-AC-03-95-CD-B9-69-AD-E0-F9-4A-90-78-C1-1E-00",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Getting the most from your Cloud Database with Jes Schultz",
-    "SourceUrl": "https://runasradio.com/Shows/Show/775",
-    "Description": "<p>You moved your data into the cloud - but have you moved your thinking? Richard chats with Jes Schultz about going beyond the lift-and-shift of databases into the cloud to thinking more broadly about what you can do with data once it's there. Jes talks about how the cloud changes your approach to disaster recovery and database storage, opening the door to experimenting with different database capabilities, even different databases entirely! With core operations more automated, you have time to do more tuning - improving performance and saving money!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://azure.microsoft.com/en-ca/services/sql-database/\">Azure SQL</a></li><li><a href=\"https://azure.microsoft.com/en-ca/services/postgresql/\">Azure PostgreSQL</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/databricks/\">Azure Databricks</a></li><li><a href=\"https://azure.microsoft.com/resources/videos/introduction-to-azure-sql-data-warehouse/\">Azure Data Warehouse</a></li></ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/691acc03-2869-48da-98ab-255ca03cb36e/audio/d8bee06c-9d87-4406-b905-68c1165f5342/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

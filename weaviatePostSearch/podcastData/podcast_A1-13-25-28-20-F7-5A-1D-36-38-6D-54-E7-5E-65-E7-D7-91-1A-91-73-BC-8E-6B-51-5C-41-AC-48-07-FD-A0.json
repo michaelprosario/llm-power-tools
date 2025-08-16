@@ -1,8 +1,0 @@
-{
-    "Id": "A1-13-25-28-20-F7-5A-1D-36-38-6D-54-E7-5E-65-E7-D7-91-1A-91-73-BC-8E-6B-51-5C-41-AC-48-07-FD-A0",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Successful Cross Platform .NET Development - Mono and Banshee with Aaron Bockover",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott chats with Aaron Bockover of Novell about the Banshee Project - a cross-platform Media Player. It's a Mono Application that runs on Linux, Mac OS X and Windows. What are the hard-won secrets of cross platform .NET dev? Aaron and his team know the answers.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/32235f19-4807-4269-bda4-f6ef5529140e/56db5357_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

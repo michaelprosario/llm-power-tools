@@ -1,8 +1,0 @@
-{
-    "Id": "F9-3F-5A-70-94-09-19-E3-5E-DD-8F-5B-CB-E4-E4-78-44-6C-5D-C6-57-FE-43-A6-B6-D6-1A-62-45-88-EE-69",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 561: Dan DeMers on Dataware",
-    "SourceUrl": "http://se-radio.net/se-radio-561-dan-demers-on-dataware",
-    "Description": "<p data-pm-slice=\"1 1 []\">Dan DeMers of Cinchy.com joins host <a href=\"https://www.se-radio.net/team/jeff-doolittle/\" target=\"_blank\" rel=\"noopener\">Jeff Doolittle</a> for a conversation about data collaboration and dataware. Dataware platforms leverage an operational data fabric to liberate data from apps and other silos and connect it together in real-time data networks. They explore a range of key topics, including zero-copy integration, encapsulation and information hiding, handling changes to data models over time, and latency and access issues. The discussion also explores dataware management and security concerns, as well as the concept of 'data plasticity' as an analogy to neuroplasticity, which is where the nervous system can respond to stimuli such as injuries by reorganizing its structure, functions, or connections.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/561_dan_demers_dataware.mp3?dest-id=23379"
-}

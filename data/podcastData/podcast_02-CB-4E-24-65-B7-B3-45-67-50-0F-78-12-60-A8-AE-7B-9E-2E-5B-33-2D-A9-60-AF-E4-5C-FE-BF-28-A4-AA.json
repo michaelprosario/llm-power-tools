@@ -1,0 +1,8 @@
+{
+    "Id": "02-CB-4E-24-65-B7-B3-45-67-50-0F-78-12-60-A8-AE-7B-9E-2E-5B-33-2D-A9-60-AF-E4-5C-FE-BF-28-A4-AA",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Getting Intune with Dana Epp",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chat with Dana Epp about the latest on Microsoft Intune. Dana digs into the latest in Intune, which is it's second version, both for small organizations and large. The basic version is a pure cloud offering for smaller organizations that allows you to push software, manage policy and track inventory with no on-premise infrastructure. And it works across platforms - Windows, Windows RT, Windows Phone 8 and Apple iOS! Dana talks briefly about large organization implementations using System Center Configuration Manager as well. Intune is shaping up to be a great way to manage configuration for all your organization's devices in one place.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/7f1584e9-bcd5-452c-9184-1a912b261b42/audio/fec1a38a-e7b3-4b6c-b16b-459ae499b2ec/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

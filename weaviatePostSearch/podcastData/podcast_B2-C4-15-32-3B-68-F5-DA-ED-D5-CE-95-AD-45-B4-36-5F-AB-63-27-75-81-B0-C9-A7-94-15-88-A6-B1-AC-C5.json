@@ -1,8 +1,0 @@
-{
-    "Id": "B2-C4-15-32-3B-68-F5-DA-ED-D5-CE-95-AD-45-B4-36-5F-AB-63-27-75-81-B0-C9-A7-94-15-88-A6-B1-AC-C5",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Starting with Continuous Integration in the Cloud with Steven Edouard",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to Steven Edouard about making CI (Continuous Integration) and easy deployment possible in the cloud. From small node-based sites to larger Chef and automated VM deployments, Steven outlines our options and gets us started in Azure.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/55385145-7b8b-49b3-b02e-2c690cc40be9/4817001f_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

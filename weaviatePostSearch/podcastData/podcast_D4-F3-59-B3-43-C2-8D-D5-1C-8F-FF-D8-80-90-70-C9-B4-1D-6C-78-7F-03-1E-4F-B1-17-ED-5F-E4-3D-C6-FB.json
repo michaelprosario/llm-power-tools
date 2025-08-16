@@ -1,8 +1,0 @@
-{
-    "Id": "D4-F3-59-B3-43-C2-8D-D5-1C-8F-FF-D8-80-90-70-C9-B4-1D-6C-78-7F-03-1E-4F-B1-17-ED-5F-E4-3D-C6-FB",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Eric Shupps Improves SharePoint Performance!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Eric Shupps about the process of improving SharePoint performance. Starting with the single-server implementation of SharePoint, Eric walks through each point of tuning SharePoint including database tuning, separating web front ends from application servers, separating off services, etc. Microsoft has a great site on Best Practices for SharePoint Server 2010.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/53ce2848-9cdb-46c6-bc06-d7d11b9a8971/audio/0a0e02be-0c34-45d6-8349-6257b25f8fc0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

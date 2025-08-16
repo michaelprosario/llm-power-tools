@@ -1,8 +1,0 @@
-{
-    "Id": "B9-EA-5D-B3-B9-57-FE-35-7F-7F-3B-9A-1E-2E-08-CA-51-1F-A4-02-84-D3-81-28-24-8B-4F-67-78-5F-F6-C9",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 289: James Turnbull on Declarative Programming with Terraform",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-289-James-Turnbull-on-Terraform.mp3",
-    "Description": "<p>James Turnbull joins Robert Blumen for a discussion of Terraform, an infrastructure-as-code tool, and a deep dive into how Terraform implements the declarative programming model.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-289-James-Turnbull-on-Terraform.mp3"
-}

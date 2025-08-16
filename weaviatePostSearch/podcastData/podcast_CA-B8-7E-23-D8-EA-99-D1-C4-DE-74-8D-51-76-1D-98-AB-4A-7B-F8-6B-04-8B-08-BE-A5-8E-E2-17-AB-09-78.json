@@ -1,8 +1,0 @@
-{
-    "Id": "CA-B8-7E-23-D8-EA-99-D1-C4-DE-74-8D-51-76-1D-98-AB-4A-7B-F8-6B-04-8B-08-BE-A5-8E-E2-17-AB-09-78",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Laura Hunter Manages the Identity Infrastructure at Microsoft!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard flies solo to talk to Laura Hunter, now working at Microsoft IT about the identity infrastructure at Microsoft. Laura talks about the scale of the identity problem at Microsoft, the challenges of using smart cards instead of passwords (the passwords won). The conversation moves on to talking about identification in general, talking about different ways of recognizing users, the shared authentication via twitter, facebook, etc. Ultimately Richard and Laura end up back at ADFS and how cloud technology is facilitating the adoption of ADFS and claims-based security.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/61bfeaf4-86b3-4d49-8f15-de17c30c272e/audio/eae68388-4f95-4020-888e-7e4e6e7161bc/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

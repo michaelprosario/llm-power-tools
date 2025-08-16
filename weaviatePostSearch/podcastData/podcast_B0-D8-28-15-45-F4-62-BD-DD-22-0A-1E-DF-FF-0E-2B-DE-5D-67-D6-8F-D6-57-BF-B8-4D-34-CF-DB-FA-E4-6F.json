@@ -1,8 +1,0 @@
-{
-    "Id": "B0-D8-28-15-45-F4-62-BD-DD-22-0A-1E-DF-FF-0E-2B-DE-5D-67-D6-8F-D6-57-BF-B8-4D-34-CF-DB-FA-E4-6F",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 100: Software in Space",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/ZpXEZGjqshM/",
-    "Description": "In this episode we're talking to Hans-Joachim Popp, CIO at DLR about software in space. We start out by reviewing some well-known accidents of unmanned space flight that were caused by software faults and use this as a motivation to discuss how to avoid these in the future. We discuss culture, process, techniques and tools that DLR uses to create  high-quality software for use in unmanned space systems.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode100-softwareInSpace.mp3?dest-id=23379"
-}

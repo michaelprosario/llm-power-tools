@@ -1,0 +1,8 @@
+{
+    "Id": "11-AE-D7-AA-86-43-18-33-8F-6C-67-1A-19-4C-43-B1-53-B2-AC-9A-E8-27-E7-B6-DC-1B-B6-AC-1C-53-CD-16",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Next Generation Storage with Stephen Foskett",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Stephen Foskett about where storage is at these days. The conversation spans far and wide, talking about how Microsoft's latest products (like Exchange 2013) are rather SAN-hostile, why we're all happy to get away from FibreChannel, our indifference toward iSCSI and the impact of NFS and SMB3 on file systems. Stephen also talks about just how fast fast is these days - whether it's SSDs, PCI-E based storage or USB3 thumb drives! It's all about the iOPs! Make sure you check out Tech Field Day!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/a970fb1e-65e3-44e3-81cf-71a17c30c272/audio/2107ea0d-7f76-431d-ac34-f1df5fcdfee2/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

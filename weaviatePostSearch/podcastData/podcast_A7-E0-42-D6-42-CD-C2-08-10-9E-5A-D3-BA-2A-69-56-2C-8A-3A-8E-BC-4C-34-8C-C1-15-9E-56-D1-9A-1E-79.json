@@ -1,8 +1,0 @@
-{
-    "Id": "A7-E0-42-D6-42-CD-C2-08-10-9E-5A-D3-BA-2A-69-56-2C-8A-3A-8E-BC-4C-34-8C-C1-15-9E-56-D1-9A-1E-79",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE-Radio Episode 270: Brian Brazil on Prometheus Monitoring",
-    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-270-Brian-Brazil-on-Prometheus-Monitoring.mp3",
-    "Description": "<p>Jeff Meyerson talks with Brian Brazil about monitoring with Prometheus, an open source tool for monitoring distributed applications. Brian is the founder of Robust Perception, a company offering Prometheus engineering and consulting. The high level goal of Prometheus is to allow developers to focus on services rather than individual instances of a given service. Prometheus is based off of the Borgmon monitoring tool, widely used at Google, where Brian previously worked. Jeff and Brian discuss the tradeoffs of choosing not to replicate our monitoring data. In some situations, the monitoring system will lose data because of this decision. Other topics that are discussed are distributed consensus tools, integrations with Prometheus, and the broader topic of monitoring itself.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-270-Brian-Brazil-on-Prometheus-Monitoring.mp3"
-}

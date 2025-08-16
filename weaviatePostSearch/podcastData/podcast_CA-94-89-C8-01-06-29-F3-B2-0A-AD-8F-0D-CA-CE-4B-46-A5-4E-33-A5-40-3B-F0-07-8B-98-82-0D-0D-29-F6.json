@@ -1,8 +1,0 @@
-{
-    "Id": "CA-94-89-C8-01-06-29-F3-B2-0A-AD-8F-0D-CA-CE-4B-46-A5-4E-33-A5-40-3B-F0-07-8B-98-82-0D-0D-29-F6",
-    "ContentSourceId": "08ddc66c-88c1-4fd9-9d0f-06779ee4a5cb",
-    "Title": "Can we build a generalist agent? Dr. Minqi Jiang and Dr. Marc Rigter",
-    "SourceUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/Can-we-build-a-generalist-agent--Dr--Minqi-Jiang-and-Dr--Marc-Rigter-e2hbgmm",
-    "Description": "<p>Dr. Minqi Jiang and Dr. Marc Rigter explain an innovative new method to make the intelligence of agents more general-purpose by training them to learn many worlds before their usual goal-directed training, which we call &quot;reinforcement learning&quot;. \n\nTheir new paper is called &quot;Reward-free curricula for training robust world models&quot; https://arxiv.org/pdf/2306.09205.pdf\n\nhttps://twitter.com/MinqiJiang\nhttps://twitter.com/MarcRigter\n\nInterviewer: Dr. Tim Scarfe\n\nPlease support us on Patreon, Tim is now doing MLST full-time and taking a massive financial hit. If you love MLST and want this to continue, please show your support! In return you get access to shows very early and private discord and networking. https://patreon.com/mlst\n\nWe are also looking for show sponsors, please get in touch if interested mlstreettalk at gmail. \n\nMLST Discord: https://discord.gg/machine-learning-street-talk-mlst-937356144060530778</p>\n",
-    "EnclosureUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/84312214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F1bbd0c9c-d5cd-0177-632d-f6c191a25928.mp3"
-}

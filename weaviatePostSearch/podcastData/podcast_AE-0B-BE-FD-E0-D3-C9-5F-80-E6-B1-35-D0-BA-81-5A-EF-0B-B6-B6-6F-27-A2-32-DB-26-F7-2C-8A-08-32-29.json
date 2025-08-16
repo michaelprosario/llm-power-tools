@@ -1,8 +1,0 @@
-{
-    "Id": "AE-0B-BE-FD-E0-D3-C9-5F-80-E6-B1-35-D0-BA-81-5A-EF-0B-B6-B6-6F-27-A2-32-DB-26-F7-2C-8A-08-32-29",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Jeff Stokes Introduces Us to xPerf!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Jeff Stokes about xPerf. xPerf is part of a suite of tools called the Windows Performance Analysis Toolkit (WPT). WPT digs into Windows where PerfMon leaves off, utilizing Event Tracing for Windows to see exactly how applications are behaving, even during bootup and shutdown. Get more information on WPT at http://msdn.microsoft.com/en-us/performance/cc825801.aspx. Also, check out Jeff's blog at http://blogs.technet.com/b/jeff_stokes/.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/983229eb-71af-452d-931f-76616e7315d9/audio/d1629057-bfca-4da3-ab87-2621b5a12ab1/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

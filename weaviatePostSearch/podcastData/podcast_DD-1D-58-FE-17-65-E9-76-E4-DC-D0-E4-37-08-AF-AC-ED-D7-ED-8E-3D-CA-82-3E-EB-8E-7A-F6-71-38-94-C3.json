@@ -1,8 +1,0 @@
-{
-    "Id": "DD-1D-58-FE-17-65-E9-76-E4-DC-D0-E4-37-08-AF-AC-ED-D7-ED-8E-3D-CA-82-3E-EB-8E-7A-F6-71-38-94-C3",
-    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
-    "Title": "163: Parallelize Your Espresso Tests with Flank w/ Matt Runo",
-    "SourceUrl": "https://fragmentedpodcast.com/",
-    "Description": "<p>In this episode, Donn talks to Matt Runo about the Flank project. Using Flank you can run your Espresso test suite in parallel on Firebase Test Lab (FTL). This allows you to lower your feedback loop time and increase developer productivity and throughput. You'll learn all about Flank, how it works and how to get started in this episode.</p>\n<h2>Sponsors \ud83d\ude4f</h2>\n<ul>\n<li><a href=\"https://sentry.io/for/android/\">sentry.io</a> -  Your code is broken. Let\u2019s fix it together - https://sentry.io/for/android/</li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"https://discord.gg/zBSfhwk\">Discord chat</a> or <a href=\"https://twitter.com/fragmentedcast\">@fragmentedcast</a> or <a href=\"https://www.youtube.com/channel/UC7fT84G-G25w7Bdd-e1rnyw/videos\">our Youtube channel</a></li>\n<li><a href=\"https://twitter.com/donnfelker\">@donnfelker</a> and <a href=\"https://www.instagram.com/donnfelker/\">donnfelker</a> (on Instagram)</li>\n<li><a href=\"https://twitter.com/kaushikgopal\">@kaushikgopal</a> and <a href=\"https://www.instagram.com/kaushikgopal/\">kaushikgopal</a> (on Instagram)</li>\n</ul>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/af395b4c-c791-4685-acc7-396ee8f8e223/matt-runo_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
-}

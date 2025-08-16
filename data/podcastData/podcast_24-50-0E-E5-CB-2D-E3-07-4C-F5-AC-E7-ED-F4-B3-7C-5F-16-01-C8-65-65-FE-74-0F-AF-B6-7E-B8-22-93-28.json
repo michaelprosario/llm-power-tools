@@ -1,0 +1,8 @@
+{
+    "Id": "24-50-0E-E5-CB-2D-E3-07-4C-F5-AC-E7-ED-F4-B3-7C-5F-16-01-C8-65-65-FE-74-0F-AF-B6-7E-B8-22-93-28",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Security Chaos Engineering with Kelly Shortridge",
+    "SourceUrl": "https://runasradio.com/Shows/Show/901",
+    "Description": "<p>Ready to inject a little chaos into your systems? Richard talks to Kelly Shortridge about her book Security Chaos Engineering. Kelly discusses the challenges of modern cybersecurity - how do you find weaknesses in your infrastructure and security systems? This leads to a discussion about challenging assumptions by exploring the workflows that exist in your infrastructure today. Exploring the workflows shows where assumptions exist, and that opens the door to testing them. There's sure to be some low-hanging fruit you can deal with, but eventually, you're left with tests that have to be set loose on your system - and you'll find out how resilient you really are!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://www.fastly.com/\">Fastly</a></li><li><a href=\"https://www.oreilly.com/library/view/security-chaos-engineering/9781492080350/\">Security Chaos Engineering</a></li><li><a href=\"https://www.deciduous.app/\">Deciduous</a></li></ul><p>Recorded August 22, 2023</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d0302314-e702-4db1-8649-011e976709b3/audio/1cbac284-d298-4737-bc9c-da89f33e5e14/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

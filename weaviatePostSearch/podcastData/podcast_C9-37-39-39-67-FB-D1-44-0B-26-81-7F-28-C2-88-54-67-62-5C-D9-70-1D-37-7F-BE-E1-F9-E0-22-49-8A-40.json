@@ -1,8 +1,0 @@
-{
-    "Id": "C9-37-39-39-67-FB-D1-44-0B-26-81-7F-28-C2-88-54-67-62-5C-D9-70-1D-37-7F-BE-E1-F9-E0-22-49-8A-40",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 78: Fault Tolerance with Bob Hanmer Pt. 2",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/k-xMKXK8wmE/",
-    "Description": "This is the second part of the discussion on fault tolerance with Bob Hanmer (if you didn't listen to Episode 77, which contains part one, please go back and listen now; this episode builds on that previous one!)\n\nWe start by discussing a set of error detection patterns. Among are the well-known approaches such as checksums and voting. We then look at error recovery patterns, including restart, rollback or roll forward. The next section looks\nat error mitigation patterns, which include shedding load and doing fresh work before stale. The last patterns section then looks at fault treatment patterns.\n\nWe conclude the episode with a small discussion about how to design systems using (these and other) patterns, and with some thoughts on why actually wrote the book.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode78-faultToleranceWithBobHanmer_pt2.mp3?dest-id=23379"
-}

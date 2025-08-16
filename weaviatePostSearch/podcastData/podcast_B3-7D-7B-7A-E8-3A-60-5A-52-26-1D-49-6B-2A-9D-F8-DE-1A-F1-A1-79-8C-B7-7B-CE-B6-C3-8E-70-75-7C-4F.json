@@ -1,8 +1,0 @@
-{
-    "Id": "B3-7D-7B-7A-E8-3A-60-5A-52-26-1D-49-6B-2A-9D-F8-DE-1A-F1-A1-79-8C-B7-7B-CE-B6-C3-8E-70-75-7C-4F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Steve Murawski Uses Server 2012 to File Share Everything!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Steve Murawski about how Server 2012 affects file sharing. Server 2012 includes SMB3, which allows NIC teaming to allow commodity 1GB NICs to work together to create awesome file transfer rates. But how far can we go with that? Steve talks about how clustering and other services in Server 2012 create a world where you may never need a SAN at all - everything can be a file share!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/52de4ba5-902f-40c9-a5b5-ea2358a0cd41/audio/dd9ccfea-f2bb-4f9a-bd8e-de6b87fdfd55/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

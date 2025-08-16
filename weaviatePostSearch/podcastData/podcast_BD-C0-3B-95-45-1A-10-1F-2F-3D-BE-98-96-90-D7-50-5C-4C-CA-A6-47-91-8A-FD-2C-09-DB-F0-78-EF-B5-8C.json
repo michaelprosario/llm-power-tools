@@ -1,8 +1,0 @@
-{
-    "Id": "BD-C0-3B-95-45-1A-10-1F-2F-3D-BE-98-96-90-D7-50-5C-4C-CA-A6-47-91-8A-FD-2C-09-DB-F0-78-EF-B5-8C",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 608: Lane Wagner on Revisiting the Go Language",
-    "SourceUrl": "http://se-radio.net/se-radio-608-lane-wagner-on-revisiting-the-go-language",
-    "Description": "<p>Lane Wagner of Boot.dev speaks with host <a href=\"../team/philip-winston\">Philip Winston</a> about Go, the programming language that's popular for web, cloud, devops, networking, and other types of development. In addition to discussing existing features such as structs, interfaces, concurrency, and error handling, Lane and Philip take a deep look at <em>generics</em>, a recent addition to the language. They also explore the developer experience with Go.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/608_lane_wagner_revisiting_go.mp3?dest-id=23379"
-}

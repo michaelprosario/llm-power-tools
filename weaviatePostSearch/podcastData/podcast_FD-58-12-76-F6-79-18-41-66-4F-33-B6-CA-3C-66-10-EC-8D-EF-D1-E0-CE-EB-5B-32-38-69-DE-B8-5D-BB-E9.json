@@ -1,8 +1,0 @@
-{
-    "Id": "FD-58-12-76-F6-79-18-41-66-4F-33-B6-CA-3C-66-10-EC-8D-EF-D1-E0-CE-EB-5B-32-38-69-DE-B8-5D-BB-E9",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Hyperconverged Storage using Windows Server 2016 with Ned Pyle",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Hyperconverged storage is coming to Windows Server 2016! Richard chats with Ned Pyle about his work building parts of the Storage Services in Server 2016, including Storage Replica. The term &quot;hyperconvergence&quot; is a bit abused, but Ned talks about how software-defined compute, networking and storage have come together to allow the scaling and reconfiguration of server resources easier, more dynamic and maintainable. The latest incarnation of Storage Services takes using bunches of storage devices (hard drives, SSDs, NVME and so on) and making them allocate out based on your needs for performance, reliability and scalability. There's a ton to talk about, so this is a long show - and worth it!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/9049e082-210b-40f7-b437-a4343bbed8be/audio/49bf217f-f242-40bf-8e90-f4e5e9520a71/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

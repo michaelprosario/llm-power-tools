@@ -1,8 +1,0 @@
-{
-    "Id": "E3-EE-4A-C3-F5-D8-EE-FA-08-04-EC-32-A9-00-FF-88-29-5E-68-0E-C1-2A-77-A9-46-3B-6B-BF-1B-DD-DE-2D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 636: Sriram Panyam on SaaS Control Planes",
-    "SourceUrl": "http://se-radio.net/se-radio-636-sriram-panyam-on-saas-control-planes",
-    "Description": "<p data-pm-slice=\"1 1 []\">Sriram Panyam, CTO at DagKnows, discusses SaaS Control Planes with SE Radio host <a href= \"../../team/brijesh-ammanath/\">Brijesh Ammanath</a>. The discussion starts off with the basics, examining what control planes are and why they're important. Sriram then discusses reasons for building a control plane and the challenges in designing one. They explore design and architectural considerations when building a SaaS control plane, as well as the key differences between a control plane and a data plane.</p> <p style=\"text-align: center;\" data-pm-slice=\"1 1 []\"><a href= \"https://www.qawolf.com/?utm_source=seradio&utm_medium=podcast&utm_campaign=sept2024\" target=\"_blank\" rel=\"noopener\">This episode is sponsored by QA Wolf.</a></p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/636-sriram-panyam-saas-control-planes.mp3?dest-id=23379"
-}

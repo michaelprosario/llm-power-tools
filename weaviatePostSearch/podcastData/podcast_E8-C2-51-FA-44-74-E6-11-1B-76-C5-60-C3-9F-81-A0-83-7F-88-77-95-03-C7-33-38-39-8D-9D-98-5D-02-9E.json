@@ -1,8 +1,0 @@
-{
-    "Id": "E8-C2-51-FA-44-74-E6-11-1B-76-C5-60-C3-9F-81-A0-83-7F-88-77-95-03-C7-33-38-39-8D-9D-98-5D-02-9E",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 51: Design By Contract",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/wk9q-liLZUQ/",
-    "Description": "In this episode, Arno and Michael take a look at Design by Contract, a programming technique formalized by Bertrand Meyer. The idea is that an interface is more than method signatures - it is also about specifying the expected behavior that implementations must provide. While some languages include direct support for this style of programming, it is a useful mindset when desiging interfaces even without such language features.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode51-designByContract.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "C9-1D-73-B1-05-98-92-D3-7E-A3-AE-B7-89-70-46-5C-0B-AA-B1-07-77-A2-8D-34-90-46-77-27-A5-44-7B-D6",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Building and Scaling  Geo-Distributed Cloud Apps with Denis Magda",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Denis started at Sun Microsystems and Oracle where he worked on JVM/JDK and led one of the Java development groups. After learning Java from the inside, he joined the world of distributed systems and databases, where he's remained ever since. He talks to Scott about how to build large horizontal cloud apps that are geo-distributed and truly global. \u00a0</p><p>Cloud availability zones and regions are not immune to outages. The zones go down regularly, and regions become unavailable during natural disasters or human-caused incidents. If an availability zone or a larger area goes down, so does your application\u2026unless the application functions across multiple geographic locations. We'll discuss availability and reliability patterns used by architects whose apps managed to withstand major cloud outages.\u00a0</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/24832310-78fe-4898-91be-6db33696c4ba/episodes/44435332-5fbd-4118-971b-27e5c5746d92/audio/36254dd3-a165-430d-be29-069bef12042c/default_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

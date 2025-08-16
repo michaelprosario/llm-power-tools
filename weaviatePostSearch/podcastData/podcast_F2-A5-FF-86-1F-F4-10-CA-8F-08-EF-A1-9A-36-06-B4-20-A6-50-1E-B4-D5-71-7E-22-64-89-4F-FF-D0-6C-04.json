@@ -1,8 +1,0 @@
-{
-    "Id": "F2-A5-FF-86-1F-F4-10-CA-8F-08-EF-A1-9A-36-06-B4-20-A6-50-1E-B4-D5-71-7E-22-64-89-4F-FF-D0-6C-04",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 575: Nir Valtman on Pipelineless Security",
-    "SourceUrl": "http://se-radio.net/se-radio-575-nir-valtman-on-pipelineless-security",
-    "Description": "<p>Nir Valtman, co-Founder and CEO at Arnica, discusses pipelineless security with SE Radio host <a href= \"https://www.se-radio.net/team/priyanka-raghavan/\">Priyanka Raghavan</a>. They start by defining pipelines and then consider how to add security. Nir lays out the key challenges in getting good code coverage with the pipeline-based approach, and then describes how to implement a pipelineless approach and the advantages it offers. Priyanka quizzes him on the concept of \"zero new hardcoded secrets,\" as well as some ways to protect GitHub repositories, and Nir shares examples of how a pipelineless approach could help in these scenarios. They then discuss false positives and handling developer fatigue in dealing with alerts. The show ends with some discussion around the product that Arnica offers and how it implements the pipelineless methodology.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/575_Nir_Valtman_on_Pipelineless_Security.mp3?dest-id=23379"
-}

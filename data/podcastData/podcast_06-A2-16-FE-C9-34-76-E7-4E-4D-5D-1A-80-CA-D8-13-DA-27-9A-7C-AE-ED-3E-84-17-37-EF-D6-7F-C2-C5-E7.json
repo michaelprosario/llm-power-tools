@@ -1,0 +1,8 @@
+{
+    "Id": "06-A2-16-FE-C9-34-76-E7-4E-4D-5D-1A-80-CA-D8-13-DA-27-9A-7C-AE-ED-3E-84-17-37-EF-D6-7F-C2-C5-E7",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 123: Microsoft OSLO with Don Box and Doug Purdy",
+    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/RkxhrOfh0d8/",
+    "Description": "In this episode we discuss Microsoft's OSLO platform with Doug Purdy and Don Box. We briefly discuss what OSLO is in general and then look at the various components of OSLO. We also look at how OSLO fits in with the general Microsoft strategy and how it compares to other DSL/Model-driven approaches. We then look at language modularization and composition and discuss the similarities with XML and Smalltalk. Finally, we discuss possible integrations of OSLO with other MD* approaches and technologies.",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode123-microsoftOSLOwithDonBoxAndDougPurdy.mp3?dest-id=23379"
+}

@@ -1,8 +1,0 @@
-{
-    "Id": "B9-85-1F-A4-79-C2-6E-30-73-6C-9D-B0-71-CE-18-DD-FC-7C-E7-BB-95-FA-53-FE-C3-55-BF-C7-3A-29-4B-C6",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Query Store and Automatic Tuning in SQL 2017 with Erin Stellato",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>SQL Server keeps getting smarter! Richard talks to Erin Stellato about Query Store and Automatic Tuning. First introduced in SQL Azure, these features showed up in SQL Server 2016 and improved substantially in 2017. Erin describes Query Store as a kind of black box for databases, similar to an aircraft, but you don't need to wait for a crash to value the data stored in it. Query Store is a real-time record of the queries happening in your database, along with the query plan and what caused the query to wait. This leads to a ton of tuning opportunities, including automated tuning, where SQL Server will recommend indexes and other performance features for itself!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ff0bb1f5-773f-4f28-99bc-9bbdd09b66d4/audio/5853ddc9-8772-47f5-b69b-351659f5c321/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

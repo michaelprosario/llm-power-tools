@@ -1,8 +1,0 @@
-{
-    "Id": "A4-9B-A6-B1-92-B0-88-3E-79-F2-18-3E-E7-1B-9F-56-43-0D-57-F0-F4-00-A7-4E-66-97-AF-17-E4-43-36-5D",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "SDN and IPv6 Together with Tom Hollingsworth",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Tom Hollingsworth about how Software Defined Networking (SDN) and IPv6 can work together. The conversation starts out talking about how SDN has brought virtualization to networking, with the same amazing impact that it has had on servers and storage. Tom then explains how SDN provides the ability to rapidly customize, deploy and tune networking for each application - and the problems that IPv4 brings to the table. So enter IPv6 and an approach to make IPv6 adoption less frightening and more gradual. Using SDN to deploy IPv6 as part of your application package one app at a time could revolutionize your network in just a few years!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/0e0ea13e-e24f-4689-a8a7-db1a8b855e0f/audio/25222fb3-b7bd-4ce9-9893-2306d8fbc064/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

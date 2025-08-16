@@ -1,8 +1,0 @@
-{
-    "Id": "C6-F6-2A-CD-A6-9B-56-90-8A-93-C0-8E-85-A8-1F-05-1A-DB-23-5A-B3-8F-9E-47-26-28-BF-75-7E-E3-2D-48",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 496: Bruce Momjian on Multi-Version Concurrency Control in Postgres (MVCC)",
-    "SourceUrl": "http://se-radio.net/episode-496-bruce-momjian-on-multi-version-concurrency-control-in-postgres-mvcc",
-    "Description": "This week, Postgres server developer Bruce Momjian joins host Robert Blumen for a discussion of multi-version concurrency control (MVCC) in the Postgres database. They begin with a discussion of the isolation requirement in database transactions (I in ACID); how isolation can be achieved with locking; limitations of locking; how locking limits concurrency and creates variability in query runtimes; multi-version concurrency control as a means to achieve isolation; how Postgres manages multiple versions of a row; snapshots; copy-on-write and snapshots; visibility; database transaction IDs; how tx ids, snapshots and versions interact; the need for locking when there are multiple writers; how MVCC was added to Postgres; and how to clean up unused space left over from aged-out versions.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/496-bruce-momjian-multi-version-concurrency-control-postgres.mp3?dest-id=23379"
-}

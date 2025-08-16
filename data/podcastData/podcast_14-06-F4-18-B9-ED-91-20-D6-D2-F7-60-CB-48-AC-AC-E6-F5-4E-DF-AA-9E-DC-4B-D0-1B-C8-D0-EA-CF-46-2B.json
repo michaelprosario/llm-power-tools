@@ -1,0 +1,8 @@
+{
+    "Id": "14-06-F4-18-B9-ED-91-20-D6-D2-F7-60-CB-48-AC-AC-E6-F5-4E-DF-AA-9E-DC-4B-D0-1B-C8-D0-EA-CF-46-2B",
+    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
+    "Title": "Episode 485: Howard Chu on B+tree Data Structure in Depth",
+    "SourceUrl": "https://traffic.libsyn.com/secure/seradio/Episode-485-Howard-Chu-on-Btree-Data-Structure-in-Depth.mp3",
+    "Description": "<p>Howard Chu, CTO of Symas Corp and chief architect of the OpenLDAP project, discusses the key features of B+Tree Data Structures which make it the default selection for efficient and predictable storage of sorted data.</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/Episode-485-Howard-Chu-on-Btree-Data-Structure-in-Depth.mp3"
+}

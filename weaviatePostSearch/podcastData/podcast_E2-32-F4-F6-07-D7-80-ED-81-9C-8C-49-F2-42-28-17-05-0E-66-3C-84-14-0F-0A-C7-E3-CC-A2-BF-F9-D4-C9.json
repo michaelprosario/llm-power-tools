@@ -1,8 +1,0 @@
-{
-    "Id": "E2-32-F4-F6-07-D7-80-ED-81-9C-8C-49-F2-42-28-17-05-0E-66-3C-84-14-0F-0A-C7-E3-CC-A2-BF-F9-D4-C9",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Tom Moreau Does T-SQL With Denali!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard flies solo at TechDays Toronto talking to Tom Moreau about some of the new T-SQL features in the next version of SQL Server, code named Denali. Tom waxed poetic about sequences and their advantages (and disadvantages) compared to identity columns. Other features Tom digs into include Lead and Lag and the new Throw feature that further extends the Try Catch capabilities in T-SQL.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/6ddc40d2-cf04-4bbb-b2fe-ee661f1511c5/audio/62dbced6-7eb8-498a-832f-1d3e088bceb3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

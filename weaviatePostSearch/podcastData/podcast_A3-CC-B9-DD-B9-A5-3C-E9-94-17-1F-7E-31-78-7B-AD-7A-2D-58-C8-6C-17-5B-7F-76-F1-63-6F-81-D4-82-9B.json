@@ -1,8 +1,0 @@
-{
-    "Id": "A3-CC-B9-DD-B9-A5-3C-E9-94-17-1F-7E-31-78-7B-AD-7A-2D-58-C8-6C-17-5B-7F-76-F1-63-6F-81-D4-82-9B",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 603: Rishi Singh on Using GenAI for Test Code Generation",
-    "SourceUrl": "http://se-radio.net/se-radio-603-rishi-singh-on-using-genai-for-test-code-generation",
-    "Description": "<p>Rishi Singh, founder and CEO at Sapient.ai, speaks with SE radio\u2019s <a href= \"../../team/kanchan-shringi/\">Kanchan Shringi</a> about using generative AI to help developers automate test code generation. They start by identifying key problems that developers are looking for in an automated test-generation solution. The discussion explores the capabilities and limitations of today\u2019s large language models in achieving that goal, and then delves into how Sapient.ai has built wrappers around LLMs in an effort to improve the quality of the generated tests. Rishi also suggests how to validate the generated tests and outlines his vision of the future for this rapidly evolving area. Brought to you by IEEE Computer Society and IEEE Software magazine. This episode is sponsored by WorkOS.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/603_rishi_singh_using_genai_for_test_code_generation.mp3?dest-id=23379"
-}

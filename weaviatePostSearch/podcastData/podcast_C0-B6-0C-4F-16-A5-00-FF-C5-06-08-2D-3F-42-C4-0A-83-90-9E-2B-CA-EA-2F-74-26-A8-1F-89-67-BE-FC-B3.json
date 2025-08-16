@@ -1,8 +1,0 @@
-{
-    "Id": "C0-B6-0C-4F-16-A5-00-FF-C5-06-08-2D-3F-42-C4-0A-83-90-9E-2B-CA-EA-2F-74-26-A8-1F-89-67-BE-FC-B3",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "SQL Linux and Containers with Bob Ward",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>SQL Server runs on Linux and in containers! Richard talks to Bob Ward about the on-going evolution of SQL Server and how the latest version literally has a common codebase between the Windows and Linux versions - feature-for-feature identical! The tooling is different, but the new SQL Operations Studio is built to be cross-platform, running on Windows, Mac and Linux! The conversation also dives into container strategies using Docker and Kubernetes, both on-premises and in the cloud. Lots of data choices!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/96bd4d44-da99-426f-82bd-b5505c2db513/audio/65f86576-5def-40ae-ab29-290693414fa0/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

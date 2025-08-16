@@ -1,8 +1,0 @@
-{
-    "Id": "F7-59-5D-E9-58-6B-31-44-56-AF-4E-84-A5-88-24-3C-4D-6E-6F-64-C7-C8-33-6C-B9-FE-8A-A2-59-FE-38-65",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Axum - A domain-specific concurrent programming language with Niklas Gustafsson",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to Niklas Gustafsson about Axum (formerly Maestro), an incubation project at MSDN DevLabs. Axum is a new language based on the Actor model that targets the CLR. It focuses on making concurrency fundamental with principles of isolation, agents, and message-passing.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/9e623598-ca32-463d-ba6b-32e2c2a06e4e/e8746c3f_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

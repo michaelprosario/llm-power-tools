@@ -1,8 +1,0 @@
-{
-    "Id": "B9-1C-33-38-1F-49-AE-75-DC-F5-4B-E6-3F-E0-41-34-30-EB-F5-D2-77-CC-6A-D3-85-B3-A5-81-E7-E2-B2-F2",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Building New SQL Server Hardware with Brent Ozar",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard chats with Brent Ozar about the amazing new hardware coming out for SQL Server. Yeah, it's time to geek out on hardware. Brent discusses some of the amazing small form factor machines coming from Dell and Hewlett-Packard, including the Dell PowerEdge 13G R730xd. What's new there? 24 RAM slots permits up to 1.5TB of RAM! And that's not all, Brent talks about the power of having three stage storage - room of three PCIe based SSD storage, 18 1.8&quot; SATA SSD slots and 8 3.5&quot; hard drive bays. Not only is that a lot of storage, it also provides the flexibility to let SQL Server structure your data into ultra-fast storage, super-fast storage and plain old fast storage. While the cloud is only offering scale out solutions, the latest hardware shows that you can still scale up!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/5261b1e5-3454-429b-a43a-be374aad6f25/audio/8a66ad4a-4591-46bc-847c-350be717eac6/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

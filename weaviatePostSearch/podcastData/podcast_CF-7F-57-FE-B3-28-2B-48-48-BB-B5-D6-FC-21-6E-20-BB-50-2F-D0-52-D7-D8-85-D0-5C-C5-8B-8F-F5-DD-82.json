@@ -1,8 +1,0 @@
-{
-    "Id": "CF-7F-57-FE-B3-28-2B-48-48-BB-B5-D6-FC-21-6E-20-BB-50-2F-D0-52-D7-D8-85-D0-5C-C5-8B-8F-F5-DD-82",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Windows Admin Center with Haley Rowland",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Ready for a new Windows administration console? Richard chats with Haley Rowland about Windows Admin Center, a browser-based administration tool that puts a graphical console over top of PowerShell commands to your on-premises servers and workstations - and your Azure-based resources as well! Haley talks about making hybrid cloud easier, using Windows Admin Center to provide coherent connections between on-premises servers and their Azure-based backup solutions. Doing the same task in Windows Admin Center repeatedly? You can grab a copy of the PowerShell script it uses and automate!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/d902a466-258f-46d3-93b9-fa2fbd62fa5f/audio/58cace2c-7198-4d6b-9d90-912ce678f587/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

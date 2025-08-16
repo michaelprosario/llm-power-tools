@@ -1,8 +1,0 @@
-{
-    "Id": "D4-0E-10-9A-0B-46-A5-97-82-CE-0E-B8-FB-31-EE-C1-07-C3-E9-6F-50-F9-0A-E2-C7-29-B1-89-77-49-82-9D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 220: Jon Gifford on Logging and Logging Infrastructure",
-    "SourceUrl": "http://www.se-radio.net/?p=1622",
-    "Description": "Robert Blumen talks to Jon Gifford of Loggly about logging and logging infrastructure. Topics include logging defined, purposes of logging, uses of logging in understanding the run-time behavior of programs, who produces logs, who consumes logs and for what reasons, software as the consumer of logs, log formats (structured versus free form), log meta-data, logging [\u2026]",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/SE-Radio-Episode-220-Jon-Gifford-Logging-Infrastructure.mp3?dest-id=23379"
-}

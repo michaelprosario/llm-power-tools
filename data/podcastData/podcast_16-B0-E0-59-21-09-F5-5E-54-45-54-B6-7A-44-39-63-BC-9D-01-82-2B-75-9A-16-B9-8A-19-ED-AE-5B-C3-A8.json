@@ -1,0 +1,8 @@
+{
+    "Id": "16-B0-E0-59-21-09-F5-5E-54-45-54-B6-7A-44-39-63-BC-9D-01-82-2B-75-9A-16-B9-8A-19-ED-AE-5B-C3-A8",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "App Compat in Windows 10 with Chris Jackson",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>What does it take to make your applications work in Windows 10? While at Ignite, Richard sat down with Chris Jackson to talk about what's hard and what's easy. Of course, it comes down to what you've done before - if you implemented Vista and/or Windows 7 by turning off User Access Control, you're going to have a surprise. While you can turn UAC off in Windows 10, it's not considered a supported configuration. Time to do some testing! Chris talks about how UAC limits access even for administrator accounts so that you know when you're actually using admin privileges. The conversation also goes to security baselines and how to test your apps cost effectively by knowing the price of failure!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/16ea6c7e-8ee0-48f0-8746-bb0334d09288/audio/ccd971c3-2a48-4062-9d22-f605fed2dc71/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

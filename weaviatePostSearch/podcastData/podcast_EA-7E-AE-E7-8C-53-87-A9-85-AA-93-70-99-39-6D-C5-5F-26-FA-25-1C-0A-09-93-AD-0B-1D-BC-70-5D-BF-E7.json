@@ -1,8 +1,0 @@
-{
-    "Id": "EA-7E-AE-E7-8C-53-87-A9-85-AA-93-70-99-39-6D-C5-5F-26-FA-25-1C-0A-09-93-AD-0B-1D-BC-70-5D-BF-E7",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 581: Zach Lloyd on Terminal Emulators",
-    "SourceUrl": "http://se-radio.net/se-radio-581-zach-lloyd-on-terminal-emulators",
-    "Description": "<p>Zach Lloyd, CEO of Warp.dev, discusses how to implement and effectively use command-line terminals. Host <a href= \"https://www.se-radio.net/team/gregory-kapfhammer/\" target=\"_blank\" rel=\"noopener\">Gregory Kapfhammer</a> speaks with Lloyd about how command-line terminals work and how the Warp terminal uses the GPU and AI to enhance a software developer\u2019s productivity. They also discuss the trade-offs associated with using the Rust programming language to implement a command-line terminal. Brought to you by IEEE Computer Society and IEEE Software magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/581_Zach_Lloyd_Terminal_Emulators.mp3?dest-id=23379"
-}

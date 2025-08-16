@@ -1,8 +1,0 @@
-{
-    "Id": "E0-05-66-8D-83-4E-2A-0C-3D-16-69-CA-7C-11-87-B8-02-D4-F0-25-46-9F-B9-CA-E1-D4-C9-C6-B2-E8-69-86",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "An Introduction to the Go Programming language with Andrew Gerrand",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Andrew Gerrand is a developer at Google who works on the Go Programming Language (golang). Why Go and why now? What kinds of problems does Go solve that aren't a good match for existing languages? How does Go compare to C++ and improve upon it?</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/720323e9-91cd-46e6-9e86-d3b911a5fc82/8bed84cb_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

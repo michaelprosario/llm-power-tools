@@ -1,8 +1,0 @@
-{
-    "Id": "A4-D4-B1-C2-35-45-A0-21-43-9B-28-3D-EB-95-32-49-BC-A4-09-DF-8D-F4-38-C8-83-7D-A8-C6-D8-C1-33-0C",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 578: Ori Mankali on Secrets Management using Distributed Fragments Cryptography",
-    "SourceUrl": "http://se-radio.net/se-radio-578-ori-mankali-on-secrets-management-using-distributed-fragments-cryptography",
-    "Description": "<p>In this episode, Ori Mankali, senior VP of engineering at cloud security startup Akeyless, speaks with SE Radio\u2019s <a href= \"https://www.se-radio.net/team/nikhil-krishna/\">Nikhil Krishna</a> about secrets management and the innovative use of distributed fragment cryptography (DFC). In the context of enterprise IT, 'secrets\u2019 are crucial for authentication in providing access to internal applications and services. Ori describes the unique challenges of managing these sensitive data, particularly given the complexities of doing so on a large scale in substantial organizations. They discuss the necessity for a secure system for managing secrets, highlighting key features such as access policies, audit capabilities, and visualization tools. Ori introduces the concept of distributed fragment cryptography, which boosts security by ensuring that the entire secret is never known to any single entity. The episode explores encryption and decryption and the importance of key rotation, as they consider the challenges and potential solutions in secrets management.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/578_Ori_Mankali_Secrets_Management_using_Distributed_Fragments_Cryptography.mp3?dest-id=23379"
-}

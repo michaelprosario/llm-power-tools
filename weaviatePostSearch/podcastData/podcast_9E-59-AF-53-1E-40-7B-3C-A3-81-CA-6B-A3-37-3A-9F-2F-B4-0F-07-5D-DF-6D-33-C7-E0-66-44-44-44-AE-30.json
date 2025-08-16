@@ -1,8 +1,0 @@
-{
-    "Id": "9E-59-AF-53-1E-40-7B-3C-A3-81-CA-6B-A3-37-3A-9F-2F-B4-0F-07-5D-DF-6D-33-C7-E0-66-44-44-44-AE-30",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 45: Round Table on Ultra Large Scale Systems",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/24Hkqdh97q0/",
-    "Description": "This Episode is a round table discussion about Ultra-Large Scale Systems. In 2006, a number of authors (among them our guests Linda Northrop, Doug Schmidt, Kevin Sullivan, and Gregor Kiczales) have produced a report that addressed the following question: \n\n<i>Given the issues with today's software engineering, how can we build the systems of the future that are likely to have billions of lines of code? </i>\n\nIn this episode, our guests discuss many of the issues that arise from this kind of system and provide an overview of the research areas that should be investigated in order to tackle the challenge. If you want to get more detailed information, you can read the ULS Report (PDF).",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode45-ultraLargeScaleSystems.mp3?dest-id=23379"
-}

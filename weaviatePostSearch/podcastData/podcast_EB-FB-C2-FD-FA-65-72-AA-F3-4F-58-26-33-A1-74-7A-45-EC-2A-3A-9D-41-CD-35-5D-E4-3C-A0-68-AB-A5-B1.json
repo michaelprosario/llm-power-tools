@@ -1,8 +1,0 @@
-{
-    "Id": "EB-FB-C2-FD-FA-65-72-AA-F3-4F-58-26-33-A1-74-7A-45-EC-2A-3A-9D-41-CD-35-5D-E4-3C-A0-68-AB-A5-B1",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Dan Rosanova Does Hadoop on Azure!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>For the first show on 2013, Richard chats with Dan Rosanova about big data in the Microsoft space. While the conversation starts out speaking about big data in general, Don focuses in on Hadoop, an open source distributed data manipulation technology that Microsoft has adopted in a big way. Hadoop specializes in doing MapReduce across massive numbers of machines, and if you don't have that many machines, you can always use the cloud. Check out Windows Azure HDInsight for the simplest way to get Hadoop running on Azure. And don't worry if you think you need to run on premise, the SQL Server team is there with Microsoft Big Data. Happy New Year!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/99547c52-fe4d-4d3b-8b57-e174fa8a544b/audio/95d35a5b-f811-4d83-99ba-b8994f13d55b/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

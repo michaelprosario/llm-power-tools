@@ -1,8 +1,0 @@
-{
-    "Id": "AE-6A-20-D5-B0-21-B0-18-7A-40-F8-98-32-10-EE-8E-A4-5E-B3-A6-9C-FF-47-FF-A0-65-33-AE-00-22-C2-21",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 640: Jonathan Horvath on Physical Security",
-    "SourceUrl": "http://se-radio.net/se-radio-640-jonathan-horvath-on-physical-security",
-    "Description": "<p>Jonathan Horvath of <a class=\"css-1rn59kg\" title=\"https://z-bitco.com\" href=\"https://z-bitco.com/\" data-testid=\"link-with-safety\" data-renderer-mark=\"true\">Z-bit</a> discusses physical access control systems (PACS) with host <a href= \"https://se-radio.net/team/jeremy-jung/\" target=\"_blank\" rel= \"noopener\">Jeremy Jung</a>. They start with an overview of PACS components and discuss the proprietary nature of the industry, the slow pace of migration to open standards, and why Windows is commonly used. Jonathan describes the security implications of moving from isolated networks to the cloud, as well as credential vulnerabilities, encryption using symmetric keys versus asymmetric keys, and the risks related to cloning credentials. They also consider several standards, including moving from Wiegand to the Open Supervised Device Protocol (OSDP), as well as the Public Key Open Credential (PKOC) standard, and the open source OSDP implementation that Jonathan authored.</p> <p>Brought to you by <a href=\"https://www.computer.org/\" target= \"_blank\" rel=\"noopener\">IEEE Computer Society</a>\u00a0and\u00a0<a href= \"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\"><em>IEEE Software</em></a> magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/640-jonathan-horvath-physical-security.mp3?dest-id=23379"
-}

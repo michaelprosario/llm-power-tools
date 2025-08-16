@@ -1,0 +1,8 @@
+{
+    "Id": "1A-C1-D3-B5-3C-B7-66-55-EC-9B-21-94-95-D7-02-11-5B-48-C4-42-98-17-F1-9C-C8-E7-A4-06-4A-A0-AD-81",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "Mario Hewardt Debugs Windows!",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>Richard chats with Mario Hewardt about what IT folks need to know about debugging Windows. Yes, that's right - IT folks should be able to debug Windows. Not the same way that programmers do, but rather focused on how Windows actually works so that they can solve program interaction problems. Mario talks through a scenario he ran into involving an occasionally crashing program and how he used the Debugging Tools for Windows tool kit from the Windows SDK and SysInternals Process Monitor to solve the problem.</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/76133066-3f41-43ca-9355-150f74dffc5d/audio/9c58e471-a429-4b5d-a849-553a15eb4473/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

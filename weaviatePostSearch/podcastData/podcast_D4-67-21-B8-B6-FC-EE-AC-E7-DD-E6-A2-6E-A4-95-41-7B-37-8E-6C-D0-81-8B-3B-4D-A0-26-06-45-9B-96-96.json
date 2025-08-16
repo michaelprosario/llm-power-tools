@@ -1,8 +1,0 @@
-{
-    "Id": "D4-67-21-B8-B6-FC-EE-AC-E7-DD-E6-A2-6E-A4-95-41-7B-37-8E-6C-D0-81-8B-3B-4D-A0-26-06-45-9B-96-96",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 510: Deepthi Sigireddi on How Vitess Scales MySQL",
-    "SourceUrl": "http://se-radio.net/episode-510-deepthi-sigireddi-on-how-vitess-scales-mysql",
-    "Description": "<p>In this episode, Deepthi Sigireddi of the Cloud Native Computing Foundation (CNCF) spoke with SE Radio host Nikhil Krishna about how Vitess scales MySQL. They discuss the design and architecture of the product; how Vitess impacts modern data problems;...</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/510-deepthi-sigireddi-how-vitess-scales-mysql.mp3?dest-id=23379"
-}

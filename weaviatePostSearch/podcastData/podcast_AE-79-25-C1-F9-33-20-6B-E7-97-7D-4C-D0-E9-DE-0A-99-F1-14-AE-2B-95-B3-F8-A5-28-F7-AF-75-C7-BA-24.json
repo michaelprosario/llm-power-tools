@@ -1,8 +1,0 @@
-{
-    "Id": "AE-79-25-C1-F9-33-20-6B-E7-97-7D-4C-D0-E9-DE-0A-99-F1-14-AE-2B-95-B3-F8-A5-28-F7-AF-75-C7-BA-24",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Disaster Recovery in the Cloud with Jennelle Crothers",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>What are your disaster recovery plans? Richard chats with Jennelle Crothers about Azure Backup and Azure Site Recovery products - two different types of backup into the cloud. Jennelle talks about getting started simply with file backup into the cloud - being able to get copies of data outside of your organization without the mess and reliability problems associated with tapes. You can do the backup rotation style that you like, and just pay for the storage you use. Site Recovery is a far more sophisticated product, to the point where it becomes your recovery orchestration engine - call it Disaster Recovery as Code. Backup has evolve - have you?</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/515ecbd0-2c0d-4548-8aa2-ac2f88e833a5/audio/162c7a87-18bb-42cf-9e56-20433a5fa7c6/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

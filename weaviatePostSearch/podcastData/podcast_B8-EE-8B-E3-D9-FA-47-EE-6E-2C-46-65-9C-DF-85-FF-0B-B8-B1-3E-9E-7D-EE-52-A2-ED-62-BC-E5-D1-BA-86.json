@@ -1,8 +1,0 @@
-{
-    "Id": "B8-EE-8B-E3-D9-FA-47-EE-6E-2C-46-65-9C-DF-85-FF-0B-B8-B1-3E-9E-7D-EE-52-A2-ED-62-BC-E5-D1-BA-86",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 134: Release It with Michael Nygard",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/zzCBiDr9TNM/",
-    "Description": "This episode is a discussion with Michael Nygard about his book \"Release It\" which covers aspects of software architecture you often don't think of initially when starting to build a system. Some of the points we discussed were capacity planning, recovery as well as making the system suitable for operation in a data center.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode133-michaelNygard.mp3?dest-id=23379"
-}

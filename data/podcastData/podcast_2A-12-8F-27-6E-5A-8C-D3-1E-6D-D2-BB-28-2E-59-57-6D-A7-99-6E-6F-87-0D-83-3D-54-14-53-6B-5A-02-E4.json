@@ -1,0 +1,8 @@
+{
+    "Id": "2A-12-8F-27-6E-5A-8C-D3-1E-6D-D2-BB-28-2E-59-57-6D-A7-99-6E-6F-87-0D-83-3D-54-14-53-6B-5A-02-E4",
+    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
+    "Title": "MLOps with Damian Brady",
+    "SourceUrl": "https://www.runasradio.com/",
+    "Description": "<p>You know about DevOps - but what about MLOps? While at Ignite in Orlando, Richard talked to Damian Brady about how Machine Learning projects need to go through the same kind of lifecycle as any other software project. Damian emphasizes how important good instrumentation is for MLOps - because it can be hard to tell how well a given machine learning model is working. And good instrumentation often involves development, so get with your devs and talk through how you're going to measure success!</p>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/ef8897c9-c805-448d-9aad-62c67b002058/audio/438637f7-a974-491e-86d2-d8be8634626d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
+}

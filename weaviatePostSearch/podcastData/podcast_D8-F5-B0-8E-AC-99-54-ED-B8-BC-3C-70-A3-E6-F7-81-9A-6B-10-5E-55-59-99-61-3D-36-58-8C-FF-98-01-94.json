@@ -1,8 +1,0 @@
-{
-    "Id": "D8-F5-B0-8E-AC-99-54-ED-B8-BC-3C-70-A3-E6-F7-81-9A-6B-10-5E-55-59-99-61-3D-36-58-8C-FF-98-01-94",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "UEFI and Secure Boot with Mark Minasi",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>The BIOS has evolved, and we need to take advantage of it! While at Ignite in Atlanta, Richard sat down with Mark Minasi to talk about UEFI and SecureBoot. The conversation starts out with a bit of a history lesson about BIOS, ROM and booting up a computer. Mark tells the story of how EFI started with Intel's Itanium, and eventually appeared everywhere. UEFI is effectively an operating system in its own right, with drivers and it's own set of security risks. This leads to a conversation around SecureBoot, dealing with the challenges of resisting security exploits from startup onward. It's easy enough to get SecureBoot running, it's what happens when it's triggered that gets complicated.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/aae38f0f-15d4-42f3-9d66-aff7485fd585/audio/5f0c8ba6-f295-4217-9fb4-511f7434b237/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

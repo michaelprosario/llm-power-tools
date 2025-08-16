@@ -1,8 +1,0 @@
-{
-    "Id": "E7-7E-65-BC-D9-27-67-BF-91-FD-8D-0C-6A-D5-4C-EE-E3-9C-E1-95-CC-F6-4F-E9-3F-C8-57-AF-CE-02-C3-7D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 574: Chad Michel on Software as an Engineering Discipline",
-    "SourceUrl": "http://se-radio.net/se-radio-574-chad-michel-on-software-as-an-engineering-discipline",
-    "Description": "<p>Chad Michel, Senior Software Architect at Don\u2019t Panic Labs and co-author of <em>Lean Software Systems Engineering for Developers</em>, joins host <a href= \"https://www.se-radio.net/team/jeff-doolittle/\">Jeff Doolittle</a> for a conversation about treating software development as an engineering discipline. They begin by discussing the need for engineering rigor in the software industry. Chad points out that many developers lack awareness of good engineering practice and are often unaware of resources such as the Software Engineering Body of Knowledge (SWEBOK). Among the many topics explored in this episode are design methodologies such as volatility-based decomposition and the work of David Parnas, as well as important topics such as quality, how to address complexity, designing for change, and the role of the chief engineer. This episode is sponsored by <a href= \"https://try.clicksend.com/en/seradio/?utm_source=seradio&utm_medium=paid&utm_campaign=newsletter\" target=\"_blank\" rel=\"noopener\">ClickSend</a>.\u00a0SE Radio listeners can get a $50 credit by following the link.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/574_chad_michel_software_as_an_engineering_discipline.mp3?dest-id=23379"
-}

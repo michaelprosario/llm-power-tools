@@ -1,8 +1,0 @@
-{
-    "Id": "E4-D2-43-50-6D-33-84-E7-13-F3-AD-0F-2A-9A-3F-66-2A-B0-48-4D-49-8C-1D-49-0A-7A-90-C0-5F-8D-1D-2E",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "PowerShell Past and Future with Lee Holmes",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Where did PowerShell come from and where is it going? Richard chats with Principle Software Engineer Lee Holmes about his experiences building PowerShell, going all the way back to 2003/2004 when Jeffrey Snover was trying to convince folks that Monad (the code name for PowerShell) was a good idea! Lee mentions a number of great resources along the way including AutoIt CmdLets and an Overview on PowerShell as a Hosting Solution. The conversation then turns to the future of PowerShell including tools like Desired State Configuration and OneGet. More PowerShell!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/14d9a9f3-f858-45a0-a10b-c2474dc460c1/audio/57b0e4bd-fed0-49e8-acdc-2a3fead4331c/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "A2-B0-AF-95-DD-49-07-32-6C-CC-C0-49-E3-9F-8D-1D-BA-D1-CA-91-81-89-CA-4F-56-67-D4-41-F9-DC-7D-0F",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "ITIL in the Cloud with Carroll Moon",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Is ITIL still relevant in a cloud-centric world? Carroll Moon says yes! Richard talks to Carroll about his work building out the service management infrastructure of Office 365 and how those learnings can apply to your organization as it moves to the cloud. Carroll focuses first and foremost on monitoring - until you can see how your applications are operating in real time, other DevOps-type improvements are hard to quantify. And the instrumentation needed should be going down to the client, just monitoring servers is not enough. Getting great monitoring working on your apps means involving development - there's no getting around that. You can read Carroll's entire blog post series on Service Monitoring on Axelos.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f4811d7f-17cb-408c-8421-bec851d6c714/audio/27338aab-3c8c-4521-8327-d89767d7248e/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

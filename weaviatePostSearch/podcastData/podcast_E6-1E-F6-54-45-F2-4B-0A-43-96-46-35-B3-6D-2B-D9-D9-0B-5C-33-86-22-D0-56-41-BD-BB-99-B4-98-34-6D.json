@@ -1,8 +1,0 @@
-{
-    "Id": "E6-1E-F6-54-45-F2-4B-0A-43-96-46-35-B3-6D-2B-D9-D9-0B-5C-33-86-22-D0-56-41-BD-BB-99-B4-98-34-6D",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Chaos Engineering with Julie Gunderson",
-    "SourceUrl": "https://runasradio.com/Shows/Show/801",
-    "Description": "<p>Should you inject a little chaos into your systems? Julie Gunderson says yes! Richard chats with Julie about how deliberate failing portions of your system teach you more about your dependency and resiliency. But it's not just about breaking things - you need to build a hypothesis around how you see the reliability of the system and then create tests to challenge that reliability - and how to recover quickly if the test does harm to productivity! Julie talks about starting small, maybe just a development pipeline before moving on to more significant systems like production. The goal is to be resilient, but you're only resilient if you test!</p><p><strong>Links:</strong></p><ul><li><a href=\"https://netflix.github.io/chaosmonkey/\">Chaos Monkey</a></li><li><a href=\"https://www.gremlin.com/bootcamps/\">Gremlin Bootcamps</a></li><li><a href=\"https://www.pageittothelimit.com/\">Page it to the Limit Podcast</a></li></ul><p>Recorded October 12, 2021</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/36003310-8c4b-40b5-a2a3-949ab30fafdd/audio/1094552e-b547-4a2a-bfbb-ea1eb38089bb/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

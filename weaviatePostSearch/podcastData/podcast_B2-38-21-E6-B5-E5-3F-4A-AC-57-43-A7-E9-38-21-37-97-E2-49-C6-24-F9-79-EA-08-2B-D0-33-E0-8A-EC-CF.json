@@ -1,8 +1,0 @@
-{
-    "Id": "B2-38-21-E6-B5-E5-3F-4A-AC-57-43-A7-E9-38-21-37-97-E2-49-C6-24-F9-79-EA-08-2B-D0-33-E0-8A-EC-CF",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 649: Lukas Gentele on Kubernetes vClusters",
-    "SourceUrl": "http://se-radio.net/se-radio-649-lukas-gentele-on-kubernetes-vclusters",
-    "Description": "<p>Lukas Gentele, CEO of Loft Labs, joins host <a href=\"https://se-radio.net/team/robert-blumen/\">Robert Blumen</a> for a discussion of kubernetes vclusters (virtual clusters). A vcluster is a kubernetes cluster that runs kubernetes application on a host kubernetes cluster. The conversation covers: vcluster basics; sharing models; what is owned by the vcluster and what is shared with the host; attached nodes versus shared nodes; the primary use case: multi-tenancy vcluster per tenant; alternatives - namespace per tenant, full cluster per tenant; trade-offs - isolation; less resource use; spin up time; scalability; how many clusters and how many vclusters should an org have? Deployment models for vclusters - helm chart with standard resources; vcluster operator; persistent storage models for vclusters; vcluster snapshotting, recovery, and migration. how many vclusters can run on a cluster? ingress, TLS and DNS.</p> <p>Brought to you by\u00a0<a href=\"https://www.computer.org\" target=\"_blank\" rel=\"noopener\">IEEE Computer Society</a> and <a href=\"https://www.computer.org/software\" target=\"_blank\" rel= \"noopener\">IEEE Software magazine</a>.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/649-lukas-gentele-kubernetes-vclusters.mp3?dest-id=23379"
-}

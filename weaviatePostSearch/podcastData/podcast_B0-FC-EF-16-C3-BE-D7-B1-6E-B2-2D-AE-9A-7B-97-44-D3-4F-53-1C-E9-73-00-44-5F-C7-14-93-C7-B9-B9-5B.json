@@ -1,8 +1,0 @@
-{
-    "Id": "B0-FC-EF-16-C3-BE-D7-B1-6E-B2-2D-AE-9A-7B-97-44-D3-4F-53-1C-E9-73-00-44-5F-C7-14-93-C7-B9-B9-5B",
-    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
-    "Title": "Designing Data-Intensive Applications \u2013 Storage and Retrieval",
-    "SourceUrl": "https://www.codingblocks.net/podcast/designing-data-intensive-applications-storage-and-retrieval/",
-    "Description": "<img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2020/03/Episode127.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"99\" src=\"https://www.codingblocks.net/wp-content/uploads/2020/03/Episode127.jpg\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />In this episode, Allen is back, Joe knows his maff, and Michael brings the jokes, all that and more as we discuss the internals of how databases store and retrieve the data we save as we continue our deep dive into Designing Data-Intensive Applications.",
-    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-127.mp3"
-}

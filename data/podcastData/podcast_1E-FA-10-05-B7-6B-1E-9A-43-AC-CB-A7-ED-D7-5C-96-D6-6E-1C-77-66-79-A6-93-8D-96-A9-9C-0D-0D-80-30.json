@@ -1,0 +1,8 @@
+{
+    "Id": "1E-FA-10-05-B7-6B-1E-9A-43-AC-CB-A7-ED-D7-5C-96-D6-6E-1C-77-66-79-A6-93-8D-96-A9-9C-0D-0D-80-30",
+    "ContentSourceId": "6211f1c3-8dc3-4bf8-a824-be7c8b79d101",
+    "Title": "075: Effective Java - Item #15",
+    "SourceUrl": "https://fragmentedpodcast.com/",
+    "Description": "<p>In this mini-Fragment episode, Donn talks about Item #15 of the Effective Java series - Minimize Mutability. You'll learn what mutable and immutable objects are, how and why immutability is a good thing and how you can implement it.</p>\n<h2>Show Notes</h2>\n<ul>\n<li><a href=\"http://ryanharter.com/blog/2016/03/22/autovalue/\">Ryan Harter's Intro to AutoValue</a></li>\n<li><a href=\"https://caster.io/courses/autovalue/?utm_source=fragmented_075\">Caster.IO Course on AutoValue</a></li>\n<li><a href=\"http://amzn.to/1RUCko3\">Effective Java Book</a></li>\n</ul>\n<h2>Sponsor</h2>\n<ul>\n<li><a href=\"http://rollbar.com/fragmented\">Rollbar</a></li>\n</ul>\n<h2>Contact</h2>\n<ul>\n<li><a href=\"http://twitter.com/fragmentedcast\">@fragmentedcast</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/donnfelker\">@donnfelker</a> [twitter.com]</li>\n<li><a href=\"http://twitter.com/kaushikgopal\">@kaushikgopal</a> [twitter.com]</li>\n</ul>\n",
+    "EnclosureUrl": "https://cdn.simplecast.com/audio/20f350/20f35050-e836-44cd-8f7f-fd13e8cb2e44/dd6469ac-fa5d-46d6-8cbf-a92bd3ae4ddc/075-effective-java-item15_tc.mp3?aid=rss_feed&feed=LpAGSLnY"
+}

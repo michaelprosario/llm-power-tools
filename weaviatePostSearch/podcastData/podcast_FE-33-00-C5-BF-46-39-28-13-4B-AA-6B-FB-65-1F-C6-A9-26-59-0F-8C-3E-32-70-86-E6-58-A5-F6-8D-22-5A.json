@@ -1,8 +1,0 @@
-{
-    "Id": "FE-33-00-C5-BF-46-39-28-13-4B-AA-6B-FB-65-1F-C6-A9-26-59-0F-8C-3E-32-70-86-E6-58-A5-F6-8D-22-5A",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 104: Plugin Architectures",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/HKbNYUF1V5I/",
-    "Description": "In this episode we talk with Klaus Marquardt about building systems out of plugins. After briefly introducing the concept of a plugin in contrast to modules and related software engineering concepts, we discuss different views on plugins and different ways of working with plugins for developing software. We are looking at plugins for embedded systems as well as large business systems, at how plugins change the working mode and team organization, and discuss the possibilities of why and when to use plugins for implementing software systems.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode104-klausMarquartOnPluginArchitectures.mp3?dest-id=23379"
-}

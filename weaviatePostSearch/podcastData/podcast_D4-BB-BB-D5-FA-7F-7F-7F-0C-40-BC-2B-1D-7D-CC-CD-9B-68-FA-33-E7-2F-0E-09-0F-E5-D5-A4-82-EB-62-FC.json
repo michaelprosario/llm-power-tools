@@ -1,8 +1,0 @@
-{
-    "Id": "D4-BB-BB-D5-FA-7F-7F-7F-0C-40-BC-2B-1D-7D-CC-CD-9B-68-FA-33-E7-2F-0E-09-0F-E5-D5-A4-82-EB-62-FC",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "Why One Storage Provider Adopted Go as Its Programming Language",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/why-one-storage-provider-adopted-go-as-its-programming-language-YE36Q416",
-    "Description": "<p>Go owes its popularity to a number of factors as Golang advocates often speak of its speed, robustness and versatility, especially compared to C++ and Java and JavaScript. In this The New Stack Makers podcast, hosts TNS\u2019 <a href=\"https://thenewstack.io/author/alex/\">Alex Williams</a>, founder and publisher, and <a href=\"https://twitter.com/darrylktaft\">Darryl Taft</a>, news editor, cover the reasons for decentralized storage provider <a href=\"https://storj.io/?utm_content=inline-mention\" target=\"_blank\">Storj\u2019s</a> shift to Go with featured guests Storj\u2019s <a href=\"https://www.linkedin.com/in/jtolds\">JT Olio</a>, CTO, and <a href=\"https://www.linkedin.com/in/natalievillasana\">Natalie Villasana</a>, software engineer.</p><p>Storj\u2019s needs for Go to support its development and operations stems from its unique requirements as the \u201cAirbnb for hard drives,\u201d Olio explained.</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/da7b9fbb-2b91-44da-8f6b-152cc7fbe908/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=da7b9fbb-2b91-44da-8f6b-152cc7fbe908&feed=IgzWks06"
-}

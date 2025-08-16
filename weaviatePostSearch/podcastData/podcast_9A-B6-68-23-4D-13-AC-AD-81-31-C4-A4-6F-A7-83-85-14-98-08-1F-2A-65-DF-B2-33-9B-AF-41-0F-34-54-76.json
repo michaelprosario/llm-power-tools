@@ -1,8 +1,0 @@
-{
-    "Id": "9A-B6-68-23-4D-13-AC-AD-81-31-C4-A4-6F-A7-83-85-14-98-08-1F-2A-65-DF-B2-33-9B-AF-41-0F-34-54-76",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Tony Redmond Sets a DMARC on Exchange!",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard talks to Tony Redmond about DMARC, a new email specification for controlling spam and phishing emails. DMARC is an acronym for Domain-based Message Authentication, Reporting and Conformance. It standardizes implementations of Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM) so that email servers receiving mail can be sure that the domains the email identifies with are actually the sources of the email. Tony also digs into the deeper concepts of DMARC, including receiving servers being able to communicate back with source servers to indicate when email is being marked as spam. The conversation digs into the larger concepts of spam solutions, talking about how cloud is helping to create safer environments for email and how email will ultimately need to evolve to stay relevant in business environments.</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/0cad8b0e-bfcd-4420-a594-b40cc9ea50e2/audio/a4839b67-ab21-4cae-93f6-281891367c02/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

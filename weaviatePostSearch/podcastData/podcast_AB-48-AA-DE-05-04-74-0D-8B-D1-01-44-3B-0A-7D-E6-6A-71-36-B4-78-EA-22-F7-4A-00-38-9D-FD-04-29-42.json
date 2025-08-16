@@ -1,8 +1,0 @@
-{
-    "Id": "AB-48-AA-DE-05-04-74-0D-8B-D1-01-44-3B-0A-7D-E6-6A-71-36-B4-78-EA-22-F7-4A-00-38-9D-FD-04-29-42",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 593: Eric Olden on Identity Orchestration",
-    "SourceUrl": "http://se-radio.net/se-radio-593-eric-olden-on-identity-orchestration",
-    "Description": "<p>Eric Olden talks with host <a href= \"../../team/giovanni-asproni/\">Giovanni Asproni</a> about identity orchestration, a software approach for managing distributed identity and access management (IAM) and integrating multiple identity systems or providers (IDPs) to make them look like a single system from a user perspective. The episode starts with a refresher in identity and access management, then introduces identity orchestration and some of the challenges it helps to address, such as integrating disparate identity management systems after company mergers or acquisitions; managing identities in situations where some of the IAM systems are unreachable; and implementing more secure identity management in legacy applications. Brought to you by IEEE Computer Society and IEEE Software magazine.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/593_eric_olden_identity_orchestration.mp3?dest-id=23379"
-}

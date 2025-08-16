@@ -1,8 +1,0 @@
-{
-    "Id": "B1-00-99-13-44-49-D6-92-D2-78-72-A3-34-49-F3-2A-DB-4E-46-46-70-06-F6-7F-2C-54-44-3D-7A-C7-D8-6E",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 23: Architecture Pt. 1",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/fP2yn6yyPaI/",
-    "Description": "This is the first of a series of Episodes on Software Architecture. Alex, Michael and Markus talk about rather fundamental topics in this episode, we'll go into much more detail in subsequent episodes in that series. Topics in this episode include:\n<ul>\n <li>What is architecture, how is it different from design</li>\n <li>what different kinds of architecture are there in addition to software architecture</li>\n <li>the role of the architect, do we have one or more?</li>\n <li>architecture in agile software development</li>\n <li>tasks of the architect</li>\n <li>architect vs. the technical project lead</li>\n <li>architecture and project politics</li>\n <li>architecture requirements, estimating, team assembling</li>\n</ul>\nThere aren't too many good references for this general architecture discussion. You might want to take a look at <a href=\"http://www.amazon.com/gp/product/0321154959/\">Software Architecture in Practice</a> by Len Bass, or, if you speak German, at the book <a href=\"http://www.amazon.de/gp/product/3827415349/028-4688515-4293347\">Software-Architektur</a> by Vogel, Arnold, Chugtai, Ihler, Mehlig, Neumann, Voelter and Zdun.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode23-architecture_pt1.mp3?dest-id=23379"
-}

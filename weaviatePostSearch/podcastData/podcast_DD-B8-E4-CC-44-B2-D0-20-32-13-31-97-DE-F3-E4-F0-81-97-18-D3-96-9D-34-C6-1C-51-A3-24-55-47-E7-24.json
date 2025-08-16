@@ -1,8 +1,0 @@
-{
-    "Id": "DD-B8-E4-CC-44-B2-D0-20-32-13-31-97-DE-F3-E4-F0-81-97-18-D3-96-9D-34-C6-1C-51-A3-24-55-47-E7-24",
-    "ContentSourceId": "fc0b0983-2987-457e-aa72-36baefbda170",
-    "Title": "The Twelve-Factor App: Port Binding, Concurrency, and Disposability",
-    "SourceUrl": "https://www.codingblocks.net/podcast/episode-35-the-twelve-factor-app-port-binding-concurrency-and-disposability/",
-    "Description": "<img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2015/11/Episode035-150x150.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" loading=\"lazy\" /><img width=\"150\" height=\"150\" src=\"https://www.codingblocks.net/wp-content/uploads/2015/11/Episode035-150x150.png\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" loading=\"lazy\" />It's time for more DevOps fun as we continue learning about\u00a0the Twelve-Factor app. This week we dive into the next three chapters: port binding, concurrency, and disposability.",
-    "EnclosureUrl": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/codingblocks/coding-blocks-episode-35.mp3"
-}

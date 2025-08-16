@@ -1,0 +1,8 @@
+{
+    "Id": "2C-8D-E2-D4-4B-5D-46-EA-74-DA-04-73-77-69-A9-9A-0D-B8-5A-3E-41-8E-8B-54-1E-D5-2A-18-97-17-A9-77",
+    "ContentSourceId": "7f003f79-9489-4684-99df-41fec84618c0",
+    "Title": "#149 The State of AI with Stanford Researcher Yifan Mai",
+    "SourceUrl": "http://freecodecamp.libsyn.com/149-open-weights-open-source-with-google-engineer-and-stanford-researcher-yifan-mai",
+    "Description": "<p>On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Yifan Mai, a Senior Software Engineer on Google's TensorFlow team who left the private sector to go do AI research at Stanford. He's the lead maintainer of the open source HELM project, where he benchmarks the performance of Large Language Models.</p> <p>We talk about: - Open Source VS Open Weights in LLMs - The Ragged Frontier of LLM use cases - AI impact on jobs and our predictions - What to learn so you can stay above the waterline</p> <p>Can you guess what song I'm playing in the intro? I put the entire cover song at the end of the podcast if you want to listen to it, and you can watch me play all the instruments on the YouTube version of this episode.</p> <p>Also, I want to thank the 10,993 kind people who support our charity each month, and who make this podcast possible. You can join them and support our mission at: https://www.freecodecamp.org/donate</p> <p>Links we talk about during our conversation:</p> <p>- Yifan's personal webpage: yifanmai.com\u00a0</p> <p>- HELM Leaderboards: https://crfm.stanford.edu/helm/\u00a0</p> <p>- HELM GitHub Repository: https://github.com/stanford-crfm/helm\u00a0</p> <p>- Stanford HAI Blog: https://crfm.stanford.edu/helm/</p>",
+    "EnclosureUrl": "https://traffic.libsyn.com/secure/freecodecamp/yifan.mp3?dest-id=603849"
+}

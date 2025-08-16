@@ -1,8 +1,0 @@
-{
-    "Id": "B0-E9-3B-55-B6-24-50-CB-79-48-B4-6D-C0-FC-13-CF-2E-A3-55-48-4D-E0-E7-87-25-DE-1E-F8-59-57-C5-51",
-    "ContentSourceId": "7c098d5f-afc6-488d-b7ac-b49867303173",
-    "Title": "Removing the Complexity to Securely Access the Infrastructure",
-    "SourceUrl": "https://thenewstack.simplecast.com/episodes/removing-the-complexity-to-securely-access-the-infrastructure-v0kN0cZS",
-    "Description": "<p>As the tech stack grows, the list of technologies that must be configured in cloud computing environments has grown exponentially and increased the complexity in the IT infrastructure. While every layer of the stack comes with its own implementation of encrypted connectivity, client authentication, authorization and audit, the challenge for developers and DevOps teams to properly set up secure access to hardware, software throughout the organization will continue to grow, making IT environments increasingly vulnerable.</p><p>\u00a0</p><p>In this episode of The New Stack Makers podcast, <a href=\"https://www.linkedin.com/in/benarent/\">Ben Arent</a>, Developer Relations Manager, Teleport discusses how to address the hardware, software and peopleware complexity that comes from the cloud by using tools like Teleport 9.0 and the company\u2019s first release of Teleport Machine ID.</p><p>\u00a0</p>\n",
-    "EnclosureUrl": "https://afp-922713-injected.calisto.simplecastaudio.com/5672b58f-7201-4e0e-b0af-da702259d97f/episodes/cdf68f34-4396-4b2b-8c8c-b235289842b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=5672b58f-7201-4e0e-b0af-da702259d97f&awEpisodeId=cdf68f34-4396-4b2b-8c8c-b235289842b7&feed=IgzWks06"
-}

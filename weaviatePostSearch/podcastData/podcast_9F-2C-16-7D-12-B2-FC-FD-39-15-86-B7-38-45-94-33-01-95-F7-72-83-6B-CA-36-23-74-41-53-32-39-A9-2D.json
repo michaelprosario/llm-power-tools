@@ -1,8 +1,0 @@
-{
-    "Id": "9F-2C-16-7D-12-B2-FC-FD-39-15-86-B7-38-45-94-33-01-95-F7-72-83-6B-CA-36-23-74-41-53-32-39-A9-2D",
-    "ContentSourceId": "ee3f8f9f-8c83-488e-aada-ce09bc743a17",
-    "Title": "How long does good code last?",
-    "SourceUrl": "https://stackoverflow.blog/podcast/",
-    "Description": "<p>This week's discussion was inspired by an article from Sandi Metz, which you can find <a href=\"https://sandimetz.com/blog/2017/6/1/the-half-life-of-code\">here</a>. It begins with a terrific line, defining the half-life of software as, \"the amount of time required for half of an application's code to change so much that it becomes unrecognizable.\"</p><p>This topic also connected to <a href=\"https://stackoverflow.blog/2021/03/01/sacrificial-architecture-learning-from-abandoned-systems/\">a post</a> we ran on the Stack Overflow blog this week, \u00a0Sacrificial Architecture: learning from abandoned systems. The author, Mohamad Aladdin, suggest that one should \"think of your code quality as if it will run forever, but adapt to change as if your code will be obsolete tomorrow.\"</p><p>Our lifeboat badge winner for this episode is Ishmael, who explained why <a href=\"https://stackoverflow.com/questions/37398301/json-dumps-format-python/37398392#37398392\">JSON dumps your formatting and how to fix it.</a></p>\n",
-    "EnclosureUrl": "https://pdrl.fm/c28362/injector.simplecastaudio.com/6fa1d34c-502b-4abf-bd82-483804006e0b/episodes/ee7de9d3-2826-4170-8884-0bb032e9b904/audio/128/default.mp3?aid=rss_feed&awCollectionId=6fa1d34c-502b-4abf-bd82-483804006e0b&awEpisodeId=ee7de9d3-2826-4170-8884-0bb032e9b904&feed=XA_851k3"
-}

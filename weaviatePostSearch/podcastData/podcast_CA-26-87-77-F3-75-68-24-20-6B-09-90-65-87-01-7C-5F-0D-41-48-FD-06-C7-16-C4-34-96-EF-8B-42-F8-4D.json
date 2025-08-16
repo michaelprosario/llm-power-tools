@@ -1,8 +1,0 @@
-{
-    "Id": "CA-26-87-77-F3-75-68-24-20-6B-09-90-65-87-01-7C-5F-0D-41-48-FD-06-C7-16-C4-34-96-EF-8B-42-F8-4D",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 2: Dependencies",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/ARUL1hn07MY/",
-    "Description": "Eberhard and Markus discuss the important topic of associations and dependencies in this show. While OO languages provide direct support for subtyping, most don't provide a first-class construct for other relationships between objects. The discussion elaborates on the problem and looks at various remedies, most importantly, dependency injection.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode2-dependencies.mp3?dest-id=23379"
-}

@@ -1,8 +1,0 @@
-{
-    "Id": "AB-1B-26-B5-70-A8-3E-A7-0C-61-5D-B0-BC-D8-93-DF-31-D8-50-D9-C6-1B-0A-CA-9B-4F-BC-BA-F8-89-29-51",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 25: Architecture Pt. 2",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/afsLcQoGsyA/",
-    "Description": "In this Episode, Michael and Markus continue the discussion about the fundamentals of software architecture (we're doing it without Alex, because it is really hard to find a suitable time for all of us on the phone :-)). We talk about the various quality attributes (such as performance, scalability, maintainability and many more) and how they relate to each other.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode25-architecture_pt2.mp3?dest-id=23379"
-}

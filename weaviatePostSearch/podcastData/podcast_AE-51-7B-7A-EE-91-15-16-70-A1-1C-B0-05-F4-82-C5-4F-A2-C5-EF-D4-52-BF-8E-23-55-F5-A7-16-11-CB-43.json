@@ -1,8 +1,0 @@
-{
-    "Id": "AE-51-7B-7A-EE-91-15-16-70-A1-1C-B0-05-F4-82-C5-4F-A2-C5-EF-D4-52-BF-8E-23-55-F5-A7-16-11-CB-43",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Desired State Configuration V2 with Don Jones",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Ready for a new version of Desired State Configuration (DSC)? Richard chats with Don Jones about the second version of DSC, although it's bundled as part of The Windows Management Framework 5.0. Don discusses the evolving nature of server management and DSC's role in it, and how the tools need to improve to manage your scripts and configuration files. The conversation also turns to testing, and the tool Pester on GitHub as the ideal way to do testing for PowerShell. Don also suggests that if you're new to PowerShell, the ideal way to learn it is in the context of DSC - it gets you focused on a few key capabilities that can provide a ton of power!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/f0dd61f7-7b61-466c-9c25-b2b5765075ed/audio/e2258f76-cb1c-4363-9175-67b9306db23d/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

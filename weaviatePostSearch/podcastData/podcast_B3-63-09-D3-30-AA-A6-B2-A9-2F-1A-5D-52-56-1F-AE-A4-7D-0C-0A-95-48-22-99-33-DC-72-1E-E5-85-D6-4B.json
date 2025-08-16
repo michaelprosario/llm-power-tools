@@ -1,8 +1,0 @@
-{
-    "Id": "B3-63-09-D3-30-AA-A6-B2-A9-2F-1A-5D-52-56-1F-AE-A4-7D-0C-0A-95-48-22-99-33-DC-72-1E-E5-85-D6-4B",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 73: Real Time Systems with Bruce Powel Douglass",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/zhq6Vmj8XTI/",
-    "Description": "This episode is a conversation with Bruce Powel Douglass on real time systems. We started by discussing what real time software is, and explored the difference between hard and soft real time. We then looked at different scheduling strategies, and the meaning of terms like urgency and importance in the context of scheduling. Next was a discussion of typical architectural styles for real time systems and how architectures are described in this context. This led us to a discussion about the importance of modeling, formalisms and languages as well as the role of automatic code generation from those models. We then looked at how to model QoS aspects and the role of SysML for modeling real time systems. We then had a brief look at which programming languages are used these days for real time systems and the role of static analysis to determine various properties of those programs in advance. The last part of the discussion focused on some best practices for building real time systems, the challenges in distributed real time systems and how real time systems can be tested effectively.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode73-realtimeSystemsWithBrucePowelDouglass.mp3?dest-id=23379"
-}

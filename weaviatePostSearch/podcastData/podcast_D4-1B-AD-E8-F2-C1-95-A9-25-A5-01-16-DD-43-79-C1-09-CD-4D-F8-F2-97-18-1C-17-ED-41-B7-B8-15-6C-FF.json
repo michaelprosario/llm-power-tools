@@ -1,8 +1,0 @@
-{
-    "Id": "D4-1B-AD-E8-F2-C1-95-A9-25-A5-01-16-DD-43-79-C1-09-CD-4D-F8-F2-97-18-1C-17-ED-41-B7-B8-15-6C-FF",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "Episode 97: Interview Anders Hejlsberg",
-    "SourceUrl": "http://feedproxy.google.com/~r/se-radio/~3/FxQQnP8ya2M/",
-    "Description": "In this episode we have the pleasure of talking to <a href=\"http://en.wikipedia.org/wiki/Anders_Hejlsberg\">Anders Hejlsberg</a>, Chief Language Strategist at Microsoft. We started by discussing his more distant past, namely, his involvement with Turbo Pascal and Borland's Delphi. We then looked at the influences Delphi had on C# and how C# evolved from Delphi. In the next section we discussed a couple of general language design issues, among them components and checked vs. unchecked exceptions. Next, we discussed interesting issues about languages of the future, static vs. dynamic typing, functional programming, meta programming as well as the importance of good support for concurrency. We concluded the discussion by looking at the interplay between languages and IDEs.",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/seradio-episode97-interviewAndersHejlsberg-fixed.mp3?dest-id=23379"
-}

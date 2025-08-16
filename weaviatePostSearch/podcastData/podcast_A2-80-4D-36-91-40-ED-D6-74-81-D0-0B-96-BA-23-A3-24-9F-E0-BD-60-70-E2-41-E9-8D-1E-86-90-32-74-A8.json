@@ -1,8 +1,0 @@
-{
-    "Id": "A2-80-4D-36-91-40-ED-D6-74-81-D0-0B-96-BA-23-A3-24-9F-E0-BD-60-70-E2-41-E9-8D-1E-86-90-32-74-A8",
-    "ContentSourceId": "006db858-795a-4869-9a1c-55a1cb0735c8",
-    "Title": "Git support within Visual Studio",
-    "SourceUrl": "https://www.hanselminutes.com/",
-    "Description": "<p>Scott talks to Philip Kelley and Martin Woodward, developers on the project that's brought Git support to Visual Studio. They talk about committing to a GPL'd OSS project, plugging it into VS, and how TFS and Git work together.</p>\n",
-    "EnclosureUrl": "https://r.zen.ai/r/cdn.simplecast.com/audio/248323/24832310-78fe-4898-91be-6db33696c4ba/ada6609b-9aaa-4afa-87e1-1d89501e17a8/1f7fe125_tc.mp3?aid=rss_feed&feed=gvtxUiIf"
-}

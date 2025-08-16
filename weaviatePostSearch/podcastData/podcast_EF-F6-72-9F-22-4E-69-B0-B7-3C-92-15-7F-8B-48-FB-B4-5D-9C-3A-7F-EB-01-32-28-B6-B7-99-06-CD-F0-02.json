@@ -1,8 +1,0 @@
-{
-    "Id": "EF-F6-72-9F-22-4E-69-B0-B7-3C-92-15-7F-8B-48-FB-B4-5D-9C-3A-7F-EB-01-32-28-B6-B7-99-06-CD-F0-02",
-    "ContentSourceId": "08ddc66c-88c1-4fd9-9d0f-06779ee4a5cb",
-    "Title": "061: Interpolation, Extrapolation and Linearisation (Prof. Yann LeCun, Dr. Randall Balestriero)",
-    "SourceUrl": "https://podcasters.spotify.com/pod/show/machinelearningstreettalk/episodes/061-Interpolation--Extrapolation-and-Linearisation-Prof--Yann-LeCun--Dr--Randall-Balestriero-e1cgdr0",
-    "Description": "<p>We are now sponsored by Weights and Biases! Please visit our sponsor link: http://wandb.me/MLST</p>\n<p>Patreon: https://www.patreon.com/mlst</p>\n<p>Yann LeCun thinks that it's specious to say neural network models are interpolating because in high dimensions, everything is extrapolation. Recently Dr. <em>Randall Balestriero</em>, Dr. Jerome Pesente and prof. Yann LeCun released their paper learning in high dimensions always amounts to extrapolation. This discussion has completely changed how we think about neural networks and their behaviour.</p>\n<p>[00:00:00] Pre-intro</p>\n<p>[00:11:58] Intro Part 1: On linearisation in NNs</p>\n<p>[00:28:17] Intro Part 2: On interpolation in NNs</p>\n<p>[00:47:45] Intro Part 3: On the curse</p>\n<p>[00:48:19] LeCun</p>\n<p>[01:40:51] Randall B</p>\n<p>YouTube version: https://youtu.be/86ib0sfdFtw</p>\n",
-    "EnclosureUrl": "https://anchor.fm/s/1e4a0eac/podcast/play/45675808/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-4%2F2aa9693f-f8f0-ebad-2737-3a1e1c40a352.mp3"
-}

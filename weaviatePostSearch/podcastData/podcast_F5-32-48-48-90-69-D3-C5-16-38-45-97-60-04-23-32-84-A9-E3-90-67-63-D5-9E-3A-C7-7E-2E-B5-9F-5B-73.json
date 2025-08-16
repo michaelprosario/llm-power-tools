@@ -1,8 +1,0 @@
-{
-    "Id": "F5-32-48-48-90-69-D3-C5-16-38-45-97-60-04-23-32-84-A9-E3-90-67-63-D5-9E-3A-C7-7E-2E-B5-9F-5B-73",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Cloud Security with Orin Thomas",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Is the cloud really secure? Richard chats with Orin Thomas about his work developing a doctoral thesis on cloud security. Recognizing that security at this level is less about products and more about principles, Orin digs into thoughts around encryption, physical security, breach identification and more. Inevitably there are some references to particular tools like the Azure Key Vault, but the challenge is in evaluating a technology in the context of a broader principle. Lots of great thinking about security!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/cbf69783-32bd-43bf-8496-b2601f2147c4/audio/13fcd545-92e6-4910-8251-28b07ad6e784/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

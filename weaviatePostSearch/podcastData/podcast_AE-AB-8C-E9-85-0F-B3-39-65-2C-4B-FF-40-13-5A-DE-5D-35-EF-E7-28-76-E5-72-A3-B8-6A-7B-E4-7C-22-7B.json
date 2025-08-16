@@ -1,8 +1,0 @@
-{
-    "Id": "AE-AB-8C-E9-85-0F-B3-39-65-2C-4B-FF-40-13-5A-DE-5D-35-EF-E7-28-76-E5-72-A3-B8-6A-7B-E4-7C-22-7B",
-    "ContentSourceId": "02c75dff-a5a8-499a-8c3f-2ae85625011f",
-    "Title": "Exchange 2013 Update with Tony Redmond",
-    "SourceUrl": "https://www.runasradio.com/",
-    "Description": "<p>Richard catches up with Tony Redmond on all things Exchange. The conversation starts out talking about the fact that Exchange 2013 has a service pack, even though there have been quarterly cumulative updates - in reality, Exchange 2013 SP1 is really cumulative update 4 (CU4). Tony digs into what it takes to install these updates, the fact that testing continues to be not optional - it's your mail system, just because it's tested in Exchange Online doesn't mean it won't have problems in your configuration. The discussion also digs into some of the key features in CU4, including MAPI over HTTP and the simplified DAGs. Exchange continues to evolve!</p>\n",
-    "EnclosureUrl": "https://cdn.simplecast.com/audio/c2165e35-09c6-4ae8-b29e-2d26dad5aece/episodes/932e199f-f52f-4137-a6bd-33ca5d98336d/audio/371231a4-1d32-4c13-9d31-f5166c32c9c3/default_tc.mp3?aid=rss_feed&feed=cRTTfxcT"
-}

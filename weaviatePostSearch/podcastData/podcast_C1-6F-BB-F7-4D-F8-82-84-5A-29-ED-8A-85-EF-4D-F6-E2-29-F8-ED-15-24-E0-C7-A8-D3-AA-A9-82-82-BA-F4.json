@@ -1,8 +1,0 @@
-{
-    "Id": "C1-6F-BB-F7-4D-F8-82-84-5A-29-ED-8A-85-EF-4D-F6-E2-29-F8-ED-15-24-E0-C7-A8-D3-AA-A9-82-82-BA-F4",
-    "ContentSourceId": "f8b5d0b7-9181-43a4-8fab-d3e2b2c93d0a",
-    "Title": "SE Radio 552: Matt Frisbie on Browser Extensions",
-    "SourceUrl": "http://se-radio.net/se-radio-552-matt-frisbie-on-browser-extensions",
-    "Description": "<p>Matt Frisbie, author of <em>Building Browser Extensions</em>, speaks with host <a href= \"https://www.se-radio.net/team/kanchan-shringi/\">Kanchan Shringi</a> about browser extensions, including key areas where they've been successful. Based on Matt\u2019s experience as a developer working for Google, Doordash, and a startup he founded, they examine tools for building extensions, as well as APIs they have access to. The conversation presents detailed issues such as cross-browser compatibilities to keep in mind when developing extensions and mechanisms in the browser to prevent security vulnerabilities, and finally examines how emerging platforms can help developers take advantage of exciting new possibilities with web extensions.</p>",
-    "EnclosureUrl": "https://traffic.libsyn.com/secure/seradio/552_matt_frisbie_browser_extensions.mp3?dest-id=23379"
-}
