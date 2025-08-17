@@ -39,7 +39,7 @@ class OllamaServiceProvider(LLMServiceProvider):
         settings = OllamaChatPromptExecutionSettings(
                 service_id=service_id,
                 options={
-                    "temperature": 0.8,
+                    "temperature": self.model_config.temperature,
                 }
             )
         #settings.function_choice_behavior = FunctionChoiceBehavior.Auto()

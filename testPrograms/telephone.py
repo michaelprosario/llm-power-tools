@@ -17,12 +17,14 @@ model_config.base_url = "http://localhost:11434"
 ollama_service_provider = OllamaServiceProvider(model_config)
 
 async def main():
-    story = "Jack and Jill went up the hill to fetch a pail of water.  Jack fell down and broke his crown. Jill fell tumbling after."
+    story = """
+    Explore a funny story of Luke Skywalker teaching a group of young Jedi and the pranks the students pull on each other
+    """
+    print(story)
     print("===")
 
     for i in range(5):
-        prompt = f"Continue the story: {story}"
-        print(f">>>>>>>>>> Prompt {i+1}: {prompt}")
+        prompt = f"Continue the story.  Make it funny.  Do not include editorial notes: {story}"
 
         command = ExecutePromptCommand(prompt)
         result = await ollama_service_provider.execute_prompt(command)
