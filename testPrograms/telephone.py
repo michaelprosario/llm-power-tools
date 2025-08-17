@@ -9,6 +9,7 @@ from genAiPowerToolsInfra.ollama_service_provider import OllamaServiceProvider
 
 # create service provider
 model_config = ModelConfig("gemma3:4b")
+model_config.temperature = 0.8
 
 # connect to local ollama instance ouside of wsl
 model_config.base_url = "http://localhost:11434"
@@ -16,20 +17,18 @@ model_config.base_url = "http://localhost:11434"
 ollama_service_provider = OllamaServiceProvider(model_config)
 
 async def main():
-    storyParts = []
-
     story = "Jack and Jill went up the hill to fetch a pail of water.  Jack fell down and broke his crown. Jill fell tumbling after."
     print("===")
 
     for i in range(5):
         prompt = f"Continue the story: {story}"
-        command = ExecutePromptCommand(prompt=prompt, context={})
+        print(f">>>>>>>>>> Prompt {i+1}: {prompt}")
+
+        command = ExecutePromptCommand(prompt)
         result = await ollama_service_provider.execute_prompt(command)
         story = result.content  
         print(story)
-        print("===")
-
-        storyParts.append(story)
+        print("===")        
 
 if __name__ == "__main__":
     import asyncio

@@ -17,7 +17,7 @@ class AppResult:
         }
 
 class ExecutePromptCommand:
-    def __init__(self, prompt, context):
+    def __init__(self, prompt, context={}):
         self.prompt = prompt        
         self.context = context        
 

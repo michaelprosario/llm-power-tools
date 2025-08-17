@@ -51,9 +51,7 @@ class OllamaServiceProvider(LLMServiceProvider):
             arguments=KernelArguments()
         )
 
-        print(f"AI response: {result.content}")
-
         # Print the AI's response
-        result = LLMResult()
-        result.content = result.content        
-        return result
+        response = LLMResult()
+        response.content = result.content        
+        return response
