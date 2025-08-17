@@ -39,7 +39,7 @@ class OllamaServiceProvider(LLMServiceProvider):
         settings = OllamaChatPromptExecutionSettings(
                 service_id=service_id,
                 options={
-                    "temperature": 0.8,
+                    "temperature": self.model_config.temperature,
                 }
             )
         #settings.function_choice_behavior = FunctionChoiceBehavior.Auto()
@@ -51,9 +51,7 @@ class OllamaServiceProvider(LLMServiceProvider):
             arguments=KernelArguments()
         )
 
-        print(f"AI response: {result.content}")
-
         # Print the AI's response
-        result = LLMResult()
-        result.content = result.content        
-        return result
+        response = LLMResult()
+        response.content = result.content        
+        return response
