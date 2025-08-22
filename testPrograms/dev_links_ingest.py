@@ -16,6 +16,30 @@ from genAiPowerToolsInfra.rss_reader_provider import RSSReaderProvider
 from genAiPowerToolsInfra.chroma_data_repository import ChromaDataRepository
 
 
+import requests
+import random
+import xml.etree.ElementTree as ET
+
+def getBlogs3():
+    """
+    Fetches the OPML file from the provided URL, parses it, and returns 20 random blogs (title and xmlUrl).
+    """
+    url = "https://raw.githubusercontent.com/simevidas/web-dev-feeds/refs/heads/master/feeds.opml"
+    response = requests.get(url)
+    response.raise_for_status()
+    root = ET.fromstring(response.content)
+    # Find all outline elements with xmlUrl attribute
+    outlines = root.findall('.//outline[@xmlUrl]')
+    blogs = []
+    for outline in outlines:
+        title = outline.attrib.get('title') or outline.attrib.get('text')
+        xml_url = outline.attrib.get('xmlUrl')
+        if title and xml_url:
+            blogs.append({"name": title, "rss_feed": xml_url})
+    # Pick 20 random blogs
+    return random.sample(blogs, min(20, len(blogs)))
+
+
 def getBlogs2():
     blogs = [
     {
@@ -153,7 +177,7 @@ reader = RSSReaderProvider()
 repo = ChromaDataRepository()
 collection = repo.create_collection("rss_feeds")
 
-for feed in getBlogs2():    
+for feed in getBlogs3():    
     content = reader.read_feed(feed['rss_feed'], max_entries=1000)
     print(f"Content for {feed}: {content}")
 
@@ -179,5 +203,7 @@ for feed in getBlogs2():
                 "feed_name": feed['name']
             }
         )
+
+
 
 
