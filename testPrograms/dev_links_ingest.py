@@ -177,7 +177,7 @@ reader = RSSReaderProvider()
 repo = ChromaDataRepository()
 collection = repo.create_collection("rss_feeds")
 
-for feed in getBlogs3():    
+for feed in getBlogs2():    
     content = reader.read_feed(feed['rss_feed'], max_entries=1000)
     print(f"Content for {feed}: {content}")
 
