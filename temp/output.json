@@ -1,0 +1,703 @@
+{
+    "status": "OK",
+    "request_id": "f04af320-7072-4809-b607-310ceac09ad1",
+    "parameters": {
+        "query": "python jobs orlando",
+        "page": 1,
+        "num_pages": 1,
+        "date_posted": "all",
+        "country": "us",
+        "language": "en"
+    },
+    "data": [
+        {
+            "job_id": "ypM71nJ3zPQWMajgAAAAAA==",
+            "job_title": "Backend Python Developer - AI/ML",
+            "employer_name": "MOURI Tech",
+            "employer_logo": null,
+            "employer_website": "https://www.mouritech.com",
+            "job_publisher": "Dice",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR",
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.dice.com/job-detail/25376d93-7b5f-4fde-bcde-b891fa18a4ef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Dice",
+                    "apply_link": "https://www.dice.com/job-detail/25376d93-7b5f-4fde-bcde-b891fa18a4ef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/backend-python-developer-ai-ml-at-jobs-via-dice-4290827926?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Iitjobs",
+                    "apply_link": "https://www.iitjobs.com/job/backend-python-developer-aiml-orlando-fl-usa-ricefw-technologies-inc-126774?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job/backend-python-developer-ai-ml-ricefw-technologies-inc-orlando-fl_82528050?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Resume Copilot",
+                    "apply_link": "https://jobs.resumecopilot.net/job/9T6RlJgB_CyF9o_0sY270825?i=8be4debff07344479e7058fb28d1b0bc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Title: Backend Python Developer - AI/ML\n\nLocation: Orlando, FL (Onsite)\n\nDuration: Long term Contract\n\nNote: Data Scientist with AI candidates will not work for this requirement\n\nRequired Skills:\n• 5+ years of experience as a Python backend developer\n• Solid hands-on experience with FastAPI, Flask, or Django REST frameworks\n• Strong knowledge of RESTful APIs, microservices, and asynchronous programming\n• Experience integrating LLM APIs (OpenAI, HuggingFace Inference API, etc.) into real-world applications\n• Experience with AI agent frameworks such as LangChain, AutoGen, or Semantic Kernel\n• Proven ability to deploy containerized apps using Docker, including LLM inference services and agent-based tools\n• Familiarity with vector databases and RAG workflows\n• Exposure to cloud services (AWS, Google Cloud Platform, Azure) and CI/CD pipelines.",
+            "job_is_remote": false,
+            "job_posted_at": "2 days ago",
+            "job_posted_at_timestamp": 1756080000,
+            "job_posted_at_datetime_utc": "2025-08-25T00:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DypM71nJ3zPQWMajgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "5+ years of experience as a Python backend developer",
+                    "Solid hands-on experience with FastAPI, Flask, or Django REST frameworks",
+                    "Strong knowledge of RESTful APIs, microservices, and asynchronous programming",
+                    "Experience integrating LLM APIs (OpenAI, HuggingFace Inference API, etc.) into real-world applications",
+                    "Experience with AI agent frameworks such as LangChain, AutoGen, or Semantic Kernel",
+                    "Proven ability to deploy containerized apps using Docker, including LLM inference services and agent-based tools",
+                    "Familiarity with vector databases and RAG workflows",
+                    "Exposure to cloud services (AWS, Google Cloud Platform, Azure) and CI/CD pipelines"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "2ou1tivhVTwzWmjLAAAAAA==",
+            "job_title": "Python Backend Developer With AI/ML Exp.",
+            "employer_name": "Magicforce",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKsr0KRGzobvsqTgI4xpG2NmKZY7dH3b8DVc3&s=0",
+            "employer_website": "https://www.magicforce.us",
+            "job_publisher": "Dice.com",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR",
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.dice.com/job-detail/ad261155-365e-4c38-a65f-f962cd01971f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Dice.com",
+                    "apply_link": "https://www.dice.com/job-detail/ad261155-365e-4c38-a65f-f962cd01971f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "LazyApply",
+                    "apply_link": "https://lazyapply.com/jobpreview/ad261155-365e-4c38-a65f-f962cd01971f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "Required Skills:\n\nPython,AI/ML\n\nRequired Skills:\n• 8+ years of experience as a Python backend developer\n• Solid hands-on experience with FastAPI, Flask, or Django REST frameworks\n• Strong knowledge of RESTful APIs, microservices, and asynchronous programming\n• Experience integrating LLM APIs (OpenAI, HuggingFace Inference API, etc.) into real-world applications\n• Experience with AI agent frameworks such as LangChain, AutoGen, or Semantic Kernel\n• Proven ability to deploy containerized apps using Docker, including LLM inference services and agent-based tools\n• Familiarity with vector databases and RAG workflows\n\nExposure to cloud services (AWS, Google Cloud Platform, Azure) and CI/CD pipelines",
+            "job_is_remote": false,
+            "job_posted_at": "2 days ago",
+            "job_posted_at_timestamp": 1756080000,
+            "job_posted_at_datetime_utc": "2025-08-25T00:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D2ou1tivhVTwzWmjLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "8+ years of experience as a Python backend developer",
+                    "Solid hands-on experience with FastAPI, Flask, or Django REST frameworks",
+                    "Strong knowledge of RESTful APIs, microservices, and asynchronous programming",
+                    "Experience integrating LLM APIs (OpenAI, HuggingFace Inference API, etc.) into real-world applications",
+                    "Experience with AI agent frameworks such as LangChain, AutoGen, or Semantic Kernel",
+                    "Proven ability to deploy containerized apps using Docker, including LLM inference services and agent-based tools",
+                    "Familiarity with vector databases and RAG workflows",
+                    "Exposure to cloud services (AWS, Google Cloud Platform, Azure) and CI/CD pipelines"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "OGFzHx4TcleXTYhyAAAAAA==",
+            "job_title": "Python Developer",
+            "employer_name": "Huawei Telekomnikasyon D Ticaret Ltd",
+            "employer_logo": null,
+            "employer_website": "https://developer.huawei.com",
+            "job_publisher": "Snagajob",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.snagajob.com/jobs/1067232046?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Snagajob",
+                    "apply_link": "https://www.snagajob.com/jobs/1067232046?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dive Into Python",
+                    "apply_link": "https://diveintopython.org/jobs/developer-python-14986?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Django News Jobs",
+                    "apply_link": "https://jobs.django-news.com/110/python-developer-loki-labs/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Hastarevelerskartings.com",
+                    "apply_link": "https://hastarevelerskartings.com/pricing/5W1AqV0-vrx7CyOD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Eesomeneedlemenhyacinths.com",
+                    "apply_link": "https://eesomeneedlemenhyacinths.com/docs/sZRKhg7IWVjIeutu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Getkey.my",
+                    "apply_link": "https://getkey.my/database/O1YxYg7CIcN3Yb63?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Mosserlaschinner.com",
+                    "apply_link": "https://mosserlaschinner.com/users/Yye_i0iX7ERc8Foa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Seethingsapphicsfangy.com",
+                    "apply_link": "https://seethingsapphicsfangy.com/layouts/ccocF5tkV98KLccW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Proficiency in Python is a must; experience on frameworks such as Django, Flask is preferred.\n\nRequirements\n\n· Experience in development essentials: source control (e.g. SVN, Git, Mercurial), CI/CD tools and container platforms (such as Jenkins, Docker), dependency managers (PIP)\n· Experience in search oriented data storage is required: ElasticSearch\n· Fluent in Web/Rest API design, multithreaded/concurrent development\n· Proven skills on large-software system architecture and micro-service management\n· Automated (Unit/Integration/E2E) testing\n· 5+ member of team management experience with 2+ years\n· System design, architecture development experince with 2+ years\n· Career development desing, individual performance evaluation, technical interview exoerince with 2+ years\n· Experience in database technologies; whether in No-SQL (MongoDB) or relational (MySQL, Oracle, PostgreSQL)\n\nProficiency in Python is a must; experience on frameworks such as Django, Flask is preferred.\n\nRequirements\n\n· Experience in development essentials: source control (e.g. SVN, Git, Mercurial), CI/CD tools and container platforms (such as Jenkins, Docker), dependency managers (PIP)\n· Experience in search oriented data storage is required: ElasticSearch\n· Fluent in Web/Rest API design, multithreaded/concurrent development\n· Proven skills on large-software system architecture and micro-service management\n· Automated (Unit/Integration/E2E) testing\n· 5+ member of team management experience with 2+ years\n· System design, architecture development experince with 2+ years\n· Career development desing, individual performance evaluation, technical interview exoerince with 2+ years\n· Experience in database technologies; whether in No-SQL (MongoDB) or relational (MySQL, Oracle, PostgreSQL)",
+            "job_is_remote": false,
+            "job_posted_at": "3 days ago",
+            "job_posted_at_timestamp": 1755993600,
+            "job_posted_at_datetime_utc": "2025-08-24T00:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOGFzHx4TcleXTYhyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Experience in development essentials: source control (e.g. SVN, Git, Mercurial), CI/CD tools and container platforms (such as Jenkins, Docker), dependency managers (PIP)",
+                    "Experience in search oriented data storage is required: ElasticSearch",
+                    "Fluent in Web/Rest API design, multithreaded/concurrent development",
+                    "Proven skills on large-software system architecture and micro-service management",
+                    "Automated (Unit/Integration/E2E) testing",
+                    "5+ member of team management experience with 2+ years",
+                    "System design, architecture development experince with 2+ years",
+                    "Career development desing, individual performance evaluation, technical interview exoerince with 2+ years",
+                    "Experience in database technologies; whether in No-SQL (MongoDB) or relational (MySQL, Oracle, PostgreSQL)",
+                    "Experience in development essentials: source control (e.g. SVN, Git, Mercurial), CI/CD tools and container platforms (such as Jenkins, Docker), dependency managers (PIP)",
+                    "Experience in search oriented data storage is required: ElasticSearch",
+                    "Fluent in Web/Rest API design, multithreaded/concurrent development",
+                    "Proven skills on large-software system architecture and micro-service management",
+                    "Automated (Unit/Integration/E2E) testing",
+                    "5+ member of team management experience with 2+ years",
+                    "System design, architecture development experince with 2+ years",
+                    "Career development desing, individual performance evaluation, technical interview exoerince with 2+ years",
+                    "Experience in database technologies; whether in No-SQL (MongoDB) or relational (MySQL, Oracle, PostgreSQL)"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "oSlRIVE0zeaO0CP0AAAAAA==",
+            "job_title": "Senior Software Developer (C++/Java/Python) Jobs",
+            "employer_name": "Ascension Federal Services Inc",
+            "employer_logo": null,
+            "employer_website": "https://ascensionfed.com",
+            "job_publisher": "Security Clearance Jobs",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.clearancejobs.com/jobs/7867954/senior-software-developer-cjavapython?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Security Clearance Jobs",
+                    "apply_link": "https://www.clearancejobs.com/jobs/7867954/senior-software-developer-cjavapython?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "OrlandoJobs.com",
+                    "apply_link": "https://www.orlandojobs.com/company/threatlocker-385116/job/senior-kernel-software-developer-orlando-fl-in-orlando-fl-bgr6zhgzxqbp62vjspc0ep994vxojb/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Insurance Sales Jobs",
+                    "apply_link": "https://www.insurancesalesjobs.com/company/threatlocker-385116/job/senior-kernel-software-developer-orlando-fl-in-orlando-fl-qo9w40fsfvis0ydozd4eouf3kijgxy/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Florida Jobs",
+                    "apply_link": "https://www.greatfloridajobs.com/company/threatlocker-385116/job/senior-kernel-software-developernew-orlando-fl-in-orlando-fl-vsxzosqvd5enhw4ye4n7haeqsz64av/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs Trabajo.org",
+                    "apply_link": "https://us.trabajo.org/job-2914-a52b60f37986656edf407f5c86432e78?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Tampa Jobs",
+                    "apply_link": "https://www.tampabayjobs.com/company/threatlocker-385116/job/senior-kernel-software-developernew-orlando-fl-in-orlando-fl-fb1mmueonngko1md25w01cxtfvdc9h/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Senior Software Developer (C++/Java/Python)\nLocation: Remote\n\nClearance: SECRET\nJob Description\n\nWe are seeking a highly skilled Senior Software Developer with expertise in C++, Java and/or Python to join our team. The successful candidate will be responsible for designing, developing, and maintaining software applications that meet the needs of our clients.\nResponsibilities\n• Design, develop, and maintain software applications using C++, Java and Python\n• Collaborate with cross-functional teams to identify and prioritize software features.\n• Write clean, efficient, and well-documented code.\n• Perform code reviews and provide feedback to other developers.\n• Participate in the full software development lifecycle, including requirements gathering, design, development, testing, and deployment.\n• Stay up to date with emerging trends and technologies in software development.\nRequirements\n• Bachelor's degree in Computer Science or a related field\n• 5+ years of experience in software development using C++, Java and/or Python\n• Strong understanding of object-oriented programming principles\n• Experience writing PowerShell, Bash, and/or Python Scripts.\n• Experience with web development frameworks such as Spring and Django\n• Experience with database technologies such as MySQL and PostgreSQL\n• Experience using a source code repository such as BitBucket, GIT, etc.\n• Excellent problem-solving and analytical skills\n• Strong communication and collaboration skills\n\nBenefits:\n• 401(k)\n• Dental insurance\n• Flexible spending account\n• Health insurance/Vision insurance\n• Life insurance",
+            "job_is_remote": false,
+            "job_posted_at": "20 hours ago",
+            "job_posted_at_timestamp": 1756216800,
+            "job_posted_at_datetime_utc": "2025-08-26T14:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": [
+                "dental_coverage",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoSlRIVE0zeaO0CP0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's degree in Computer Science or a related field",
+                    "5+ years of experience in software development using C++, Java and/or Python",
+                    "Strong understanding of object-oriented programming principles",
+                    "Experience writing PowerShell, Bash, and/or Python Scripts",
+                    "Experience with web development frameworks such as Spring and Django",
+                    "Experience with database technologies such as MySQL and PostgreSQL",
+                    "Experience using a source code repository such as BitBucket, GIT, etc",
+                    "Excellent problem-solving and analytical skills",
+                    "Strong communication and collaboration skills"
+                ],
+                "Benefits": [
+                    "401(k)",
+                    "Dental insurance",
+                    "Flexible spending account",
+                    "Health insurance/Vision insurance",
+                    "Life insurance"
+                ],
+                "Responsibilities": [
+                    "The successful candidate will be responsible for designing, developing, and maintaining software applications that meet the needs of our clients",
+                    "Design, develop, and maintain software applications using C++, Java and Python",
+                    "Collaborate with cross-functional teams to identify and prioritize software features",
+                    "Write clean, efficient, and well-documented code",
+                    "Perform code reviews and provide feedback to other developers",
+                    "Participate in the full software development lifecycle, including requirements gathering, design, development, testing, and deployment",
+                    "Stay up to date with emerging trends and technologies in software development"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "MwzSRXxp0QCqP5BrAAAAAA==",
+            "job_title": "Software Engineer(Python)",
+            "employer_name": "OrangePeople",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "Iitjobs",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.iitjobs.com/job/software-engineerpython-orlando-fl-usa-orangepeople-50039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Iitjobs",
+                    "apply_link": "https://www.iitjobs.com/job/software-engineerpython-orlando-fl-usa-orangepeople-50039?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Job Duties:Design and implement reliable, high throughput, low latency, scalable and well-documented code to tackle sophisticated algorithms and build cloud infrastructure componentsCollaborate with engineers, data scientists, and other partners to make proposals across teams on their engineering work and practicesDesign low-level implementation details of the software, such as data structures, class/function/code organization, etcPropose technical implementation approaches that support architectural changes that address scaling and performance problemsProactively seek opportunities to reuse or generalize existing services and implementationsKnow the latest new technologies and best approaches in the field of data management and software engineeringProvide technical mentorship and guidance to other members of the teamConduct code review pull requests with consistent scrutinyRequirementsDevOps ExperiencePython or TypeScriptAWS5+ years of software development experience across diverse domains, with demonstrated ability in data management and distributed systems solving problemsExpert level coder, able to develop solutions that solves sophisticated problems, while keeping in mind code space and time complexityStrong experience in software development and DevOps practices, e.g. : CI/CD, docker, testing, and automationExperience with Terraform and SnowflakePreferred Qualifications:Proficiency in at least one strongly typed languageUnderstanding of trade-offs between different data storage systems and architectures (data warehouses, SQL vs NoSQL, partitioning, etc.)Required Education:Computer Science degree or related experienceAdditional Responsibilities:Participate in OrangePeople monthly team meetings, and participate in team-building effortsContribute to OrangePeople technical discussions, peer reviews, etcContribute content and collaborate via the OP-Wiki/Knowledge BaseProvide status reports to OP Account Management as requested",
+            "job_is_remote": false,
+            "job_posted_at": "16 hours ago",
+            "job_posted_at_timestamp": 1756231200,
+            "job_posted_at_datetime_utc": "2025-08-26T18:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMwzSRXxp0QCqP5BrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "HM4AgQdgFO3G1IDXAAAAAA==",
+            "job_title": "Bigdata + Python consultant",
+            "employer_name": "High5",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpsBvNRpFYhh0T3yg-qbPevrcDHB6jefWUJRR&s=0",
+            "employer_website": null,
+            "job_publisher": "Indeed",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR",
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=b03ad30c121f6387&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=b03ad30c121f6387&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/bigdata-python-consultant-high5-JV_IC1154247_KO0,25_KE26,31.htm?jl=1009030253656&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/PSNFq4w_4WDWc6BIXmi6LM753XodHyqeMiuZJI7LwWDS9pzdS_lnmQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Job Title: Bigdata + Python consultant\n\nLocation: Orlando, Florida (Onsite)\n\nPay Rate: $50/hr - $55/hr\n\nDuration: 11 Months\n\nJob Description\n\nNeed 9-10 years expert with below skill in Orlando. This one is immediate.\n\nExperience with\n• Cloudera Environment along with AWS & GCP\n• Must be efficient with Python Scripting (base scripts), Py-Spark & SQL’s (Hive, Impala )\n• Understanding on Cloudera Admin Activities\n\no Understanding on all Hadoop Services\n\no Debugging Service failures\n\no Debugging Job Failures\n• Experience with Docker\n• Devops\n• GIT, CI/CD pipelines, SDLC process",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHM4AgQdgFO3G1IDXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 50,
+            "job_max_salary": 55,
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Cloudera Environment along with AWS & GCP",
+                    "Must be efficient with Python Scripting (base scripts), Py-Spark & SQL’s (Hive, Impala )",
+                    "Understanding on Cloudera Admin Activities",
+                    "Understanding on all Hadoop Services",
+                    "Debugging Service failures",
+                    "Debugging Job Failures",
+                    "Experience with Docker",
+                    "Devops",
+                    "GIT, CI/CD pipelines, SDLC process"
+                ],
+                "Benefits": [
+                    "Pay Rate: $50/hr - $55/hr"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "D3XNGKfZJfUq76bXAAAAAA==",
+            "job_title": "Full Stack Python Developer - Remote",
+            "employer_name": "Outcome Logix ( A Tech 50 Finalist company 2022, by Pittsburgh Technology Council )",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "Dive Into Python",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://diveintopython.org/jobs/full-stack-python-developer-remote-direct-client-jobid309-7604?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Dive Into Python",
+                    "apply_link": "https://diveintopython.org/jobs/full-stack-python-developer-remote-direct-client-jobid309-7604?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Job Overview\n\nJob Overview:\n\nWe’re searching for a Software Engineer, Full Stack, who can collaborate with a team of developers, product managers, and business units to architect, develop, and maintain a variety of web applications to support our growing platform.\n\nAs our Full Stack Software Engineer, you will be responsible for the design, development, deployment, and maintenance of various products of our company.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DD3XNGKfZJfUq76bXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Responsibilities": [
+                    "We’re searching for a Software Engineer, Full Stack, who can collaborate with a team of developers, product managers, and business units to architect, develop, and maintain a variety of web applications to support our growing platform",
+                    "As our Full Stack Software Engineer, you will be responsible for the design, development, deployment, and maintenance of various products of our company"
+                ]
+            },
+            "job_onet_soc": "15113300",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "gZ1Jt96dKwY0ssR4AAAAAA==",
+            "job_title": "Senior Software Developer (Java/Python) Jobs",
+            "employer_name": "Anonymous Employer",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "Security Clearance Jobs",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.clearancejobs.com/jobs/7555062/senior-software-developer-javapython?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Security Clearance Jobs",
+                    "apply_link": "https://www.clearancejobs.com/jobs/7555062/senior-software-developer-javapython?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Recruit.net",
+                    "apply_link": "https://www.recruit.net/job/software-developer-java-python-jobs/34CD0E7496C20EEE?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Senior Software Developer (Java/Python)\n\nLocation: Orlando, FL, 32801\n\nClearance: SECRET\n\nJob Description\n\nWe are seeking a highly skilled Senior Software Developer with expertise in Java and Python to join our team. The successful candidate will be responsible for designing, developing, and maintaining software applications that meet the needs of our clients.\n\nResponsibilities\n\nDesign, develop, and maintain software applications using Java and Python\n\nCollaborate with cross-functional teams to identify and prioritize software features.\n\nWrite clean, efficient, and well-documented code.\n\nPerform code reviews and provide feedback to other developers.\n\nParticipate in the full software development lifecycle, including requirements gathering, design, development, testing, and deployment.\n\nStay up to date with emerging trends and technologies in software development.\n\nRequirements\n\nBachelor's degree in Computer Science or a related field\n\n5+ years of experience in software development using Java and Python\n\nStrong understanding of object-oriented programming principles\n\nExperience with web development frameworks such as Spring and Django\n\nExperience with database technologies such as MySQL and PostgreSQL\n\nExcellent problem-solving and analytical skills\n\nStrong communication and collaboration skills\n\nBenefits:\n\n401(k)\n\nDental insurance\n\nFlexible spending account\n\nHealth insurance/Vision insurance\n\nLife insurance",
+            "job_is_remote": false,
+            "job_posted_at": "1 day ago",
+            "job_posted_at_timestamp": 1756166400,
+            "job_posted_at_datetime_utc": "2025-08-26T00:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": [
+                "health_insurance",
+                "dental_coverage"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgZ1Jt96dKwY0ssR4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's degree in Computer Science or a related field",
+                    "5+ years of experience in software development using Java and Python",
+                    "Strong understanding of object-oriented programming principles",
+                    "Experience with web development frameworks such as Spring and Django",
+                    "Experience with database technologies such as MySQL and PostgreSQL",
+                    "Excellent problem-solving and analytical skills",
+                    "Strong communication and collaboration skills"
+                ],
+                "Benefits": [
+                    "401(k)",
+                    "Dental insurance",
+                    "Flexible spending account",
+                    "Health insurance/Vision insurance",
+                    "Life insurance"
+                ],
+                "Responsibilities": [
+                    "The successful candidate will be responsible for designing, developing, and maintaining software applications that meet the needs of our clients",
+                    "Design, develop, and maintain software applications using Java and Python",
+                    "Collaborate with cross-functional teams to identify and prioritize software features",
+                    "Write clean, efficient, and well-documented code",
+                    "Perform code reviews and provide feedback to other developers",
+                    "Participate in the full software development lifecycle, including requirements gathering, design, development, testing, and deployment",
+                    "Stay up to date with emerging trends and technologies in software development"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "4VVz49Ajn765C-SKAAAAAA==",
+            "job_title": "Junior Python Developer",
+            "employer_name": "Synergistic IT",
+            "employer_logo": null,
+            "employer_website": "https://www.synergisticit.com",
+            "job_publisher": "Jooble",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://jooble.org/jdp/6033345201050212285?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Jooble",
+                    "apply_link": "https://jooble.org/jdp/6033345201050212285?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://www.talent.com/view?id=f2fb18fb13fe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Recruit.net",
+                    "apply_link": "https://www.recruit.net/job/junior-python-developer-jobs/8CA4B58D3CA5043D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs Trabajo.org",
+                    "apply_link": "https://us.trabajo.org/job-3629-4bec9f79534e755d109d895e56240aa9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Since 2010, SynergisticIT has been helping jobseekers find tech jobs by teaching them the skills, experience, and knowledge they need to do well in interviews and impress clients.\nThe tech job market has been heavily impacted by layoffs. Since 2021, there have been over 600,000 layoffs in the industry.\nThe job market is extremely competitive. For every open position, 500-1,000 or more people are applying. Many of them are laid-off workers who are now competing for entry-level jobs too.\n\nPlease see the below links to know more about Synergisticit and some useful tips\n\nSynergisticit Pics /Salaries of Successful Candidates\n\nSynergisticit at Oracle Cloudworld 2023\n\nSynergisticit at Gartner Data & Analytics summit\n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\n\nTechnical Skills or Experience? | Which one is important to get a Job? | SynergisticIT\n\nWe work closely with top tech companies to give our candidates an edge.\nAt SynergisticIT, we understand the gap between what employers want and the skills employees have. Since 2010, we've helped thousands of people land jobs with companies like Apple, Google, PayPal, Western Union, Client, Visa, Walmart Labs, and more.\nWe're always looking for entry-level software programmers, Java full-stack developers, Python/Java developers, data analysts, data scientists, data engineers, and machine learning engineers for full-time roles with our clients.\n\nWho Should Apply? Recent graduates in Computer Science, Engineering, Mathematics, Statistics, or Science. Also, people looking to change careers or those with gaps in employment who want to start a career in the tech industry.\nWe are looking for candidates in Data Science, Machine Learning, Data Analysis, and Java Full-Stack roles.\nPreferred Skills for Java/Full-Stack/DevOps Positions:\nBachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or IT.\nKnowledge of Core Java, JavaScript, C++, or software programming.\nExperience with Spring Boot, Microservices, Docker, Jenkins, GitHub, Kubernetes, and REST APIs.\nPreferred Skills for Data Science/AI/Machine Learning Positions: Associate, Bachelor's, or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT, Statistics, Mathematics, or strong logical aptitude.\nKnowledge of Statistics, Generative AI, Large Language Models (LLM), Sagemaker, Python, Computer Vision, and data visualization tools.\nAdditional Information: If you lack technical skills, you can explore our other programs to help secure a job.\nIf you receive emails from our Job Placement team and are not interested, please reply to ask them to remove you from their contact list. This will prevent further contact, as the team shares its database with the client servicing team, which only reaches out to candidates matching client requirements.\nNo phone calls, please. Only shortlisted candidates will be contacted.\nWe do not accept applications from third-party agencies or c2c candidates. SynergisticIT",
+            "job_is_remote": false,
+            "job_posted_at": "3 days ago",
+            "job_posted_at_timestamp": 1755993600,
+            "job_posted_at_datetime_utc": "2025-08-24T00:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4VVz49Ajn765C-SKAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Recent graduates in Computer Science, Engineering, Mathematics, Statistics, or Science",
+                    "We are looking for candidates in Data Science, Machine Learning, Data Analysis, and Java Full-Stack roles",
+                    "Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, or IT",
+                    "Knowledge of Core Java, JavaScript, C++, or software programming",
+                    "Experience with Spring Boot, Microservices, Docker, Jenkins, GitHub, Kubernetes, and REST APIs",
+                    "Knowledge of Statistics, Generative AI, Large Language Models (LLM), Sagemaker, Python, Computer Vision, and data visualization tools"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "B1E1ksaPakFRAJHxAAAAAA==",
+            "job_title": "Senior Full Stack Application Engineer (Python/React/AWS) at aKUBE Orlando, FL",
+            "employer_name": "aKUBE",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "Katalystpublishers.com",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://katalystpublishers.com/joblib/job/senior-full-stack-application-engineer-pythonreactaws-at-akube-orlando-fl-a3ppYnhSSzRVTTRZSlpHblArZHdON3NtR2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Katalystpublishers.com",
+                    "apply_link": "https://katalystpublishers.com/joblib/job/senior-full-stack-application-engineer-pythonreactaws-at-akube-orlando-fl-a3ppYnhSSzRVTTRZSlpHblArZHdON3NtR2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Senior Full Stack Application Engineer (Python/React/AWS) job at aKUBE. Orlando, FL. Job Description\n\nCity: Orlando, FL\n\nOnsite/ Hybrid/ Remote: Hybrid (4 days a week onsite)\n\nDuration : 12 months\n\nRate Range : Up to$92.5/hr on W2 depending on experience (no C2C or 1099 or sub-contract)\n\nWork Authorization : GC, USC, All valid EADs except OPT, CPT, H1B\n\nMust Have:\n• Python\n• Django or similar Python web frameworks\n• React or similar front-end frameworks\n• HTML, CSS, JavaScript\n• SQL\n• AWS (cloud infrastructure, deployment, monitoring)\n• PostgreSQL and/or Snowflake\n\nResponsibilities:\n• Design, develop, and deploy new features for a web-based analytic platform supporting internal decision-makers.\n• Build full-stack applications with cloud-hosted, scalable, and secure architecture.\n• Collaborate cross-functionally with Product Managers, Data Scientists, Data Engineers, and DevOps teams.\n• Lead and mentor engineers and drive best practices in full-stack development.\n• Translate complex data workflows and science models into user-friendly front-end experiences.\n• Draft wireframes, mockups, and application workflows that meet business requirements.\n• Optimize application performance and reliability for large-scale datasets.\n• Support CI/CD pipelines and application security within an enterprise environment.\n\nQualifications:\n• Bachelor’s degree in Computer Science, MIS, Mathematics, or equivalent STEM field.\n• 5+ years of experience in software development with hands-on expertise in Python.\n• 3+ years of experience with front-end development using JavaScript, HTML, CSS.\n• Proficiency in Django (or similar) and React (or similar) frameworks.\n• Experience with relational and cloud data platforms (PostgreSQL, Snowflake).\n• Experience in designing secure, scalable web platforms hosted on AWS.\n• Preferred: Familiarity with Next.js, GitLab CI/CD, and UI/UX design leadership.\n• Master’s degree or equivalent experience in a technical field is a plus.",
+            "job_is_remote": false,
+            "job_posted_at": "1 day ago",
+            "job_posted_at_timestamp": 1756166400,
+            "job_posted_at_datetime_utc": "2025-08-26T00:00:00.000Z",
+            "job_location": "Orlando, FL",
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DB1E1ksaPakFRAJHxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Work Authorization : GC, USC, All valid EADs except OPT, CPT, H1B",
+                    "Python",
+                    "Django or similar Python web frameworks",
+                    "React or similar front-end frameworks",
+                    "HTML, CSS, JavaScript",
+                    "SQL",
+                    "AWS (cloud infrastructure, deployment, monitoring)",
+                    "PostgreSQL and/or Snowflake",
+                    "Bachelor’s degree in Computer Science, MIS, Mathematics, or equivalent STEM field",
+                    "5+ years of experience in software development with hands-on expertise in Python",
+                    "3+ years of experience with front-end development using JavaScript, HTML, CSS",
+                    "Proficiency in Django (or similar) and React (or similar) frameworks",
+                    "Experience with relational and cloud data platforms (PostgreSQL, Snowflake)",
+                    "Experience in designing secure, scalable web platforms hosted on AWS"
+                ],
+                "Benefits": [
+                    "Rate Range : Up to$92.5/hr on W2 depending on experience (no C2C or 1099 or sub-contract)"
+                ],
+                "Responsibilities": [
+                    "Design, develop, and deploy new features for a web-based analytic platform supporting internal decision-makers",
+                    "Build full-stack applications with cloud-hosted, scalable, and secure architecture",
+                    "Collaborate cross-functionally with Product Managers, Data Scientists, Data Engineers, and DevOps teams",
+                    "Lead and mentor engineers and drive best practices in full-stack development",
+                    "Translate complex data workflows and science models into user-friendly front-end experiences",
+                    "Draft wireframes, mockups, and application workflows that meet business requirements",
+                    "Optimize application performance and reliability for large-scale datasets",
+                    "Support CI/CD pipelines and application security within an enterprise environment"
+                ]
+            },
+            "job_onet_soc": "15113300",
+            "job_onet_job_zone": "4"
+        }
+    ]
+}
