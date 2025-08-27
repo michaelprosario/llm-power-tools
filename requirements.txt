@@ -4,3 +4,4 @@ semantic-kernel
 semantic-kernel[gemini]
 semantic-kernel[ollama]
 tiktoken
+google-adk
